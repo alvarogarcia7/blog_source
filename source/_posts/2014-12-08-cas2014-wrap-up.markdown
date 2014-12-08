@@ -37,7 +37,7 @@ The schedule
  * [Rafael de Castro][rafa]: talking about Generando tests
  * [Ricardo Borillo][borillo]: talking about CQRS y los beneficios surgidos de la necesidad.
  * [Manu Cupcic][manu] and [Adrian Perreau de Pinninck][adrian]: talking about Delivery at Scale.
- * [Juan Gabardini][jgabardini]: talking about Testing en equipos infectados de test. This talk was also prepared by Juan Diego Vasco Moncada but he couldn't come
+ * [Juan Gabardini][jgabardini]: talking about Testing en equipos infectados de test. This talk was also prepared by Juan Diego Vasco Moncada but he couldn't come.
 
  Some thoughts
  ----------
