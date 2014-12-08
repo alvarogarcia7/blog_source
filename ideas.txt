@@ -1,0 +1,2 @@
+20141208; design patterns head first; book, design-patterns, head-first
+20141208; software craftsmanship; book, sandro-mancuso, craftsmanship, professionalism
