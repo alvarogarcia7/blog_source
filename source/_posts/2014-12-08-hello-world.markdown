@@ -4,7 +4,7 @@ title: "Hello World!"
 date: 2014-12-08 17:20:59 +0100
 comments: true
 categories: 
- - hello world
+ - hello-world
 ---
 
 This is the obligatory "Hello World!" post 
