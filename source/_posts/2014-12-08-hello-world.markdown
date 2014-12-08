@@ -37,3 +37,4 @@ rake new_post["Hello World!"]
 
 * Happy blogging!
 
+[octopress]: http://octopress.org/
