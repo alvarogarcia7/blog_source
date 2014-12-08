@@ -11,7 +11,7 @@ This is the obligatory "Hello World!" post
 To get here and create your own blog using [octopress], follow the
 instructions below:
 
-* Install ruby, as explained on the
+* Install ruby, as explained on the guide
   [here](http://octopress.org/docs/setup/)
  * I've used Ruby 2.1.5p273 (2014-11-13 revision 48405) \[x64-mingw32\]
    (``ruby --version``)
