@@ -1,3 +1,4 @@
 20141208; design patterns head first; book, design-patterns, head-first
 20141208; software craftsmanship; book, sandro-mancuso, craftsmanship, professionalism
 20141208; expand post on CAS; conference, agilebcn
+20141209; expand on some topics from the CAS; conference, agilebcn, talk
