@@ -5,6 +5,9 @@ date: 2014-12-18 07:33:59 +0100
 comments: true
 //published: false
 categories: 
+  - experience-report
+  - global-day-of-code-retreat
+  - gdcr
 ---
 
 One month ago (on November 15th) I facilitated my first [Global Day of Code Retreat](http://globalday.coderetreat.org/) at [eBay Enterprise International](http://www.ebayenterprise.com/contact/locations.php) and had such a blast. [Link to the event (Spanish)](http://www.meetup.com/Agile-Barcelona-Meetup/events/218211672/)
