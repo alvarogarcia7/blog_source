@@ -3,3 +3,17 @@
 20141208; expand post on CAS; conference, agilebcn
 20141209; expand on some topics from the CAS; conference, agilebcn, talk
 20141209; todoist; GTD and TDD; add a link to Connor mendenhall
+
+
+20141223: starting tdd on the refactor phase
+
+pros:
+ - can allow for less refactoring at the end of the cycle
+ 	- not talking about duplication but to refactoring to patterns
+ - leave the refactoring to the last responsible moment
+ - simplify as no need to reimplement things (that might be a )
+cons:
+ - speculative development
+ - refactoring in wrong places
+
+ boils down to the ROI of the invested time: a later moment means faster time to market now. 
