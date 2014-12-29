@@ -3,10 +3,12 @@ published: false
 ---
 
 
-Should we start the TDD cycle on refactor?
----
+#Should we start the TDD cycle on refactor?
+
 
 In this lexical scope, TDD by example is referring to this book[^tddbyexample]
+
+###The TDD cycle
 
 Altough [Kent Beck][kentbeck] in his book Test-Driven Development by example explains in "Part I: the money example"[^tddbyexampleparti] that one should 
 
@@ -16,8 +18,10 @@ Altough [Kent Beck][kentbeck] in his book Test-Driven Development by example exp
 
 Implying that the TDD cycle starts with the red. Later on he explains that the cycle continues with green and refactor and back to red.
 
-But I've been hearing for a while that there're some useful refactors to be done before introducing new code. Examples: XXX, XXX, XXX (see Xavi Gost's "La economía del refactoring[^refactoringeconomy]")
+But I've been hearing for a while that there're some useful refactors to be done before introducing new code. Rings in my head but the only example I have is Xavi Gost's "La economía del refactoring[^refactoringeconomy]"
 
+
+###Refactoring 
 Let's take a look at the definition of refactor (found [here](http://www.refactoring.com/)):
 
 > [Refactoring] is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
@@ -38,6 +42,38 @@ The last point is the one that interests me the most:
 > (roughly translated to "It's not justified to change outside the bread slice")
 
 as Xavi was referring to software as sliced bread instead of layers, vertical rather than horizontal
+
+###Should you do it?
+
+//TODO complete
+
+pros:
+- can allow for less refactoring at the end of the cycle
+- not talking about duplication but to refactoring to patterns
+- leave the refactoring to the last responsible moment
+- simplify as no need to reimplement things (that might be a )
+cons:
+- speculative development
+- refactoring in wrong places
+
+//END TODO
+
+Not useful on first round of a new feature, you can use a lambda transition to the red again
+
+
+## Conclusions
+
+Short answer: it mainly depends on your environment:
+
+ - You: experience, common sense (sadly) ---another post coming---, benefit/time-wasted ratio
+ - Your project: how tight are deadlines, how critical that code is, the team's pressure
+
+Long answer:
+
+Yes, //TODO
+
+ 1. There is a fine line between fixing code and rewriting code (Egoless programming #4). Don't be a lone enforcer
+ 2. Strictly follow the boy scout rule but only around your campfire, not outside of it.
 
 [kentbeck]: https://twitter.com/KentBeck
 [xavigost]: https://twitter.com/xav1uzz
