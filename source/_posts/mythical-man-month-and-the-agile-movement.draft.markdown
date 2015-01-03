@@ -2,6 +2,26 @@
 published: false
 ----
 
+curiosities - so early, they talk:
+* about testing, reproducing cases: ensuring quality
+* store documentation and update it incrementally (in paper)
+* store versions of the software: version control system (VCS)
+
+ideas to talk about:
+* no silver bullet
+  - essence and accident
+  - how to measure performance without control groups?
+  - candidates:
+    - the social coding (not silver bullet, still)
+    - higher-level languages and frameworks (scala, play; python, django; ruby, ruby on rails) 
+    - open source packages
+* brooks' law
+* nine women cannot make a baby in one month: the non-parallelizable tasks of a project
+* chapter #2: the idea of the waiting patrons on the french menu
+* investing a part of your time to sharpen your tools
+* 
+* hypothesis: was the book (the mythical man month) a precursor to the agile movement?
+
 others investigate the same:
 [technion](http://edu.technion.ac.il/Faculty/OritH/HomePage/FrontierColumns/OritHazzan_SystemDesigFrontier_Column9.pdf)
 
