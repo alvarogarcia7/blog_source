@@ -225,6 +225,9 @@ task :deploy do
 
   Rake::Task[:copydot].invoke(source_dir, public_dir)
   Rake::Task["#{deploy_default}"].execute
+  system "cd -"
+  system "git status"
+  system "git push origin"
 end
 
 desc "Generate website and deploy"
