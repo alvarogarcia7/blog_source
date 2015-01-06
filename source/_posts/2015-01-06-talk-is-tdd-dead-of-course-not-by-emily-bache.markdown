@@ -16,7 +16,7 @@ external-url:
 
 I've just seen this talk: [Is TDD dead? Of course not! But what´s all the fuzz about then?](https://www.youtube.com/watch?v=PCEHRFHKZSk) by [Emily Bache](https://twitter.com/emilybache)
 
-My notes:
+###My notes
 
 * deliberate vs accidental learning (around minute 19)
 * do not be an evangelist for tdd but rather "come learn tdd, come at a dojo with us!"
@@ -44,7 +44,7 @@ My notes:
 	* tool to manage these "approval tests". Easy way of managing tests cases
 	* [TextTest](http://texttest.org) is one of these tools
 
-Her conclusions:
+###Her conclusions
 
 * Watch out the fundamentalism
 * TDD might take you to too many layers of indirection
