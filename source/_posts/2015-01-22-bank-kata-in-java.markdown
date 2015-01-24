@@ -3,7 +3,6 @@ layout: post
 title: "Bank kata in java"
 date: 2015-01-22 22:52:01 +0100
 comments: true
-published: false
 categories: 
     - kata
     - outside-in-tdd
