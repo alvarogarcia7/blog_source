@@ -7,6 +7,8 @@ categories:
     - kata
     - outside-in-tdd
     - tdd
+    - java
+    - pair-programming
 ---
 
 [Manuel Rivero][trikitrok] and I did a subset of the [bank kata](https://github.com/sandromancuso/Bank-kata), proposed by [Sandro Mancuso][sandro].
