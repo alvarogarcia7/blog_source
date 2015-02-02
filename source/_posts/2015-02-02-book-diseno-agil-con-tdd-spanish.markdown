@@ -1,19 +1,20 @@
-----
-published: false
+---
+layout: post
+title: "Book: Diseño Ágil con TDD (Spanish)"
+date: 2015-02-02 21:32:21 +0100
+comments: true
 categories:
-    - book
-    - tdd
-    - book-review
-    - spanish
-----
-
-TODO title, preview, publish
+  - book
+  - tdd
+  - book-review
+  - spanish
+---
 
 I've read this book [Diseño Ágil con TDD](http://www.carlosble.com/libro-tdd/) (Spanish) by
 [Carlos Blé](https://twitter.com/carlosble) from cover to cover,
 when previously I had only read the theoretical parts (Part I and Chapter 12 in Part II).
 
-It's worth noting that this is the first TDD book in Spanish(^or so the author says - I haven't found) (published in January 2010) and, as such, there are some translations that could be improved. Not that it makes it more difficult to read. Sometimes it's a good idea to roughly translate concepts into English and then you'll understand the point.
+It's worth noting that this is the first TDD book in Spanish (I haven't found any book in Spanish predating this one - also backed by the author; published in January 2010) and, as such, there are some translations that could be improved. Not that it makes it more difficult to read. Sometimes it's a good idea to roughly translate concepts into English and then you'll understand the point.
 
 ## First part
 
@@ -27,7 +28,7 @@ There's a chapter (number 6) on "Mocks and other test doubles" (translation is m
 
 ## Second part
 
-The second part, as many other books where the source code is printed, was dense for me. Other books, such as [GOOS](http://www.growing-object-oriented-software.com/), show differences in content with bold typeface, to ease the reader's task.  In my opinion, it would be useful to color the diffs, show them on the left and right, or even show the raw diff (e.g., +++ ---). I'm envisioning a typing program as LaTeX where you could specify a commit with its parent and a range of lines to output.
+The second part, as many other books where the source code is printed, was dense for me. Other books, such as [GOOS](http://www.growing-object-oriented-software.com/), show differences in content with bold typeface, to ease the reader's task.  In my opinion, it would be useful to color the diffs, show them on the left and right, or even show the raw diff (e.g., ```+++``` ```---```). I'm envisioning a typing program as LaTeX where you could specify a commit with its parent and a range of lines to output.
 
 The second part is written in C# and python, to show a TDD session with him. Warning: it's much better in person than reading his book!
 
