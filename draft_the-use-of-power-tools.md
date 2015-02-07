@@ -8,6 +8,7 @@ categories:
   - algorithm
   - protip
   - the-right-tool-for-the-right-job
+  - unix-tools
 ----
 
 I'm currently reading the Apprenticeship patterns book, out of order (explained here: TODO).
@@ -42,7 +43,7 @@ unread <- all - intersection(all, read) ; cost O(1)
 
 And this is where the power tools come into place: if we use ``comm`` or ``diff``, the computer will create  the ````unread```` set for us, in "manual" cost of ``O(1)``
 
-## Example using vim
+## Example using vim, sort and diff
 
 This is the ``read`` set (for the moment):
 ````
@@ -84,9 +85,7 @@ go to first line (``1G``), then delete (``dd``)
 
 After a quick inspection, there's a number at the end of the desired line, so replace it with newline:
 
-``%s/\d\+/\r/g``
-
-a part of it:
+``%s/\d\+/\r/g`` (a snippet below):
 
 ````
 EMPTYING THE CUP 
@@ -104,20 +103,7 @@ EMPTYING THE CUP
  WALKING THE LONG ROAD 
 ````
 
-The title lines are all uppercase, so delete them with ``:%g/^\s*\u\u/d``
-
-explanation:
-  * ``:`` : command
-  * ``%`` : in all the file
-  * ``g`` : do (I remember it as 'go')
-  * ``^`` : starting at the beginning
-  * ``\s*``: whitsepace, as much a possible
-  * ``\u\u``: exactly to uppercase letters. Can also be expressed as ``\u\{2}``
-  * ``d`` : delete
-
-for more information on vim's regex, go [here](http://vimregex.com/)
-
-now, what you have is this:
+The title lines are all uppercase, so delete them with ``:%g/^\s*\u\u/d``:
 
 ````
 
@@ -135,9 +121,18 @@ now, what you have is this:
  The Long Road 
 ````
 
-but there are empty lines. Delete them with: ``%g/^$/d``
+explanation:
+  * ``:`` : command
+  * ``%`` : in all the file
+  * ``g`` : do (I remember it as 'go')
+  * ``^`` : starting at the beginning
+  * ``\s*``: whitsepace, as much a possible
+  * ``\u\u``: exactly to uppercase letters. Can also be expressed as ``\u\{2}``
+  * ``d`` : delete
 
-now:
+for more information on vim's regex, go [here](http://vimregex.com/)
+
+but there are empty lines. Delete them with: ``%g/^$/d``:
 
 ````
  Your First Language
@@ -150,9 +145,7 @@ now:
  Retreat into Competence
 ````
 
-there is a space at the beginning of the line, delete it with ``:%s/^ //``
-
-now:
+there is a space at the beginning of the line, delete it with ``:%s/^ //``:
 
 ````
 Your First Language 
@@ -173,7 +166,7 @@ there are upper and lowercase letters. You could find a way of doing it with vi,
 cat all.txt | awk '{print tolower($0)'}| sort > all_sorted.txt
 ````
 
-now:
+(snippet):
 
 ````
 a different road 
