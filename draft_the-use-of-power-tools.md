@@ -214,3 +214,7 @@ to count the number of remaining chapters:
 The lesson learned here is to master your tools. This would have cost me a few minutes if done manually as the list was short, too much time if long (>1000 lines).
 
 On a funny note, it has taken me approximately 2 min to do this processing but ~45 minutes to write this blog post. So I don't recommend you write as many posts as processings you do.
+
+TODO: add quote, from Apprenticeship patterns, [A different road](http://chimera.labs.oreilly.com/books/1234000001813/ch03.html#solution_id16)
+
+If you walk away from software development, you will find that the habit of rigorous thinking and automating tasks involving large volumes of data will still be useful wherever you go
