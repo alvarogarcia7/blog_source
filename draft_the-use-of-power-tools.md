@@ -220,4 +220,4 @@ to count the number of remaining chapters:
 
 The lesson learned here is to master your tools. This would have cost me a few minutes if done manually as the list was short, too much time if long (>1000 lines).
 
-On a funny note, it has taken me approximately 2 min to do this processing but TODO minutes to write this blog post. So I don't recommend you write as many posts as processings you do.
+On a funny note, it has taken me approximately 2 min to do this processing but ~45 minutes to write this blog post. So I don't recommend you write as many posts as processings you do.
