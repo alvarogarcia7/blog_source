@@ -29,7 +29,9 @@ When and where are you a junior and a senior?
 * Is it on each product you work?
 * Is it on each team?
 
-Quote: "when you join a new project you are starting from square one" from Apprenticeship Patterns, chapter [Sweep the floor](http://chimera.labs.oreilly.com/books/1234000001813/ch04.html#solution_id21)
+> "when you join a new project you are starting from square one"
+> 
+> <cite> D. Hoover, A. Oshineye </cite> in the chapter [Sweep the floor](http://chimera.labs.oreilly.com/books/1234000001813/ch04.html#solution_id21), [Apprenticeship patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
 
 Related to the amount of senior people, is there only one senior per team?
 
