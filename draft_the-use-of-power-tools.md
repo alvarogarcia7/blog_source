@@ -3,6 +3,10 @@ published: false
 categories:
   - power-tools
   - apprenticeship-patterns
+  - choose-your-own-adventure
+  - big-o-notation
+  - algorithm
+  - protip
 ----
 
 I'm currently reading the Apprenticeship patterns book, out of order (explained here: TODO).
