@@ -9,7 +9,7 @@ I'm currently reading the Apprenticeship patterns book, out of order (explained 
 
 I'm writing down the read chapters in a text file, to measure progress and also be able to backtrack if necessary. This also makes reading the book a "choose your own adventure"
 
-After reading approximately half the chapters, the navigation wasn't so easy using only the "see also" part. So I decided to break free from that constraint and start reading other chapters. But how do you know which chapters you have left to read? Knowing the whole set (``all``) and the read set (``read``) this is just the ``all``-``read``.
+After reading approximately half the chapters, the navigation wasn't so easy using only the "see also" part. So I decided to break free from that constraint and start reading other chapters. But how do you know which chapters you have left to read? Knowing the whole set (``all``) and the read set (``read``) this is just the ``all - read``.
 
 Coming to a more practical way, how to know this is an automated (non-manual) way? There are ``m`` in ``read`` and n in ``all``, where m <= n.
 
