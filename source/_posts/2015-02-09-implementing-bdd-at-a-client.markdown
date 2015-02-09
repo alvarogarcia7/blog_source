@@ -1,6 +1,9 @@
-----
-published: true
-categories:
+---
+layout: post
+title: "Implementing BDD at a client"
+date: 2015-02-09 22:23:44 +0100
+comments: true
+categories: 
   - bdd
   - behavior-driven-development
   - grunt-job
@@ -8,7 +11,7 @@ categories:
   - apprenticeship-patterns
   - jbehave
   - retrospective
-----
+---
 
 This was a low-hanging fruit as a team member who specialises in QA complained about testing in the last moment during the last sprint's retrospective.
 
