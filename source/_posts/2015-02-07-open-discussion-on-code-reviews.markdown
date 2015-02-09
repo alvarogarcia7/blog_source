@@ -16,7 +16,7 @@ The main idea was to discuss about it and share the ideas each one had. I didn't
 
 ## Benefits
 
-This is the main benefits we saw in it:
+These is the main benefits we saw in it:
 
   * Increased trust
   * Learning from others, other approaches
