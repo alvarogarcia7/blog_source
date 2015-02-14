@@ -5,8 +5,8 @@ date: 2015-02-09 22:23:44 +0100
 comments: true
 categories: 
   - bdd
-  - behavior-driven-development
   - grunt-job
+  - behavior-driven-development
   - sweep-the-floor
   - apprenticeship-patterns
   - jbehave
