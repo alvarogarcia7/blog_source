@@ -1,11 +1,14 @@
-----
-published: false
+---
+layout: post
+title: "Open discussion: Behaviour-Driven Development"
+date: 2015-02-15 02:30:38 +0100
+comments: true
 categories:
   - bdd
   - open-discussion
   - behaviour-driven-development
   - jbehave
-----
+---
 
 This week we had a great discussion about Behavior Driven Development (BDD). We have explained it as a way of developing software based on requirements, via automatically tested specifications. For more information, see the [wikipedia's article on the subject](http://en.wikipedia.org/wiki/Behavior-driven_development)
 
@@ -28,15 +31,15 @@ Layers of software:
 
 Let's imagine a BDD test for a [linked list](http://en.wikipedia.org/wiki/Linked_list):
 
-````
+```
 Given I have an empty list
 When I add an element
 Then I have an element on the list
-````
+```
 
 now, the same test in TDD [using java, junit 4, hamcrest]
 
-````java
+```java
 @Test
 public void add_an_element_to_an_empty_list(){
 	MyLinkedList linkedList = new MyLinkedList();
@@ -45,7 +48,7 @@ public void add_an_element_to_an_empty_list(){
 
 	assertThat(linkedList.size(), is(1));
 }
-````
+```
 
 In some aspects, a BDD and a TDD test are similar:
 
