@@ -13,6 +13,8 @@ I forgot to mention that this is the perfect start to TDD, as this is usually ca
 
 In this double-loop TDD, the first thing is to create a BDD scenario, run it (red-1), create a unit test that reflects this red (red-2), pass it, refactor; go to red-1 as many times as you need, doing TDD cycles. When you think the feature is done, execute the BDD scenarios and go to green (outer layer) and refactor.
 
+## (Our) Common setting
+
 Going back to BDD, a common scenario would be the following:
 
 Layers of software:
@@ -22,13 +24,47 @@ Layers of software:
   * Test software: test fixtures, methods, structures to arrange, act, and assert on the sut
   * Production software (system under test - SUT): thing being tested
 
+## A BDD test vs A TDD test
 
+Let's imagine a BDD test for a [linked list](http://en.wikipedia.org/wiki/Linked_list):
+
+````
+Given I have an empty list
+When I add an element
+Then I have an element on the list
+````
+
+now, the same test in TDD [using java, junit 4, hamcrest]
+
+````java
+@Test
+public void add_an_element_to_an_empty_list(){
+	MyLinkedList linkedList = new MyLinkedList();
+
+	linkedList.add("something");
+
+	assertThat(linkedList.size(), is(1));
+}
+````
+
+In some aspects, a BDD and a TDD test are similar:
+
+ * the given is the arrange, i.e., the prerequisite
+ * the when is the act, i.e., the command
+ * the then is the assertion, i.e., the postcondition
+
+(for more information on this, see [Hoare's triple](http://en.wikipedia.org/wiki/Hoare_logic))
+
+But in others, they are not. In BDD you do not specify the APIs, methods, etc. You only care about behavior.
+
+
+## Conclusion
   
 Benefits:
 
- * everyone might involved in the specification by example workshops
+ * everyone might involved in the specification by example workshops (source: [ATDD by example](http://www.amazon.com/ATDD-Example-Test-Driven-Development-Addison-Wesley/dp/0321784154))
  * live specifications. managers can now understand the real state
- * regression tests are much cheaper (from automation)
+ * [regression tests](http://en.wikipedia.org/wiki/Regression_testing) are much cheaper (from automation)
 
 Gotchas:
 
