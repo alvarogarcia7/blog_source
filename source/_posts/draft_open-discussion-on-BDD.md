@@ -11,6 +11,10 @@ This week we had a great discussion about Behavior Driven Development (BDD). We 
 
 I forgot to mention that this is the perfect start to TDD, as this is usually called the double-loop TDD. See a post on it on [coding is like cooking](http://coding-is-like-cooking.info/2013/04/outside-in-development-with-double-loop-tdd/)
 
+In this double-loop TDD, the first thing is to create a BDD scenario, run it (red-1), create a unit test that reflects this red (red-2), pass it, refactor; go to red-1 as many times as you need, doing TDD cycles. When you think the feature is done, execute the BDD scenarios and go to green (outer layer) and refactor.
+
+Going back to BDD, a common scenario would be the following:
+
 layers of software:
 
   * DSL. TODO what is a DSL
