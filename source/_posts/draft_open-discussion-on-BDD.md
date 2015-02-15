@@ -15,12 +15,14 @@ In this double-loop TDD, the first thing is to create a BDD scenario, run it (re
 
 Going back to BDD, a common scenario would be the following:
 
-layers of software:
+Layers of software:
 
-  * DSL. TODO what is a DSL
-  * Test-adapter
-  * Test software
-  * Production software (SUT)
+  * Domain-Specific Language (DSL). See [wikipedia's article](http://en.wikipedia.org/wiki/Domain-specific_language)
+  * Test adapter: an interpreter for this DSL
+  * Test software: test fixtures, methods, structures to arrange, act, and assert on the sut
+  * Production software (system under test - SUT): thing being tested
+
+
   
 Benefits:
 
