@@ -4,6 +4,13 @@ title: "A legacy code introduction"
 date: 2015-02-21 20:05:46 +0100
 comments: true
 categories: 
+  - quote
+  - hypothesis
+  - clean-code
+  - uncle-bob
+  - robert-c-martin
+  - legacy-code
+  - tiger-team
 ---
 
 This is one of the best legacy code introductions I've seen:
@@ -16,7 +23,7 @@ This is one of the best legacy code introductions I've seen:
 >
 > Now the two teams are in a race. The tiger team must build a new system that does everything that the old system does. Not only that, they have to keep up with the changes that are continuously being made to the old system. Management will not replace the old system until the new system can do everything that the old system does.
 >
-> This race can go on for a very long time. I've seen it take 10 years. And by the time it’s done, the original members of the tiger team are long gone, and the current members are demanding that the new system be redesigned because it's such a mess.
+> This race can go on for a very long time. I've seen it take 10 years. And by the time it's done, the original members of the tiger team are long gone, and the current members are demanding that the new system be redesigned because it's such a mess.
 >
 > <cite> Robert C. Martin </cite> in the chapter 1: Clean Code from the book by [the same name](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
 
