@@ -24,7 +24,7 @@ categories:
 >
 > [...]
 >
-> <quote> Brooks, F. - The Mythical Man Month, chapter 3: The Surgical Team </quote>
+> <quote> Brooks, F. - The Mythical Man-Month, chapter 3: The Surgical Team </quote>
 
 (Text between square brackets is mine)
 
@@ -34,7 +34,7 @@ The one that will be covered in this post is the toolsmith:
 
 > **The toolsmith**. File-editing, text-editing, and interactive debugging services are now readily available, so that a team will rarely need its own machine and machine-operating crew. But these services must be available with unquestionably satisfactory response and reliability; and the surgeon must be sole judge of the adequacy of the service available to him. He needs a toolsmith, responsible for ensuring this adequacy of the basic service and for constructing, maintaining, and upgrading special tools --mostly interactive computer services-- needed by his team. Each team will need its own toolsmith, regardless of the excellence and reliability of any centrally provided service, for his job is to see to the tools needed or wanted by his surgeon, without regard to any other team's needs. The tool-builder will often construct specialized utilities, cataloged procedures, macro libraries.
 >
-> <quote> Brooks, F. - The Mythical Man Month, chapter 3: The Surgical Team </quote>
+> <quote> Brooks, F. - The Mythical Man-Month, chapter 3: The Surgical Team </quote>
 
 Even though the chapter reads a bit outdated, especially with the part about genders and methodologies (i.e., waterfall), the part about roles is interesting. The surgical team, as the author presents will be composed by 9 1/2 (nine and a half) as the language lawyer can be shared among two or three teams.
 
