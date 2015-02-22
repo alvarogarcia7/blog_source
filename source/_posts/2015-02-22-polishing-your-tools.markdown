@@ -18,17 +18,23 @@ categories:
 
 [Frederick P Brooks, Jr][fred-brooks] quoted / explained a theory explained by Mills and Baker* around 1971-72:
 
-> Chapter 3: The surgical team 
+> Chapter 3: The Surgical Team 
 >
 > [...] but the team be organized like a surgical team rather than a hog-butchering team. That is, instead of each member cutting away on the problem, one does the cutting and the others give him[her] every support that will enhance his[her] effectiveness and productivity.
 >
 > [...]
+>
+> <quote> Brooks, F. - The Mythical Man Month, chapter 3: The Surgical Team </quote>
+
+(Text between square brackets is mine)
 
 The author goes on to explain the job descriptions for the surgeon, copilot, administrator, editor, secretaries, program clerk, toolsmith, tester and the language lawyer.
 
 The one that will be covered in this post is the toolsmith:
 
 > **The toolsmith**. File-editing, text-editing, and interactive debugging services are now readily available, so that a team will rarely need its own machine and machine-operating crew. But these services must be available with unquestionably satisfactory response and reliability; and the surgeon must be sole judge of the adequacy of the service available to him. He needs a toolsmith, responsible for ensuring this adequacy of the basic service and for constructing, maintaining, and upgrading special tools --mostly interactive computer services-- needed by his team. Each team will need its own toolsmith, regardless of the excellence and reliability of any centrally provided service, for his job is to see to the tools needed or wanted by his surgeon, without regard to any other team's needs. The tool-builder will often construct specialized utilities, cataloged procedures, macro libraries.
+>
+> <quote> Brooks, F. - The Mythical Man Month, chapter 3: The Surgical Team </quote>
 
 Even though the chapter reads a bit outdated, especially with the part about genders and methodologies (i.e., waterfall), the part about roles is interesting. The surgical team, as the author presents will be composed by 9 1/2 (nine and a half) as the language lawyer can be shared among two or three teams.
 
@@ -48,22 +54,33 @@ Nowadays that IDEs are configurable, this time might be invested on learning mor
 TODO: Add link to Sandro Mancuso's experience report, when I write it
 {% endcomment %}
 
-It may also include other activities as setting up your bash alias, cleaning your desk, etc. Anything that improves the productivity of your main task.
+It may also include other activities as setting up your bash alias, cleaning your desk, trying a new UML diagram modeler, etc. Anything that improves the productivity of your main task.
+
+If we consider our experience and our knowledge part of our tools (as we are knowledge workers), training could be considered part of polishing our tools. Short, daily or weekly training sessions (even internal) can make a great impact on breadth (not depth) of knowledge among your teammates. This shallow knowledge can open doors for more knowledge to be gained outside of company time, or used to practice and test other methods.
+
+This training is so useful for everyone ("when one teaches, two learn") that I recommend my clients to do it. This has helped them cope with changing technologies, knowledge transfer and even some team building.
 
 ## Company provided or not?
 
-Should the company provide for 
+Should the company provide for this time to improve? Although I don't know the answer, it would greatly affect the programmers' productivity to do so. I would say, provide this time as long as what is produced is useful. How do you measure useful? This is a subjective opinion, so it depends on each one.
+
+Some companies acknowledge that this is so important as to invest part of their resources (0-2 hours per week) into training.
+
+Either way, should your company provide it for your or not, you are the one in charge of your career (from Mancuso, [Software Craftsmanship][socra] - now called [The Software Craftsman][software-craftsman]). If you are not allowed to invest company time for your own benefit, you could use some of your personal time to do so. It is not required, but you will soon enjoy its profits.
+
+----
 
 
-TODO copy reference to original books / papers
-TODO add references to chapter and second quote
-TODO add categories
-TODO explain why it is more important
-TODO explain why the company should provide time for this
-TODO explain why internal trainings are polishing your tools
-TODO explain why gaining time is crucial. stay up to date, competitors, startups, etc
+*: Original references in "The Mythical Man-Month" (Notes and References, page 294) point to these:
+
+Mills, H., "Chief programmer teams, principles, and procedures," IBM Federal Systems Division Report FSC 715108, Gaithersburg, Md., 1971.
+
+Baker, F. T., "Chief programmer team management of production programming," IBM Sys. J., 11, 1 (1972).
+
 
 [mancuso]: https://twitter.com/sandromancuso
 [crafting-code]: https://skillsmatter.com/courses/503-sandro-mancuso-s-crafting-code-course#programme
 [live-templates]: https://www.jetbrains.com/idea/help/creating-and-editing-live-templates.html#d1333587e219
 [fred-brooks]: http://en.wikipedia.org/wiki/Fred_Brooks
+[socra]: https://leanpub.com/socra
+[software-craftsman]: http://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/ref=sr_1_1?ie=UTF8&qid=1416521895&sr=8-1&keywords=the+software+craftsman
