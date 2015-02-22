@@ -44,7 +44,7 @@ So, one full-time job is to build tools to service the surgeon and the copilot (
 
 These tools can make the surgeon and the copilot more effective, ranging from a single digit percentage to orders of magnitude in other tasks.
 
-As agile teams no longer have a surgeon and the scrum master is not necessarily a technical expert who can build tools for the whole team, the tasks of creating tools must be taken care by everyone. No one better than yourself can know your needs and tailor solutions for them.
+As agile teams no longer have a toolsmith and the scrum master is not necessarily a technical expert who can build tools for the whole team, the tasks of creating tools must be taken care by everyone. No one better than yourself can know your needs and tailor solutions for them.
 
 The only downside is you have to invest ~5h (for a full time position) of your personal time per week into creating and polishing tools for your work. But I prefer investing this time into polishing my tools: it is a need for achieving more productivity when working.
 
