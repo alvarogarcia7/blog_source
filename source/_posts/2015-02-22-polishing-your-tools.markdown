@@ -56,7 +56,7 @@ TODO: Add link to Sandro Mancuso's experience report, when I write it
 
 It may also include other activities as setting up your bash alias, cleaning your desk, trying a new UML diagram modeler, etc. Anything that improves the productivity of your main task.
 
-If we consider our experience and our knowledge part of our tools (as we are knowledge workers), training could be considered part of polishing our tools. Short, daily or weekly training sessions (even internal) can make a great impact on breadth (not depth) of knowledge among your teammates. This shallow knowledge can open doors for more knowledge to be gained outside of company time, or used to practice and test other methods.
+If we consider our experience and knowledge part of our tools (as we are knowledge workers), training could be considered part of polishing our tools. Short, daily or weekly training sessions (even internal) can make a great impact on breadth (not depth) of knowledge among your teammates. This shallow knowledge can open doors for more knowledge to be gained outside of company time, or used to practice and test other methods.
 
 This training is so useful for everyone ("when one teaches, two learn") that I recommend my clients to do it. This has helped them cope with changing technologies, knowledge transfer and even some team building.
 
