@@ -12,6 +12,8 @@ categories:
   - mythical-man-month
   - surgical-team
   - brooks
+  - career
+  - who-owns-your-career
 ---
 
 ## The toolsmith
