@@ -21,7 +21,7 @@ These are the main benefits we saw in it:
   * Increased trust
   * Learning from others, other approaches
   * Less defects, more quality
-  * Increased [bus factor](http://en.wikipedia.org/wiki/Bus_factor) , decreased information silos
+  * Increased [bus factor](http://en.wikipedia.org/wiki/Bus_factor), decreased information silos
   * Also:
     * Getting out of your comfort zone
     * Communicating more often (code style, edge cases, complaining, etc)
