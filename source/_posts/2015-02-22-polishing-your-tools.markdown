@@ -19,7 +19,7 @@ categories:
 
 ## The toolsmith
 
-[Frederick P Brooks, Jr][fred-brooks] quoted / explained a theory explained by Mills and Baker* around 1971-72:
+[Frederick P Brooks, Jr][fred-brooks] quoted / explained a theory explained by Mills and Baker[^1] around 1971-72:
 
 > Chapter 3: The Surgical Team 
 >
@@ -74,7 +74,7 @@ Either way, should your company provide it for your or not, you are the one in c
 ----
 
 
-*: Original references in "The Mythical Man-Month" (Notes and References, page 294) point to these:
+[^1]: Original references in "The Mythical Man-Month" (Notes and References, page 294) point to these:
 
 Mills, H., "Chief programmer teams, principles, and procedures," IBM Federal Systems Division Report FSC 715108, Gaithersburg, Md., 1971.
 
