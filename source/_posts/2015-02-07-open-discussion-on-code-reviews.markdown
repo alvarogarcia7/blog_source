@@ -30,7 +30,7 @@ These are the main benefits we saw in it:
 
 ## Pair programming
 
-Then we discussed about the topic of code reviews and pair programming:
+Then we discussed about the topic of [code reviews](categories/code-review) and [pair programming](categories/pair-programming/):
 
   * How do they mix
     * Is the need for code review reduced when doing pair programming?
