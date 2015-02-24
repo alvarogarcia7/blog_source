@@ -14,6 +14,7 @@ categories:
   - brooks
   - career
   - who-owns-your-career
+  - fred-brooks
 ---
 
 ## The toolsmith
