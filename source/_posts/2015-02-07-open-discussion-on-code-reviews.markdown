@@ -12,7 +12,7 @@ categories:
 
 We had a great conversation yesterday about code reviews.
 
-The main idea was to discuss about it and share the ideas each one had. I didn't want it to turn into a masterclass (see the [white belt](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#the_white_belt))
+The main idea was to discuss about it and share the ideas each one had. I didn't want it to turn into a masterclass (see [the white belt](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#the_white_belt))
 
 ## Benefits
 
