@@ -57,7 +57,7 @@ Here are the comments:
  * Not all parameters will be added, only the first three
  * The parameters are out of order, overcomplicating things. Is it due to something? Should I be careful about it?
  * There is duplication (i.e., parsing from string)
- * Bad naming: what is a, b, c?
+ * Bad naming: what is ``a``, ``b``, ``c``?
  * There are no tests for it. No manual / javadoc either. Therefore, it's difficult to maintain
  * Difficult to test: a smell for bad design?
    * How to test the adding by itself? The output is to the console, so we have to capture it (at GMaur we published this tool: [legacyUtils](https://github.com/GMaur/legacyutils))
