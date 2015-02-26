@@ -35,6 +35,6 @@ Quoting the article:
 >
 > TODO add quote.
 
-In my opinion, I've detected an expert beginner in myself, while learning clojure: I cannot improve my expertise level while writing / learning clojure this way. I've maxed out. Should I want to get better (i.e., start producing "clean code" in clojure), I'm going to need to write proper clojure. etc. And I won't perceive the improvement until a few units of time later[^1], even though I will be learning the foundations of a new coding paradigm.
+In my opinion, I've detected an expert beginner in myself, while learning clojure: I cannot improve my expertise level while writing / learning clojure this way. I've maxed out. Should I want to get better (i.e., start producing "clean code" in clojure), I'm going to need to write proper clojure. etc. And I won't perceive the improvement until a few time units later[^1], even though I will be learning the foundations of a new coding paradigm.
 
 [^1]: cannot currently predict this
