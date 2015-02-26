@@ -39,3 +39,28 @@ THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 #### If you want to be awesome.
 - Proudly display the 'Powered by Octopress' credit in the footer.
 - Add your site to the Wiki so we can watch the community grow.
+
+## Internal help
+
+### Categories
+
+See an example in "Open discussion: on code reviews"
+
+````
+[code reviews](/{{site.category_dir}}/code-review)
+````
+
+### Footnotes
+
+See an exmple in "The purple wire"
+
+````
+bugfix into master if required[^1].
+
+----
+
+[^1]: If the found defect is not business critical, I try not to merge
+to master the purple wire, just leave master pointing to the defect and
+the bugfix branch with the solution. This bugfix branch will be deleted
+when a more stable fix is found.
+````
