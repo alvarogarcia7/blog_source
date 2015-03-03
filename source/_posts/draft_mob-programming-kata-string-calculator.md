@@ -21,6 +21,18 @@ We've had such a great time, learning together, that would be a candidate for a 
 
 [Mob programming][mob-programming] is such an eye opening practice. It forces you to reconsider your previous dogma and to understand the others' positions. Wikipedia reads "early use of phrase [...] was made in 'Extreme Programming Perspectives'" but this practice is practiced by some, such as [Carlos Blé][carlosble], [Sandro Mancuso][mancuso] among others; also at the Software Craftsmanship Barcelona 2013 and [2014][scbcn2014] and the [SoCra Canaries 2015][socracan]
 
+## One goal
+
+Our goal for this session was to practice TDD and baby steps, so the team can improve its ability on these skills.
+
+In any case, my objective for the katas (or deliberate practice) is not to get there as fast as we can but to improve our automated routines. This can affect our daily performance, as it becomes natural. It is not about the getting to the destination but enjoying the path along the way. In this manner, you are not so hurried up about a slow train but enjoy the views across the window.
+
+It was good that QA people in the team came to the session. He even participated with some tips / implementations during the refactors. Always fruitful to discuss (and learn) mixed skills (QA / dev) from the other side of the wall
+
+## Conclusion
+
+I still haven't mastered the recipe (algorithm) for knowing when it is a scaffold and when it's time to refactor using "replace algorithm". For know, I just use the three (3) rule and a bit of gut feeling on the side. The bad thing is that this can not be easily taught to someone else. Just learnt by osmosis and practice.
+
 [^1]: matching none of the styles explained in [here][kata-styles]
 [^2]: This is a very good beginner's kata, created by [Roy Osherove][osherove]. Can be found [here][string-calculator]
 [^3]: There are some for [IntelliJ IDEA][intellij-live-templates], [Eclipse][eclipse-live-templates] too
@@ -37,13 +49,3 @@ We've had such a great time, learning together, that would be a candidate for a 
 [scbcn2014]: https://twitter.com/hashtag/SCBCN14?src=hash
 [scbcn2013]: https://twitter.com/hashtag/scbcn2013?src=hash
 [socracan]: https://twitter.com/hashtag/socracan?src=hash
-
-TODO Complete info about:
-  - mob programming
-  - QA coming
-  - team member not coming
-  - length: 1,5h
-  - the point is not to get there but to enjoy the path to get there
-  - baby steps
-TODO complete info about QA coming
-TODO complete info about a team member not coming
