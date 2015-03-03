@@ -8,6 +8,7 @@ categories:
   - open-discussion
   - code-review
   - pair-programming
+  - training
 ---
 
 We had a great conversation yesterday about code reviews.
