@@ -1,5 +1,8 @@
-----
-
+---
+layout: post
+title: "Mob programming String calculator kata"
+date: 2015-03-03 04:46:48 +0100
+comments: true
 categories:
   - mob-programming
   - training
@@ -7,7 +10,7 @@ categories:
   - kata
   - string-calculator
   - pair-programming
-----
+---
 
 Last Friday we did a kata[^1] using a projector the string calculator [^2] using pair programming, TDD and some mob-programming for the last refactoring.
 
@@ -19,7 +22,7 @@ These sessions are necessary to share some knowledge among the teammates and hav
 
 We've had such a great time, learning together, that would be a candidate for a weekly interaction.
 
-[Mob programming][mob-programming] is such an eye opening practice. It forces you to reconsider your previous dogma and to understand the others' positions. Wikipedia reads "early use of phrase [...] was made in 'Extreme Programming Perspectives'" but this practice is practiced by some, such as [Carlos Blé][carlosble], [Sandro Mancuso][mancuso] among others; also at the Software Craftsmanship Barcelona 2013 and [2014][scbcn2014] and the [SoCra Canaries 2015][socracan]
+[Mob programming][mob-programming] is such an eye opening practice. It forces you to reconsider your previous dogma and to understand the others' positions. Wikipedia reads "early use of phrase [...] was made in 'Extreme Programming Perspectives'" but this practice is practiced by some, such as [Carlos Blé][carlosble], [Sandro Mancuso][mancuso] among others; also at the [Software Craftsmanship Barcelona][socrabcn] [2013][scbcn2013] and [2014][scbcn2014] and the [SoCra Canaries 2015][socracan]
 
 ## One goal
 
@@ -33,19 +36,15 @@ It was good that QA people in the team came to the session. He even participated
 
 I still haven't mastered the recipe (algorithm) for knowing when it is a scaffold and when it's time to refactor using "replace algorithm". For know, I just use the three (3) rule and a bit of gut feeling on the side. The bad thing is that this can not be easily taught to someone else. Just learnt by osmosis and practice.
 
-[^1]: matching none of the styles explained in [here][kata-styles]
-[^2]: This is a very good beginner's kata, created by [Roy Osherove][osherove]. Can be found [here][string-calculator]
-[^3]: There are some for [IntelliJ IDEA][intellij-live-templates], [Eclipse][eclipse-live-templates] too
+[^1]: matching none of the styles explained in [here](http://johannesbrodwall.com/2011/12/18/how-to-start-a-coding-dojo/)
+[^2]: This is a very good beginner's kata, created by [Roy Osherove](https://twitter.com/royosherove). Can be found [here](http://osherove.com/tdd-kata-1/)
+[^3]: There are some for [IntelliJ IDEA](https://www.jetbrains.com/idea/help/live-templates.html), [Eclipse](http://stackoverflow.com/questions/4022367/what-is-the-eclipse-equivalent-of-intellij-live-templates) too
 [^4]: One piece of feedback I received is that I talk too much while coding, as these 6 cycles took us about 45 minutes, total
 
-[osherove]: https://twitter.com/royosherove
-[mob-programming]: http://en.wikipedia.org/wiki/Mob_programming
-[kata-styles]: http://johannesbrodwall.com/2011/12/18/how-to-start-a-coding-dojo/
-[string-calculator]: http://osherove.com/tdd-kata-1/
-[intellij-live-templates]: https://www.jetbrains.com/idea/help/live-templates.html
-[eclipse-live-templates]: http://stackoverflow.com/questions/4022367/what-is-the-eclipse-equivalent-of-intellij-live-templates
+[mob-programming]: http://en.wikipedia.org/wiki/Mob_programming 
 [carlosble]: https://twitter.com/carlosble
 [mancuso]: https://twitter.com/sandromancuso
 [scbcn2014]: https://twitter.com/hashtag/SCBCN14?src=hash
 [scbcn2013]: https://twitter.com/hashtag/scbcn2013?src=hash
 [socracan]: https://twitter.com/hashtag/socracan?src=hash
+[socrabcn]: http://www.softwarecraftsmanshipbarcelona.org/
