@@ -11,10 +11,17 @@ Yesterday we did a training about the maven tool. One of the team members explai
 
   * lifecycles 
   * profiles
+    * slowTests for integration tests (this client only)
+    * downloadJavadoc
+    * downloadSources
   * convention over configuration
-  * tricks about the tool
+  * scopes of the dependencies (test, runtime, compile, provided)
+  * tricks about the tool:
+    * order of the dependencies (especally junit, hamcrest)
   * plugins and how to build one
-  * 
+  * destination folders
+    * target, classes, test-classes, etc 
+  
   
   
   TODO explain more
