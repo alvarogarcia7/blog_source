@@ -8,6 +8,7 @@ categories:
 ---
 
 * Who owns your career? TODO Cite book
+  * this is not only for software people but for other trades / professionals as well
 * other chapters
 
 * Cite that now it is in the Robert C. Martin collection
