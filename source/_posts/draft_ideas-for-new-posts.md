@@ -12,3 +12,5 @@ categories:
   * I only care for the observable behaviour, not the rest
   * All my behavors should be tested. What is not tested is lost
   * The tests should be automatic as I want to execute them quite often
+* my TDD + GTD setup
+  * tags: GTD and TDD; add a link to Connor mendenhall
