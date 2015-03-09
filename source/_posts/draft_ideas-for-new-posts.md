@@ -16,3 +16,5 @@ categories:
   * tags: GTD and TDD; add a link to Connor mendenhall
   * also connected to the idea of scratchpad.md; IIRC there was a blogpost about this already
 * Software as a means to an end
+* What motivates a developer: autonomy, mastery, purpose
+  * http://jaxenter.com/motivates-developers-hint-probably-money-113347.html
