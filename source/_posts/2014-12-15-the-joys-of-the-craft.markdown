@@ -23,3 +23,9 @@ Quoting the book,
 > Finally, there is the delight of working in such a tractable medium. The programmer, like the poet, works only slightly removed from the pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creating are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures. (As we shall see later, this very tractability has its own problems.)
 >
 > <cite>Frederick P. Brooks, Jr</cite> in the ["The Mythical Man-Month"](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959)
+
+
+Update: [J.M. Beas][jmbeas] did an awesome take on this subject on [his blog][blogpost] (Spanish)
+
+[jmbeas]: https://twitter.com/jmbeas
+[blogpost]: http://blog.jmbeas.es/2010/11/01/por-que-programar-es-divertido/
