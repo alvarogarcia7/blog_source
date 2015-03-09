@@ -5,7 +5,7 @@ date: 2014-12-15 22:46:50 +0100
 comments: true
 categories: 
  - book
- - the-mythical-man-month
+ - mythical-man-month
 ---
 
 Quoting the book,
