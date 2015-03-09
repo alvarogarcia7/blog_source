@@ -14,3 +14,4 @@ categories:
   * The tests should be automatic as I want to execute them quite often
 * my TDD + GTD setup
   * tags: GTD and TDD; add a link to Connor mendenhall
+  * also connected to the idea of scratchpad.md; IIRC there was a blogpost about this already
