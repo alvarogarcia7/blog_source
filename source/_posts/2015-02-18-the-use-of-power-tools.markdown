@@ -10,7 +10,7 @@ categories:
   - big-o-notation
   - algorithm
   - protip
-  - the-right-tool-for-the-right-job
+  - right-tool-for-the-right-job
   - unix-tools
 ---
 
