@@ -17,7 +17,7 @@ I've built a small maven module, to be used directly with cucumber. You can fork
 
 This is the setup I've proposed for the meetup ["BDD Cucumber kata (gherkin + code)"](http://www.meetup.com/Agile-Barcelona-Meetup/events/220673134/). Will see if this code is successfully used by the ~40 participants in a couple of weeks
 
-(Quote from the [README.md](https://raw.githubusercontent.com/alvarogarcia7/base-bdd-cucumber/master/README.md)):
+(Quote from the [README.md](https://github.com/alvarogarcia7/base-bdd-cucumber/blob/master/README.md)):
 
 This maven project has been possible due to [Thomas Sundberg](https://twitter.com/@thomassundberg) and [this post](https://thomassundberg.wordpress.com/2014/05/29/cucumber-jvm-hello-world)
 
