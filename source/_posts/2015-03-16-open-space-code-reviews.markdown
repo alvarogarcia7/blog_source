@@ -28,7 +28,7 @@ These are my notes:
   * Do code reviews include architecture?
   * "Troll review"
   * Anyone can veto pull requests
-  * A 15-minute time slot everyday to code review [As code hygiene; Done right afterlunch,  breakfast or just before leaving, when you're tired]
+  * A 15-minute time slot everyday to code review [As code hygiene; Done right after lunch,  breakfast or just before leaving, when you're tired]
   * Code review tasks have higher priority than other tasks [Do not take other tasks if there are code reviews to do]
   * Code reviews put a lot of pressure so people learn and the knowledge level equalizes across the team
 
