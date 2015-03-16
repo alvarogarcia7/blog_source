@@ -20,7 +20,7 @@ Today we've discussed about code reviews on [this open space][eventpage]
 These are my notes, in no particular order:
 
   * reduce information silos all around the company, as everyone [technical] can participate in these events
-  * raise the newbies' knowledge
+  * raise the "just arrived" people's knowledge [Difficult to hit the ground up and running, but these code review sessions can help]
   * invest one person as 'sheriff' for the sprint: they will take care of static analysis tools (such as sonar) and continuous integration (CI; such as jenkins). They will make sure others follow the working agreements
   * In the academic environment, some teams do share their patches via mailing lists and this makes it much slower to adapt and review changes [As compared to an online sharing system - like web-based interfaces to distributed version control systems] As this team doesn't have a CI tool, they must test it / try it manually before reviewing the code.
   * Pair programming does not remove the need for code review [This has been surfaced twice]
