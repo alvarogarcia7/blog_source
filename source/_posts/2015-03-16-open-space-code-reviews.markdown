@@ -27,7 +27,7 @@ These are my notes, in no particular order:
   * Your work is not more important than your team members' one. [Related to not having time to code review]
   * Do code reviews include architecture? [We've agreed that the architecture to some degree should be discussed before code reviews]
   * "Troll review"
-  * Anyone can veto pull requests
+  * Anyone can veto pull requests [By opening a question; do not allow for pull requests to be closed with open questions]
   * A 15-minute time slot everyday to code review [As code hygiene; Done right after lunch,  breakfast or just before leaving, when you're tired]
   * Code review tasks have higher priority than other tasks [Do not take other tasks if there are code reviews to do]
   * Code reviews put a lot of pressure so people learn and the knowledge level equalizes across the team
