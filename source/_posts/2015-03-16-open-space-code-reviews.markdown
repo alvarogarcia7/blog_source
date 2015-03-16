@@ -47,7 +47,14 @@ These are my notes, in no particular order:
   * The need for code reviews do not disappear when pair programming: as long as you have a personal attachment to the code, you might not see its defects.
 
 
+## Your own
+
+Should you have any conclusions to share, please add a pull request to this [repository][blog_source] or do it as a comment.
+
+
 [eventpage]: http://www.meetup.com/Barcelona-Software-Craftsmanship/events/220293683/
+[blog_source]: https://github.com/alvarogarcia7/blog_source
 [^1]: after searching some ten minutes on the internet, there are only a couple of questions on meta.codereview stackoverflow, but not related to this.
+
 
 
