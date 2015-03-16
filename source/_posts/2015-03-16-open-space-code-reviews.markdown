@@ -25,7 +25,7 @@ These are my notes, in no particular order:
   * In the academic environment, some teams do share their patches via mailing lists and this makes it much slower to adapt and review changes [As compared to an online sharing system - like web-based interfaces to distributed version control systems] As this team doesn't have a CI tool, they must test it / try it manually before reviewing the code.
   * Pair programming does not remove the need for code review [This has been surfaced twice]
   * Your work is not more important than your team members' one. [Related to not having time to code review]
-  * Do code reviews include architecture?
+  * Do code reviews include architecture? [We've agreed that the architecture to some degree should be discussed before code reviews]
   * "Troll review"
   * Anyone can veto pull requests
   * A 15-minute time slot everyday to code review [As code hygiene; Done right after lunch,  breakfast or just before leaving, when you're tired]
