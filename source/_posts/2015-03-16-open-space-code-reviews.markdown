@@ -55,7 +55,7 @@ Should you have any conclusions to share, please add a pull request to this [rep
 
 [eventpage]: http://www.meetup.com/Barcelona-Software-Craftsmanship/events/220293683/
 [blog_source]: https://github.com/alvarogarcia7/blog_source
-[^1]: after searching some ten minutes on the internet, there are only a couple of questions on meta.codereview stackoverflow, but not related to this.
+[^1]: after searching some ten minutes on the internet, there are only a couple of questions on meta.codereview stackoverflow, but not related to this. **Update**: In [here](https://twitter.com/mallyvai/status/314260072798752768), Vaibhav Mallya talks about a #trollReview, related to code. So, unfortunately, Miguel, you're not the first one. But there are fewer than 10 results on twitter.
 
 
 
