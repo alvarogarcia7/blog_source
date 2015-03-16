@@ -11,6 +11,7 @@ categories:
     - notes
     - experience-report
     - team
+    - barcelona-software-craftsmanship
 ---
 
 Today we've discussed about code reviews on [this open space][eventpage]
@@ -40,10 +41,10 @@ These are my notes, in no particular order:
 
   * Most of the people approve of code review practices: either they are doing them or are trying to apply them at their clients. (Warning: this was a code review meetup, so there's a bias: people not interested in them won't come). No one was against doing them.
   * Code reviews have a cost, although it is beneficial to do them
-  * Should your teammates not want to participate in the code review after agreeing on doing them, appeal to their professionality / accountability, then to their time (stated before), then troll them: after a few (healthy) trolling code review sessions, people will feel more comfortable reviewing and being reviewed. Special mention to Miguel who coined (?)[^1] the term: troll review.
+  * Should your teammates not want to participate in the code review after agreeing on doing them, appeal to their professionalism / accountability, then to their time (stated before), then troll them: after a few (healthy) trolling code review sessions, people will feel more comfortable reviewing and being reviewed. Special mention to Miguel who coined (?)[^1] the term: troll review.
   * Great way of equalizing the (technical) knowledge level within the team
   * Great way of reduce information silos across the whole company
-  * They can be fun if you do them properdly
+  * They can be fun if you do them properly
   * The need for code reviews do not disappear when pair programming: as long as you have a personal attachment to the code, you might not see its defects.
 
 
