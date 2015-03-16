@@ -8,6 +8,8 @@ categories:
     - code-review
     - troll-review
     - craftsmanship
+    - notes
+    - experience-report
     - team
 ---
 
