@@ -1,8 +1,8 @@
-----
+---
 published: false
 categories:
   - logging
-----
+---
 
 if we use logging as described in GOOS chapter 19 and 20, some of the problems are reduced:
 
