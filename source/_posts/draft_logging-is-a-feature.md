@@ -17,3 +17,9 @@ We should remember that:
 At a client, we're facing this challenge: we cannot access production logs, as we don't have access to production environments. The solution we've chose is to implement the logging component as a layer on top of [Splunk](http://www.splunk.com/)
 
 This formatter layer --per component-- accesses a generic layer --for the whole company-- that accesses splunk. In this manner, it is very easy to reuse the splunk connection and configuration and inject mocks. Also helps with the local environment: you always log to console (even if in production you don't have access to it) and can disable this in local, not needing a local splunk installation
+
+Strategies for dealing with this:
+
+ * functional logger: no shared state
+ * stateful logger: information is added to the threadContext and logged whenever necessary
+ * mixed: mix and match the best of both worlds.
