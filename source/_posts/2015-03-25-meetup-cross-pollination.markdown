@@ -13,7 +13,7 @@ categories:
 
 [Adrian Bolboaca][adibolb] has written a very interesting post on being a community bumble-bee. (Source can be found [here][original-post])
 
-He goes on to explain how he has visited many meetups all over Europe and the big part he has learned from them.
+He goes on to explain how he has visited many meetups all over Europe and the big chunk of information and experience he has learned from them.
 
 He tells us about a selfish approach to organizing meetups:
 
