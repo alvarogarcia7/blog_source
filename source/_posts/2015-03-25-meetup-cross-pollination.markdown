@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meetup cross-polination"
+title: "Meetup cross-pollination"
 date: 2015-03-25 23:50:23 +0100
 comments: true
 categories: 
@@ -19,7 +19,7 @@ He tells us about a selfish approach to organizing meetups:
 
 > When one teaches two learn
 >
-> (apparently attributed to) Robert Heinlein [Source](http://www.math.niu.edu/~rusin/nonwork/quotes)
+> (apparently attributed to) Robert Heinlein, [Source](http://www.math.niu.edu/~rusin/nonwork/quotes)
 
 I share this feeling of learning while teaching, as long as you reflect and analyze (e.g., [hansei](http://en.wikipedia.org/wiki/Hansei) or [reflect as you work](http://chimera.labs.oreilly.com/books/1234000001813/ch05.html#reflect_as_you_work)). I also try to apply it to my meetups.
 
