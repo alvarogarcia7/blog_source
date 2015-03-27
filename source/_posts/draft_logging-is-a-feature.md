@@ -24,6 +24,11 @@ Strategies for dealing with this:
    * can only log information available in this scope: parameters, attributes, static information
  * stateful logger: information is added to the threadContext and logged whenever necessary
    * can log information in this scope plus any of the previous invokings.
-   * the problem is precisely sharing state: you have to control all the possible parents to know where this data comes from
+   * the problem is precisely sharing state: you have to control all the possible parents to know where this data comes from. A piece of information may come from any source. 
+   * Lose the reference of who is invoking you, as there is no customization for this. (only using implementation)
+   * Speak two different languages: one for logging and one for business logic
  * mixed: mix and match the best of both worlds.
    * The problem with the shared state can be solved if no data is overwritten and any information is stored in a map where the key is the fully qualified (FQ) method name
+
+
+GOOS explains this very well on the 20th chapter, first half "logging is a feature"
