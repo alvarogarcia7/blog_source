@@ -10,6 +10,8 @@ categories:
   - agriculture
   - gardening
   - software
+  - embedded-tweet
+  - goos
 ---
 
 This is the first post is of the [growing-software series](/{{site.category_dir}}/growing-software)
