@@ -16,7 +16,7 @@ Last year we started the program 12 months, 12 katas (as inspired by this [repos
 
 ##New problem: Mini-Power Swapper
 
-This post belongs to a series: [code-jam](/blog/categories/code-jam)
+This post belongs to a series: [code-jam](/{{site.category_dir}}/code-jam)
 
 Each month (or so) we at GMaur will publish a new problem (and announce it on [twitter](https://twitter.com/gmaurcom)) and post a solution to the last problem.
 
