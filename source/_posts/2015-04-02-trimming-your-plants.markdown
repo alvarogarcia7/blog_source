@@ -20,21 +20,21 @@ Imagine this situation: the code works. You are at [this stage][initial-phase]
 
 Disregarding the tests, the production code is complete. Could be better, but it is ready if you are in a hurry.
 
-Now, picture your test as a plant in a plantpot: it might be healthy on the outside (external quality) but how are their roots (internal quality)?
+Now, picture your test as a plant in a plant pot: it might be healthy on the outside (external quality) but how are their roots (internal quality)?
 
 Do you imagine them in an ordered fashion or in a jungle of roots? Everything on the outside is connected to one or several roots? In case it is several, what / how much do they share?
 
 ## Trimming the roots
 
-Now, let's imagine you want to put the plant in a different plantpot. You don't want the plant to be altered in any way: keep producing fruits if it was before, as green and shiny, etc. Just alter the container for business reasons.
+Now, let's imagine you want to put the plant in a different plant pot. You don't want the plant to be altered in any way: keep producing fruits as it was before, as green and shiny, etc. Just alter the container for business reasons.
 
 The more tidy and organized the roots are related to the outside plant itself, the easier it is to reshape (or refactor) it.
 
 So this is exactly what refactoring is about: "keeping the same external behaviour, modifying the internal structure". I like to explain as "modify how it is done but not what it does".
 
-When you trim the roots but leave unaltered the top, you are making it cheaper to modify the internal shape without affecting the rest. The plant will continue to grow, requiring more and more nutrients from the ground. Small increases that do not warrant a bigger plantpot, as the current one can withstand the new requirements.
+When you trim the roots but leave unaltered the top, you are making it cheaper to modify the internal shape without affecting the rest. The plant will continue to grow, requiring more and more nutrients from the ground. Small increases that do not warrant a bigger plant pot, as the current one can withstand the new requirements.
 
-This is where the analogy is no longer useful: when writing software, you're also making it easier to reuse, modify and mantain.
+This is where the analogy is no longer useful: when writing software, you're also making it easier to reuse, modify and maintain.
 
 ### Conclusion
 
