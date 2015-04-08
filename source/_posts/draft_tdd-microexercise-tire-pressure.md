@@ -45,6 +45,8 @@ Some feedback we received:
   * The exercise was concise and small, perfect for two hours' time
   
 
+Many thanks to all the attendees and to Manuel: I learnt a lot from the session and renewed my energies to keep doing these workshop sessions. Also thanks to Luca Minudel for writing these awesome exercises.
+
 [trikitrok]: http://twitter.com/@trikitrok
 [tire-pressure]: https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises/Java/TirePressureMonitoringSystem
 [lukadotnet]: https://twitter.com/lukadotnet
