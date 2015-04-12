@@ -126,4 +126,4 @@ A: Testing. Test for the purpose of testing, not TDD
 [crc-cards]: http://en.wikipedia.org/wiki/Class-responsibility-collaboration_card
 
 TODO: add reference to TDD books
-TODO add that GOOS is pronounced "/gús/" in English
+TODO add that GOOS is pronounced like the goose animal ("/gús/") in English
