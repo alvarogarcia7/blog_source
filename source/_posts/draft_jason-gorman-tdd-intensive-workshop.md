@@ -16,7 +16,7 @@ categories:
 
 Experience report on Jason Gorman's "Test-driven development intensive workshop"
 
-I attended this training in the [Greefell housing & training][training-place] in South Wimbledon, London SW19 1JZ.
+I attended this training in the [Greenfell housing & training][training-place] in South Wimbledon, London SW19 1JZ.
 
 ## Introduction
 
