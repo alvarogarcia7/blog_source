@@ -41,7 +41,7 @@ At 10:00 sharp, he started a set of slides explaining what TDD is about, includi
     * pass the test in the simplest way 
     * refactor
     * (talking with another attendee, he described to me a new TDD phase called redesign. Maybe another post will explain this in deeper detail level)
-  * Some ideas about [Simple design][simple-design] ([XP][xp])
+  * Some ideas about [Simple design, simple development, simplicity][simplicity] ([XP][xp])
   * Shown a wrong example of mixing assertions (state) and verifications (interactions)
   * More than one reason to go wrong makes the code non-trivial anymore. Non-trivial code requires tests
   * You want to see the test failing for the right reason: remove / finish code that does not compile, fix null pointers, array out of bounds exceptions, etc. See it fail with "was <X> but expected <Y>" or "NoInteractionException" (hamcrest error and mockito error, respectively; both java)
@@ -173,7 +173,7 @@ TODO complete conclusions
 [pola]: http://en.wikipedia.org/wiki/Principle_of_least_astonishment
 [tdd-as-if-you-meant-it]: http://www.infoq.com/presentations/TDD-as-if-You-Meant-It
 [tdd-is-not-a-good-name]: TODO
-[simple-design]: http://www.extremeprogramming.org/rules/simple.html
+[simplicity]: http://www.extremeprogramming.org/rules/simple.html
 [xp]: http://www.extremeprogramming.org
 [keith-b]: https://twitter.com/keithb_b
 [crc-cards]: http://en.wikipedia.org/wiki/Class-responsibility-collaboration_card
