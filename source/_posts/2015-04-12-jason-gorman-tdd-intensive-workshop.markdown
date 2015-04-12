@@ -166,6 +166,8 @@ Test on the boundaries. Many times we test in the middle of the algorithm but fo
 
 The GOOS book is pronounced like the goose animal ("/gús/") in English
 
+He said he never copy pastes. (Copy pasting this post's structure resulted in a wrong title that had to be fixed. Maybe the extra effort of not copy pasting has a good ROI, as long as you do not copy paste by typing the text you're reading from somewhere else).
+
 
 ## Conclusions
 
