@@ -100,13 +100,17 @@ Very interesting exercise, such a pity that there wasn't more time to complete t
 
 He dropped some knowledge pearls (that I'm going to use myself):
 
+```
 Q: When are you done with TDD?
 A: When you can not think of more tests for your suite
+```
 
+```
 Q: What do we do after TDD?
 A: (No answer)
 Q: Starts with "T". Any idea?
 A: Testing. Test for the purpose of testing, not TDD
+```
 
 
 ## Conclusions
