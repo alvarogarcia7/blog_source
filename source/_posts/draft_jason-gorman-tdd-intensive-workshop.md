@@ -1,7 +1,6 @@
 ---
 published: false
 categories:
-  - sample
   - training
   - workshop
   - experience-report
