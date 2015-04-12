@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trimming your plants"
+title: "Experience report: Test-driven development intensive, by Jason Gorman"
 date: 2015-04-12 20:13:45 +0200
 comments: true
 categories:
