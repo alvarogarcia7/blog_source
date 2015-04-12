@@ -166,7 +166,7 @@ Test on the boundaries. Many times we test in the middle of the algorithm but fo
 
 The GOOS book is pronounced like the goose animal ("/gús/") in English
 
-He said he never copy pastes. (Copy pasting this post's structure resulted in a wrong title that had to be fixed. Maybe the extra effort of not copy pasting has a good ROI, as long as you do not copy paste by typing the text you're reading from somewhere else).
+He said he never copy pastes [^2].
 
 
 ## Conclusions
@@ -203,3 +203,4 @@ In general, I'd like to thank Jason and the other attendees for making this work
 [keith-b]: https://twitter.com/keithb_b
 [crc-cards]: http://en.wikipedia.org/wiki/Class-responsibility-collaboration_card
 [^1]: As described by [Martin Fowler](http://martinfowler.com/bliki/TellDontAsk.html) and the [Pragmatic Bookshelf](https://pragprog.com/articles/tell-dont-ask)
+ [^2]: Copy pasting this post's structure resulted in a wrong title that had to be fixed. Maybe the extra effort of not copy pasting has a good ROI, as long as you do not copy paste by typing the text you're reading from somewhere else
