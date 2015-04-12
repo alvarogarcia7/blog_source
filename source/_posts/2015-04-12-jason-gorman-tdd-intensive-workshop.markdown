@@ -149,11 +149,13 @@ A: Testing. Test for the purpose of testing, not TDD
 ```
 
 Close concepts interested in responsibilities:
+
   * Conceptual diagram and class diagram
   * Instance diagram
   * Knowledge map and tag cloud
 
 Regarding legacy code:
+
   * Isolate big balls of mud into parts and test these as end-to-end. Also connected to isolating groups of nodes into the class graph
   * Understand what the code does, not the architecture
   * Do not use a mock to help you test legacy code, use it just as a design tool. (It might be a good idea to use it temporarily while you refactor, but remove it afterwards)
