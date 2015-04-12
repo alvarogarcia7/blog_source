@@ -22,7 +22,7 @@ I attended this training in the [Greefell housing & training][training-place] in
 
 There were 23 of us, including me. We spent some half hour introducing ourselves before the training started. I remember about a tester that came to the workshop "wanting to know more about this testing methodology". Jason's answer was priceless: "I'm sorry but you came to the wrong place: this is not about testing". (See more on this topic [here][tdd-is-not-a-good-name])
 
-At 10:00 sharp, [Jason Gorman][jasongorman] started a set of slides explaining what TDD is about including:
+At 10:00 sharp, [Jason Gorman][jason-gorman] started a set of slides explaining what TDD is about including:
 
   * productivity:
     * no company is willing to give you a "get out of jail free" card to get out of the productivity zone
