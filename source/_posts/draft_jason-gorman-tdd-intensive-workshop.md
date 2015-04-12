@@ -2,6 +2,14 @@
 published: false
 categories:
   - sample
+  - training
+  - workshop
+  - experience-report
+  - jason-gorman
+  - uk
+  - tdd
+  - crc-card
+  - pair-programming
 ---
 
 20150412-150211 AGB
