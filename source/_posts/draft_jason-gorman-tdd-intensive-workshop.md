@@ -20,7 +20,10 @@ I attended this training in the [Greenfell housing & training][training-place] i
 
 ## Introduction
 
-There were 23 of us, including me. We spent some half hour introducing ourselves before the training started. I remember about a tester that came to the workshop "wanting to know more about this testing methodology". Jason's answer was priceless: "I'm sorry but you came to the wrong place: this is not about testing". (See more on this topic [here][tdd-is-not-a-good-name])
+There were 23 of us, including me. We spent some half hour introducing ourselves before the training started. I remember about a tester that came to the workshop "wanting to know more about this testing methodology". Jason's answer was priceless: "I'm sorry but you came to the wrong place: this is not about testing". 
+{% comment %}
+(See more on this topic [here][tdd-is-not-a-good-name])
+{% endcomment %}
 
 At 10:00 sharp, he started a set of slides explaining what TDD is about, including:
 
@@ -33,8 +36,8 @@ At 10:00 sharp, he started a set of slides explaining what TDD is about, includi
     * how each problem is different
     * you can only learn it by doing
   * TDD styles:
-    * Chicago style by Kent Beck. Reference book would be "TDD by example"
-    * London school or Mockist style by Steve Freeman and Nat Pryce. Reference book would be "Growing object oriented software, guided by tests"
+    * Chicago style by Kent Beck. Reference book would be "[TDD by example][tdd-by-example]"
+    * London school or Mockist style by Steve Freeman and Nat Pryce. Reference book would be ["Growing object oriented software, guided by tests][goos]"
   * 13 good habits for a sustainable test-driven development way
   * The basic TDD cycle:
     * an executable specification, encoded in a failing test
@@ -186,7 +189,9 @@ In general, I'd like to thank Jason and the other attendees for making this work
 [workshop-link]: http://www.codemanship.co.uk/tdd.html
 [pola]: http://en.wikipedia.org/wiki/Principle_of_least_astonishment
 [tdd-as-if-you-meant-it]: http://www.infoq.com/presentations/TDD-as-if-You-Meant-It
+[goos]: http://www.growing-object-oriented-software.com/
 [tdd-is-not-a-good-name]: TODO
+[tdd-by-example]: http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530
 [spines]: http://spines.me
 [simplicity]: http://www.extremeprogramming.org/rules/simple.html
 [xp]: http://www.extremeprogramming.org
