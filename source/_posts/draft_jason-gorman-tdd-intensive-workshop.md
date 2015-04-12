@@ -162,6 +162,8 @@ Regarding legacy code:
 
 Test on the boundaries. Many times we test in the middle of the algorithm but forget the boundaries, where many special cases hide
 
+The GOOS book is pronounced like the goose animal ("/gús/") in English
+
 
 ## Conclusions
 
@@ -197,6 +199,3 @@ In general, I'd like to thank Jason and the other attendees for making this work
 [keith-b]: https://twitter.com/keithb_b
 [crc-cards]: http://en.wikipedia.org/wiki/Class-responsibility-collaboration_card
 [^1]: As described by [Martin Fowler](http://martinfowler.com/bliki/TellDontAsk.html) and the [Pragmatic Bookshelf](https://pragprog.com/articles/tell-dont-ask)
-
-TODO: add reference to TDD books
-TODO add that GOOS is pronounced like the goose animal ("/gús/") in English
