@@ -27,6 +27,8 @@ At 10:00 sharp, [Jason Gorman][jason-gorman] started a set of slides explaining 
   * productivity:
     * no company is willing to give you a "get out of jail free" card to get out of the productivity zone
     * a drop in the productivity, at least for the first weeks
+    * you have to find a time slot in your schedule to practice TDD, otherwise it's like learning to swim while crossing the Atlantic Ocean
+  * You have to feel uncomfortable not doing TDD
   * triangulation: 
     * how each problem is different
     * you can only learn it by doing
@@ -40,6 +42,44 @@ At 10:00 sharp, [Jason Gorman][jason-gorman] started a set of slides explaining 
     * refactor
     * (talking with another attendee, he described to me a new TDD phase called redesign. Maybe another post will explain this in deeper detail level)
   * Some ideas about [Simple development][simple-development] ([XP][xp])
+  * Shown a wrong example of mixing assertions (state) and verifications (interactions)
+  * More than one reason to go wrong makes the code non-trivial anymore. Non-trivial code requires tests
+  * You want to see the test failing for the right reason: remove / finish code that does not compile, fix null pointers, array out of bounds exceptions, etc. See it fail with "was <X> but expected <Y>" or "NoInteractionException" (hamcrest error and mockito error, respectively; both java)
+  * Duplication as a sign of design smell
+  * Process of generalising code: discover the need for patterns
+  * The most difficult skill in TDD is refactoring [and design; note is mine]. The TDD cycle is very easy.
+    * TDD is much more in demand than refactoring, even though the former includes the latter
+  * Refactor until you're happy with the code, until you stand by it
+
+## CRC Cards
+
+
+
+A [Class-responsibility-collaboration card][crc-cards] is as follows:
+
+  * top: class name
+  * half left: responsibilities
+  * half right: collaborations
+
+Notes from the slides:
+
+  * each then is an outcome
+    * do not mix outcomes and implications. An example: after winning the lottery, the money should be transferred to my bank account and I can buy a yatch. The former is an outcome (change in state) and the latter an implication (a new action that is now enabled)
+    * an outcome is mapped to an assertion, while a collaboration is mapped to an interaction (verify in mockito)
+  * Given / When / Then is not enough to implement an executable specification. We need examples, detail
+  * OO: send messages to distribute responsibility.
+    * A Then is an unique responsibility
+  * Topmost object: no one connects with it
+  * Put the work where the data is
+  * Tell, don't ask vs data driven design (tell a collaborator what to do vs ask for values and do the work yourself)
+  * You want as few interactions as possible (related to the tell, don't ask)
+  * More objects than outcomes is a bad thing (design smell) (?)
+  * CRC is a very mechanical exercise, do not overthink it
+  * Describe outcomes as changes in OO (new, destroy, relationships, modify fields / state)
+  * Continuous integration is not necessarily about shipping the code at each commit but having it shippable at each commit, as always having a product that is ready for its production phase
+
+
+
 
 ## Exercises
 
@@ -51,7 +91,7 @@ All exercises were done in pairs, always switching one half of the pair. He aske
 
 A chance to practice arrange, act, assert
 
-Later, he did it some live coding to develop the same kata, practicing "TDD as if you mean it" ([Keith Braithwaite][keith-b]'s original idea). We discovered together the "primitive obsession" and "feature envy" smells
+Later, he did it some live coding to develop the same kata, practicing "TDD as if you mean it" ([Keith Braithwaite][keith-b]'s original idea). We discovered together the "primitive obsession" and "feature envy" smells. We tried doing as few decisions as possible.
 
 ### Second exercise: Fibonacci sequence generator
 
@@ -68,6 +108,7 @@ I really liked some of what he said: I like to make the API correct from the fir
 As the generated sequence can only have 8 <= x <= 50 elements, a list returning a single element would not be correct. So
 
 ```java
+//class FibonacciTests
 @Test
 public void theFirstElementIsOne(){
 	assertThat(new FibonacciSequence().generate(8)[0], is(1));
@@ -82,13 +123,7 @@ I discovered that this FizzBuzz is a drinking game in the UK.
 
 ### Fourth exercise: CRC cards
 
-Before this exercise there was a short introduction on [Class-responsibility-collaboration card][crc-cards]
-
-A CRC card is as follows:
-
-top: class name
-half left: responsibilities
-half right: collaborations
+Before this exercise there was a short introduction on [Class-responsibility-collaboration card][crc-cards], explained above
 
 Following an example about a movie library, there were six user stories, described at high level, without acceptance criteria.
 
@@ -112,8 +147,24 @@ Q: Starts with "T". Any idea?
 A: Testing. Test for the purpose of testing, not TDD
 ```
 
+Close concepts interested in responsibilities:
+  * Conceptual diagram and class diagram
+  * Instance diagram
+  * Knowledge map and tag cloud
+
+Regarding legacy code:
+  * Isolate big balls of mud into parts and test these as end-to-end. Also connected to isolating groups of nodes into the class graph
+  * Understand what the code does, not the architecture
+  * Do not use a mock to help you test legacy code, use it just as a design tool. (It might be a good idea to use it temporarily while you refactor, but remove it afterwards)
+  * Tests with mocks double down on the design: if it is broken, it will be a drag more than help
+
+
+Test on the boundaries. Many times we test in the middle of the algorithm but forget the boundaries, where many special cases hide
+
 
 ## Conclusions
+
+TODO complete conclusions
 
 
 [training-place]: http://www.grenfell-housing.co.uk/
