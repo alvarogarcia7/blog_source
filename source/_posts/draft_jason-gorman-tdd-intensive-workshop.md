@@ -66,7 +66,7 @@ I really liked some of what he said: I like to make the API correct from the fir
 As the generated sequence can only have 8 <= x <= 50 elements, a list returning a single element would not be correct. So
 
 ```java
-    @Test
+@Test
 public void theFirstElementIsZero(){
 	assertThat(new FibonacciSequence().generate(8)[0], is(0));
 }
