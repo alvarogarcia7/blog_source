@@ -18,7 +18,7 @@ Experience report on [Jason Gorman][jason-gorman]'s "[Test-driven development in
 
 I attended this training in the [Greenfell housing & training][training-place] in South Wimbledon, London SW19 1JZ.
 
-## Introduction
+## Introduction
 
 There were 23 of us, including me. We spent some half hour introducing ourselves before the training started. I remember about a tester that came to the workshop "wanting to know more about this testing methodology". Jason's answer was priceless: "I'm sorry but you came to the wrong place: this is not about testing". (See more on this topic [here][tdd-is-not-a-good-name])
 
@@ -52,8 +52,6 @@ At 10:00 sharp, he started a set of slides explaining what TDD is about, includi
   * Refactor until you're happy with the code, until you stand by it
 
 ## CRC Cards
-
-
 
 A [Class-responsibility-collaboration card][crc-cards] is as follows:
 
@@ -162,7 +160,7 @@ Regarding legacy code:
 Test on the boundaries. Many times we test in the middle of the algorithm but forget the boundaries, where many special cases hide
 
 
-## Conclusions
+## Conclusions
 
 TODO complete conclusions
 
