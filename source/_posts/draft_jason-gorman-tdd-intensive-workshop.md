@@ -11,9 +11,7 @@ categories:
   - pair-programming
 ---
 
-20150412-150211 AGB
-
-Experience report on [Jason Gorman][jason-gorman]'s "[Test-driven development intensive workshop][workshop-link]" on the April 11th, 2015
+This is an experience report on [Jason Gorman][jason-gorman]'s "[Test-driven development intensive workshop][workshop-link]" on the April 11th, 2015
 
 I attended this training in the [Greenfell housing & training][training-place] in South Wimbledon, London SW19 1JZ.
 
@@ -79,8 +77,6 @@ Notes from the slides:
   * Continuous integration is not necessarily about shipping the code at each commit but having it shippable at each commit, as always having a product that is ready for its production phase
 
 
-
-
 ## Exercises
 
 All exercises were done in pairs, always switching one half of the pair. He asked for someone in the pair to raise, especially if you were not a programmer (e.g., tester, manager)
@@ -105,7 +101,7 @@ Jason did some live coding to show how he approached and triangulated this exerc
 
 I really liked some of what he said: I like to make the API correct from the first moment so I will ask questions that are correct but only check answers for things that I have already implemented. Example:
 
-As the generated sequence can only have 8 <= x <= 50 elements, a list returning a single element would not be correct. So
+As the generated sequence can only have ``8 <= x <= 50`` elements, a list returning a single element would not be correct. So
 
 ```java
 //class FibonacciTests
