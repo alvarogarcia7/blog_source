@@ -91,7 +91,7 @@ All exercises were done in pairs, always switching one half of the pair. He aske
 
 A chance to practice arrange, act, assert
 
-Later, he did it some live coding to develop the same kata, practicing "TDD as if you mean it" ([Keith Braithwaite][keith-b]'s original idea). We discovered together the "primitive obsession" and "feature envy" smells. We tried doing as few decisions as possible.
+Later, he did it some live coding to develop the same kata, practicing "[TDD as if you meant it][tdd-as-if-you-meant-it]" ([Keith Braithwaite][keith-b]'s original idea). We discovered together the "primitive obsession" and "feature envy" smells. We tried doing as few decisions as possible.
 
 ### Second exercise: Fibonacci sequence generator
 
@@ -171,6 +171,7 @@ TODO complete conclusions
 [jason-gorman]: http://twitter.com/@jasongorman
 [workshop-link]: http://www.codemanship.co.uk/tdd.html
 [pola]: http://en.wikipedia.org/wiki/Principle_of_least_astonishment
+[tdd-as-if-you-meant-it]: http://www.infoq.com/presentations/TDD-as-if-You-Meant-It
 [tdd-is-not-a-good-name]: TODO
 [simple-development]: TODO
 [xp]: TODO
