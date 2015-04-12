@@ -51,7 +51,7 @@ At 10:00 sharp, he started a set of slides explaining what TDD is about, includi
     * TDD is much more in demand than refactoring, even though the former includes the latter
   * Refactor until you're happy with the code, until you stand by it
 
-## CRC Cards
+## CRC Cards
 
 
 
@@ -71,7 +71,7 @@ Notes from the slides:
     * A Then is an unique responsibility
   * Topmost object: no one connects with it
   * Put the work where the data is
-  * Tell, don't ask vs data driven design (tell a collaborator what to do vs ask for values and do the work yourself)
+  * Tell, don't ask [^1] vs data driven design (tell a collaborator what to do vs ask for values and do the work yourself)
   * You want as few interactions as possible (related to the tell, don't ask)
   * More objects than outcomes is a bad thing (design smell) (?)
   * CRC is a very mechanical exercise, do not overthink it
@@ -176,6 +176,7 @@ TODO complete conclusions
 [xp]: TODO
 [keith-b]: https://twitter.com/keithb_b
 [crc-cards]: http://en.wikipedia.org/wiki/Class-responsibility-collaboration_card
+[^1]: As described by [Martin Fowler](http://martinfowler.com/bliki/TellDontAsk.html) and the [Pragmatic Bookshelf](https://pragprog.com/articles/tell-dont-ask)
 
 TODO: add reference to TDD books
 TODO add that GOOS is pronounced like the goose animal ("/gús/") in English
