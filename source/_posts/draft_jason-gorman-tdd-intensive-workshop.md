@@ -178,7 +178,6 @@ On a personal note:
   * I really had a great time, learnt a lot, even though I already know something about TDD
   * Met very interesting people
   * Would attend to the workshop again
-  * 
   
 In general, I'd like to thank Jason and the other attendees for making this workshop possible. I had a blast there.
 
