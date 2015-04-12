@@ -14,4 +14,6 @@ During book reviews:
   * Strive for perfection, at least yours: take any (technical) book that you like as an example. In this case, [Implementation patterns](http://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091) by Kent Beck is my example: each sentence is well thought and condensed. There is almost no superfluous information. Everything is there for a reason.
   * Add your ideas: at the end for the long distance and inline for the short distance
   
+
+TODO: explain that some of the same patterns that apply for pair programming also apply here
   
