@@ -52,7 +52,7 @@ See an example in "Open discussion: on code reviews"
 
 ### Footnotes
 
-See an exmple in "The purple wire"
+See an example in "The purple wire"
 
 ````
 bugfix into master if required[^1].
@@ -63,4 +63,15 @@ bugfix into master if required[^1].
 to master the purple wire, just leave master pointing to the defect and
 the bugfix branch with the solution. This bugfix branch will be deleted
 when a more stable fix is found.
+````
+
+
+### Comments
+
+See an example in tdd intensive workshop:
+
+````
+{% comment %}
+(See more on this topic [here][tdd-is-not-a-good-name])
+{% endcomment %}
 ````
