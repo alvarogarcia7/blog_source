@@ -47,7 +47,7 @@ All exercises were done in pairs, always switching one half of the pair. He aske
 
 ### First exercise: Banking
 
-"Write a program that is capable of transfering money from an account to another"
+    Write a program that is capable of transfering money from an account to another
 
 In pairs, a chance to practice arrange, act, assert
 
@@ -55,7 +55,7 @@ Later, he did it some live coding to develop the same kata, practicing "TDD as i
 
 ### Second exercise: Fibonacci sequence generator
 
-"Write a program that is capable of generating Fibonacci sequences, no shorter that 8 and no longer than 50"
+    Write a program that is capable of generating Fibonacci sequences, no shorter that 8 and no longer than 50
 
 In pairs, a chance to practice baby steps.
 
@@ -76,7 +76,7 @@ public void theFirstElementIsZero(){
 
 ### Third exercise: FizzBuzz
 
-"Write a program that is capable of returning a string with all numbers less than 100 that are using the FizzBuzz pattern. This FizzBuzz pattern converts the divisors of 3 to 'fizz', divisors of 5 to 'buzz' and divisors to both to 'fizzbuzz'"
+    Write a program that is capable of returning a string with all numbers less than 100 that are using the FizzBuzz pattern. This FizzBuzz pattern converts the divisors of 3 to 'fizz', divisors of 5 to 'buzz' and divisors to both to 'fizzbuzz'
 
 I discovered that this FizzBuzz is a drinking game in the UK.
 
