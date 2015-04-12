@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: "Trimming your plants"
+date: 2015-04-12 20:13:45 +0200
+comments: true
 categories:
   - training
   - workshop
@@ -46,7 +49,7 @@ At 10:00 sharp, he started a set of slides explaining what TDD is about, includi
   * More than one reason to go wrong makes the code non-trivial anymore. Non-trivial code requires tests
   * You want to see the test failing for the right reason: remove / finish code that does not compile, fix null pointers, array out of bounds exceptions, etc. See it fail with "was <X> but expected <Y>" or "NoInteractionException" (hamcrest error and mockito error, respectively; both java)
   * Duplication as a sign of design smell
-  * Process of generalising code: discover the need for patterns
+  * Process of generalizing code: discover the need for patterns
   * The most difficult skill in TDD is refactoring [and design; note is mine]. The TDD cycle is very easy.
     * TDD is much more in demand than refactoring, even though the former includes the latter
   * Refactor until you're happy with the code, until you stand by it
@@ -62,7 +65,7 @@ A [Class-responsibility-collaboration card][crc-cards] is as follows:
 Notes from the slides:
 
   * each then is an outcome
-    * do not mix outcomes and implications. An example: after winning the lottery, the money should be transferred to my bank account and I can buy a yatch. The former is an outcome (change in state) and the latter an implication (a new action that is now enabled)
+    * do not mix outcomes and implications. An example: after winning the lottery, the money should be transferred to my bank account and I can buy a yacht. The former is an outcome (change in state) and the latter an implication (a new action that is now enabled)
     * an outcome is mapped to an assertion, while a collaboration is mapped to an interaction (verify in mockito)
   * Given / When / Then is not enough to implement an executable specification. We need examples, detail
   * OO: send messages to distribute responsibility.
@@ -72,7 +75,7 @@ Notes from the slides:
   * Tell, don't ask [^1] vs data driven design (tell a collaborator what to do vs ask for values and do the work yourself)
   * You want as few interactions as possible (related to the tell, don't ask)
   * More objects than outcomes is a bad thing (design smell) (?)
-  * CRC is a very mechanical exercise, do not overthink it
+  * CRC is a very mechanical exercise, do not over think it
   * Describe outcomes as changes in OO (new, destroy, relationships, modify fields / state)
   * Continuous integration is not necessarily about shipping the code at each commit but having it shippable at each commit, as always having a product that is ready for its production phase
 
@@ -83,7 +86,8 @@ All exercises were done in pairs, always switching one half of the pair. He aske
 
 ### First exercise: Banking
 
-```Write a program that is capable of transfering money from an account to another```
+```
+Write a program that is capable of transferring money from an account to another```
 
 A chance to practice arrange, act, assert
 
@@ -91,11 +95,12 @@ Later, he did it some live coding to develop the same kata, practicing "[TDD as 
 
 ### Second exercise: Fibonacci sequence generator
 
-```Write a program that is capable of generating Fibonacci sequences, no shorter that 8 and no longer than 50```
+``
+Write a program that is capable of generating Fibonacci sequences, no shorter that 8 and no longer than 50```
 
 A chance to practice baby steps.
 
-My pair and I had the chance of discovering the importance of understanding correctly the requirements before writing a line of code. Also, I learnt about the different ways of doing TDD. In this case, my pair executed the tests via a main (java class) and saw the failures on the console. When proposed to do it in the JUnit runner the IDE has, he said he preferred it in his own ways.
+My pair and I had the chance of discovering the importance of understanding correctly the requirements before writing a line of code. Also, I learned about the different ways of doing TDD. In this case, my pair executed the tests via a main (java class) and saw the failures on the console. When proposed to do it in the JUnit runner the IDE has, he said he preferred it in his own ways.
 
 Jason did some live coding to show how he approached and triangulated this exercise. 
 
@@ -113,7 +118,8 @@ public void theFirstElementIsOne(){
 
 ### Third exercise: FizzBuzz
 
-```Write a program that is capable of returning a string with all numbers less than 100 that are using the FizzBuzz pattern. This FizzBuzz pattern converts the divisors of 3 to 'fizz', divisors of 5 to 'buzz' and divisors to both to 'fizzbuzz'```
+```
+Write a program that is capable of returning a string with all numbers less than 100 that are using the FizzBuzz pattern. This FizzBuzz pattern converts the divisors of 3 to 'fizz', divisors of 5 to 'buzz' and divisors to both to 'fizzbuzz'```
 
 I discovered that this FizzBuzz is a drinking game in the UK.
 
@@ -164,7 +170,7 @@ The GOOS book is pronounced like the goose animal ("/gús/") in English
 
   * This is a two day workshop condensed on a single day. It shows. In my opinion, it would be better to do fewer exercises and dig deeper in them rather than try so many approaches / exercises
   * The CRC exercise was well thought and really massaged. It touches the right spots and makes you want to learn more about the subject
-  * Promiscuisly pairing is always a good idea, as you don't know what level have your atendees. Get stuck for the whole day with someone who has a (very) different knowledge level than you might spoil the workshop
+  * Promiscuously pairing is always a good idea, as you don't know what level have your attendees. Get stuck for the whole day with someone who has a (very) different knowledge level than you might spoil the workshop
   * I don't see the benefit of doing the fizzbuzz kata after having done the Fibonacci sequence one
   * In my opinion, there were too many breaks. Doing a break in the morning (10-15 mins), lunch (30 mins) and afternoon (10-15 mins) is enough
 
@@ -172,7 +178,7 @@ The GOOS book is pronounced like the goose animal ("/gús/") in English
 On a personal note:
 
   * It is not enough to attend the workshop. You have to take notes and study them at home later. (Thanks [spines][spines] for this lesson)
-  * I really had a great time, learnt a lot, even though I already know something about TDD
+  * I really had a great time, learned a lot, even though I already know something about TDD
   * Met very interesting people
   * Would attend to the workshop again
   
