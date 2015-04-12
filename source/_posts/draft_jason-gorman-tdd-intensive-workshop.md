@@ -162,7 +162,23 @@ Test on the boundaries. Many times we test in the middle of the algorithm but fo
 
 ## Conclusions
 
-TODO complete conclusions
+  * This is a two day workshop condensed on a single day. It shows. In my opinion, it would be better to do fewer exercises and dig deeper in them rather than try so many approaches / exercises
+  * The CRC exercise was well thought and really massaged. It touches the right spots and makes you want to learn more about the subject
+  * Promiscuisly pairing is always a good idea, as you don't know what level have your atendees. Get stuck for the whole day with someone who has a (very) different knowledge level than you might spoil the workshop
+  * I don't see the benefit of doing the fizzbuzz kata after having done the Fibonacci sequence one
+  * In my opinion, there were too many breaks. Doing a break in the morning (10-15 mins), lunch (30 mins) and afternoon (10-15 mins) is enough
+
+
+On a personal note:
+
+  * It is not enough to attend the workshop. You have to take notes and study them at home later. (Thanks [spines][spines] for this lesson)
+  * I really had a great time, learnt a lot, even though I already know something about TDD
+  * Met very interesting people
+  * Would attend to the workshop again
+  * 
+  
+In general, I'd like to thank Jason and the other attendees for making this workshop possible. I had a blast there.
+
 
 
 [training-place]: http://www.grenfell-housing.co.uk/
@@ -171,6 +187,7 @@ TODO complete conclusions
 [pola]: http://en.wikipedia.org/wiki/Principle_of_least_astonishment
 [tdd-as-if-you-meant-it]: http://www.infoq.com/presentations/TDD-as-if-You-Meant-It
 [tdd-is-not-a-good-name]: TODO
+[spines]: http://spines.me
 [simplicity]: http://www.extremeprogramming.org/rules/simple.html
 [xp]: http://www.extremeprogramming.org
 [keith-b]: https://twitter.com/keithb_b
