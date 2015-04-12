@@ -49,7 +49,7 @@ All exercises were done in pairs, always switching one half of the pair. He aske
 
 ```Write a program that is capable of transfering money from an account to another```
 
-In pairs, a chance to practice arrange, act, assert
+A chance to practice arrange, act, assert
 
 Later, he did it some live coding to develop the same kata, practicing "TDD as if you mean it" ([Keith Braithwaite][keith-b]'s original idea). We discovered together the "primitive obsession" and "feature envy" smells
 
@@ -57,7 +57,7 @@ Later, he did it some live coding to develop the same kata, practicing "TDD as i
 
 ```Write a program that is capable of generating Fibonacci sequences, no shorter that 8 and no longer than 50```
 
-In pairs, a chance to practice baby steps.
+A chance to practice baby steps.
 
 My pair and I had the chance of discovering the importance of understanding correctly the requirements before writing a line of code. Also, I learnt about the different ways of doing TDD. In this case, my pair executed the tests via a main (java class) and saw the failures on the console. When proposed to do it in the JUnit runner the IDE has, he said he preferred it in his own ways.
 
