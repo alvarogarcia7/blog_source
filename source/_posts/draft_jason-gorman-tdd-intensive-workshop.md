@@ -69,8 +69,8 @@ As the generated sequence can only have 8 <= x <= 50 elements, a list returning 
 
 ```java
 @Test
-public void theFirstElementIsZero(){
-	assertThat(new FibonacciSequence().generate(8)[0], is(0));
+public void theFirstElementIsOne(){
+	assertThat(new FibonacciSequence().generate(8)[0], is(1));
 }
 ```
 
