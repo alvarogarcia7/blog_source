@@ -4,6 +4,8 @@ title: Talks / Events
 footer: false
 ---
 
+<!-- based on http://ecomba.pro/talks/ -->
+
 Conferences I facilitated or organized (specified below)
 
 ## 2015
