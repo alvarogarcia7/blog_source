@@ -54,7 +54,6 @@ Redesign also appears cited in [this blog post](http://blog.testdouble.com/posts
 
 
 [gary]: http://twitter.com/@garymcleanhall
-[open-pr]: 
 [refactoring-not-redesign]: https://practicingruby.com/articles/refactoring-is-not-redesign
 [dictionary]: http://www.merriam-webster.com/dictionary/redesign
 
