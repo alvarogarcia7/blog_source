@@ -10,7 +10,7 @@ Conferences I facilitated or organized (specified below)
 
 ## 2015
 
-"Refactoring legacy code" (with [Manuel Rivero](https://twitter.com/Trikitrok))
+"Refactoring legacy code driven by tests (I)" (with [Manuel Rivero](https://twitter.com/Trikitrok))
 
 Organized "Event-driven design", a talk by [Rinat Abdullin](http://twitter.com/@abdullin)
 
