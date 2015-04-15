@@ -13,6 +13,8 @@ During book reviews:
   * Be kind to the coder but not to the code (from Egoless programming). A book and a piece of code are the result of the same idea: authoring
   * Strive for perfection, at least yours: take any (technical) book that you like as an example. In this case, [Implementation patterns](http://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091) by Kent Beck is my example: each sentence is well thought and condensed. There is almost no superfluous information. Everything is there for a reason.
   * Add your ideas: at the end for the long distance and inline for the short distance
+  * Do not fall for the non-technical editor notes: the chapters are not as good as you think
+  * Strive for high quality: pick a book in this subject, possibly by another author, and see what style they use. Might help you criticizing yours. Do not accept lower quality: your readers will thank you for it
   
 
 TODO: explain that some of the same patterns that apply for pair programming also apply here
