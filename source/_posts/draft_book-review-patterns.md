@@ -4,6 +4,8 @@ categories:
   - sample
   - pattern
   - book-review
+  - book-publishing
+  - books
 ---
 
 During book reviews:
