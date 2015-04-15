@@ -16,6 +16,9 @@ During book reviews:
   * Do not fall for the non-technical editor notes: the chapters are not as good as you think
   * Strive for high quality: pick a book in this subject, possibly by another author, and see what style they use. Might help you criticizing yours. Do not accept lower quality: your readers will thank you for it
   
+  * Keep a higher overview of the chapters in paper
+  * Never deliver the original notes to the author or publishing company: these notes are very valuable as they hold your initial thoughts while reading the book. Reviewing the notes might spark another thoughts
+  
 
 TODO: explain that some of the same patterns that apply for pair programming also apply here
   
