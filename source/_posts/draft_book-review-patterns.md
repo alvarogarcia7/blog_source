@@ -18,6 +18,11 @@ During book reviews:
   
   * Keep a higher overview of the chapters in paper
   * Never deliver the original notes to the author or publishing company: these notes are very valuable as they hold your initial thoughts while reading the book. Reviewing the notes might spark another thoughts
+
+
+  * Sometimes delays are short (e.g., 3 working days per 20-25 page chapter). This will be intense, not as much as writing it, be prepare a whole in your schedule for it
+  * I do not do it on the moment, not even on the last responsible moment. I like it for the contents to click in my head and ressonate with other thoughts. The sooner you do it, the sooner it can start clicking. You can always deliver the original reviewing notes the last day
+  
   
 
 TODO: explain that some of the same patterns that apply for pair programming also apply here
