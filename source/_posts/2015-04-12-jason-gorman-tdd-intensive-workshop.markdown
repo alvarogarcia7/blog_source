@@ -16,7 +16,7 @@ categories:
 
 This is an experience report on [Jason Gorman][jason-gorman]'s "[Test-driven development intensive workshop][workshop-link]" on the April 11th, 2015
 
-I attended this training in the [Greenfell housing & training][training-place] in South Wimbledon, London SW19 1JZ.
+I attended this training in the [Greenfell housing & training][training-place] in South Wimbledon, London SW19 1JZ. The training spanned from 10:00 to 17:00 with a half an hour for lunch plus three or four 10-15 minute pauses. (7 - ,5 - 4 * 12/60 = ~5.7hours = 5 hours 45 minutes)
 
 ## Introduction
 
