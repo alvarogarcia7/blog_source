@@ -41,7 +41,7 @@ It is being picky and, to the most of our possibilities, do not letting any defe
 So, at least for me, would be an honor to be called the "Guardian of the Source" by someone I respect, as long as this is a serious proposition (i.e., not a joke of some kind).
 
 [^1]: Bad code can be expressed in many ways: long methods, bad naming, breaking design principles (e.g., SOLID, KISS, DRY - OAOO), code with defects, no tests or no coverage, etc.
-[^2]: Some source is [Discover defects early](http://c2.com/cgi/wiki?DiscoverDefectsEarly). Another is [this paper](http://developers.slashdot.org/story/03/10/21/0141215/software-defects---do-late-bugs-really-cost-more) that cites the ratio of fixing it later to 5:1 (five times more expensive).
+[^2]: A source is [Discover defects early](http://c2.com/cgi/wiki?DiscoverDefectsEarly). Another is [this paper](http://developers.slashdot.org/story/03/10/21/0141215/software-defects---do-late-bugs-really-cost-more) that cites the ratio of fixing it later to 5:1 (five times more expensive).
 [broken-window-theory]: http://en.wikipedia.org/wiki/Broken_windows_theory
 [socra]: http://www.amazon.com/The-Software-Craftsman-Professionalism-Pragmatism/dp/0134052501
 [you-shall-not-pass-meme]: http://knowyourmeme.com/memes/you-shall-not-pass
