@@ -14,6 +14,8 @@ categories:
   - guardian-of-the-source
   - collaboration
   - analogy
+  - socra
+  - mancuso
 ---
 
 Overheard today at the office, while they were discussing the approval of a pull request: 
