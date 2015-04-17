@@ -9,6 +9,8 @@ categories:
   - source
   - value
   - added-value
+  - pull-request
+  - client
 ---
 
 Overheard today at the office, while they were discussing the approval of a pull request: 
