@@ -21,7 +21,7 @@ Overheard today at the office, while they were discussing the approval of a pull
 
 This has made me think about Gandalf blocking the path of Balrog Demon, shouting "[you shall not pass][you-shall-not-pass-meme]" while on top of the bridge.
 
-This is part of the objectives of doing a pull request before merging code (to develop): stop the bad code[^1] before it is merged to the codebase.
+This is part of the objectives of doing a pull request before merging code: stop the bad code[^1] before it is merged to the codebase.
 
 Later, as you start having [broken windows][broken-window-theory] in your codebase, it is easier that you start introducing more. Exactly about this is the [broken windows theory][broken-window-theory].
 
