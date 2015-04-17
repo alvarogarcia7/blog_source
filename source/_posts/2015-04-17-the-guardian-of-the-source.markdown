@@ -11,6 +11,7 @@ categories:
   - added-value
   - pull-request
   - client
+  - guardian-of-the-source
 ---
 
 Overheard today at the office, while they were discussing the approval of a pull request: 
