@@ -24,7 +24,19 @@ If you want to see the raw details, the refactor has been committed step by step
 
 ## More information
 
+Regarding annotations:
+
   * [This official article](https://docs.oracle.com/javase/tutorial/java/annotations/) on annotations is useful.
   * [This article](http://www.vogella.com/tutorials/JavaAnnotations/article.html) by Lars Vogel guides you step by step.
   * [This article](http://tutorials.jenkov.com/java/annotations.html) by Jakov Jenkov is very nice.
   * [This article](http://crunchify.com/understanding-java-annotation-annotation-examples/) helps you to understand what an annotation is and what to use it for.
+
+Regarding aspects:
+
+  * [This question](http://stackoverflow.com/questions/14714092/spring-3-2-aop-intercepting-methods-by-annotation) has been my main source of information / inspiration for the spring + aspectj configuration
+  
+## Conclusions
+
+One of the drawbacks that I find to common examples or tutorials is that they're not complete. They show you part of the information, but not the whole. While this helps most of the readers, there are library incompatibilities, defects, specific versions, etc. This is why I like to post the whole solution, including ``pom.xml`` (dependencies) and tests.
+
+Having less documentation for developers can be acceptable if you have tests / more tests; of course, as long as other developers can follow your thought while developing.
