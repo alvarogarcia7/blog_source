@@ -24,14 +24,14 @@ If you want to see the raw details, the refactor has been committed step by step
 
 ## More information
 
-Regarding annotations:
+Regarding ``annotations`` (like @Override):
 
   * [This official article](https://docs.oracle.com/javase/tutorial/java/annotations/) on annotations is useful.
   * [This article](http://www.vogella.com/tutorials/JavaAnnotations/article.html) by Lars Vogel guides you step by step.
   * [This article](http://tutorials.jenkov.com/java/annotations.html) by Jakov Jenkov is very nice.
   * [This article](http://crunchify.com/understanding-java-annotation-annotation-examples/) helps you to understand what an annotation is and what to use it for.
 
-Regarding aspects:
+Regarding ``aspect`` (based on AspectJ):
 
   * [This question](http://stackoverflow.com/questions/14714092/spring-3-2-aop-intercepting-methods-by-annotation) has been my main source of information / inspiration for the spring + aspectj configuration
   
