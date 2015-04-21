@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: "Annotations and Aspects in Java"
+date: 2015-04-21 07:23:23 +0200
+comments: true
 categories:
   - sample
   - java
