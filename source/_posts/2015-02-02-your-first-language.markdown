@@ -22,7 +22,8 @@ Having said that, I came to the realization that you might not know a paradigm b
 
 Also, clicks with the idea of "code to interfaces, not implementations". Does it also click with you?
 
-PS: What a great book this is. I'm reading it in one of the specified ways: pick a pattern and start navigating
-through the book following the "see also" 
+PS: What a great book this is. I'm reading it as explained [here](../../../../2015/04/25/how-i-read-apprenticeship-patterns/) [^1] 
 
 PPS: you can read it online for free, [here](http://chimera.labs.oreilly.com/books/1234000001813/)
+
+[^1]: This post was extracted on 2015-04-25. The refactor techniques are very useful, not only for programming
