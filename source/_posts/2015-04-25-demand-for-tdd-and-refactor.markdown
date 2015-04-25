@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Demand for TDD and Refactoring"
+title: "Demand for TDD and Refactor"
 date: 2015-04-25 13:28:20 +0200
 comments: true
 categories: 
