@@ -50,6 +50,14 @@ See an example in "Open discussion: on code reviews"
 [code reviews](/{{site.category_dir}}/code-review)
 ````
 
+### Direct link to another post
+
+See an example in "Your first language":
+
+````
+[here](../../../../2015/04/25/how-i-read-apprenticeship-patterns/) 
+````
+
 ### Footnotes
 
 See an example in "The purple wire"
