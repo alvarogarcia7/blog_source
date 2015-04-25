@@ -14,7 +14,7 @@ categories:
 
 When I went to the Jason Gorman's TDD workshop (experience report [here](../../../../2015/04/12/jason-gorman-tdd-intensive-workshop)), he said something interesting regarding refactor and TDD:
 
-> In job requirements, TDD is much more in demand than refactor. But the latter is included in the former as an integral part.
+> In job offers / advertisements, TDD is much more in demand than refactor. But the latter is included in the former as an integral part.
 >
 > Jason Gorman
 
