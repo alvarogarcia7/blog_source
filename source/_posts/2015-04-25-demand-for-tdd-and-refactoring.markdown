@@ -10,6 +10,7 @@ categories:
   - tdd
   - refactor
   - workshop
+  - quote
 ---
 
 When I went to the Jason Gorman's TDD workshop (experience report [here](../../../../2015/04/12/jason-gorman-tdd-intensive-workshop)), he said something interesting regarding refactor and TDD:
