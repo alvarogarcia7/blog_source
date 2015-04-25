@@ -35,3 +35,6 @@ This is similar as when approving a pull request: you make sure that the code wo
 
 [^1]: I had to translate the quote, because I did not borrow the book in English
 [^2]: When the talks are available, we will be able the ensure the correct attribution of this idea.
+
+[tastapod]: http://twitter.com/@tastapod
+[svenpet]: http://twitter.com/@svenpet
