@@ -19,8 +19,8 @@ I recalled reading it non-sequentially, and explained it to them:
 
   * Read the introduction, preface, etc first
   * When you get to the patterns, pick one at random
-  * 10: Read it and navigate through the "see also". 
-  * If there are unread chapters from the "see also", goto 10
+  * 10: Read it and navigate through the ``see also``. 
+  * If there are unread chapters from the ``see also``, ``goto 10``
   * Find the remaining unread chapters and read them, try to apply the same algorithm
   * Read the appendices and finishing words
 
