@@ -25,7 +25,7 @@ I recalled reading it non-sequentially, and explained it to them:
   * Read the appendices and finishing words
 
 
-Reading a connected chapter after the first one made me connect the dots much better than reading them sequentially.
+Reading a connected chapter after the first one made me connect the dots and understand it much better than reading them sequentially.
 
 PS: This post was extracted from this one: [here](../../../../2015/02/02/your-first-language/)
 
