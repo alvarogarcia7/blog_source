@@ -17,7 +17,7 @@ In the prologue of the book, while thanking everyone that has made the book poss
 
 > [...], none of the people mentioned here would be responsible for any inaccuracy that might exist in the book, as this responsibility is exclusively mine
 >
-> Mihaly Csikszentmihalyi (translated)[^1], prologue of "Flow"
+> Mihaly Csikszentmihalyi (translated)[^1], prologue of "[Flow][flow-book]"
 
 
 {% comment %}
@@ -38,3 +38,4 @@ This is similar as when approving a pull request: you make sure that the code wo
 
 [tastapod]: http://twitter.com/@tastapod
 [svenpet]: http://twitter.com/@svenpet
+[flow-book]: http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202
