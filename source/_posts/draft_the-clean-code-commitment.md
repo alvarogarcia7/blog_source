@@ -16,6 +16,14 @@ This is a time-constrained environment where it is important to produce some min
 
 It also connects with the idea of throw-away code: in few cases I've encountered the situation where the code is only written (once) and never modified. Even in the hackathon scenario, you first produce an MVP and start adding more features. It is the essence of iterative and incremental development.
 
+In a more pragmatic way, this has nothing to do with:
+
+  * TDD, XP, agile or any other methodology
+  * any specific language (e.g., java, c#, javascript)
+  * your skill level (i.e., master, experienced, medium, beginner)
+  * deadlines or other time constraints
+  
+It is only a commitment you can opt-in for. It is a commitment for valuing software that works but also well written, in the available timeframe. It is also related to being able to say 'no' to clients, as you cannot keep the quality at your desired level.
 
 [clean-code]: http://www.amazon.com/Clean-code-Handbook-Software-Craftsmanship/dp/0132350882
 
