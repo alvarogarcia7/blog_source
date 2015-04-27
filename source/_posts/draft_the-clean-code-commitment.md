@@ -6,7 +6,7 @@ categories:
   - tdd
 ----
 
-In an epilogue in [Clean Code][clean-code], Robert C Martin talks about the "commitment to writing the best code I could write"
+In an epilogue in [Clean Code][clean-code], [Robert C Martin][unclebob] talks about the "commitment to writing the best code I could write"
 
 This is an interesting proposition, as to never "lower the quality bar" induced by constraints such as resouces.
 
@@ -26,5 +26,6 @@ In a more pragmatic way, this has nothing to do with:
 It is only a commitment you can opt-in for. It is a commitment for valuing software that works but also well written, in the available timeframe. It is also related to being able to say 'no' to clients, as you cannot keep the quality at your desired level.
 
 [clean-code]: http://www.amazon.com/Clean-code-Handbook-Software-Craftsmanship/dp/0132350882
+[unclebob]: https://twitter.com/unclebobmartin
 
 TODO check links are working
