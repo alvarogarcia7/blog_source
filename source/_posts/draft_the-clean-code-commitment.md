@@ -25,5 +25,13 @@ In a more pragmatic way, this has nothing to do with:
   
 It is only a commitment you can opt-in for. It is a commitment for valuing software that works but also well written, in the available timeframe. It is also related to being able to say 'no' to clients, as you cannot keep the quality at your desired level.
 
+## Other sources - further reading
+
+[Angela Harms][angelaharms] has an article on this: [here][harms-article-clean-code]
+[Jakub Holý][HolyJak] has an article on this: [here][holy-article-four-rules]
+
 [clean-code]: http://www.amazon.com/Clean-code-Handbook-Software-Craftsmanship/dp/0132350882
 [unclebob]: https://twitter.com/unclebobmartin
+[harms-article-clean-code]: http://myagileeducation.com/2010/need-we-always-write-clean-code/
+[HolyJak]: https://twitter.com/HolyJak
+[holy-article-four-rules]: https://theholyjava.wordpress.com/2011/02/14/clean-code-four-simple-design-rules/
