@@ -7,7 +7,7 @@ categories:
   - Q1
 ---
 
-Books I've read this quarter, as inspired by Manuel, on this [post](http://garajeando.blogspot.com.es/2015/04/books-i-read-january-april-2015.html):
+Books I've read this quarter Q1 on 2015, as inspired by Manuel, on this [post](http://garajeando.blogspot.com.es/2015/04/books-i-read-january-april-2015.html):
 
   * [Fifty Quick Ideas to Improve your User Stories](https://leanpub.com/50quickideas)
   * [Fun retrospectives](https://leanpub.com/funretrospectives)
