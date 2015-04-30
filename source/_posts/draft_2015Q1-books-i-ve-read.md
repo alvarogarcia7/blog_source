@@ -3,6 +3,8 @@ published: false
 categories:
   - book
   - reading
+  - 2015
+  - Q1
 ---
 
 Books I've read this quarter, as inspired by Manuel, on this [post](http://garajeando.blogspot.com.es/2015/04/books-i-read-january-april-2015.html):
