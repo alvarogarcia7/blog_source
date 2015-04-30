@@ -27,5 +27,3 @@ It is only a commitment you can opt-in for. It is a commitment for valuing softw
 
 [clean-code]: http://www.amazon.com/Clean-code-Handbook-Software-Craftsmanship/dp/0132350882
 [unclebob]: https://twitter.com/unclebobmartin
-
-TODO check links are working
