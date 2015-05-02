@@ -2,9 +2,16 @@
 published: false
 categories:
   - sample
+  - theory
+  - analogy
+  - rust
+  - rot
+  - improve
+  - wine
+  - TODO
 ---
 
-Does software rust or rot?
+Does software improve, rust or rot?
 
 2015-05-02 2106
 
