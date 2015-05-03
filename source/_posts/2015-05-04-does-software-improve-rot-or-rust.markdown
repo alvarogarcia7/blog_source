@@ -32,6 +32,26 @@ As your understanding of the domain, the technology, the company, the team, etc 
 
 It is difficult to introduce new features in software, without breaking old ones when you don't have executable specifications. Many feature requests (or even change requests [CR]) conflict with each other, therefore it is not possible to satisfy them all.
 
+Some references on the return of investment in software:
+
+{% comment %}
+> Knowledge is the most common return on investment expected from a job [^4]
+{% endcomment %}
+
+
+> Stretching the lifespan of an application means maximizing the return on investment of our clients [^1].
+> 
+> Are there any companies that don't care about getting a good return on their investment? [^2]
+> 
+> [...]  [the] main reason to change the whole process and adopting Agile was so that they could have a better return on the investment made on their software [^3]
+> 
+> [Software Craftsmanship: Professionalism, Pragmatism, Pride](https://leanpub.com/socra), by [Sandro Mancuso](https://twitter.com/sandromancuso)
+
+[^1]: [Software Craftsmanship](https://leanpub.com/socra) Chapter 6, Working software > legacy code > Personal and client satisfaction
+[^2]: [Software Craftsmanship](https://leanpub.com/socra) Chapter 7, Technical Practices > Context
+[^3]: [Software Craftsmanship](https://leanpub.com/socra) Chapter 2, Agile > the agile hangover > a partial transformation
+[^4]: Chapter 8, The long road > Autonomy, mastery and purpose
+
 ## Rotting
 
 Before a carrot starts rotting, it goes through a phase of decreasing quality: it starts shrinking and getting wrinkled, as part of the water is getting out. After that process, the weakest link in the carrot skin will be pierced by external agents to start digging. The rot can also start from the inside, as any fruit or vegetable has some rotting agents inside. 
