@@ -9,7 +9,7 @@ categories:
 ---
 
 
-I've read [this article][article] on why programmer passion could be negative. The title is similar to a paper by Dijkstra. 
+I've read [this article][article] on why programmer passion could be negative. The title is similar to a paper by Dijkstrag . 
 
 
 [article]: https://medium.com/on-coding/programmer-passion-considered-harmful-5c5d4e3a9b28
