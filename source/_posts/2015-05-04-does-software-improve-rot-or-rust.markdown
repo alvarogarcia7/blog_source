@@ -14,10 +14,6 @@ categories:
   - TODO
 ---
 
-Does software improve, rust or rot?
-
-2015-05-02 2106
-
 What effects does time produce on software, without any external interaction?
 
   * Does it improve, as wine?
