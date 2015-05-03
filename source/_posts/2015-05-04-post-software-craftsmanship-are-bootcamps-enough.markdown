@@ -4,6 +4,7 @@ title: "Post: Software Craftsmanship: Are Bootcamps Enough?"
 date: 2015-05-04 00:55:02 +0200
 comments: true
 categories: 
+  - article
   - craftsmanship
   - bootcamp
   - passion
