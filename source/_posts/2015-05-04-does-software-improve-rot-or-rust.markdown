@@ -46,7 +46,7 @@ Let's take as an example a metal that actually rusts, like steel. Not stainless 
 
 I don't think that software can better by itself, without any external interaction. 
 
-It is true that wine does not improve on any situation, as it should be on a constant, stable environment: pressure, light, temperature, humidity, etc. So it is safe to assume that software should be under the same beneficial environment so it is possible to keep improving:
+It is true that wine does not improve on every given situation, as it should be on a constant, stable environment: pressure, light, temperature, humidity, etc. So it is safe to assume that software should be under the same beneficial environment so it is possible to keep improving:
 
   * It should be kept in use and working knowledge spread among the users
   * It should have its defects fixed
