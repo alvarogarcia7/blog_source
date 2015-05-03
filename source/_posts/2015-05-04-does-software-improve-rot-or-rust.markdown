@@ -55,6 +55,10 @@ It is true that wine does not improve on every given situation, as it should be 
   * Kept in use and working knowledge spread among the users
   * Have its defects fixed
 
+With software, on the other hand, you can always ask your users what is the general feeling about the software, what could be improved. Some of the requests won't be technically possible, some others might not offer a good enough return on investment (ROI) but others might be doable. It is in this aspect that software can improve with time.
+
+
+
 
 Let's see what kind of comparison we can set between software an
 While trying to create an analogy
