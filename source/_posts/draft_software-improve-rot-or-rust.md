@@ -31,7 +31,7 @@ It is difficult to introduce new features in software, without breaking old ones
 
 Before a carrot starts rotting, it goes through a phase of decreasing quality: it starts shrinking and getting (TODO arrugada), as part of the water is getting out. After that process, the weakest link in the carrot skin will be pierced by external agents to start digging. The rot can also start from the inside, as any fruit or vegetable has some rotting agents inside. 
 
-Think of it as a broken window: when several carrots are together and one of them starts rotting, the rest will accelerate in the same process. Even though it is a process that runs out of your control, you have to be actively looking for rotten carrots. Removing them on time is more benefitial than keeping them in the basket for the rest of the vegetables.
+Think of it as a broken window: when several carrots are together and one of them starts rotting, the rest will accelerate in the same process. Even though it is a process that runs out of your control, you have to be actively looking for rotten carrots. Removing them on time is more beneficial than keeping them in the basket for the rest of the vegetables.
 
 ## Rusting
 
@@ -41,11 +41,11 @@ Let's take as an example a metal that actually rusts, like steel. Not stainless 
 
 I don't think that software can better by itself, without any external interaction. 
 
-It is true that wine does not improve on any situation, as it should be on a constant, stable environment: pressure, light, temperature, humidity, etc. So it is safe to assume that software should be under the same benefitial environment so it is possible to keep improving:
+It is true that wine does not improve on any situation, as it should be on a constant, stable environment: pressure, light, temperature, humidity, etc. So it is safe to assume that software should be under the same beneficial environment so it is possible to keep improving:
 
   * It should be kept in use and working knowledge spread among the users
   * It should have its defects fixed
 
 
 Let's see what kind of comparison we can set between software an
-While trying to create an analo
+While trying to create an analogy
