@@ -32,7 +32,7 @@ While the first option should be the usual case, as
 >
 > Alberto Brandolini, [Model Storming Presentation, slide 38](http://slideshare.net/ziobrando/model-storming)
 
-"software is a learning process, with the byproduct of working software" (TODO find citation). TODO also cite the analogy of an investment, (IIRC, in SoCra).
+As your understanding of the domain, the technology, the company, the team, etc improves, the produced software should also improve. This is while actively developing the software solution. But what happens when it is no longer actively developed? And actively maintained?
 
 It is difficult to introduce new features in software, without breaking old ones when you don't have executable specifications. Many feature requests (or even change requests [CR]) conflict with each other, therefore it is not possible to satisfy them all.
 
