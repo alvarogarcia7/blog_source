@@ -30,7 +30,7 @@ While the first option should be the usual case, as
 
 > [When doing DDD] software development is a learning process. Working code is a side effect
 >
-> Alberto Brandolini, [Model Storming Presentation](http://es.slideshare.net/ziobrando/model-storming)
+> Alberto Brandolini, [Model Storming Presentation, slide 38](http://slideshare.net/ziobrando/model-storming)
 
 "software is a learning process, with the byproduct of working software" (TODO find citation). TODO also cite the analogy of an investment, (IIRC, in SoCra).
 
