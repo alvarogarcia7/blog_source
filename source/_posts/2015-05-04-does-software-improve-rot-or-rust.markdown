@@ -22,7 +22,7 @@ What effects does time produce on software, without any external interaction?
 
 ## Bettering
 
-While the first option should be the usual case, as 
+While the first option should be the most usual case, as 
 
 > [When doing DDD] software development is a learning process. Working code is a side effect
 >
@@ -44,7 +44,11 @@ Let's take as an example a metal that actually rusts, like steel. Not stainless 
 
 ## Relationship with software
 
-I don't think that software can better by itself, without any external interaction. 
+Wine gets better with time: it starts acquiring other notes, removing old negative traits, more rounded (depends on composition), etc.
+
+Software should be affected in a similar way: users should start seeing improvement in known bugs, non-functional requirements (e.g., performance) start to improve, etc.
+
+While wine can improving on its own, I don't think the same can be said for software can better by itself, without any external interaction. 
 
 It is true that wine does not improve on every given situation, as it should be on a constant, stable environment: pressure, light, temperature, humidity, etc. So it is safe to assume that software should be under the same beneficial environment so it is possible to keep improving:
 
