@@ -48,8 +48,8 @@ I don't think that software can better by itself, without any external interacti
 
 It is true that wine does not improve on every given situation, as it should be on a constant, stable environment: pressure, light, temperature, humidity, etc. So it is safe to assume that software should be under the same beneficial environment so it is possible to keep improving:
 
-  * It should be kept in use and working knowledge spread among the users
-  * It should have its defects fixed
+  * Kept in use and working knowledge spread among the users
+  * Have its defects fixed
 
 
 Let's see what kind of comparison we can set between software an
