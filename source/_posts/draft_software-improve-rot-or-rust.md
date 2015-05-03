@@ -23,13 +23,19 @@ What effects does time produce on software, without any external interaction?
 
 ## Bettering
 
-While the first option should be the usual case, as "software is a learning process, with the byproduct of working software" (TODO find citation). TODO also cite the analogy of an investment, (IIRC, in SoCra).
+While the first option should be the usual case, as 
+
+> [When doing DDD] software development is a learning process. Working code is a side effect
+>
+> Alberto Brandolini, [Model Storming Presentation](http://es.slideshare.net/ziobrando/model-storming)
+
+"software is a learning process, with the byproduct of working software" (TODO find citation). TODO also cite the analogy of an investment, (IIRC, in SoCra).
 
 It is difficult to introduce new features in software, without breaking old ones when you don't have executable specifications. Many feature requests (or even change requests [CR]) conflict with each other, therefore it is not possible to satisfy them all.
 
 ## Rotting
 
-Before a carrot starts rotting, it goes through a phase of decreasing quality: it starts shrinking and getting (TODO arrugada), as part of the water is getting out. After that process, the weakest link in the carrot skin will be pierced by external agents to start digging. The rot can also start from the inside, as any fruit or vegetable has some rotting agents inside. 
+Before a carrot starts rotting, it goes through a phase of decreasing quality: it starts shrinking and getting wrinkled, as part of the water is getting out. After that process, the weakest link in the carrot skin will be pierced by external agents to start digging. The rot can also start from the inside, as any fruit or vegetable has some rotting agents inside. 
 
 Think of it as a broken window: when several carrots are together and one of them starts rotting, the rest will accelerate in the same process. Even though it is a process that runs out of your control, you have to be actively looking for rotten carrots. Removing them on time is more beneficial than keeping them in the basket for the rest of the vegetables.
 
