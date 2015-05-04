@@ -24,7 +24,7 @@ In the video, she talks programming in this fashion: (it is a stack, not an unor
 
 > Not here to change the language but change you
 
-This is a pattern I've also heard from [Alvaro Videla][old_sound], where he said that other, more powerful languages can change your mind and bring some of those concepts to your own language. He was talking about Haskell, she, about Smalltalk.
+This is a pattern I've also heard from [Alvaro Videla][old_sound], where he said that other, more powerful languages can change your mind and help you bring some of those concepts to your own language. He was talking about Haskell, she, about Smalltalk.
 
 She shows how to smell the ``null object pattern`` (that she independently discovered herself too - can be improved studying the classics[^1]), also called ``active nothing``. Decorates the ``Animal`` with a wrapper, to call it ``GuaranteedAnimal``
 
