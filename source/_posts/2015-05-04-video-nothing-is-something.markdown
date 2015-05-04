@@ -4,10 +4,13 @@ title: "Video: Nothing is something"
 date: 2015-05-04 07:43:14 +0200
 comments: true
 categories: 
+  - talk
   - video
   - sandy-metz
   - bathruby
   - 2015
+  - composition-vs-inheritance
+  - ruby
 ---
 
 I have seen this video: [Nothing is something][video] by [Sandi Metz][sandimetz], as I saw it recommended [here][recommendation]
