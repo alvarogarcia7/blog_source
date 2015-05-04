@@ -10,6 +10,6 @@ categories:
 ---
 
 
-I have found these [values][values], written by Buffer, very interesting: 
+I have found these [values][values], written by Buffer, very interesting.
 
 [values]: http://www.slideshare.net/Bufferapp/buffer-culture-04
