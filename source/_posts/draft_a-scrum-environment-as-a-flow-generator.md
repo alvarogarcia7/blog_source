@@ -7,7 +7,7 @@ TODO translate this post
 
 Things an environment should have to maximize flow generation:
 
-Dimensiones de la experiencia de flujo
+Dimensiones de la experiencia de flujo:
 
   * Claridad de metas: PO delimita las USs / PBIs para este sprint
   * Retroalimentación: entra en juego en la retrospectiva
