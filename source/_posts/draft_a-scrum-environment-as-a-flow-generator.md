@@ -9,6 +9,7 @@ categories:
   - analogy
 ---
 TODO translate this post
+TODO find these terms out in English
 
 Things an environment should have to maximize flow generation:
 
