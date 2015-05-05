@@ -22,5 +22,8 @@ Dimensiones de la experiencia de flujo:
     * Team: es fijo durante todo el sprint
     * Quality: depends on the team. pull-requests, collective code ownership, XP values
   * Concentración sobre la tarea presente: limitar WIP
-  * Desafío: TODO find out about this
+  * Challenge: TODO find out about this
+    * maybe about the time, scope, quality pieces?
+    * Maybe about new technologies?
+    * Maybe about doing it as KISS / lean as possible?
   
