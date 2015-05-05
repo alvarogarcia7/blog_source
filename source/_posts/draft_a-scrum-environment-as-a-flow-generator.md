@@ -2,6 +2,11 @@
 published: false
 categories:
   - sample
+  - scrum
+  - agile
+  - flow
+  - book
+  - analogy
 ---
 TODO translate this post
 
