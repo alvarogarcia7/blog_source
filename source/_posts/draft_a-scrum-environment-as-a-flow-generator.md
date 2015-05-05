@@ -7,6 +7,7 @@ categories:
   - flow
   - book
   - analogy
+  - csikszentmihalyi
 ---
 TODO translate this post
 
