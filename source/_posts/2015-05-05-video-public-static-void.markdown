@@ -15,14 +15,13 @@ I've watched this video: ["Public, static void"][video] by Rob Pike. The slides 
 
 ## My notes
 
-​dynamic vs static typing
-language too verbose 
-do not mix the two of them
+* too much bureaucracy
+* fighting the compiler
+* dynamic vs static typing
+* language too verbose 
+* do not mix the two of them
 
-too much bureaucracy
-fighting the compiler
-
-a language niche:
+* a language niche:
 
   * comprehensible
   * statically typed
@@ -34,7 +33,8 @@ a language niche:
   
   (minute 10:09)​
 
-Go was born to fill this niche
+* [Go][golang] was born to fill this niche
 
 [video]: https://www.youtube.com/watch?v=5kj5ApnhPAE
 [slides]: http://www.oscon.com/oscon2010/public/schedule/detail/13423
+[golang]: http://golang.org
