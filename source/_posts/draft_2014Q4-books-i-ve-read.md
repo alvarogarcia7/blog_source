@@ -12,7 +12,7 @@ Books I've read this quarter Q4 on 2014, as inspired by Manuel, on this [post](h
   * [ATDD by Example: A Practical Guide to Acceptance Test-Driven Development](http://www.amazon.com/ATDD-Example-Test-Driven-Development-Addison-Wesley/dp/0321784154)
   * [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)
   * [Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman](http://shop.oreilly.com/product/9780596518387.do)
-  * [Diseño ágil con TDD](http://www.carlosble.com/libro-tdd/)
+  * [Diseño ágil con TDD](http://www.carlosble.com/libro-tdd/), again
 
   
 Books started, not yet finished (WIP):
