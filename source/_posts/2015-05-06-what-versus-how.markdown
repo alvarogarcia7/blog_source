@@ -30,7 +30,7 @@ What and not How
 
 ## Applying this in your team
 
-Now, there might be a problem if your team has different opinion on 'what vs how' (i.e., part of the team prefers what and another prefers how)
+Now, there might be a problem if your team has a split opinion on 'what vs how' (i.e., part of the team prefers what and another prefers how)
 
 Reasons I've heard to defend how:
 
