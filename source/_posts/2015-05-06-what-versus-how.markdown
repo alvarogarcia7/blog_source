@@ -7,6 +7,7 @@ categories:
   - book
   - idea
   - what-vs-how
+  - goos
 ---
 
 After reading the GOOS[^1], the more and more I get this feeling of what vs how:
