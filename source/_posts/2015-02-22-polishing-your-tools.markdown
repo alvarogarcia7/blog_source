@@ -71,6 +71,10 @@ Some companies acknowledge that this is so important as to invest part of their 
 
 Either way, should your company provide it for your or not, you are the one in charge of your career (from Mancuso, [Software Craftsmanship][socra] - now called [The Software Craftsman][software-craftsman]). If you are not allowed to invest company time for your own benefit, you could use some of your personal time to do so. It is not required, but you will soon enjoy its profits.
 
+## Examples
+
+  * Every sprint, one of my clients (as of 2015-05) wants to review the work done using some slides and a live demo. The 'sample' slides with the format, layout is useful. Everything that should be replaced (timestamp, contents, etc) is marked with a TODO
+
 ----
 
 
