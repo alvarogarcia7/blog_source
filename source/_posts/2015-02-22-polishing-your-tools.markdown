@@ -74,6 +74,7 @@ Either way, should your company provide it for your or not, you are the one in c
 ## Examples
 
   * Every sprint, one of my clients (as of 2015-05) wants to review the work done using some slides and a live demo. The 'sample' slides with the format, layout is useful. Everything that should be replaced (timestamp, contents, etc) is marked with a TODO
+  * Every day, I commit plenty of times to the control version system (i.e., git). I have an alias for commit, diff, status, etc, that saves me some keystrokes on the most common commands
 
 ----
 
