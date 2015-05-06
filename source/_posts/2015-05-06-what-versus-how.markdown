@@ -21,7 +21,7 @@ After reading the GOOS[^1], the more and more I get this feeling of what vs how:
   	* interface / protocol name
 
 
-I also got this feeling when reading Clean Code. But with this other book the smell is much harder, stronger. This same concept is repeated all over the book. In our discussions about the book, this concept appears over and over. I'm thinking of adding a sub-title to the book:
+I also got this feeling when reading Clean Code. But with this other book the smell is much harder, stronger. This same concept is repeated all over the book. In our discussions about the book, this concept appears again and again. I'm thinking of adding a sub-title to the book:
 
 ```
 Growing Object-Oriented Software, Guided by Tests
