@@ -10,7 +10,7 @@ categories:
   - craft-conf
   - 2015
   - flow
-  - csikszentmihalyi
+  - mihaly-csikszentmihalyi
 ---
 
 In the prologue of the book, while thanking everyone that has made the book possible:
