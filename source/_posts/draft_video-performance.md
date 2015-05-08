@@ -16,3 +16,11 @@ At a client, we're investigating some performance issues:
 
 [book-performance]: http://shop.oreilly.com/product/0636920028499.do
 [jmc-video]: http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html
+[caliper]: https://code.google.com/p/caliper/
+[java-performance-tips]: http://java-performance.com/
+
+TODO:
+  * add reference to guide about performance by a guy, don't recall the name nor the author
+  * add quoute on "go ahead, optimize prematurely" from the book the definitive guide
+  * add reference to microbenchmark [caliper][caliper]
+  * add tips on [java performance][java-performance-tips]
