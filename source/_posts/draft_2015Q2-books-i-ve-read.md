@@ -11,7 +11,7 @@ Books I've read this quarter Q2 on 2015:
 
   
 Books started, not yet finished (WIP):
-  * [The Well-Grounded Java Developer](http://www.manning.com/evans/)
+  * [The Well-Grounded Java Developer](http://www.manning.com/evans/) by Benjamin J. Evans and Martijn Verburg
   
 Books I want to finish:
   * [Refactoring](http://martinfowler.com/books/refactoring.html) by Martin Fowler, with Kent Beck, John Brant, William Opdyke, and Don Roberts
