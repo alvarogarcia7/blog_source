@@ -15,7 +15,7 @@ categories:
   - collaboration
   - analogy
   - socra
-  - mancuso
+  - sandro-mancuso
 ---
 
 Overheard today at the office, while they were discussing the approval of a pull request: 
