@@ -4,22 +4,22 @@ title: "Self-study in April 2015"
 date: 2015-05-09 16:41:10 +0200
 comments: true
 categories: 
+  - 2010
   - article
   - passion
   - craftsmanship
   - bootcamp
-  - ken-auer
   - talk
   - video
-  - luke-sneeringer
-  - values
   - slides
-  - buffer
   - video
   - oscon
-  - 2010
-  - rob-pike
+  - values
   - language
+  - luke-sneeringer
+  - rob-pike
+  - ken-auer
+  - buffer
 ---
 
 Update: I've grouped all small posts related to the self-study from April 2015
