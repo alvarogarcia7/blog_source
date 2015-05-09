@@ -10,7 +10,7 @@ categories:
 Yesterday we did a training about the maven tool. One of the team members explained to us some topics including:
 
   * lifecycles 
-  * profiles
+  * profiles and how to create one
     * slowTests for integration tests (this client only)
     * downloadJavadoc
     * downloadSources
