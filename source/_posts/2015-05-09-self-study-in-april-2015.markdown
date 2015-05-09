@@ -28,10 +28,10 @@ into a single post
 
 ## Programmer passion considered harmful
 
-I've read [this article][article] on why programmer passion could be negative. The title is similar to a paper by Dijkstrag . 
+I've read [this article][article-passion] on why programmer passion could be negative. The title is similar to a paper by Dijkstrag . 
 
 
-[article]: https://medium.com/on-coding/programmer-passion-considered-harmful-5c5d4e3a9b28
+[article-passion]: https://medium.com/on-coding/programmer-passion-considered-harmful-5c5d4e3a9b28
 
 
 ## Software Craftsmanship: Are Bootcamps Enough?
@@ -45,20 +45,20 @@ I've read [this article][article-craft] on software craftsmanship, development b
 
 ## Improve your development environments with virtualization
 
-I have seen this video: [Improve your development environments with virtualization][video] by Luke Sneeringer.
+I have seen this video: [Improve your development environments with virtualization][video-environments-virtualization] by Luke Sneeringer.
 
 My notes:
 
   * development should be exactly like production.
   * except where it is too painful. there it should be different
 
-[video]: https://www.youtube.com/watch?v=Dg_vPMnC7_k&feature=youtu.be
+[video-environments-virtualization]: https://www.youtube.com/watch?v=Dg_vPMnC7_k&feature=youtu.be
 
 ## Buffer's take on values
 
-I have found these [values][values], written by Buffer, very interesting.
+I have found these [values][values-buffer], written by Buffer, very interesting.
 
-[values]: http://www.slideshare.net/Bufferapp/buffer-culture-04
+[values-buffer]: http://www.slideshare.net/Bufferapp/buffer-culture-04
 
 ## Public static void
 
