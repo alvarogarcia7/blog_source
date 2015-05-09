@@ -1,0 +1,91 @@
+---
+layout: post
+title: "Self-study in April 2015"
+date: 2015-05-09 16:41:10 +0200
+comments: true
+categories: 
+  - article
+  - passion
+  - craftsmanship
+  - bootcamp
+  - ken-auer
+  - talk
+  - video
+  - luke-sneeringer
+  - values
+  - slides
+  - buffer
+  - video
+  - oscon
+  - 2010
+  - rob-pike
+  - language
+---
+
+Update: I've grouped all small posts related to the self-study from April 2015
+into a single post
+
+
+## Programmer passion considered harmful
+
+I've read [this article][article] on why programmer passion could be negative. The title is similar to a paper by Dijkstrag . 
+
+
+[article]: https://medium.com/on-coding/programmer-passion-considered-harmful-5c5d4e3a9b28
+
+
+## Software Craftsmanship: Are Bootcamps Enough?
+
+I've read [this article][article-craft] on software craftsmanship, development bootcamps and passion by [Ken Auer][author]
+
+
+[article-craft]: https://www.coursereport.com/blog/software-craftsmanship-are-bootcamps-enough
+[author]: https://twitter.com/kauerrolemodel
+
+
+## Improve your development environments with virtualization
+
+I have seen this video: [Improve your development environments with virtualization][video] by Luke Sneeringer.
+
+My notes:
+
+  * development should be exactly like production.
+  * except where it is too painful. there it should be different
+
+[video]: https://www.youtube.com/watch?v=Dg_vPMnC7_k&feature=youtu.be
+
+## Buffer's take on values
+
+I have found these [values][values], written by Buffer, very interesting.
+
+[values]: http://www.slideshare.net/Bufferapp/buffer-culture-04
+
+## Public static void
+
+I've watched this video: ["Public, static void"][video-pbs] by Rob Pike. The slides can be found [here][slides-pbs]
+
+### My notes
+
+* too much bureaucracy
+* fighting the compiler
+* dynamic vs static typing
+* language too verbose 
+* do not mix the two of them
+
+* a language niche:
+
+  * comprehensible
+  * statically typed
+  * light on the page
+  * fast to work in
+  * scales well
+  * doesn't require tools but supports them well
+  * good at networking and multiprocessing
+  
+  (minute 10:09)​
+
+* [Go][golang] was born to fill this niche
+
+[video-pbs]: https://www.youtube.com/watch?v=5kj5ApnhPAE
+[slides-pbs]: http://www.oscon.com/oscon2010/public/schedule/detail/13423
+[golang]: http://golang.org
