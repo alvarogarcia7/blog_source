@@ -96,3 +96,9 @@ I've watched this video: ["Public, static void"][video-pbs] by Rob Pike. The sli
 This video has been extracted to a [post][nothing-is-something] of its own.
 
 [nothing-is-something]: ../../../../2015/05/04/video-nothing-is-something/
+
+## Software is eating the world
+
+This video has been extracted to a [post][eating-the-world] of its own.
+
+[eating-the-world]: ../../../../2015/05/10/talk-software-is-eating-the-world/
