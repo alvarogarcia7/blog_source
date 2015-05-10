@@ -29,7 +29,7 @@ into a single post
 
 ## Programmer passion considered harmful
 
-I've read [this article][article-passion] on why programmer passion could be negative. The title is similar to a paper by Dijkstrag . 
+I've read [this article][article-passion] on why programmer passion could be negative. The title is similar to a paper by Dijkstra. 
 
 
 [article-passion]: https://medium.com/on-coding/programmer-passion-considered-harmful-5c5d4e3a9b28
