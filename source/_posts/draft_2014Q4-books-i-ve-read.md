@@ -14,6 +14,7 @@ Books I've read this quarter Q4 on 2014, as inspired by Manuel, on this [post](h
   * [Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman](http://shop.oreilly.com/product/9780596518387.do)
   * [Diseño ágil con TDD](http://www.carlosble.com/libro-tdd/), again
   * [The Mythical Man-Month, Anniversary Edition: Essays On Software Engineering](http://www.amazon.com/The-Mythical-Man-Month-Anniversary-Edition-ebook/dp/B00B8USS14)
+  * [Implementation Patterns](http://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091) by Kent Beck
 
   
 Books started, not yet finished (WIP):
