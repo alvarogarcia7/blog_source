@@ -20,6 +20,7 @@ categories:
   - rob-pike
   - ken-auer
   - buffer
+  - self-study-aggregation
 ---
 
 Update: I've grouped all small posts related to the self-study from April 2015
@@ -89,3 +90,9 @@ I've watched this video: ["Public, static void"][video-pbs] by Rob Pike. The sli
 [video-pbs]: https://www.youtube.com/watch?v=5kj5ApnhPAE
 [slides-pbs]: http://www.oscon.com/oscon2010/public/schedule/detail/13423
 [golang]: http://golang.org
+
+## Nothing is something
+
+This video has been extracted to a [post][nothing-is-something] of its own.
+
+[nothing-is-something]: ../../../../2015/05/04/video-nothing-is-something/
