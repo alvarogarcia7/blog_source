@@ -20,7 +20,7 @@ At a client, we're investigating some performance issues:
 [java-performance-tips]: http://java-performance.com/
 
 TODO:
-  * add reference to guide about performance by a guy, don't recall the name nor the author
+  * add reference to guide about performance: mature optimization, by Carlos Bueno. [Link](http://carlos.bueno.org/optimization/mature-optimization.pdf)
   * add quoute on "go ahead, optimize prematurely" from the book the definitive guide
   * add reference to microbenchmark [caliper][caliper]
   * add tips on [java performance][java-performance-tips]
