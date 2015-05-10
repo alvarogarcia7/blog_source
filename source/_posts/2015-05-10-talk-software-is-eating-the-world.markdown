@@ -51,7 +51,7 @@ I've watched [this talk](http://reaktor.com/blog/erik-meijer-software-eating-wor
 
   * Layered architecture. Examples: OSI, Catholic Church, Army
   * Analogy: Software development as a professional team structure (also cited from Netflix)
-  * Book: Creativiy from Constraints: the psychology of breakthrough. Focus, constraint, creativity
+  * Book: Creativity from Constraints: the psychology of breakthrough. Focus, constraint, creativity
   * Presentation: [Developing Expertise: Herding Racehorses, Racing Sheep](http://www.infoq.com/presentations/Developing-Expertise-Dave-Thomas)
   * Analogy: Developers are like junkies, we want to be high all the time
   * Answering a new proposal: instead of "no, but" (black hat), "yes and" (blue hat). Reference to [Bossypants](http://www.amazon.com/Bossypants-Tina-Fey-ebook/dp/B0047Y0FGY) by Tina Fey
