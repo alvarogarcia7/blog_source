@@ -29,5 +29,8 @@ Books that have entered the queue:
   * [Why programmers work at night](https://leanpub.com/nightowls) by Swizec Teller
   * [Let Over Lambda](http://letoverlambda.com/) by Doug Hoyte
   * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovača
+  * [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) by Kees Doets and Jan van Eijck
+  * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/) by Abelson, Sussman, and Sussman
+
   
   
