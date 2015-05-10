@@ -8,7 +8,7 @@ categories:
 ---
 
 Books I've read this quarter Q2 on 2015:
-  * [Flow](http://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202) by Mihaly Csikszentmihalyi
+  * [Flow](http://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202) by Mihaly Csikszentmihalyi. Blog posts under the tag [flow](/{{site.category_dir}}/flow)
 
   
 Books started, not yet finished (WIP):
