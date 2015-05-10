@@ -43,7 +43,7 @@ I've watched [this talk](http://reaktor.com/blog/erik-meijer-software-eating-wor
 
   * There's memory in the feedback loop. See the [finite state machine](http://en.wikipedia.org/wiki/Finite-state_machine)
   * A lesson from "World War Z": "When nine people agree on something, it's the tenth man's responsibility to disagree no matter how improbable the idea". "You don't believe your own [ideas]". There's an article [here](http://lifehacker.com/plan-more-effectively-with-the-tenth-man-rule-1689738373) and [here](http://evidencemag.com/world-war-z/), but they don't cite any official source related to this. The second one cites World War Z again, so it might be [confirmation bias](http://en.wikipedia.org/wiki/Confirmation_bias).
-  * Test in production (e.g., chaos monkey from Netflix) rather than doing TDD
+  * Test in production (e.g., [chaos monkey](https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey) from Netflix) rather than doing TDD
   * No evidence of TDD as effective, he sees it as waste
   * Move fast and break things
 
