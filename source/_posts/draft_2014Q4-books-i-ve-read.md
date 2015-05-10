@@ -9,11 +9,11 @@ categories:
 
 Books I've read this quarter Q4 on 2014, as inspired by Manuel, on this [post](http://garajeando.blogspot.com.es/2015/04/books-i-read-january-april-2015.html):
 
-  * [ATDD by Example: A Practical Guide to Acceptance Test-Driven Development](http://www.amazon.com/ATDD-Example-Test-Driven-Development-Addison-Wesley/dp/0321784154)
-  * [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)
-  * [Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman](http://shop.oreilly.com/product/9780596518387.do)
-  * [Diseño ágil con TDD](http://www.carlosble.com/libro-tdd/), again
-  * [The Mythical Man-Month, Anniversary Edition: Essays On Software Engineering](http://www.amazon.com/The-Mythical-Man-Month-Anniversary-Edition-ebook/dp/B00B8USS14)
+  * [ATDD by Example: A Practical Guide to Acceptance Test-Driven Development](http://www.amazon.com/ATDD-Example-Test-Driven-Development-Addison-Wesley/dp/0321784154) by Markus Gärtner
+  * [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do) by Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
+  * [Apprenticeship Patterns, Guidance for the Aspiring Software Craftsman](http://shop.oreilly.com/product/9780596518387.do) by Dave Hoover, Adewale Oshineye
+  * [Diseño ágil con TDD](http://www.carlosble.com/libro-tdd/), by Carlos Blé Jurado; again
+  * [The Mythical Man-Month, Anniversary Edition: Essays On Software Engineering](http://www.amazon.com/The-Mythical-Man-Month-Anniversary-Edition-ebook/dp/B00B8USS14) by Frederick P. Brooks Jr.
   * [Implementation Patterns](http://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091) by Kent Beck
 
   
