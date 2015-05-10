@@ -23,7 +23,7 @@ Books I want to finish:
   
 Books that have entered the queue:
 
-  * [Mature optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf), by Carlos Bueno. 
+  * [Mature optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf), by Carlos Bueno
   * [The Leprechauns of Software Engineering](https://leanpub.com/leprechauns) by Laurent Bossavit
   * [XUnit Test Patterns](http://xunitpatterns.com/) by Gerard Meszaros
   * [Why programmers work at night](https://leanpub.com/nightowls) by Swizec Teller
