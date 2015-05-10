@@ -5,6 +5,8 @@ categories:
   - java
   - video
   - sample
+  - client
+  - investigation
 ---
 
 TODO Expand this post
