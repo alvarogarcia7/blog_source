@@ -18,7 +18,6 @@ Books started, not yet finished (WIP):
 Books I want to finish:
   * [Refactoring](http://martinfowler.com/books/refactoring.html) by Martin Fowler, with Kent Beck, John Brant, William Opdyke, and Don Roberts
   * [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/) by Steve Freeman and Nat Pryce
-  
   * [Java Performance: The Definitive Guide](http://shop.oreilly.com/product/0636920028499.do) by Scott Oaks
   * [Scrum and XP from the trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches) by Henrik Kniberg
   
