@@ -21,4 +21,10 @@ Books I want to finish:
   * [Java Performance: The Definitive Guide](http://shop.oreilly.com/product/0636920028499.do) by Scott Oaks
   * [Scrum and XP from the trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches) by Henrik Kniberg
   
+Books that have entered the queue:
+
+  * [Mature optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf), by Carlos Bueno. 
+  * [The Leprechauns of Software Engineering](https://leanpub.com/leprechauns) by Laurent Bossavit
+  * [XUnit Test Patterns](http://xunitpatterns.com/) by Gerard Meszaros
+  
   
