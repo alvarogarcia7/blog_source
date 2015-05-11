@@ -102,3 +102,19 @@ This video has been extracted to a [post][nothing-is-something] of its own.
 This video has been extracted to a [post][eating-the-world] of its own.
 
 [eating-the-world]: ../../../../2015/05/10/talk-software-is-eating-the-world/
+
+## The Cost of Test Driven Development
+
+I've read [this article](http://blog.typemock.com/2009/03/the-cost-of-test-driven-development.html), on the cost of doing TDD, which refers to [this paper][nagappan-tdd]: Realizing quality improvement through test driven development: results and experiences of four industrial teams (below)
+
+[nagappan-pdf]: http://www.msr-waypoint.net/en-us/groups/ese/nagappan_tdd.pdf
+
+{% comment %}
+## Realizing quality improvement through test driven development: results and experiences of four industrial teams
+
+This video has been extracted to a [post][quality-improvement] of its own.
+
+[quality-improvement]: ../../../../2015/05/10/talk-software-is-eating-the-world/
+
+{% endcomment %}
+
