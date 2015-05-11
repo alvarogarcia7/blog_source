@@ -15,8 +15,6 @@ categories:
   - 2008
 ---
 
-TODO publish update in https://github.com/alvarogarcia7/blog_source/edit/source/source/_posts/2015-05-09-self-study-in-april-2015.markdown
-
 I've read [this paper][nagappan-tdd] by Nagappan, Maximilien, Bhat and Williams on the cost, advantages, pitfalls of doing TDD in industrial teams (private companies who create software).
 
 ## My notes
