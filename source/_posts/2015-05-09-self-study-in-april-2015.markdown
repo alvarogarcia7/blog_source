@@ -109,12 +109,8 @@ I've read [this article](http://blog.typemock.com/2009/03/the-cost-of-test-drive
 
 [nagappan-tdd]: http://www.msr-waypoint.net/en-us/groups/ese/nagappan_tdd.pdf
 
-{% comment %}
 ## Realizing quality improvement through test driven development: results and experiences of four industrial teams
 
-This video has been extracted to a [post][quality-improvement] of its own.
+This video has been extracted to a [post][tdd-in-industrial-teams] of its own.
 
-[quality-improvement]: ../../../../2015/05/10/talk-software-is-eating-the-world/
-
-{% endcomment %}
-
+[tdd-in-industrial-teams]: ../../../../2015/05/12/paper-tdd-in-industrial-teams/
