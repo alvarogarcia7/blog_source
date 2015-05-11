@@ -107,7 +107,7 @@ This video has been extracted to a [post][eating-the-world] of its own.
 
 I've read [this article](http://blog.typemock.com/2009/03/the-cost-of-test-driven-development.html), on the cost of doing TDD, which refers to [this paper][nagappan-tdd]: Realizing quality improvement through test driven development: results and experiences of four industrial teams (below)
 
-[nagappan-pdf]: http://www.msr-waypoint.net/en-us/groups/ese/nagappan_tdd.pdf
+[nagappan-tdd]: http://www.msr-waypoint.net/en-us/groups/ese/nagappan_tdd.pdf
 
 {% comment %}
 ## Realizing quality improvement through test driven development: results and experiences of four industrial teams
