@@ -111,6 +111,6 @@ I've read [this article](http://blog.typemock.com/2009/03/the-cost-of-test-drive
 
 ## Realizing quality improvement through test driven development: results and experiences of four industrial teams
 
-This video has been extracted to a [post][tdd-in-industrial-teams] of its own.
+This paper has been extracted to a [post][tdd-in-industrial-teams] of its own.
 
 [tdd-in-industrial-teams]: ../../../../2015/05/12/paper-tdd-in-industrial-teams/
