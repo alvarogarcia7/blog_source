@@ -1,6 +1,8 @@
 ---
-published: false
 layout: post
+title: "Paper: TDD in industrial teams"
+date: 2015-05-12 00:02:44 +0200
+comments: true
 categories: 
   - paper
   - investigation
@@ -53,3 +55,4 @@ Recommendations (this is all quotes):
 
 
 [nagappan-pdf]: http://www.msr-waypoint.net/en-us/groups/ese/nagappan_tdd.pdf
+
