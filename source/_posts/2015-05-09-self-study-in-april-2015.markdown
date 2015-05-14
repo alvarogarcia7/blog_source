@@ -130,4 +130,4 @@ He suggests many interesting resources for learning Lisp dialects. The live codi
   * [4clojure Questions](https://www.4clojure.com/)
   * [Clojure Koans](http://clojurekoans.com/)
   
-On another topic, in the [Bank accounts exercise from Exercism](http://www.meetup.com/ClojureBCN/events/222418104/) meetup, we discussed the book [Programming Clojure (2nd edition)](https://pragprog.com/book/shcloj/programming-clojure) by Stuart Halloway
+On another topic, in the [Bank accounts exercise from Exercism](http://www.meetup.com/ClojureBCN/events/222418104/) meetup, we discussed the book [Programming Clojure (2nd edition)](https://pragprog.com/book/shcloj2/programming-clojure) by Stuart Halloway
