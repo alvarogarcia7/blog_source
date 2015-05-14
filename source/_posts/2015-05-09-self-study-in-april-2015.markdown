@@ -114,3 +114,20 @@ I've read [this article](http://blog.typemock.com/2009/03/the-cost-of-test-drive
 This paper has been extracted to a [post][tdd-in-industrial-teams] of its own.
 
 [tdd-in-industrial-teams]: ../../../../2015/05/12/paper-tdd-in-industrial-teams/
+
+## Learn You Some Lisp for Great Good
+
+I've watched the video [Learn You Some Lisp for Great Good](https://www.youtube.com/watch?v=3T00X_sNg4Q), by Howard Abrams.
+
+I guess this is a reference to the popular [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/).
+
+He suggests many interesting resources for learning Lisp dialects. The live coding is in Clojure:
+
+  * [The land of Lisp](http://landoflisp.com/)
+  * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/). See also [SICPQuotes](https://twitter.com/SICPQuotes)
+  * [The Little Schemer](http://mitpress.mit.edu/books/little-schemer)
+  * [An Introduction to Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/pdf/eintr.pdf)
+  * [4clojure Questions](https://www.4clojure.com/)
+  * [Clojure Koans](http://clojurekoans.com/)
+  
+On another topic, in the [Bank accounts exercise from Exercism](http://www.meetup.com/ClojureBCN/events/222418104/) meetup, we discussed the book [Programming Clojure (2nd edition)](https://pragprog.com/book/shcloj/programming-clojure) by Stuart Halloway
