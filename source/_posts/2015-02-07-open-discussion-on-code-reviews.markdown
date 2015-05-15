@@ -11,7 +11,7 @@ categories:
   - training
 ---
 
-We had a great conversation yesterday about code reviews.
+At a client, I organized an open discussion on code reviews. We had a great conversation.
 
 The main idea was to discuss about it and share the ideas each one had. I didn't want it to turn into a masterclass (see [the white belt](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#the_white_belt))
 
