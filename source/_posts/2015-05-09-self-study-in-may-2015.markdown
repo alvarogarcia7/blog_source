@@ -21,6 +21,8 @@ categories:
   - ken-auer
   - buffer
   - self-study-aggregation
+  - functional-programming
+  - guide
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
@@ -131,3 +133,9 @@ He suggests many interesting resources for learning Lisp dialects. The live codi
   * [Clojure Koans](http://clojurekoans.com/)
   
 On another topic, in the [Bank accounts exercise from Exercism](http://www.meetup.com/ClojureBCN/events/222418104/) meetup, we discussed the book [Programming Clojure (2nd edition)](https://pragprog.com/book/shcloj2/programming-clojure) by Stuart Halloway
+
+## Professor Frisby's Mostly Adequate Guide to Functional Programming
+
+I've read [this guide][mostly-adequate-guide] to functional programming. It is still work in progress (WIP) but still interesting. Written in javascript, so you can REPL in the browser.
+
+[mostly-adequate-guide]: https://github.com/DrBoolean/mostly-adequate-guide
