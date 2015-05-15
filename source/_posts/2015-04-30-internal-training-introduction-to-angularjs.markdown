@@ -11,7 +11,7 @@ categories:
   - angular
 ---
 
-At a client, today we've done an internal training on [angular js][angular]: we've prepared some [slides][slides] and a live demo.
+At a client, today I've done an internal training on [angular js][angular]: we've prepared some [slides][slides] and a live demo.
 
 The repository with all the information can be found [here][repo].
 
