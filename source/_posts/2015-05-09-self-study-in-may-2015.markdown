@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Self-study in April 2015"
+title: "Self-study in May 2015"
 date: 2015-05-09 16:41:10 +0200
 comments: true
 categories: 
@@ -23,7 +23,7 @@ categories:
   - self-study-aggregation
 ---
 
-Update: I've grouped all small posts related to the self-study from April 2015
+Update: I've grouped all small posts related to the self-study from May 2015
 into a single post
 
 
