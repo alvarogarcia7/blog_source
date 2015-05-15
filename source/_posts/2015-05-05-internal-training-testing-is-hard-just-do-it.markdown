@@ -14,7 +14,7 @@ categories:
   - article
 ---
 
-At a client, last week we did an internal training, in the form of a discussion about this article: [Testing is hard - just do it][article]
+At a client, last week I've organized an internal training, in the form of a discussion about this article: [Testing is hard - just do it][article]
 
 ## Our thoughts
 
