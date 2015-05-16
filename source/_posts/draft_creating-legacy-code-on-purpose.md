@@ -8,6 +8,28 @@ categories:
 
 For a series of posts and other writings, I'm producing, on purpose, legacy code. With tests, but legacy code. 
 
+TODO expand:
+
+Imagine a Venn diagram with:
+  * clean code
+  * Legacy code
+  * 
+  * Omega (everything), including the two above
+
+Which relationship is there between the clean code and the legacy code?
+  * Legacy includes clean
+  * Clean includes legacy
+  * They totally overlap (disjunction is empty)
+  * they partially overlap
+  * Disjoint sets (no overlapping)
+  
+* for a visual representation of overlapping sets, see [here](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
+* for more information on Venn diagrams, see [its wikipedia page](http://en.wikipedia.org/wiki/Venn_diagram)
+
+  
+
+## My way of getting there
+
 I'm trying to create code that is legacy, but still clean code. The responsibilities should be separated, naming, SOLID, KISS, etc. And I'm finding more and more difficulties to write it, so it does not always exploit the same (few) smells:
 
   * TODO smell 1: too many dependencies. breaking dependencies
