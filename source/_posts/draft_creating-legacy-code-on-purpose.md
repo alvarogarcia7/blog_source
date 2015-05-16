@@ -14,3 +14,11 @@ I'm trying to create code that is legacy, but still clean code. The responsibili
   * TODO smell 2: tests are too high-level / slow / not good enough
   * TODO smell 3: so many complicated codes after stack of patches.
   * TODO smell 4: lack of refactoring
+
+
+## Why writing legacy code with TDD is harder
+
+  * you follow dependency injection and therefore, greatly reduce hardcoded dependencies
+  * functions without side effects are easier to test than effectful ones
+
+TODO: idea - spikes where you have the failing test in your head. is this the same
