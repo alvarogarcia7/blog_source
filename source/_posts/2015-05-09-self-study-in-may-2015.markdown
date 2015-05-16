@@ -23,6 +23,19 @@ categories:
   - self-study-aggregation
   - functional-programming
   - guide
+  - oopsla
+  - 2004
+  - jmock
+  - goos
+  - nat-pryce
+  - steve-freeman
+  - kata
+  - dojo
+  - coding-dojo
+  - stuart-halloway
+  - haskell
+  - lisp
+  - learning
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
