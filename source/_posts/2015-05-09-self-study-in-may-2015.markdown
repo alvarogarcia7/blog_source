@@ -139,3 +139,19 @@ On another topic, in the [Bank accounts exercise from Exercism](http://www.meetu
 I've read [this guide][mostly-adequate-guide] to functional programming. It is still work in progress (WIP) but still interesting. Written in javascript, so you can REPL in the browser.
 
 [mostly-adequate-guide]: https://github.com/DrBoolean/mostly-adequate-guide
+
+## Learning Code Good
+
+I've watched this video, by Saron Yitbarek: [Learn Code Good][learning-code-good].
+
+[learning-code-good]: https://www.youtube.com/watch?v=-nsnAYRqYLA
+
+## Why You Don't Get Mock Objects
+
+I've watched [Why You Don't Get Mock Objects][why-you-dont-get-mock-objects], by Gregory Moeck.
+
+In it, they point to the [Growing Object-Oriented Software Guided by Tests][goos-book] book ([category here][goos-category]), the paper [Mock Roles, not Objects][mock-roles-not-objects] (also present in the GOOS book).
+
+[why-you-dont-get-mock-objects]: https://www.youtube.com/watch?v=R9FOchgTtLM
+[goos-book]: http://www.growing-object-oriented-software.com/
+[mock-roles-not-objects]: www.jmock.org/oopsla2004.pdf
