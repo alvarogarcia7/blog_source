@@ -1,6 +1,9 @@
 ---
-published: false
-categories:
+layout: post
+title: "Books read in 2014Q4"
+date: 2015-05-17 12:49:50 +0200
+comments: true
+categories: 
   - book
   - reading
   - 2014
@@ -18,8 +21,8 @@ Books I've read this quarter Q4 on 2014, as inspired by Manuel, on this [post](h
 
   
 Books started, not yet finished (WIP):
+
   * do not remember if there were any
-  
-TODO date on 2014-12-31
-  
-  
+
+
+(Note: I've written this list a posteriori, in May 2015)  
