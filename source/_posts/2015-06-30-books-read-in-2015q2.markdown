@@ -2,7 +2,7 @@
 published: false
 layout: post
 title: "Books read in 2015Q2"
-date: 2015-05-17 12:49:50 +0200
+date: 2015-06-30 12:49:50 +0200
 comments: true
 categories: 
   - book
