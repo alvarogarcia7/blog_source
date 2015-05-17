@@ -179,3 +179,10 @@ This has made me think of the ["Deuda técnica, origen y consecuencias" talk][de
 [jeremy-jarrell]: https://twitter.com/@jeremyjarrell
 [deuda-tecnica-javier-gomez]: http://scbcn.ideascale.com/a/dtd/Deuda-t%C3%A9cnica-origen-y-consecuencias/69782-25568
 [jgomezz]: https://twitter.com/@jgomezz
+
+## Revisiting XP: be a thoughtful programmer by exercising more collective ownership
+
+I've read [this article][revisiting-xp-collective-ownership] by [Tiago Garcia][tiago-garcia] on the collective code ownership, as stated by Xtreme Programming (XP), with some example and guidelines.
+
+[revisiting-xp-collective-ownership]: http://www.infoq.com/articles/revisit-p-collective
+[tiago-garcia]: https://twitter.com/tiagooo_romero
