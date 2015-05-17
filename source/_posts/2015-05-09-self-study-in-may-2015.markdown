@@ -40,6 +40,7 @@ categories:
   - jeremy-jarrell
   - gregory-moeck
   - saron-yitbarek
+  - greg-wilson
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
@@ -191,3 +192,9 @@ I've read [this article][revisiting-xp-collective-ownership] by [Tiago Garcia][t
 
 [revisiting-xp-collective-ownership]: http://www.infoq.com/articles/revisit-p-collective
 [tiago-garcia]: https://twitter.com/tiagooo_romero
+
+## Where's the Real Bottleneck in Scientific Computing?
+
+I've read [this article][real-bottleneck] by Greg Wilson on the tools and procedures investigators use to produce software.
+
+[real-bottleneck]: http://www.americanscientist.org/issues/pub/wheres-the-real-bottleneck-in-scientific-computing/99999
