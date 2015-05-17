@@ -168,6 +168,7 @@ In it, they point to the [Growing Object-Oriented Software Guided by Tests][goos
 [why-you-dont-get-mock-objects]: https://www.youtube.com/watch?v=R9FOchgTtLM
 [goos-book]: http://www.growing-object-oriented-software.com/
 [mock-roles-not-objects]: www.jmock.org/oopsla2004.pdf
+[goos-category]: /{{site.category_dir}}/goos
 
 ## Technical Debt: A Repayment Plan
 
