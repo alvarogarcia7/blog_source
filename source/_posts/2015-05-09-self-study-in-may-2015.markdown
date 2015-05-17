@@ -36,6 +36,10 @@ categories:
   - haskell
   - lisp
   - learning
+  - tiago-garcia
+  - jeremy-jarrell
+  - gregory-moeck
+  - saron-yitbarek
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
