@@ -168,3 +168,14 @@ In it, they point to the [Growing Object-Oriented Software Guided by Tests][goos
 [why-you-dont-get-mock-objects]: https://www.youtube.com/watch?v=R9FOchgTtLM
 [goos-book]: http://www.growing-object-oriented-software.com/
 [mock-roles-not-objects]: www.jmock.org/oopsla2004.pdf
+
+## Technical Debt: A Repayment Plan
+
+I've read [this article][tech-debt-repayment] by [Jeremy Jarrell][jeremy-jarrell] on technical debt how to repay it: schedule, taxes, default, etc
+
+This has made me think of the ["Deuda técnica, origen y consecuencias" talk][deuda-tecnica-javier-gomez] (Technical debt: origin and consequences) (Spanish), that was delivered by [Javier Gómez][jgomezz] at the Software Craftsmanship 2014.
+
+[tech-debt-repayment]: http://www.infoq.com/articles/tech-debt-repayment
+[jeremy-jarrell]: https://twitter.com/@jeremyjarrell
+[deuda-tecnica-javier-gomez]: http://scbcn.ideascale.com/a/dtd/Deuda-t%C3%A9cnica-origen-y-consecuencias/69782-25568
+[jgomezz]: https://twitter.com/@jgomezz
