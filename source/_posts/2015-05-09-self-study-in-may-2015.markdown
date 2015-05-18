@@ -24,6 +24,7 @@ categories:
   - functional-programming
   - guide
   - oopsla
+  - scrum
   - 2004
   - jmock
   - goos
@@ -41,6 +42,7 @@ categories:
   - gregory-moeck
   - saron-yitbarek
   - greg-wilson
+  - ron-jeffries
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
@@ -198,3 +200,13 @@ I've read [this article][revisiting-xp-collective-ownership] by [Tiago Garcia][t
 I've read [this article][real-bottleneck] by Greg Wilson on the tools and procedures investigators use to produce software.
 
 [real-bottleneck]: http://www.americanscientist.org/issues/pub/wheres-the-real-bottleneck-in-scientific-computing/99999
+
+## Testing inside the Sprint
+
+I've read [this article][testing-inside-sprints] by Ron Jeffries.
+
+Discusses the need for testing and why this hasn't been communicated enough, as there still are people who have not understood it.
+
+Also about why people equal something failing when using scrum with scrum failing.
+
+[testing-inside-sprints]: http://ronjeffries.com/articles/2015-03-01-testing-in-sprints/
