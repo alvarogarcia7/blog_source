@@ -13,6 +13,7 @@ categories:
   - thirumalesh-bhat
   - laurie-williams
   - 2008
+  - quote
 ---
 
 I've read [this paper][nagappan-tdd] by Nagappan, Maximilien, Bhat and Williams on the cost, advantages, pitfalls of doing TDD in industrial teams (private companies who create software).
