@@ -210,3 +210,9 @@ Discusses the need for testing and why this hasn't been communicated enough, as 
 Also about why people equal something failing when using scrum with scrum failing.
 
 [testing-inside-sprints]: http://ronjeffries.com/articles/2015-03-01-testing-in-sprints/
+
+## DTO vs Domain Models
+
+I've read [this article][dto-vs-domain-models] by Carlos Blé
+
+[dto-vs-domain-models]: http://www.carlosble.com/2015/05/dto-vs-domain-models/
