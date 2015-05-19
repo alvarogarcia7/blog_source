@@ -32,6 +32,8 @@ categories:
   - steve-freeman
   - kata
   - dojo
+  - dto
+  - domain-object
   - coding-dojo
   - stuart-halloway
   - haskell
@@ -43,6 +45,7 @@ categories:
   - saron-yitbarek
   - greg-wilson
   - ron-jeffries
+  - carlos-ble
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
