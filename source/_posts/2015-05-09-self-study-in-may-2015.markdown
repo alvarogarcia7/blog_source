@@ -219,3 +219,12 @@ Also about why people equal something failing when using scrum with scrum failin
 I've read [this article][dto-vs-domain-models] by Carlos Blé
 
 [dto-vs-domain-models]: http://www.carlosble.com/2015/05/dto-vs-domain-models/
+
+## Homoiconicity isn’t the point
+
+I've read [this article][homoicononicity-is-not-the-point] by David Herman about homoiconicity, comparing Lisp dialects (have it) to others that don't. The main point is at the end, where it says:
+
+> [...] homoiconicity isn’t the point, read is
+
+
+[homoicononicity-is-not-the-point]: http://calculist.org/blog/2012/04/17/homoiconicity-isnt-the-point/
