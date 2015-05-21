@@ -46,6 +46,7 @@ categories:
   - greg-wilson
   - ron-jeffries
   - carlos-ble
+  - jeff-atwood
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
@@ -228,3 +229,9 @@ I've read [this article][homoicononicity-is-not-the-point] by David Herman about
 
 
 [homoicononicity-is-not-the-point]: http://calculist.org/blog/2012/04/17/homoiconicity-isnt-the-point/
+
+## So You Don't Want to be a Programmer After All
+
+I've read [this article][programmer-after-all] by Jeff Atwood. Cites the golden handcuffs (also known as golden shackles), reasons to be and not to be a programmer, and how to be an average and outstanding programmer
+
+[programmer-after-all]: http://blog.codinghorror.com/so-you-dont-want-to-be-a-programmer-after-all/
