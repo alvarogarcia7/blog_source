@@ -43,6 +43,7 @@ categories:
   - saron-yitbarek
   - greg-wilson
   - ron-jeffries
+  - slava-akhmechet
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
@@ -210,3 +211,9 @@ Discusses the need for testing and why this hasn't been communicated enough, as 
 Also about why people equal something failing when using scrum with scrum failing.
 
 [testing-inside-sprints]: http://ronjeffries.com/articles/2015-03-01-testing-in-sprints/
+
+## The Nature of Lisp
+
+I've read [this article / introduction][the-nature-of-lisp] to Lisp by Slava Akhmechet
+
+[the-nature-of-lisp]: http://www.defmacro.org/ramblings/lisp.html
