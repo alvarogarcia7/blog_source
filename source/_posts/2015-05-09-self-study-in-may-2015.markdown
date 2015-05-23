@@ -32,6 +32,8 @@ categories:
   - steve-freeman
   - kata
   - dojo
+  - dto
+  - domain-object
   - coding-dojo
   - stuart-halloway
   - haskell
@@ -43,6 +45,8 @@ categories:
   - saron-yitbarek
   - greg-wilson
   - ron-jeffries
+  - carlos-ble
+  - jeff-atwood
   - slava-akhmechet
 ---
 
@@ -211,6 +215,26 @@ Discusses the need for testing and why this hasn't been communicated enough, as 
 Also about why people equal something failing when using scrum with scrum failing.
 
 [testing-inside-sprints]: http://ronjeffries.com/articles/2015-03-01-testing-in-sprints/
+
+## DTO vs Domain Models
+
+I've read [this article][dto-vs-domain-models] by Carlos Blé
+
+[dto-vs-domain-models]: http://www.carlosble.com/2015/05/dto-vs-domain-models/
+
+## Homoiconicity isn’t the point
+
+I've read [this article][homoicononicity-is-not-the-point] by David Herman about homoiconicity, comparing Lisp dialects (have it) to others that don't. The main point is at the end, where it says:
+
+> [...] homoiconicity isn’t the point, read is
+
+[homoicononicity-is-not-the-point]: http://calculist.org/blog/2012/04/17/homoiconicity-isnt-the-point/
+
+## So You Don't Want to be a Programmer After All
+
+I've read [this article][programmer-after-all] by Jeff Atwood. Cites the golden handcuffs (also known as golden shackles), reasons to be and not to be a programmer, and how to be an average and outstanding programmer
+
+[programmer-after-all]: http://blog.codinghorror.com/so-you-dont-want-to-be-a-programmer-after-all/
 
 ## The Nature of Lisp
 
