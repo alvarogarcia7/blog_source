@@ -53,6 +53,7 @@ categories:
   - michael-bernstein
   - technologist
   - well-rounded
+  - papers
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
@@ -258,3 +259,9 @@ I've read [these comments][thoughts-go-lang] on Go Lang from David Pollak
 I've read [this article][well-rounded-technologist] by Michael Bernstein
 
 [well-rounded-technologist]: http://michaelrbernste.in/2014/04/02/the-well-rounded-technologist.html
+
+## Should I read papers?
+
+I've read [this article][should-i-read-papers] by Michael Bernstein
+
+[should-i-read-papers]: http://michaelrbernste.in/2014/10/21/should-i-read-papers.html
