@@ -48,6 +48,8 @@ categories:
   - carlos-ble
   - jeff-atwood
   - slava-akhmechet
+  - go
+  - david-pollak
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
@@ -241,3 +243,9 @@ I've read [this article][programmer-after-all] by Jeff Atwood. Cites the golden 
 I've read [this article / introduction][the-nature-of-lisp] to Lisp by Slava Akhmechet
 
 [the-nature-of-lisp]: http://www.defmacro.org/ramblings/lisp.html
+
+## [David Pollak] My Thoughts on Go
+
+I've read [these comments][thoughts-go-lang] on Go Lang from David Pollak
+
+[thoughts-go-lang]: http://blog.goodstuff.im/golang
