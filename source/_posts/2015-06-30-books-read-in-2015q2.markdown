@@ -38,6 +38,7 @@ Books that have entered the queue:
   * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovača
   * [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) by Kees Doets and Jan van Eijck
   * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/) by Abelson, Sussman, and Sussman
+  * [Types and Programming Languages ](http://www.cis.upenn.edu/~bcpierce/tapl/) by Benjamin C. Pierce
 
 
 Starting in 2015-Q2, I'm also writing here the list of books that I want to read.
