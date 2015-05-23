@@ -50,6 +50,9 @@ categories:
   - slava-akhmechet
   - go
   - david-pollak
+  - michael-bernstein
+  - technologist
+  - well-rounded
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
@@ -249,3 +252,9 @@ I've read [this article / introduction][the-nature-of-lisp] to Lisp by Slava Akh
 I've read [these comments][thoughts-go-lang] on Go Lang from David Pollak
 
 [thoughts-go-lang]: http://blog.goodstuff.im/golang
+
+## The Well-Rounded Technologist
+
+I've read [this article][well-rounded-technologist] by Michael Bernstein
+
+[well-rounded-technologist]: http://michaelrbernste.in/2014/04/02/the-well-rounded-technologist.html
