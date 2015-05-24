@@ -57,6 +57,11 @@ categories:
   - papers
   - lisp-1
   - lisp-2
+  - tedx
+  - tedx-brussels
+  - aza-raskin
+  - data-bank
+  - science-corp
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
@@ -274,3 +279,9 @@ I've read [this article][should-i-read-papers] by Michael Bernstein
 I've read [this article][lisp-1-lisp-2] by [@Hornbeck](https://twitter.com/hornbeck) about the lisp 1 and lisp 2.
 
 [lisp-1-lisp-2]: https://hornbeck.wordpress.com/2009/07/05/lisp-1-vs-lisp-2/
+
+## Science Corps
+
+I've watched this [TEDx talk][tedx-science-corps] by Aza Raskin, featuring Data Banks and Science corps
+
+[tedx-science-corps]: https://www.youtube.com/watch?v=dkQkafxFoIQ
