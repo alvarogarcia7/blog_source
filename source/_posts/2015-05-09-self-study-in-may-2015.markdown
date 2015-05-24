@@ -256,7 +256,7 @@ I've read [this article / introduction][the-nature-of-lisp] to Lisp by Slava Akh
 
 [the-nature-of-lisp]: http://www.defmacro.org/ramblings/lisp.html
 
-## [David Pollak] My Thoughts on Go
+## [David Pollak's] My Thoughts on Go
 
 I've read [these comments][thoughts-go-lang] on Go Lang from David Pollak
 
