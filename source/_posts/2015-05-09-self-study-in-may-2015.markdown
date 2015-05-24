@@ -51,9 +51,12 @@ categories:
   - go
   - david-pollak
   - michael-bernstein
+  - hornbeck
   - technologist
   - well-rounded
   - papers
+  - lisp-1
+  - lisp-2
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
@@ -265,3 +268,9 @@ I've read [this article][well-rounded-technologist] by Michael Bernstein
 I've read [this article][should-i-read-papers] by Michael Bernstein
 
 [should-i-read-papers]: http://michaelrbernste.in/2014/10/21/should-i-read-papers.html
+
+## Lisp-1 vs Lisp-2
+
+I've read [this article][lisp-1-lisp-2] by [@Hornbeck](https://twitter.com/hornbeck) about the lisp 1 and lisp 2.
+
+[lisp-1-lisp-2]: https://hornbeck.wordpress.com/2009/07/05/lisp-1-vs-lisp-2/
