@@ -62,6 +62,9 @@ categories:
   - aza-raskin
   - data-bank
   - science-corp
+  - philippe-creux
+  - preparatory-refactoring
+  - refactoring
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
@@ -285,3 +288,9 @@ I've read [this article][lisp-1-lisp-2] by [@Hornbeck](https://twitter.com/hornb
 I've watched this [TEDx talk][tedx-science-corps] by Aza Raskin, featuring Data Banks and Science corps
 
 [tedx-science-corps]: https://www.youtube.com/watch?v=dkQkafxFoIQ
+
+## Healthy Codebase and Preparatory Refactoring
+
+ I've read [this article][preparatory-refactoring] by Philippe Creux about preparatory refactoring
+
+[preparatory-refactoring]: http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html
