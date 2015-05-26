@@ -294,3 +294,9 @@ I've watched this [TEDx talk][tedx-science-corps] by Aza Raskin, featuring Data 
  I've read [this article][preparatory-refactoring] by Philippe Creux about preparatory refactoring
 
 [preparatory-refactoring]: http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html
+
+## You Are Learning Haskell Right Now (Or Anything You Want Really)
+
+I've read [this article][you-are-learning-haskell-right-now] by Michael Bernstein
+
+[you-are-learning-haskell-right-now]: http://michaelrbernste.in/2014/12/11/you-are-learning-haskell-right-now.html
