@@ -306,3 +306,9 @@ I've read [this article][you-are-learning-haskell-right-now] by Michael Bernstei
 I've read [this article][lisp-is-abstract-syntax] by Michael Bernstein
 
 [lisp-is-abstract-syntax]: http://michaelrbernste.in/2014/04/16/lisp-is-abstract-syntax.html
+
+## Two Things Types Have Taught Me
+
+I've read [this article][two-things-that-types-have-taught-me] by Michael Bernstein
+
+[two-things-that-types-have-taught-me]: http://michaelrbernste.in/2014/10/30/two-things-types-have-taught-me.html
