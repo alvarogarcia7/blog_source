@@ -324,3 +324,9 @@ I've read [this article][dont-bet-against-yourself] by Michael Bernstein
 I've read [this article][a-blank-is-a-blank-with-a-blank] by Michael Bernstein
 
 [a-blank-is-a-blank-with-a-blank]: http://michaelrbernste.in/2015/04/15/dont-bet-against-yourself.html
+
+## The False Economy Of Metaprogramming
+
+I've read [this article][false-economy-of-metaprogramming] by Michael Bernstein
+
+[false-economy-of-metaprogramming]: http://michaelrbernste.in/2015/03/06/the-false-economy-of-generated-methods.html
