@@ -300,3 +300,9 @@ I've watched this [TEDx talk][tedx-science-corps] by Aza Raskin, featuring Data 
 I've read [this article][you-are-learning-haskell-right-now] by Michael Bernstein
 
 [you-are-learning-haskell-right-now]: http://michaelrbernste.in/2014/12/11/you-are-learning-haskell-right-now.html
+
+## Lisp is Abstract Syntax
+
+I've read [this article][lisp-is-abstract-syntax] by Michael Bernstein
+
+[lisp-is-abstract-syntax]: http://michaelrbernste.in/2014/04/16/lisp-is-abstract-syntax.html
