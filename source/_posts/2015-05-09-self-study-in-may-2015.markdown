@@ -318,3 +318,9 @@ I've read [this article][two-things-that-types-have-taught-me] by Michael Bernst
 I've read [this article][dont-bet-against-yourself] by Michael Bernstein
 
 [dont-bet-against-yourself]: http://michaelrbernste.in/2015/04/15/dont-bet-against-yourself.html
+
+## Learning Math: A Blank Is A Blank With A Blank
+
+I've read [this article][a-blank-is-a-blank-with-a-blank] by Michael Bernstein
+
+[a-blank-is-a-blank-with-a-blank]: http://michaelrbernste.in/2015/04/15/dont-bet-against-yourself.html
