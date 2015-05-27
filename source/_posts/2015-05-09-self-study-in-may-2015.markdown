@@ -312,3 +312,9 @@ I've read [this article][lisp-is-abstract-syntax] by Michael Bernstein
 I've read [this article][two-things-that-types-have-taught-me] by Michael Bernstein
 
 [two-things-that-types-have-taught-me]: http://michaelrbernste.in/2014/10/30/two-things-types-have-taught-me.html
+
+## Don't Bet Against Yourself
+
+I've read [this article][dont-bet-against-yourself] by Michael Bernstein
+
+[dont-bet-against-yourself]: http://michaelrbernste.in/2015/04/15/dont-bet-against-yourself.html
