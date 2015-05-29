@@ -65,6 +65,9 @@ categories:
   - philippe-creux
   - preparatory-refactoring
   - refactoring
+  - adam-angelo
+  - management
+  - engineering
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
@@ -330,3 +333,9 @@ I've read [this article][a-blank-is-a-blank-with-a-blank] by Michael Bernstein
 I've read [this article][false-economy-of-metaprogramming] by Michael Bernstein
 
 [false-economy-of-metaprogramming]: http://michaelrbernste.in/2015/03/06/the-false-economy-of-generated-methods.html
+
+## Management and Engineering, overlapping
+
+I've read [this Quora answer][management-and-engineering-overlapping] by Adam D'Angelo. The original title is: Does Adam D'Angelo feel comfortable with the transition from an engineer to a management position?
+
+[management-and-engineering-overlapping]: http://www.quora.com/Does-Adam-DAngelo-feel-comfortable-with-the-transition-from-an-engineer-to-a-management-position?srid=3OC&share=1
