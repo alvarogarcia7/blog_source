@@ -339,3 +339,9 @@ I've read [this article][false-economy-of-metaprogramming] by Michael Bernstein
 I've read [this Quora answer][management-and-engineering-overlapping] by Adam D'Angelo. The original title is: Does Adam D'Angelo feel comfortable with the transition from an engineer to a management position?
 
 [management-and-engineering-overlapping]: http://www.quora.com/Does-Adam-DAngelo-feel-comfortable-with-the-transition-from-an-engineer-to-a-management-position?srid=3OC&share=1
+
+## Evolution of The Twitter Stack
+
+I've read [these slides][evolution-of-twitter-stack] about changing the technology stack in Twitter: from Rails to JVM-based
+
+[evolution-of-twitter-stack]: https://www.slideshare.net/slideshow/embed_code/key/ly83zQkBjCxnIX
