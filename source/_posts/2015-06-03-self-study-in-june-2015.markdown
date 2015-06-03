@@ -27,3 +27,9 @@ I've read [this article][TheFirstMicroserviceArchitecture] about microservices a
 
 [TheFirstMicroserviceArchitecture]: http://blog.cleancoder.com/uncle-bob/2015/05/28/TheFirstMicroserviceArchitecture.html
 
+## How I Learned to Balance My Life With Remote Work
+
+I've read [this article][balancing-life-remote-work] about balancing life and work, either physical or remote by Michael Erasmus
+
+[balancing-life-remote-work]: https://open.bufferapp.com/remote-work/?utm_content=bufferaa5a2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
