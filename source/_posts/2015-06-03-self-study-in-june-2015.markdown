@@ -8,6 +8,19 @@ categories:
   - june
   - 2015
   - monitoring
+  - cqrs
+  - by-example
+  - article
+  - microservice
+  - architecture
+  - balance
+  - remote-work
+  - cqrs
+  - nino-martincevic
+  - robert-c-martin
+  - julien-kirch
+  - cedrick-lunven
+  - michael-erasmus
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
