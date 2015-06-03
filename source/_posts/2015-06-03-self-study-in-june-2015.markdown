@@ -33,3 +33,9 @@ I've read [this article][balancing-life-remote-work] about balancing life and wo
 
 [balancing-life-remote-work]: https://open.bufferapp.com/remote-work/?utm_content=bufferaa5a2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
+## Demystified CQRS
+
+I've read [this article][demistified-cqrs] about CQRS by Nino Martincevic
+
+[demistified-cqrs]: https://blog.codecentric.de/en/2015/05/demystified-cqrs/?utm_content=buffer35b18&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
