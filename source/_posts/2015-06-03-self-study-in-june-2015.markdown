@@ -19,3 +19,11 @@ into a single post
 I've read [this article][le-monitoring-de-flux-par-lexemple] about monitoring, in the way of "by example", by Cédrick Lunven and Julien Kirch (French)
 
 [le-monitoring-de-flux-par-lexemple]: http://blog.octo.com/le-monitoring-de-flux-par-lexemple/
+
+
+## The First Micro-service Architecture
+
+I've read [this article][TheFirstMicroserviceArchitecture] about microservices and how they were implemented many years ago by Robert C. Martin
+
+[TheFirstMicroserviceArchitecture]: http://blog.cleancoder.com/uncle-bob/2015/05/28/TheFirstMicroserviceArchitecture.html
+
