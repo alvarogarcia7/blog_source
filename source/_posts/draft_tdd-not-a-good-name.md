@@ -10,9 +10,9 @@ TDD is not a good name
 
 TODO: put link to the basis for this post: experience report from jason gorman
 
-http://www.thesaurus.com/browse/hypothesis?s=t
-theorem
-thesis
+http://www.thesaurus.com/browse/hypothesis?s=t:
+  * theorem
+  * thesis
 
 driven
 design
