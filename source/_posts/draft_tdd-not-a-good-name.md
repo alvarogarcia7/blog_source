@@ -20,3 +20,5 @@ design
 other ideas: http://stackoverflow.com/questions/1275936/can-we-come-up-with-a-better-name-for-tdd
 
 Therefore, TDD breaks the [Principle of Least Astonishment][pola] (POLA): if you have "test" in the name, you expect it to be test-related, right? At least, the 
+
+[pola]: http://en.wikipedia.org/wiki/Principle_of_least_astonishment
