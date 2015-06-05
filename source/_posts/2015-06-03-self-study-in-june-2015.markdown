@@ -21,6 +21,12 @@ categories:
   - julien-kirch
   - cedrick-lunven
   - michael-erasmus
+  - gregory-brown
+  - bazaar
+  - learning
+  - perils
+  - education
+  - learning
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -52,3 +58,8 @@ I've read [this article][demistified-cqrs] about CQRS by Nino Martincevic
 
 [demistified-cqrs]: https://blog.codecentric.de/en/2015/05/demystified-cqrs/?utm_content=buffer35b18&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
+## The perils of programmer education in the bazaar
+
+I've read [this article][the-perils-of-programmer-education-in-the-bazaar] by Gregory Brown
+
+[the-perils-of-programmer-education-in-the-bazaar]: http://blog.practicingruby.com/2015/06/04/the-perils-of-programmer-education-in-the-bazaar/
