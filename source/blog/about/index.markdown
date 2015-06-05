@@ -8,7 +8,7 @@ footer: false
 
 Alvaro is a software developer who firmly believes in the eXtreme Programming methodology. He's embarked in a lifelong learning process and is now in a symbiotic exchange process with the [Barcelona Software Craftsmanship meetup](http://www.meetup.com/Barcelona-Software-Craftsmanship/), where he is a co-organizer.
 
-Alvaro has been working in the IT industry since 2005 and occasionally blogs at [alvarogarcia7.github.io](http://alvarogarcia7.github.io)
+Alvaro has been working in the IT industry for product companies, consulting firms and on his own since 2005 and occasionally blogs at [alvarogarcia7.github.io](http://alvarogarcia7.github.io)
 
 ## Contact me
 
