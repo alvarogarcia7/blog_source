@@ -63,3 +63,9 @@ I've read [this article][demistified-cqrs] about CQRS by Nino Martincevic
 I've read [this article][the-perils-of-programmer-education-in-the-bazaar] by Gregory Brown
 
 [the-perils-of-programmer-education-in-the-bazaar]: http://blog.practicingruby.com/2015/06/04/the-perils-of-programmer-education-in-the-bazaar/
+
+## 6 useful and lesser-known git commands
+
+I've read [this article][useful-commands-git] about git commands (log, checkout, stash, cherry-pick, annotate) by Jon Cairns
+
+[useful-commands-git]: http://blog.joncairns.com/2015/05/6-useful-and-lesser-known-git-commands/
