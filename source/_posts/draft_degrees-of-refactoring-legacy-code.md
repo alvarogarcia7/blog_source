@@ -1,3 +1,11 @@
+---
+published: false
+categories:
+  - sample
+---
+
+This is a draft sample
+
 ### Three degrees of refactoring of legacy code
 
   * deep: profound, painful, long-term, allows for new abilities, like hitting the gym, 
