@@ -12,6 +12,23 @@ Important part:
 
 I disagree with this.
 
+Affectation definition: http://dictionary.reference.com/browse/affectation:
+
+noun
+1.
+an effort to appear to have a quality not really or fully possessed; the pretense of actual possession:
+an affectation of interest in art; affectation of great wealth.
+2.
+conspicuous artificiality of manner or appearance; effort to attract notice by pretense, assumption, or any assumed peculiarity.
+3.
+a trait, action, or expression characterized by such artificiality:
+a man of a thousand affectations.
+4.
+Obsolete.
+strenuous pursuit, desire, or aspiration.
+affection; fondness:
+his affectation of literature.
+
 Explain in detail what lean on the compiler is; how it is done.
 
 How it is vs what it is => reference the GOOS (same theme)
