@@ -69,3 +69,9 @@ I've read [this article][the-perils-of-programmer-education-in-the-bazaar] by Gr
 I've read [this article][useful-commands-git] about git commands (log, checkout, stash, cherry-pick, annotate) by Jon Cairns
 
 [useful-commands-git]: http://blog.joncairns.com/2015/05/6-useful-and-lesser-known-git-commands/
+
+## Is Your Scrum Standup Slowing You Down?
+
+I've read [this article][standup-slowing-you-down] by M. David Green 
+
+[standup-slowing-you-down]: http://www.sitepoint.com/scrum-standup-slowing-down/
