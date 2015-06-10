@@ -14,7 +14,7 @@ categories:
 Books I've read this quarter Q2 on 2015:
 
   * [Flow](http://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202) by Mihaly Csikszentmihalyi. Blog posts under the tag [flow](/{{site.category_dir}}/flow)
-  * [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/) by Steve Freeman and Nat Pryce. Blog posts under the tag [flow](/{{site.category_dir}}/goos)
+  * [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/) by Steve Freeman and Nat Pryce. Blog posts under the tag [goos](/{{site.category_dir}}/goos)
 
   
 Books started, not yet finished (WIP):
