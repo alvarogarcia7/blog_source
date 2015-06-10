@@ -22,6 +22,7 @@ Books started, not yet finished (WIP):
   * [The Well-Grounded Java Developer](http://www.manning.com/evans/) by Benjamin J. Evans and Martijn Verburg
   * [Lisp Hackers](https://leanpub.com/lisphackers) by Vsevolod Dyomkin
   * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovača
+  * [Working Effectively with Legacy Code](http://www.amazon.co.uk/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) by Michael Feathers, again
   
 Books I want to finish:
 
@@ -39,6 +40,9 @@ Books that have entered the queue:
   * [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) by Kees Doets and Jan van Eijck
   * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/) by Abelson, Sussman, and Sussman
   * [Types and Programming Languages ](http://www.cis.upenn.edu/~bcpierce/tapl/) by Benjamin C. Pierce
+  * [The Craftsman](http://www.amazon.co.uk/Craftsman-Richard-Sennett/dp/0141022094) by Richard Sennett
+  * [Software Craftsmanship: The New Imperative](http://www.amazon.co.uk/Software-Craftsmanship-Imperative-McBreen-Aug-2001/dp/B00L6JZAT0) by Pete McBreen
+  * [Fundamentals of Object-oriented Design in UML](http://www.amazon.co.uk/dp/020169946X/ref=pe_385721_37038051_TE_3p_dp_1) by Meilir Page-Jones
 
 
 Starting in 2015-Q2, I'm also writing here the list of books that I want to read.
