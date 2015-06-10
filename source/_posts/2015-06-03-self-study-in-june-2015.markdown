@@ -29,6 +29,10 @@ categories:
   - learning
   - david-bonilla
   - bonillista
+  - rui-figueredo
+  - scientific-method
+  - tdd
+  - bdd
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -83,3 +87,7 @@ I've read [this article][standup-slowing-you-down] by M. David Green
 I've read [this Bonillista][me-duele-indra] (Spanish) by David Bonilla
 
 [me-duele-indra]: http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=67ce79e01b
+
+## TDD, BDD, [add every other method that promises software quality here] and the tea tasting lady
+
+I've read [this article](https://blinkingcaret.wordpress.com/2012/10/02/tdd-bdd-add-every-other-method-that-promises-software-quality-here-and-the-tea-tasting-lady/) by Rui Figueiredo about the scientific method, TDD / BDD and how to prepare your tea
