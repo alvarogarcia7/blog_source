@@ -9,6 +9,7 @@ categories:
   - design-patterns
   - pattern
   - strategy
+  - brown-bag-session
 ---
 
 At a client, today I've run an internal coding dojo on the strategy pattern
