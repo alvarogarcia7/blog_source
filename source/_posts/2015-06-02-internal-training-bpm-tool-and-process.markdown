@@ -9,6 +9,7 @@ categories:
   - internal-training
   - bpm
   - activiti
+  - brown-bag-session
 ---
 
 At a client, I've presented today an internal training on "BPM: Process and tools for developers"
