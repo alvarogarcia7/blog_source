@@ -12,6 +12,7 @@ categories:
   - laziness
   - open-questions
   - article
+  - brown-bag-session
 ---
 
 At a client, last week I've organized an internal training, in the form of a discussion about this article: [Testing is hard - just do it][article]
