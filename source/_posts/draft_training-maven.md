@@ -5,6 +5,7 @@ categories:
   - tool
   - java
   - training
+  - brown-bag-session
 ---
 
 Yesterday we did a training about the maven tool. One of the team members explained to us some topics including:
