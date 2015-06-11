@@ -7,9 +7,10 @@ categories:
   - writos
   - thinkos
   - types-of-defects
-  - categories
+  - categorization
   - slashdot
   - quote
+  - leprechaun
 ---
 
 # Types of defects
