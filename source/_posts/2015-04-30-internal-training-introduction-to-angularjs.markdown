@@ -9,6 +9,7 @@ categories:
   - internal-training
   - angularjs
   - angular
+  - brown-bag-session
 ---
 
 At a client, today I've done an internal training on [angular js][angular]: we've prepared some [slides][slides] and a live demo.
