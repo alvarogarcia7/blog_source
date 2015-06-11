@@ -90,4 +90,4 @@ I've read [this Bonillista][me-duele-indra] (Spanish) by David Bonilla
 
 ## TDD, BDD, [add every other method that promises software quality here] and the tea tasting lady
 
-I've read [this article](https://blinkingcaret.wordpress.com/2012/10/02/tdd-bdd-add-every-other-method-that-promises-software-quality-here-and-the-tea-tasting-lady/) by Rui Figueiredo about the scientific method, TDD / BDD and how to prepare your tea
+I've read [this article](https://blinkingcaret.wordpress.com/2012/10/02/tdd-bdd-add-every-other-method-that-promises-software-quality-here-and-the-tea-tasting-lady/) by Rui Figueiredo about the scientific method, TDD / BDD and how to scientifically detect if the 'how' affects the result. In this case, exemplified by how to prepare your tea
