@@ -2,6 +2,14 @@
 published: false
 categories:
   - sample
+  - ethos
+  - typos
+  - writos
+  - thinkos
+  - types-of-defects
+  - categories
+  - slashdot
+  - quote
 ---
 
 # Types of defects
