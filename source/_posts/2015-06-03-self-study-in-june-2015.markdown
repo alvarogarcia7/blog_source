@@ -38,6 +38,9 @@ categories:
   - java
   - apprenticeship
   - ronny-ancorini
+  - peter-bell
+  - refactoring
+  - legacy-code
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -114,3 +117,9 @@ I've read [this article][when-tdd-does-not-work] by Uncle Bob on situations wher
 I've read [Ronny Ancorini's experiences][ronny-ancorini-apprenticeship] in his first week as apprentince with Carlos Blé & Associates
 
 [ronny-ancorini-apprenticeship]: http://ronnyancorini.es/blog/index.php/2015/06/08/mi-primera-semana-como-aprendiz/
+
+## Refactoring without good tests
+
+I've read [this article][refactoring-without-good-tests] by Peter Bell on how to deal with a legacy codebase, what are the effects of not having tests and how to deal with. How to add tests to a codebase that is not ready for it.
+
+[refactoring-without-good-tests]: http://blog.codeclimate.com/blog/2013/12/05/refactoring-without-good-tests/
