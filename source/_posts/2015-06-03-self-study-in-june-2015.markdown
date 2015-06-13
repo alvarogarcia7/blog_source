@@ -22,6 +22,7 @@ categories:
   - cedrick-lunven
   - michael-erasmus
   - gregory-brown
+  - abdelmonaim-remani
   - bazaar
   - learning
   - perils
@@ -33,6 +34,8 @@ categories:
   - scientific-method
   - tdd
   - bdd
+  - metaprogramming
+  - java
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
