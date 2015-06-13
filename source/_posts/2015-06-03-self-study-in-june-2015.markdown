@@ -100,3 +100,9 @@ I've read [this article](https://blinkingcaret.wordpress.com/2012/10/02/tdd-bdd-
 I've read [these slides][metaprogramming-java] by Abdelmonaim Remani
 
 [metaprogramming-java]: http://www.slideshare.net/PolymathicCoder/the-art-of-metaprogramming-in-java
+
+## When TDD does not work
+
+I've read [this article][when-tdd-does-not-work] by Uncle Bob on situations where TDD might not be appropiate, especially around the borders
+
+[when-tdd-does-not-work]: https://blog.8thlight.com/uncle-bob/2014/04/30/When-tdd-does-not-work.html
