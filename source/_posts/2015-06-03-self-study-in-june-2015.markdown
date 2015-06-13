@@ -114,7 +114,7 @@ I've read [this article][when-tdd-does-not-work] by Uncle Bob on situations wher
 
 ## Mi primera semana como aprendiz
 
-I've read [Ronny Ancorini's experiences][ronny-ancorini-apprenticeship] in his first week as apprentince with Carlos Blé & Associates
+I've read [Ronny Ancorini's experiences][ronny-ancorini-apprenticeship] in his first week as apprentince with Carlos Blé & Associates (Spanish)
 
 [ronny-ancorini-apprenticeship]: http://ronnyancorini.es/blog/index.php/2015/06/08/mi-primera-semana-como-aprendiz/
 
