@@ -36,6 +36,8 @@ categories:
   - bdd
   - metaprogramming
   - java
+  - apprenticeship
+  - ronny-ancorini
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
