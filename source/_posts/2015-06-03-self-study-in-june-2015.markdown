@@ -106,3 +106,9 @@ I've read [these slides][metaprogramming-java] by Abdelmonaim Remani
 I've read [this article][when-tdd-does-not-work] by Uncle Bob on situations where TDD might not be appropiate, especially around the borders
 
 [when-tdd-does-not-work]: https://blog.8thlight.com/uncle-bob/2014/04/30/When-tdd-does-not-work.html
+
+## Mi primera semana como aprendiz
+
+I've read [Ronny Ancorini's experiences][ronny-ancorini-apprenticeship] in his first week as apprentince with Carlos Blé & Associates
+
+[ronny-ancorini-apprenticeship]: http://ronnyancorini.es/blog/index.php/2015/06/08/mi-primera-semana-como-aprendiz/
