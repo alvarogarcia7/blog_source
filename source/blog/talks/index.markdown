@@ -6,6 +6,8 @@ footer: false
 
 <!-- based on http://ecomba.pro/talks/ -->
 
+The complete list is on my [LinkedIn profile][linkedin-profile]
+
 Conferences I facilitated or organized (specified below)
 
 ## 2015
@@ -34,3 +36,5 @@ Chair of the Global Day of Code Retreat Barcelona 2014
 
 Facilitated "Introduction to Git" conference
 
+
+[linkedin-profile]: https://es.linkedin.com/in/alvarogarcia7
