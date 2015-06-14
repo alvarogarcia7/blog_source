@@ -1,11 +1,9 @@
 ---
-published: false
 layout: post
 title: "TDD microexercise: Tire pressure"
 date: 2015-03-31 23:13:45 +0200
 comments: true
 categories: 
-  - sample
   - microexercise
   - prepared-kata
   - session
@@ -53,5 +51,3 @@ Many thanks to all the attendees and to Manuel: I learnt a lot from the session 
 [microexercises]: /{{site.category_dir}}/microexercise
 [luka-exercises]: https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises
 [meetup]: http://www.meetup.com/Barcelona-Software-Craftsmanship/events/221463037/
-
-TODO: check if microexercises link works
