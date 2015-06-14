@@ -16,8 +16,6 @@ categories:
   - leprechaun
 ---
 
-# Types of defects
-
 Some time ago, while researching types of defects and the cost of fixing them[^1], I stumbled upon this:
 
 > Years ago I worked with a bunch of economists in the US Federal Government - they categorized 'bugs' in their memos into three types: 
