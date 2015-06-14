@@ -1,11 +1,15 @@
 ---
-published: false
+layout: post
+title: "Brown-bag session: maven"
+date: 2015-03-06 22:18:28 +0200
+comments: true
 categories:
   - maven
   - tool
   - java
   - training
   - brown-bag-session
+  - client
 ---
 
 Yesterday we did a training about the maven tool. One of the team members explained to us some topics including:
@@ -18,16 +22,11 @@ Yesterday we did a training about the maven tool. One of the team members explai
   * convention over configuration
   * scopes of the dependencies (test, runtime, compile, provided)
   * tricks about the tool:
-    * order of the dependencies (especally junit, hamcrest)
+    * order of the dependencies (especially junit, hamcrest)
   * plugins and how to build one
   * destination folders
     * target, classes, test-classes, etc 
-  
-  
-  
-  TODO explain more
-  TODO add more contents
-  TODO add my notes
-  
-  
+
+
+Note: this post was created a posteriori, with the original date
   
