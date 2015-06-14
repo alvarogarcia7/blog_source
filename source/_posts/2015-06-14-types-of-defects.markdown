@@ -19,8 +19,11 @@ categories:
 Some time ago, while researching types of defects and the cost of fixing them[^1], I stumbled upon this:
 
 > Years ago I worked with a bunch of economists in the US Federal Government - they categorized 'bugs' in their memos into three types: 
+>
 >  * Typos: Simple misspellings of words. Infrequent, easy to detect, easy to fix. 
+>
 >  * Writos: Incoherent sentences. More frequent, hard to detect, harder to fix. 
+>
 >  * Thinkos: Conceptually bonkers. Very frequent, subtle and hard to detect; almost impossible to fix.
 >
 > Most 'late' bugs that I've seen in software projects belong in the last category - a lack of design or the failure to make a working mock-up leads to 'thinkos' which are only obvious when the application is nearly completed. These are expensive to fix.
