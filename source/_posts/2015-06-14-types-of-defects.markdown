@@ -4,7 +4,6 @@ title: "Types of defects"
 date: 2015-06-14 16:16:51 +0200
 comments: true
 categories:
-  - sample
   - ethos
   - typos
   - writos
