@@ -13,7 +13,7 @@ before + new element => after
 
 {} + a => {a->λ}
 {a} + ab => {a->{λ,b}}
-{b} + a => {aλ, bλ}
+{b} + a => {aλ, bλ}
 {ab} + ab => {abλ}
 {ab} + aba => {ab->{λ,a}}
 ````
