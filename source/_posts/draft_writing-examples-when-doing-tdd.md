@@ -6,7 +6,7 @@ categories:
 
 20150314-202322 AGB
 
-pseudo-notation where ``λ`` represents nothing. in a trie, this nothing means the word is valid, i.e., end of word or \0 in C to indicate end of string
+pseudo-notation where ``λ`` represents nothing. in a trie, this nothing means the word is valid, i.e., end of word or ``\0`` in C to indicate end of string
 
 ````
 before + new element => after
