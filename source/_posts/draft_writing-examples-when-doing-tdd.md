@@ -19,3 +19,5 @@ before + new element => after
 ````
 
 tip: write one example per line, without priority (1, 2, 3) at the left. Then reorder them with your IDE's ability to move lines. In IntelliJ Idea, this is (Windows) alt+shift+{up, down}, (Mac) command+shift+{up, down}
+
+tip: mark the done ones with a simple token at the left, such as a "\t" (TAB) or "DONE"
