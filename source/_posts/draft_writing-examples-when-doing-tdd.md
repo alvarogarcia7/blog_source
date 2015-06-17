@@ -8,6 +8,7 @@ categories:
 
 pseudo-notation where λ represents nothing. in a trie, this nothing means the word is valid, i.e., end of word or \0 in C to indicate end of string
 
+````
 before + new element => after
 
 {} + a => {a->λ}
@@ -15,3 +16,4 @@ before + new element => after
 {b} + a => {aλ, bλ}
 {ab} + ab => {abλ}
 {ab} + aba => {ab->{λ,a}}
+````
