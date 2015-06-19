@@ -123,3 +123,9 @@ I've read [Ronny Ancorini's experiences][ronny-ancorini-apprenticeship] in his f
 I've read [this article][refactoring-without-good-tests] by Peter Bell on how to deal with a legacy codebase, what are the effects of not having tests and how to deal with. How to add tests to a codebase that is not ready for it.
 
 [refactoring-without-good-tests]: http://blog.codeclimate.com/blog/2013/12/05/refactoring-without-good-tests/
+
+## Big Ball of Mud
+
+I've read [this paper][big-ball-of-mud], containing a collection of patterns and antipatterns (disguised as notes) by Brian Foote and Joseph Yoder
+
+[big-ball-of-mud]: http://www.laputan.org/mud/
