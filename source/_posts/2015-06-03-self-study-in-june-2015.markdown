@@ -46,6 +46,18 @@ categories:
   - patterns
   - brian-foote
   - joseph-yoder
+  - rüdiger-möller
+  - concurrency
+  - parallellism
+  - jvm
+  - jmm
+  - java-memory-model
+  - deadlock
+  - actor
+  - csp
+  - disruptor
+  - akka
+  - abstraktor
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -134,3 +146,9 @@ I've read [this article][refactoring-without-good-tests] by Peter Bell on how to
 I've read [this paper][big-ball-of-mud], containing a collection of patterns and antipatterns (disguised as notes) by Brian Foote and Joseph Yoder
 
 [big-ball-of-mud]: http://www.laputan.org/mud/
+
+## Comparision of different concurrency models: Actors, CSP, Disruptor and Threads [sic]
+
+I've read [this comparison of concurrency models][different-concurrency-models] by Rüdiger Möller
+
+[different-concurrency-models]: http://java-is-the-new-c.blogspot.com.es/2014/01/comparision-of-different-concurrency.html
