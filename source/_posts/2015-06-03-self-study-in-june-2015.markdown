@@ -41,6 +41,11 @@ categories:
   - peter-bell
   - refactoring
   - legacy-code
+  - antipatterns
+  - big-ball-of-mud
+  - patterns
+  - brian-foote
+  - joseph-yoder
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
