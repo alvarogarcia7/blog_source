@@ -2,6 +2,11 @@
 published: false
 categories:
   - sample
+  - naming
+  - wewlc
+  - martin-fowler
+  - michael-feathers
+  - goos
 ---
 
 This is a draft sample
