@@ -40,3 +40,5 @@ his affectation of literature.
 Explain in detail what lean on the compiler is; how it is done.
 
 How it is vs what it is => reference the GOOS (same theme)
+
+TODO add link to GOOS "the book of what, not how"
