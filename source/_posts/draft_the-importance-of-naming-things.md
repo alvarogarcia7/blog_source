@@ -39,6 +39,10 @@ his affectation of literature.
 
 Explain in detail what lean on the compiler is; how it is done.
 
+TODO explain that is allows for faster communication.
+
+TODO explain that this serves to learn new techniques, as it is easier to orally communicate about them
+
 How it is vs what it is => reference the GOOS (same theme)
 
 TODO add link to GOOS "the book of what, not how"
