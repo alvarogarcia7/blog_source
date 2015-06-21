@@ -61,6 +61,9 @@ categories:
   - christian-bird
   - wikipedia
   - 5-whys
+  - jessica-kerr
+  - quality
+  - beautiful-code
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -185,3 +188,9 @@ The main reasons to code review are:
 [modern-code-review]: http://research.microsoft.com/apps/pubs/default.aspx?id=180283
 
 [modern-code-review-direct-link]: http://research.microsoft.com/pubs/180283/ICSE%202013-codereview.pdf
+
+## The quality wheel
+
+I've read [this article][the-quality-wheel] by Jessica Kerr about the qualities of beautiful code
+
+[the-quality-wheel]: http://blog.jessitron.com/2015/04/the-quality-wheel.html
