@@ -57,6 +57,10 @@ categories:
   - disruptor
   - akka
   - abstraktor
+  - alberto-bacchelli
+  - christian-bird
+  - wikipedia
+  - 5-whys
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -157,3 +161,27 @@ I've read [this comparison of concurrency models][different-concurrency-models] 
 I've read [this wikipedia][whys-5] article on the technique called "5 Whys"
 
 [whys-5]: https://en.wikipedia.org/wiki/5_Whys
+
+## Expectations, Outcomes, and Challenges of Modern Code Review
+
+I've read [this paper][modern-code-review], [direct link][modern-code-review-direct-link], by Alberto Bacchelli and Christian Bird on code review at Microsoft.
+
+They explain how they do it, the exact methodology they are using and why they do it.
+
+The main reasons to code review are:
+
+  * finding defects
+  * code improvement
+  * alternative solutions
+  * knowledge transfer
+  * team awareness and transparency
+  * also:
+    * improve development process
+    * avoid build breaks
+    * share code ownership
+    * track rationale
+    * team assessment
+
+[modern-code-review]: http://research.microsoft.com/apps/pubs/default.aspx?id=180283
+
+[modern-code-review-direct-link]: http://research.microsoft.com/pubs/180283/ICSE%202013-codereview.pdf
