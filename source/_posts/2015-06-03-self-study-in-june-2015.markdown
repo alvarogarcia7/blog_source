@@ -15,7 +15,6 @@ categories:
   - architecture
   - balance
   - remote-work
-  - cqrs
   - nino-martincevic
   - robert-c-martin
   - julien-kirch
