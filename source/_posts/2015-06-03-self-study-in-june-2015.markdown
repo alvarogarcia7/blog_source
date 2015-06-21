@@ -152,3 +152,9 @@ I've read [this paper][big-ball-of-mud], containing a collection of patterns and
 I've read [this comparison of concurrency models][different-concurrency-models] by Rüdiger Möller
 
 [different-concurrency-models]: http://java-is-the-new-c.blogspot.com.es/2014/01/comparision-of-different-concurrency.html
+
+## 5 Whys
+
+I've read [this wikipedia][whys-5] article on the technique called "5 Whys"
+
+[whys-5]: https://en.wikipedia.org/wiki/5_Whys
