@@ -194,3 +194,10 @@ The main reasons to code review are:
 I've read [this article][the-quality-wheel] by Jessica Kerr about the qualities of beautiful code
 
 [the-quality-wheel]: http://blog.jessitron.com/2015/04/the-quality-wheel.html
+
+## 5 Minute Physics
+
+I've watched [this video][5-minutes-physics] on interactions with the mobile devices and related to physics by David DeSandro
+
+[5-minutes-physics]: https://www.youtube.com/watch?v=n6FKT-KafRk
+
