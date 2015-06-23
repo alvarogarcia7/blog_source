@@ -212,3 +212,9 @@ I've watched [this video][5-minutes-physics] on interactions with the mobile dev
 I've watched [this video][rise-of-the-transpilers] on the rise of the transpilers and coffeescript by Jeremy Ashkenas
 
 [rise-of-the-transpilers]: https://www.youtube.com/watch?v=DspYurD75Ns
+
+## Drawing Lines with Bresenham's Line Algorithm
+
+I've watched [this video][drawing-lines] about how to apply the Bresenham's algorithm to draw lines (implemented in pseudo-code and javascript) by Jenn Schiffer
+
+[drawing-lines]: https://www.youtube.com/watch?v=zytBpLlSHms
