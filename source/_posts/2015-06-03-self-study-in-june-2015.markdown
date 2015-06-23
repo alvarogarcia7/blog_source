@@ -70,6 +70,10 @@ categories:
   - physics
   - mobile-device
   - code-genius
+  - jenn-schiffer
+  - bresenham
+  - line-algorithm
+  - algorithm
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
