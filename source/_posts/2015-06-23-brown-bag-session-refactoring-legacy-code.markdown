@@ -41,7 +41,9 @@ while test true; do
 done;
 ````
 
-that saves the process and the progress, without disturbing the attendees. This idea was taken from a similar one from  [Xavi Gost][xav1uzz] [^1]
+that saves the process and the progress, without disturbing the attendees. This allows you to follow the progress without any distraction. This idea was taken from a similar one from  [Xavi Gost][xav1uzz] [^1]
+
+This same idea was also cited by someone else, if I recall correctly by Sandro Mancuso, saying that it would be a good idea to have a background git repository while working. IntelliJ IDEA already does something similar (and saves the events, e.g., when the tests are run, either red or green)
 
 [xav1uzz]: http://twitter.com/@xav1uzz
 [repo-spike]: https://github.com/alvarogarcia7/trivia-kata-spike
