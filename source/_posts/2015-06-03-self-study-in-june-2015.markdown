@@ -242,8 +242,6 @@ I've watched [this video][working-minified-javascript] by John Crepezzi on how t
 
 I've read [this article][how-we-ran-our-legacy-code-retreat] by Andreas Leidig, looking for inspiration on running a legacy code retreat / brown-bag session. The experience report [is here][brown-bag-session-legacy-code]
 
-TODO: 
-
-[brown-bag-session-legacy-code]: ../../../../2015/06/23/how-i-read-apprenticeship-patterns/
+[brown-bag-session-legacy-code]: ../../../../2015/06/23/brown-bag-session-refactoring-legacy-code/
 
 [how-we-ran-our-legacy-code-retreat]: https://pboop.wordpress.com/2012/02/19/how-we-ran-our-legacy-code-retreat/
