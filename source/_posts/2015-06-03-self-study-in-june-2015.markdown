@@ -245,3 +245,10 @@ I've read [this article][how-we-ran-our-legacy-code-retreat] by Andreas Leidig, 
 [brown-bag-session-legacy-code]: ../../../../2015/06/23/brown-bag-session-refactoring-legacy-code/
 
 [how-we-ran-our-legacy-code-retreat]: https://pboop.wordpress.com/2012/02/19/how-we-ran-our-legacy-code-retreat/
+
+
+## Shift Left: Testing Earlier in Development
+
+I've read [this article][shift-left] by Rebecca Wirfs-Brock
+
+[shift-left]: http://wirfs-brock.com/blog/2015/06/18/shift-left
