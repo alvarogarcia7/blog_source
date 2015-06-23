@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Brown-bag session: Refactoring legacy code"
+date: 2015-06-23 19:19:28 +0200
+comments: true
+categories:
+  - refactor
+  - refactoring
+  - legacy-code
+  - training
+  - brown-bag-session
+  - client
+---
+
+Today I have facilitated a brown bag session about refactoring legacy code applications, as this is the case with one of the applications we maintain and add new features to.
+
+The contents of the session:
+
+  * Briefly exposing the problem to the team, me taking the role of the Product Owner (PO)
+  * Ask the dev team to add an easy feature
+  * Do it without tests, as it was so simple that they thought they could do it (using mob programming)
+  * Ask if they were satisfied by the patch / fix. Answer was yes.
+  * Point out that there are regressions in the few lines of the patch
+  * Repeat the session, starting with adding tests to guarantee the behavior is preserved  (using mob programming)
+  * Explain the technique of the golden master
+  * Some more programming, until they start to see the light at the end of the tunnel
+  * Small retrospective, including:
+    * asking them their feelings when dealing with legacy code. The contents of this is pretty similar to the concepts that appear in the retrospectives, when talking about the legacy project / submodule.
+    * what could I improve as facilitator or for the structure of the session
+    
+The repo can be found [here][repo-spike]
+
+
+[repo-spike]: https://github.com/alvarogarcia7/trivia-kata-spike
