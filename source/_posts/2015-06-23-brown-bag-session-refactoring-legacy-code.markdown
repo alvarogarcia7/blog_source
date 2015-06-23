@@ -40,7 +40,8 @@ while test true; do
 done;
 ````
 
-that saves the process and the progress, without disturbing the attendees. This idea was taken from a similar one from  [Xavi Gost][xav1uzz]
+that saves the process and the progress, without disturbing the attendees. This idea was taken from a similar one from  [Xavi Gost][xav1uzz] [^1]
 
 [xav1uzz]: http://twitter.com/@xav1uzz
 [repo-spike]: https://github.com/alvarogarcia7/trivia-kata-spike
+[^1]: Cannot find the source, it was about having a script to commit automatically each time you run the tests; if it was red while refactoring, it would do git checkout (to revert); Was related to the noFlopSquad
