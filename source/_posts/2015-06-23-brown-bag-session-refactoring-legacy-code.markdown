@@ -10,6 +10,7 @@ categories:
   - training
   - brown-bag-session
   - client
+  - experience-report
 ---
 
 Today I have facilitated a brown bag session about refactoring legacy code applications, as this is the case with one of the applications we maintain and add new features to.
