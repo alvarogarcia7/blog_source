@@ -201,3 +201,8 @@ I've watched [this video][5-minutes-physics] on interactions with the mobile dev
 
 [5-minutes-physics]: https://www.youtube.com/watch?v=n6FKT-KafRk
 
+## Rise of the Transpilers
+
+I've watched [this video][rise-of-the-transpilers] on the rise of the transpilers and coffeescript by Jeremy Ashkenas
+
+[rise-of-the-transpilers]: https://www.youtube.com/watch?v=DspYurD75Ns
