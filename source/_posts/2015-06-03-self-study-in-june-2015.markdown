@@ -83,6 +83,7 @@ categories:
   - debug
   - dev-tool
   - chrome
+  - rebecca-wirfs-brock
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
