@@ -237,3 +237,13 @@ I've watched [this video][drawing-lines] about how to apply the Bresenham's algo
 I've watched [this video][working-minified-javascript] by John Crepezzi on how to mix javascript files (clients and yours), how to decompile javascript in chrome, dev & debug tools
 
 [working-minified-javascript]: https://www.youtube.com/watch?v=SuFNR7-XjKI
+
+## How we ran our Legacy Code Retreat
+
+I've read [this article][how-we-ran-our-legacy-code-retreat] by Andreas Leidig, looking for inspiration on running a legacy code retreat / brown-bag session. The experience report [is here][brown-bag-session-legacy-code]
+
+TODO: 
+
+[brown-bag-session-legacy-code]: ../../../../2015/06/23/how-i-read-apprenticeship-patterns/
+
+[how-we-ran-our-legacy-code-retreat]: https://pboop.wordpress.com/2012/02/19/how-we-ran-our-legacy-code-retreat/
