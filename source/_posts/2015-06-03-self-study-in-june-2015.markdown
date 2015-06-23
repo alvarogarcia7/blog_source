@@ -222,3 +222,9 @@ I've watched [this video][rise-of-the-transpilers] on the rise of the transpiler
 I've watched [this video][drawing-lines] about how to apply the Bresenham's algorithm to draw lines (implemented in pseudo-code and javascript) by Jenn Schiffer
 
 [drawing-lines]: https://www.youtube.com/watch?v=zytBpLlSHms
+
+## Working with Minified JavaScript
+
+I've watched [this video][working-minified-javascript] by John Crepezzi on how to mix javascript files (clients and yours), how to decompile javascript in chrome, dev & debug tools
+
+[working-minified-javascript]: https://www.youtube.com/watch?v=SuFNR7-XjKI
