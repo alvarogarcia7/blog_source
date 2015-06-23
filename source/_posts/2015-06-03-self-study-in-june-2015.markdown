@@ -64,6 +64,12 @@ categories:
   - jessica-kerr
   - quality
   - beautiful-code
+  - jeremy-ashkenas
+  - david-deSandro
+  - transpiler
+  - physics
+  - mobile-device
+  - code-genius
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
