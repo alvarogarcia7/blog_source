@@ -28,7 +28,19 @@ The contents of the session:
     * asking them their feelings when dealing with legacy code. The contents of this is pretty similar to the concepts that appear in the retrospectives, when talking about the legacy project / submodule.
     * what could I improve as facilitator or for the structure of the session
     
-The repo can be found [here][repo-spike]
+The repo can be found [here][repo-spike].
 
+I prepared a small script:
 
+````bash
+while test true; do
+  git add --all;
+  git commit --all -m "save process - uknown state";
+  sleep 120;
+done;
+````
+
+that saves the process and the progress, without disturbing the attendees. This idea was taken from a similar one from  [Xavi Gost][xav1uzz]
+
+[xav1uzz]: http://twitter.com/@xav1uzz
 [repo-spike]: https://github.com/alvarogarcia7/trivia-kata-spike
