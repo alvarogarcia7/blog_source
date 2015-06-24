@@ -85,6 +85,10 @@ categories:
   - chrome
   - rebecca-wirfs-brock
   - carlos-ble
+  - antirez
+  - git
+  - commit-message
+  - commit
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -260,3 +264,9 @@ I've read [this article][shift-left] by Rebecca Wirfs-Brock
 I've read [this article][polymorphic-equality] on implementing polymorphic equality on C#, by Carlos Blé
 
 http://www.carlosble.com/2015/06/polymorphic-equality/
+
+## Commit messages are not titles
+
+I've read [this article][commit-messages-not-titles] on git commit messages and how to use them, by antirez
+
+[commit-messages-not-titles]: http://antirez.com/news/90
