@@ -84,6 +84,7 @@ categories:
   - dev-tool
   - chrome
   - rebecca-wirfs-brock
+  - carlos-ble
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -253,3 +254,9 @@ I've read [this article][how-we-ran-our-legacy-code-retreat] by Andreas Leidig, 
 I've read [this article][shift-left] by Rebecca Wirfs-Brock
 
 [shift-left]: http://wirfs-brock.com/blog/2015/06/18/shift-left
+
+## Polymorphic Equality
+
+I've read [this article][polymorphic-equality] on implementing polymorphic equality on C#, by Carlos Blé
+
+http://www.carlosble.com/2015/06/polymorphic-equality/
