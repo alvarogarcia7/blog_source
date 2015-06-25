@@ -89,6 +89,9 @@ categories:
   - git
   - commit-message
   - commit
+  - garbage-collection
+  - g1-algorithm
+  - cms-algorithm
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -270,3 +273,9 @@ http://www.carlosble.com/2015/06/polymorphic-equality/
 I've read [this article][commit-messages-not-titles] on git commit messages and how to use them, by antirez
 
 [commit-messages-not-titles]: http://antirez.com/news/90
+
+## Oracle Considers G1 Garbage Collector for Java 9
+
+I've read this [press article][g1-garbage-collector] on the G1 and CMS collector, by John K. Waters
+
+[g1-garbage-collector]: https://adtmag.com/articles/2015/06/22/oracle-java-9.aspx
