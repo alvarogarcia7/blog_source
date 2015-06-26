@@ -279,3 +279,10 @@ I've read [this article][commit-messages-not-titles] on git commit messages and 
 I've read this [press article][g1-garbage-collector] on the G1 and CMS collector, by John K. Waters
 
 [g1-garbage-collector]: https://adtmag.com/articles/2015/06/22/oracle-java-9.aspx
+
+
+## What Tech Newbies Need
+
+I've read [this set of tweets][what-tech-newbies-need], grouped by Jessica Rose about the most helpful things beginners can do to improve their programming skills.
+
+[what-tech-newbies-need]: https://storify.com/jesslynnrose/what-tech-newbies-need
