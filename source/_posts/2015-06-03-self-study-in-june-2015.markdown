@@ -286,3 +286,10 @@ I've read this [press article][g1-garbage-collector] on the G1 and CMS collector
 I've read [this set of tweets][what-tech-newbies-need], grouped by Jessica Rose about the most helpful things beginners can do to improve their programming skills.
 
 [what-tech-newbies-need]: https://storify.com/jesslynnrose/what-tech-newbies-need
+
+## JavaScript For Cats
+
+I've read [this introductory guide][jsforcats] to javascript by [Max Ogden][maxogden]
+
+[jsforcats]: http://jsforcats.com/
+[maxogden]: https://twitter.com/maxogden
