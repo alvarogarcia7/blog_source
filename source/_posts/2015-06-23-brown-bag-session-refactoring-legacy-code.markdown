@@ -33,13 +33,13 @@ The repo can be found [here][repo-spike].
 
 I prepared a small script:
 
-````bash
+```bash
 while test true; do
   git add --all;
   git commit --all -m "save process - uknown state";
   sleep 120;
 done;
-````
+```
 
 that saves the process and the progress, without disturbing the attendees. This allows you to follow the progress without any distraction. This idea was taken from a similar one from  [Xavi Gost][xav1uzz] [^1]
 

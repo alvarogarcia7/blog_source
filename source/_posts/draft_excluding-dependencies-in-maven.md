@@ -48,9 +48,9 @@ Caused by: java.lang.IllegalStateException: Detected both log4j-over-slf4j.jar A
 	... 26 more
 ````
 
-````bash
+```bash
 mvn clean dependency:tree |less
-````
+```
 
 find this:
 
