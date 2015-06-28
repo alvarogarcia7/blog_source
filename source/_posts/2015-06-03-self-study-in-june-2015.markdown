@@ -350,3 +350,9 @@ I've read [these slides][bacon-is-bad-for-you]
  on professionalism and the programmer culture, by Garann Means
 
 [bacon-is-bad-for-you]: https://speakerdeck.com/garann/bacon-is-bad-for-you
+
+## Code is a job
+
+I've read [these slides][code-is-a-job], that are the continuation of "Bacon is bad for you", by the same author, Garann Means
+
+[code-is-a-job]: https://speakerdeck.com/garann/code-is-a-job
