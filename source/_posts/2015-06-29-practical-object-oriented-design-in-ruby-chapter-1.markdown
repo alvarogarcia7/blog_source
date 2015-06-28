@@ -15,6 +15,7 @@ categories:
   - ood
   - edward-berard
   - design-metrics
+  - churn
 ---
 
 We've read the first chapter from the Practical Object-Oriented Design in Ruby, by Sandi Metz.
