@@ -98,6 +98,9 @@ categories:
   - max-ogden
   - joseph-moniz
   - clojure
+  - carin-meier
+  - chemical-computing
+  - abstract-computing
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -311,3 +314,9 @@ I've read [this article][why-doesnt-python-have-switch-case] on the switch case 
 I've read Joseph Moniz's [Notes on Clojure][notes-on-clojure].
 
 [notes-on-clojure]: http://blog.plasmaconduit.com/notes-on-clojure/
+
+## Chemical Computing with Clojure
+
+I've read [an article][chemical-computing-with-clojure] on performing abstract computations with chemicals, written in Clojure by Carin Meier
+
+[chemical-computing-with-clojure]: http://gigasquidsoftware.com/chemical-computing/index.html
