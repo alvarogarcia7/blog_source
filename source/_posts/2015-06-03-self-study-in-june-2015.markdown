@@ -344,6 +344,12 @@ I've read [these notes][haskell-microservices-md] on implementing a microservice
 
 [haskell-microservices-md]: https://github.com/AlexanderAA/haskell-microservices/blob/gh-pages/haskell-microservices.md
 
+## Overcoming Resistance to Change - Isn't It Obvious?
+
+I've watched [this video][overcoming-resistance-to-change] in the channel of The World with Theory of Constraints
+
+[overcoming-resistance-to-change]: https://www.youtube.com/watch?v=hcz1aZ60k7w
+
 ## Bacon is bad for you
 
 I've read [these slides][bacon-is-bad-for-you]
