@@ -101,6 +101,10 @@ categories:
   - carin-meier
   - chemical-computing
   - abstract-computing
+  - haskell
+  - lens
+  - lenses
+  - gabriel-gonzalez
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -320,3 +324,11 @@ I've read Joseph Moniz's [Notes on Clojure][notes-on-clojure].
 I've read [an article][chemical-computing-with-clojure] on performing abstract computations with chemicals, written in Clojure by Carin Meier
 
 [chemical-computing-with-clojure]: http://gigasquidsoftware.com/chemical-computing/index.html
+
+## Lenses
+
+I've read [this tutorial][haskell-getter-setter-with-lenses] on writing lenses for haskell, a way of importing imperative getters / setters to a Data. Written by Gabriel Gonzalez.
+
+On another note, the first part, about writing getters and setters in the naive way, is also explained in Learn you a Haskell > Chapter 8 Making Our Own Types and Typeclasses > Record syntax
+
+[haskell-getter-setter-with-lenses]: http://www.haskellforall.com/2012/01/haskell-for-mainstream-programmers_28.html
