@@ -31,7 +31,7 @@ Two cited papers on metrics for design:
   * [A validation of object-oriented design metrics as quality indicators][validation-of-ood-metrics] by Basili, Briand and Melo
 
 
- The video for the 'churn' as a mesure:
+ The video for the 'churn' as a measure:
 
   * [The Hidden Dimension Of Refactoring][the-hidden-dimension-of-refactoring] by Michael Feathers
 
