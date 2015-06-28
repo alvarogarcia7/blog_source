@@ -95,6 +95,7 @@ categories:
   - python
   - switch-case
   - daniel-roy-greenfeld
+  - max-ogden
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
