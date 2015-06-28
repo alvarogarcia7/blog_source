@@ -92,6 +92,9 @@ categories:
   - garbage-collection
   - g1-algorithm
   - cms-algorithm
+  - python
+  - switch-case
+  - daniel-roy-greenfeld
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -293,3 +296,9 @@ I've read [this introductory guide][jsforcats] to javascript by [Max Ogden][maxo
 
 [jsforcats]: http://jsforcats.com/
 [maxogden]: https://twitter.com/maxogden
+
+## Why Doesn't Python Have Switch/Case?
+
+I've read [this article][why-doesnt-python-have-switch-case] on the switch case in the python language by Daniel Roy Greenfeld
+
+[why-doesnt-python-have-switch-case]: http://www.pydanny.com/why-doesnt-python-have-switch-case.html
