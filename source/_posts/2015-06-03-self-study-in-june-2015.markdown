@@ -105,6 +105,9 @@ categories:
   - lens
   - lenses
   - gabriel-gonzalez
+  - garann-means
+  - professionalism
+  - culture
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -346,3 +349,10 @@ I've read [these notes][haskell-microservices-md] on implementing a microservice
 I've watched [this video][overcoming-resistance-to-change] in the channel of The World with Theory of Constraints
 
 [overcoming-resistance-to-change]: https://www.youtube.com/watch?v=hcz1aZ60k7w
+
+## Bacon is bad for you
+
+I've read [these slides][bacon-is-bad-for-you]
+ on professionalism and the programmer culture, by Garann Means
+
+[bacon-is-bad-for-you]: https://speakerdeck.com/garann/bacon-is-bad-for-you
