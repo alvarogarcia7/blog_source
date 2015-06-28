@@ -332,3 +332,11 @@ I've read [this tutorial][haskell-getter-setter-with-lenses] on writing lenses f
 On another note, the first part, about writing getters and setters in the naive way, is also explained in Learn you a Haskell > Chapter 8 Making Our Own Types and Typeclasses > Record syntax
 
 [haskell-getter-setter-with-lenses]: http://www.haskellforall.com/2012/01/haskell-for-mainstream-programmers_28.html
+
+## Microservices in Haskell
+
+I've read [these notes][haskell-microservices-md] on implementing a microservice in haskell, by [AlexanderAA][alexanderaa]
+
+[alexanderaa]: https://github.com/AlexanderAA
+
+[haskell-microservices-md]: https://github.com/AlexanderAA/haskell-microservices/blob/gh-pages/haskell-microservices.md
