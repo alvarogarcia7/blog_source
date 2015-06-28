@@ -279,7 +279,7 @@ I've read [this article][shift-left] by Rebecca Wirfs-Brock
 
 I've read [this article][polymorphic-equality] on implementing polymorphic equality on C#, by Carlos Blé
 
-http://www.carlosble.com/2015/06/polymorphic-equality/
+[polymorphic-equality]: http://www.carlosble.com/2015/06/polymorphic-equality/
 
 ## Commit messages are not titles
 
