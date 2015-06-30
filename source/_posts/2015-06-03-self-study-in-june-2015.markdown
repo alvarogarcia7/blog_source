@@ -108,6 +108,7 @@ categories:
   - garann-means
   - professionalism
   - culture
+  - jeff-atwood
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015
@@ -362,3 +363,9 @@ I've read [these slides][bacon-is-bad-for-you]
 I've read [these slides][code-is-a-job], that are the continuation of "Bacon is bad for you", by the same author, Garann Means
 
 [code-is-a-job]: https://speakerdeck.com/garann/code-is-a-job
+
+## The Great Newline Schism
+
+I've read [this article][the-great-newline-schism] by Jeff Atwood on the difference in newline character(s)
+
+http://blog.codinghorror.com/the-great-newline-schism/
