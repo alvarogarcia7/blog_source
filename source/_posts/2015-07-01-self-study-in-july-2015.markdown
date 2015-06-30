@@ -16,6 +16,6 @@ I've grouped all small posts related to the self-study from July 2015 into a sin
 
 ## Clojure made simple
 
-I've watched [this talk][clojure-made-simple] by Rich Hickey at the Java One
+I've watched [this talk][clojure-made-simple] by Rich Hickey at the Java One. It references the talk [Easy made simple](http://www.infoq.com/presentations/Simple-Made-Easy)
 
 [clojure-made-simple]: https://www.youtube.com/watch?v=VSdnJDO-xdg
