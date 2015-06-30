@@ -372,6 +372,6 @@ I've read [this article][the-great-newline-schism] by Jeff Atwood on the differe
 
 ## Top ten reasons why I won’t use your open source project
 
-I've read this article on what's necessary for an open-source project to be usable by others. Written by Adam Stacoviak
+I've read [this article][top-ten-reasons-why-i-wont-use-your-open-source-project] on what's necessary for an open-source project to be usable by others. Written by Adam Stacoviak
 
 [top-ten-reasons-why-i-wont-use-your-open-source-project]: https://changelog.com/top-ten-reasons-why-i-wont-use-your-open-source-project/
