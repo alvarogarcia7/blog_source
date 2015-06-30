@@ -368,4 +368,4 @@ I've read [these slides][code-is-a-job], that are the continuation of "Bacon is 
 
 I've read [this article][the-great-newline-schism] by Jeff Atwood on the difference in newline character(s)
 
-http://blog.codinghorror.com/the-great-newline-schism/
+[the-great-newline-schism]: http://blog.codinghorror.com/the-great-newline-schism/
