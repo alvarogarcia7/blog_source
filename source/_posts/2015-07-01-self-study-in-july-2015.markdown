@@ -7,6 +7,15 @@ categories:
   - self-study-aggregation
   - july
   - 2015
+  - rich-hickey
+  - clojure
+  - java-one
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
+
+## Clojure made simple
+
+I've watched [this talk][clojure-made-simple] by Rich Hickey at the Java One
+
+[clojure-made-simple]: https://www.youtube.com/watch?v=VSdnJDO-xdg
