@@ -18,4 +18,6 @@ I've grouped all small posts related to the self-study from July 2015 into a sin
 
 I've watched [this talk][clojure-made-simple] by Rich Hickey at the Java One. It references the talk [Easy made simple](http://www.infoq.com/presentations/Simple-Made-Easy)
 
+  * polymorphism without inheritance; single dispatch on the first parameter
+
 [clojure-made-simple]: https://www.youtube.com/watch?v=VSdnJDO-xdg
