@@ -10,6 +10,8 @@ categories:
   - rich-hickey
   - clojure
   - java-one
+  - pair-programming
+  - carlos-ble
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -21,3 +23,9 @@ I've watched [this talk][clojure-made-simple] by Rich Hickey at the Java One. It
   * polymorphism without inheritance; single dispatch on the first parameter
 
 [clojure-made-simple]: https://www.youtube.com/watch?v=VSdnJDO-xdg
+
+## Productive pair programming
+
+I've read [this article][productive-pair-programming] about pair programming, using the driver & copilot technique, written by Carlos Blé
+
+[productive-pair-programming]: http://www.carlosble.com/2015/07/productive-pair-programming/
