@@ -29,3 +29,9 @@ I've watched [this talk][clojure-made-simple] by Rich Hickey at the Java One. It
 I've read [this article][productive-pair-programming] about pair programming, using the driver & copilot technique, written by Carlos Blé
 
 [productive-pair-programming]: http://www.carlosble.com/2015/07/productive-pair-programming/
+
+## Building Automated REST APIs with Python
+
+Investigating QA automation for REST APIs, I've read [these slides][automated-rest-apis-with-python] about it
+
+[automated-rest-apis-with-python]: http://www.slideshare.net/jeffknupp/building-automated-rest-apis-with-python
