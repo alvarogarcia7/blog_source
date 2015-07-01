@@ -12,6 +12,8 @@ categories:
   - java-one
   - pair-programming
   - carlos-ble
+  - kris-jenkins
+  - backwards-compatibility
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -35,3 +37,9 @@ I've read [this article][productive-pair-programming] about pair programming, us
 Investigating QA automation for REST APIs, I've read [these slides][automated-rest-apis-with-python] about it
 
 [automated-rest-apis-with-python]: http://www.slideshare.net/jeffknupp/building-automated-rest-apis-with-python
+
+## Backwards Compatibility Testing For Your Clojure Project
+
+I've read [this article][backwards-compatibility-testing-your-clojure-project] on making leiningen test the application on several clojure versions. Written by Kris Jenkins.
+
+[backwards-compatibility-testing-your-clojure-project]: http://blog.jenkster.com/2014/02/backwards-compatibility-testing-your-clojure-project.html
