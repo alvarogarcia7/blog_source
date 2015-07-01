@@ -12,6 +12,9 @@ categories:
   - java-one
   - pair-programming
   - carlos-ble
+  - rest-api
+  - jeff-knupp
+  - python
   - kris-jenkins
   - backwards-compatibility
 ---
