@@ -21,6 +21,10 @@ categories:
   - jeremy-miller
   - black-box-testing
   - white-box-testing
+  - edson-yanaga
+  - ddd
+  - java-ee
+  - video
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -61,3 +65,10 @@ I've read [this article][succeeding_with_integration_testing] by Jeremy Miller o
   * Do not share databases, as they introduce risks of flaky tests
 
 [succeeding_with_integration_testing]: http://jeremydmiller.com/2015/06/25/succeeding_with_integration_testing/
+
+## Applied DDD in a Java EE 7 and Open Source World
+
+I've watched [this video][aplied-ddd-in-java-ee-7] by Edson Yanaga in the Java One, about DDD using Java EE 7, JSFs and lambdas on top of glassfish
+
+[aplied-ddd-in-java-ee-7]: https://www.youtube.com/watch?v=9D_-7E7Mrzw
+
