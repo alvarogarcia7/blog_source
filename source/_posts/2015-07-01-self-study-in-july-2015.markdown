@@ -25,6 +25,9 @@ categories:
   - ddd
   - java-ee
   - video
+  - rainsberger
+  - integrated-test
+  - integration-test
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -72,3 +75,9 @@ I've watched [this video][aplied-ddd-in-java-ee-7] by Edson Yanaga in the Java O
 
 [aplied-ddd-in-java-ee-7]: https://www.youtube.com/watch?v=9D_-7E7Mrzw
 
+
+## Integrated tests are a scam
+
+I've read, again, [this article][integrated-tests-are-a-scam] by J. B. Rainsberger on integrated tests and why not to use them. From a numerical / combinatorics point of view.
+
+[integrated-tests-are-a-scam]: http://blog.thecodewhisperer.com/2010/10/16/integrated-tests-are-a-scam/
