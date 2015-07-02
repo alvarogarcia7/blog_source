@@ -17,6 +17,10 @@ categories:
   - python
   - kris-jenkins
   - backwards-compatibility
+  - integration-testing
+  - jeremy-miller
+  - black-box-testing
+  - white-box-testing
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -46,3 +50,14 @@ Investigating QA automation for REST APIs, I've read [these slides][automated-re
 I've read [this article][backwards-compatibility-testing-your-clojure-project] on making leiningen test the application on several clojure versions. Written by Kris Jenkins.
 
 [backwards-compatibility-testing-your-clojure-project]: http://blog.jenkster.com/2014/02/backwards-compatibility-testing-your-clojure-project.html
+
+## Succeeding with Automated Integration Tests
+
+I've read [this article][succeeding_with_integration_testing] by Jeremy Miller on integration testing and how to succeed with it. Some notes:
+
+  * Choose the Quickest, Useful Feedback Mechanism, even if that means testing the backend and frontend separately
+  * Prefer white-box than black-box testing
+  * Use quick tests, that can be run locally in an easy fashion
+  * Do not share databases, as they introduce risks of flaky tests
+
+[succeeding_with_integration_testing]: http://jeremydmiller.com/2015/06/25/succeeding_with_integration_testing/
