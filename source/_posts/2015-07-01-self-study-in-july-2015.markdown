@@ -81,3 +81,18 @@ I've watched [this video][aplied-ddd-in-java-ee-7] by Edson Yanaga in the Java O
 I've read, again, [this article][integrated-tests-are-a-scam] by J. B. Rainsberger on integrated tests and why not to use them. From a numerical / combinatorics point of view.
 
 [integrated-tests-are-a-scam]: http://blog.thecodewhisperer.com/2010/10/16/integrated-tests-are-a-scam/
+
+## Functional Programming should be your #1 priority for 2015
+
+I've read [this introduction][functional-programming-should-be-your-1-priority] to functional programming by Ju Gonçalves. Explains some functional concepts, such as:
+
+  * First-Class Functions
+  * High-Order Functions
+  * Pure Functions
+  * Closures
+  * Immutable State
+
+Also recommends a few books on the subject (e.g., SICP, HTDP).
+
+[functional-programming-should-be-your-1-priority]: https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9
+
