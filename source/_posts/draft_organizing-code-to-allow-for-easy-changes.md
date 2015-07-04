@@ -31,4 +31,6 @@ This is a draft sample
 >
 > Practical Object Oriented Design in Ruby, by Sandi Metz
 
+This can be found the in POODR > Chapter 2. Designing Classes with a Single Responsibility > Organizing Code to Allow for Easy Changes
+
 Note: Bold is mine
