@@ -27,4 +27,4 @@ The slides are available [here][slides] (PDF format)
 TODO add link to the good presentation, not directly to the raw pdf.
 {% endcomment %}
 
-[slides]: https://github.com/alvarogarcia7/blog_source/raw/source/source/blog/uploads/refactoring-legacy-code-slides.pdf
+[slides]: ../../../../uploads/refactoring-legacy-code-slides.pdf
