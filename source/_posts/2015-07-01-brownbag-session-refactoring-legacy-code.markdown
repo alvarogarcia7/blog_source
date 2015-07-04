@@ -24,3 +24,5 @@ Today I have done a brown bag session about refactoring legacy code. It includes
 The slides are available [here][slides] (PDF format)
 
 [slides]: ../../../../uploads/refactoring-legacy-code-slides.pdf
+
+We also did a practical session, whose experience report is [here](../../../../2015/06/23/brown-bag-session-refactoring-legacy-code/) 
