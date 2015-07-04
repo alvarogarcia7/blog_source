@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: "Iterate with index in clojure"
+date: 2015-07-04 14:34:37 +0200
+comments: true
 categories:
   - sample
   - clojure
@@ -30,7 +33,7 @@ When you read it from file to a variable, it is converted to:
  
  In ruby, you have this construct:
  
- ```ruby
+```ruby
 array = ["A", "B", "C"]
 array.each_with_index {|val, index| puts "#{val} => #{index}" }
 ```
