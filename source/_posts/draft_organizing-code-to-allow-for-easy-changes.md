@@ -1,7 +1,6 @@
 ---
 published: false
 categories:
-  - sample
   - poodr
   - sandi-metz
   - true-code
@@ -18,8 +17,6 @@ categories:
   - object-oriented-design
   - object-oriented
 ---
-
-This is a draft sample
 
 
 ## Organizing Code to Allow for Easy Changes
