@@ -31,6 +31,9 @@ categories:
   - raul-rojas
   - lambda-calculus
   - paper
+  - santiago-pino
+  - tdd-mistake
+  - tdd
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -104,4 +107,12 @@ Also recommends a few books on the subject (e.g., SICP, HTDP).
 I've read [this paper][introduction-lambda-calculus], an introduction to the lambda calculus. Haven't done the exercises. Written by Raúl Rojas
 
 [introduction-lambda-calculus]: http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf
+
+## 20 common mistakes when doing Test-Driven Development
+
+I had thought of converting all of [his tweets][svpino-tweets-tdd-mistakes] into a blog post, but he has already done this for us: I've read a [list of common mistakes][20-mistakes-tdd] when doing tdd by [Santiago Pino][svpino]
+
+[20-mistakes-tdd]: https://blog.svpino.com/2015/05/29/20-common-mistakes-when-doing-test-driven-development
+[svpino-tweets-tdd-mistakes]: https://twitter.com/search?q=svpino%20%23tdd%20mistake&src=typd
+[svpino]: https://twitter.com/svpino
 
