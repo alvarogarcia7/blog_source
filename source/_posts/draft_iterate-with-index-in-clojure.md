@@ -35,7 +35,7 @@ When you read it from file to a variable, it is converted to:
  In ruby, you have this construct:
  
  ```ruby
- array = ["A", "B", "C"]
+array = ["A", "B", "C"]
 array.each_with_index {|val, index| puts "#{val} => #{index}" }
 ```
 
