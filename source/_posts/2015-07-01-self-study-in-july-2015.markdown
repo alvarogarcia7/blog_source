@@ -37,6 +37,8 @@ categories:
   - martin-fowler
   - coupling
   - design
+  - mock
+  - mock-framework
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -125,4 +127,8 @@ I've read the article by Martin Fowler [Reducing Coupling][reducing-coupling] in
 
 [reduce-coupling]: http://martinfowler.com/ieeeSoftware/coupling.pdf
 
+## Comparing Java Mock Frameworks – Part 2: Creating Mock Objects
 
+[List of mock frameworks for java][comparing-java-mock-frameworks]. Have only read the jMock, mockito and jMockit part.
+
+https://softwareinabottle.wordpress.com/2010/10/06/comparing-java-mock-frameworks-part-2-creating-mock-objects/
