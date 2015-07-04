@@ -125,7 +125,7 @@ I had thought of converting all of [his tweets][svpino-tweets-tdd-mistakes] into
 
 I've read the article by Martin Fowler [Reducing Coupling][reducing-coupling] in the IEEE SOFTWARE July/August 2001
 
-[reduce-coupling]: http://martinfowler.com/ieeeSoftware/coupling.pdf
+[reducing-coupling]: http://martinfowler.com/ieeeSoftware/coupling.pdf
 
 ## Comparing Java Mock Frameworks – Part 2: Creating Mock Objects
 
