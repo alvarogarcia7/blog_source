@@ -9,11 +9,7 @@ categories:
   - protip
 ---
 
-Scenario: 
-
-  * read lines from a file
-  * select 1 and 2
-  * print to console
+Scenario: iterate a sequence (``seq``) with its index
   
 
 The lines have an implicit line number (starting by 1, in most editors):
