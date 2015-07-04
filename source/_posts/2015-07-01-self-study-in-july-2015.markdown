@@ -34,6 +34,9 @@ categories:
   - santiago-pino
   - tdd-mistake
   - tdd
+  - martin-fowler
+  - coupling
+  - design
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -115,4 +118,11 @@ I had thought of converting all of [his tweets][svpino-tweets-tdd-mistakes] into
 [20-mistakes-tdd]: https://blog.svpino.com/2015/05/29/20-common-mistakes-when-doing-test-driven-development
 [svpino-tweets-tdd-mistakes]: https://twitter.com/search?q=svpino%20%23tdd%20mistake&src=typd
 [svpino]: https://twitter.com/svpino
+
+## Reducing coupling
+
+I've read the article by Martin Fowler [Reducing Coupling][reducing-coupling] in the IEEE SOFTWARE July/August 2001
+
+[reduce-coupling]: http://martinfowler.com/ieeeSoftware/coupling.pdf
+
 
