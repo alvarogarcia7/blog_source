@@ -28,6 +28,9 @@ categories:
   - rainsberger
   - integrated-test
   - integration-test
+  - raul-rojas
+  - lambda-calculus
+  - paper
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -95,4 +98,10 @@ I've read [this introduction][functional-programming-should-be-your-1-priority] 
 Also recommends a few books on the subject (e.g., SICP, HTDP).
 
 [functional-programming-should-be-your-1-priority]: https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9
+
+## A Tutorial Introduction to the Lambda Calculus
+
+I've read [this paper][introduction-lambda-calculus], an introduction to the lambda calculus. Haven't done the exercises. Written by Raúl Rojas
+
+[introduction-lambda-calculus]: http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf
 
