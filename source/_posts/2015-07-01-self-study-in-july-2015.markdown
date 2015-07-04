@@ -131,4 +131,4 @@ I've read the article by Martin Fowler [Reducing Coupling][reducing-coupling] in
 
 [List of mock frameworks for java][comparing-java-mock-frameworks]. Have only read the jMock, mockito and jMockit part.
 
-https://softwareinabottle.wordpress.com/2010/10/06/comparing-java-mock-frameworks-part-2-creating-mock-objects/
+[comparing-java-mock-frameworks]: https://softwareinabottle.wordpress.com/2010/10/06/comparing-java-mock-frameworks-part-2-creating-mock-objects/
