@@ -23,8 +23,4 @@ Today I have done a brown bag session about refactoring legacy code. It includes
 
 The slides are available [here][slides] (PDF format)
 
-{% comment %}
-TODO add link to the good presentation, not directly to the raw pdf.
-{% endcomment %}
-
 [slides]: ../../../../uploads/refactoring-legacy-code-slides.pdf
