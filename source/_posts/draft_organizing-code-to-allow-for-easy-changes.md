@@ -6,6 +6,17 @@ categories:
   - sandi-metz
   - true-code
   - change-code
+  - quote
+  - easy-change
+  - transparent
+  - reasonable
+  - usable
+  - exemplary
+  - design
+  - ood
+  - oo
+  - object-oriented-design
+  - object-oriented
 ---
 
 This is a draft sample
