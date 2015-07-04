@@ -80,3 +80,5 @@ lines
 (get-all lines '(1 1))
 ; ("line1" "line1")
 ```
+
+Note: the original source code for this post is [here](https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/test/simple/iterate-with-index.clj)
