@@ -63,7 +63,7 @@ lines
 
 [Source](https://clojuredocs.org/clojure.core/map-indexed), especially [this one](https://clojuredocs.org/clojure.core/map-indexed#example-542692cdc026201cdc326d25)
 
-But if you only need to get the lines at certain indexes, it is also possible to get the values directly:
+But if you only need to get the lines at certain indexes, it is also possible to get the values directly, using ``map`` on the sequence of desired indexes:
 
 ```lisp
 lines
