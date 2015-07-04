@@ -48,12 +48,36 @@ In clojure, there is a similar function:
 ; ([0 "line1"] [1 "line2"] [2 "hello"])
 ```
 
-If you want to shift the collection to the right so it starts with 1:
+If you want to shift the collection to the right so it starts with 1 (for the REPL):
 
 ```lisp
+(def lines '("line1" "line2" "hello"))
+; ("line1" "line2" "hello")
+
+(defn shift-one [lines] 
+  (cons "" lines))
+(def lines (shift-one lines))
+lines
+; ("" "line1" "line2" "hello")
+
 (map-indexed (fn [idx itm] [idx itm])
-  (cons "" '("line1" "line2" "hello")))
+  lines)  
 ; ([0 ""] [1 "line1"] [2 "line2"] [3 "hello"])
 ```
 
 [Source](https://clojuredocs.org/clojure.core/map-indexed), especially [this one](https://clojuredocs.org/clojure.core/map-indexed#example-542692cdc026201cdc326d25)
+
+But if you only need to get the lines at certain indexes, it is also possible to get the values directly:
+
+```lisp
+lines
+; ("" "line1" "line2" "hello")
+
+(defn get-all [lines indexes]
+  (map #(nth lines %) indexes))
+(get-all lines '(1 2))
+; ("line1" "line2")
+
+(get-all lines '(1 1))
+; ("line1" "line1")
+```
