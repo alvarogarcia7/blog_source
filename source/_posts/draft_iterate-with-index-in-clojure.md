@@ -45,6 +45,15 @@ In clojure, there is a similar function:
 
 ```lisp
 (map-indexed (fn [idx itm] [idx itm]) '(:f :o))
+; ([0 "line1"] [1 "line2"] [2 "hello"])
+```
+
+If you want to shift the collection to the right so it starts with 1:
+
+```lisp
+(map-indexed (fn [idx itm] [idx itm])
+  (cons "" '("line1" "line2" "hello")))
+; ([0 ""] [1 "line1"] [2 "line2"] [3 "hello"])
 ```
 
 [Source](https://clojuredocs.org/clojure.core/map-indexed), especially [this one](https://clojuredocs.org/clojure.core/map-indexed#example-542692cdc026201cdc326d25)
