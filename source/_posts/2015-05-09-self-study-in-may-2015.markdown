@@ -68,6 +68,8 @@ categories:
   - adam-angelo
   - management
   - engineering
+  - reading
+  - self-study
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015
