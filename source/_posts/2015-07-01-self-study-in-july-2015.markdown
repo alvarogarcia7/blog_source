@@ -39,6 +39,8 @@ categories:
   - design
   - mock
   - mock-framework
+  - reading
+  - self-study
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
