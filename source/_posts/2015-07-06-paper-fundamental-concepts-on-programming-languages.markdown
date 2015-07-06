@@ -167,6 +167,92 @@ In general:
 Both for functions and objects.
 
 
+### First and second class objects
+
+> A procedure, on the other hand, may only appear in another procedure call either
+>as the operator (the most common case) or as one of the actual parameters. There are no
+>other expressions involving procedures or whose results are procedures. Thus in a sense
+>procedures in ALGOL are second class citizens—they always have to appear in person
+>and can never be represented by a variable or expression
+>
+> 3.5.1, First and second class objects, page 32
+
+>Historically this second class status of procedures in ALGOL is probably a consequence
+>of the view of functions taken by many mathematicians: that they are constants whose
+>name one can always recognise.
+>
+> 3.5.1, First and second class objects, page 33
+
+>[...] it is remarkably difficult to stop looking on functions as second class objects
+>
+> 3.5.1, First and second class objects, page 33
+
+> and in particular, of functions which have functions as a result
+>
+> 3.5.1, First and second class objects, page 33
+
+
+### Closure
+
+>Thus the R-value of a function contains two parts—a rule for evaluating the expression,
+>and an environment which supplies its free variables. An R-value of this sort will be called
+>a closure.
+>
+> 3.5.2, Representation of functions, page 34
+
+### Types
+
+There is information on types: latent vs manifest, how to determine it
+
+>We call attributes which can be determined at compile time in this way manifest; attributes
+>that can only be determined by running the program are known as latent
+>
+>3.6.2, Manifest and latent, page 36
+
+### Polymorphism
+
+Ad-hoc vs parametric polymorphism
+
+>In ad hoc polymorphism there is no single systematic way of determining the type of the
+>result from the type of the arguments. There may be several rules of limited extent which
+>reduce the number of cases, but these are themselves ad hoc both in scope and content
+>
+>3.6.4, Polymorphism, page 37
+
+>Parametric polymorphism:
+>
+>(α ⇒ β, α list) ⇒ β list
+> 
+>3.6.4, Polymorphism, page 37
+
+### Collections
+> * **List**: An ordered sequence of objects all of the same type. The number is dynamically variable.
+> * **Ntuple**: An ordered sequence of objects all of the same type. The number is dynamically variable.
+> * **Set**: An ordered sequence of objects all of the same type. The number is dynamically variable.
+> * **Bag or Coll**: It consists of an unordered collection of objects all of which are of the same type and differs from a set in that repetitions are allowed
+>
+>3.7.7, Other forms of structure, page 45
+
+Also talks about "rings" (3.7.7, Other forms of structure, page 45)
+
+### Macros
+
+>macrogenerators deal with the symbols which represent
+>the variables, values and other objects of concern to a program so that all their manipulation
+>is performed before the final compiling
+>
+>4.2, Macrogenerators, page 47
+
+>Macrogeneration seems to be particularly valuable when a semantic extension of the
+>language is required
+>
+>4.2, Macrogenerators, page 47
+
+>I believe, a proper aim for programming language designers to try to make the use of
+>macrogenerators wholly unnecessary
+>
+>4.2, Macrogenerators, page 47
+
 
 ### funny comments
 
@@ -178,3 +264,21 @@ Both for functions and objects.
 >
 > 3.4.5 Functions and routines, page 30
 
+>Bag or Coll This is a new sort of collection for which there is, as yet, no generally accepted name.
+>
+>3.7.7, Other forms of structure, page 45
+
+## Review
+
+This has been a very interesting paper, on the foundational concepts. A more formal approach to the assignment operator, L-Values and R-Values and functions.
+
+The part about types is very interesting, explained in simple terms and with examples.
+
+Some of the examples are in CPL, that although an old language, it is still comprehensible. The examples or equivalences in lambda calculus are more difficult to understand (I had to read an introduction to it[^2], just to grab the basics)
+
+Some concepts are a bit outdated, such as the missing object orientation (or its features) or the assembly code, but in general the contents resist the time. 
+
+Many of the concepts in programming are around L-Values and R-Values and this paper has made me realize this. Also that even if we are users of these systems, I didn't know many formalities behind it (assignment operator, rewriting, types, type inference, polymorphism modes, polymorphism without inheritance, etc).
+
+
+[^2]: [introduction to lambda calculus](../../../../2015/07/01/self-study-in-july-2015), search for "A Tutorial Introduction to the Lambda Calculus"
