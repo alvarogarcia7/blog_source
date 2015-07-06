@@ -54,6 +54,9 @@ categories:
   - reification
   - type-erasure
   - angelika-langer
+  - bjorn-tipling
+  - intellij-idea
+  - plugin
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -173,3 +176,12 @@ I've read [this FAQ][faq-reification] on reification by Angelika Langer
 I've read this wikipedia [page on type erasure][wiki-page-type-erasure]
 
 [wiki-page-type-erasure]: https://en.wikipedia.org/wiki/Type_erasure
+
+## How to make an IntelliJ IDEA plugin in less than 30 minutes
+
+I've read [this article][intellij-idea-plugin] on creating new IntelliJ IDEA plugin, by Bjorn Tipling
+
+[intellij-idea-plugin]: http://bjorn.tipling.com/how-to-make-an-intellij-idea-plugin-in-30-minutes
+
+
+
