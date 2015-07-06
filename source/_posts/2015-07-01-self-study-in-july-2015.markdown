@@ -168,3 +168,8 @@ I've read [this FAQ][faq-reification] on reification by Angelika Langer
 
 [faq-reification]: http://www.angelikalanger.com/GenericsFAQ/FAQSections/TechnicalDetails.html#FAQ101A
 
+## Type erasure
+
+I've read this wikipedia [page on type erasure][wiki-page-type-erasure]
+
+[wiki-page-type-erasure]: https://en.wikipedia.org/wiki/Type_erasure
