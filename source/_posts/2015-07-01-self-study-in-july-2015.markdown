@@ -45,6 +45,12 @@ categories:
   - apprenticeship
   - 8th-light
   - pete-mcbreen
+  - christopher-strachey
+  - programming-language
+  - theory
+  - 1967
+  - course
+  - fundamental-concepts
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -146,4 +152,10 @@ I've read [this review][software-craftsmanship-book-review] for a book that is a
 The review has been written by Megan Waller, an (ex-)apprentice at 8th Light.
 
 [software-craftsmanship-book-review]: http://meaganwaller.com/software-craftsmanship-book-review/
+
+## Fundamental concepts in programming languages
+
+I've read [this paper][http://www.cs.cmu.edu/~crary/819-f09/Strachey67.pdf] containing the contents for lectures in Computer Programming in the year 1967. Written by Christopher Strachey.
+
+Note: I've also seen this paper recommended in the repo [Papers We Love > plt](https://github.com/papers-we-love/papers-we-love/tree/master/plt) (Programming Language Theory) 
 
