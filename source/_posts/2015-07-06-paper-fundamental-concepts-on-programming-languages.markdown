@@ -11,6 +11,7 @@ categories:
   - course
   - fundamental-concepts
   - paper
+  - lecture
 ---
 
 Note: all quotes on this post come from [this paper][http://www.cs.cmu.edu/~crary/819-f09/Strachey67.pdf]: Strachey, C. Fundamental Concepts in Programming Languages. Published in Higher-Order and Symbolic Computation, 13, 11–49, 2000.
