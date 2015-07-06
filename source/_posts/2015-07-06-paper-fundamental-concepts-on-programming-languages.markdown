@@ -138,6 +138,34 @@ Explains call by value and call by reference, equivalent to calling by R-Value o
 >
 > 3.4.5 Functions and routines, page 30
 
+### Constancy and fixity
+
+"Protection by freezing"
+
+>Constancy is thus an attribute of an L-value, and
+>is, moreover, an invariant attribute. Thus when we create a new L-value, and in particular
+>when we define a new quantity, we must decide whether it is a constant or a variable.
+>
+> 3.4.6 Constants and variables, page 30
+
+
+>[...] fixed function. This is defined as a function which
+>either has no free variables, or if it has, whose free variables are all both constant and fixed.
+>
+> 3.4.7, Fixed and free, page 31
+
+>Note that fixity is a property of the λ-expression--i.e., a property of the R-value, while
+>constancy is a property of the L-value.
+>
+> 3.4.7, Fixed and free, page 31
+
+In general:
+
+  * Constancy is an attribute of the L-Value
+  * Fixity is an attribute of the R-Value
+
+Both for functions and objects.
+
 
 
 ### funny comments
