@@ -21,3 +21,6 @@ categories:
 * 2015-06-25
   * however, it is delivered on time but doesn’t fulfill the actual need, the specification must have been wrong, so the customer gets the blame - POODR, page 9 (sheet 34)
   * Idea that: if we break the "time" leg, it's the programmers; if we break the "scope" leg, it's the client
+
+
+* There are more ideas in the TODO task management tool
