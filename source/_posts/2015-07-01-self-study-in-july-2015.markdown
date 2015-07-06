@@ -41,6 +41,10 @@ categories:
   - mock-framework
   - reading
   - self-study
+  - meagan-waller
+  - apprenticeship
+  - 8th-light
+  - pete-mcbreen
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -134,3 +138,12 @@ I've read the article by Martin Fowler [Reducing Coupling][reducing-coupling] in
 [List of mock frameworks for java][comparing-java-mock-frameworks]. Have only read the jMock, mockito and jMockit part.
 
 [comparing-java-mock-frameworks]: https://softwareinabottle.wordpress.com/2010/10/06/comparing-java-mock-frameworks-part-2-creating-mock-objects/
+
+## Software Craftsmanship book review
+
+I've read [this review][software-craftsmanship-book-review] for a book that is already pending in my book list: Software Craftsmanship by Pete McBreen.
+
+The review has been written by Megan Waller, an (ex-)apprentice at 8th Light.
+
+[software-craftsmanship-book-review]: http://meaganwaller.com/software-craftsmanship-book-review/
+
