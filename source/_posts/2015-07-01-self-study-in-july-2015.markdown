@@ -51,6 +51,9 @@ categories:
   - 1967
   - course
   - fundamental-concepts
+  - reification
+  - type-erasure
+  - angelika-langer
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -158,4 +161,10 @@ The review has been written by Megan Waller, an (ex-)apprentice at 8th Light.
 I've read [this paper][http://www.cs.cmu.edu/~crary/819-f09/Strachey67.pdf] containing the contents for lectures in Computer Programming in the year 1967. Written by Christopher Strachey.
 
 Note: I've also seen this paper recommended in the repo [Papers We Love > plt](https://github.com/papers-we-love/papers-we-love/tree/master/plt) (Programming Language Theory) 
+
+## What is reification?
+
+I've read [this FAQ][faq-reification] on reification by Angelika Langer
+
+[faq-reification]: http://www.angelikalanger.com/GenericsFAQ/FAQSections/TechnicalDetails.html#FAQ101A
 
