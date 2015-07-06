@@ -57,6 +57,10 @@ categories:
   - bjorn-tipling
   - intellij-idea
   - plugin
+  - misko-hevery
+  - testability
+  - testable-code
+  - clean-code
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -183,5 +187,10 @@ I've read [this article][intellij-idea-plugin] on creating new IntelliJ IDEA plu
 
 [intellij-idea-plugin]: http://bjorn.tipling.com/how-to-make-an-intellij-idea-plugin-in-30-minutes
 
+## How to Write Clean, Testable Code
+
+I've watched, again, [this video][how-to-write-clean-testable-code] by Miško Hevery. Discusses what are the characteristics of tested and untested code, how to get from one to the other. Discusses techniques for testing code. At the end, there are questions but they cannot be heard (lack of microphone), so it is harder to follow.
+
+[how-to-write-clean-testable-code]: https://www.youtube.com/watch?v=XcT4yYu_TTs
 
 
