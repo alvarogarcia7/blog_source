@@ -9,6 +9,7 @@ categories:
   - reading
   - 2015
   - Q3
+  - self-study
 ---
 
 Books I've read this quarter[^1]:
