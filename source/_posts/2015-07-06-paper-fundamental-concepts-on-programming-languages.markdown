@@ -13,6 +13,8 @@ categories:
   - paper
 ---
 
+Note: all quotes on this post come from [this paper][http://www.cs.cmu.edu/~crary/819-f09/Strachey67.pdf]: Strachey, C. Fundamental Concepts in Programming Languages. Published in Higher-Order and Symbolic Computation, 13, 11–49, 2000.
+
 ## Contents
 
 This paper starts slow, from the mathematical and philosophical point of view, until it gets to the basic concepts on the fundamental concepts:
@@ -264,7 +266,7 @@ Also talks about "rings" (3.7.7, Other forms of structure, page 45)
 >
 > 3.4.5 Functions and routines, page 30
 
->Bag or Coll This is a new sort of collection for which there is, as yet, no generally accepted name.
+>**Bag or Coll** This is a new sort of collection for which there is, as yet, no generally accepted name.
 >
 >3.7.7, Other forms of structure, page 45
 
