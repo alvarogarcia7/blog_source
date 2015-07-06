@@ -64,6 +64,7 @@ categories:
   - mentor
   - role-model
   - joanne-wilson
+  - type-theory
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -201,5 +202,31 @@ I've watched, again, [this video][how-to-write-clean-testable-code] by Miško He
 I've read [this opinion][how-to-find-a-mentor] on the importance of role models and mentors. The difference between them and a personal experience. Written by Joanne Wilson
 
 [how-to-find-a-mentor]: https://medium.com/letters-to-my-mother/how-to-find-a-mentor-27fb978a8f1 
+
+## Type theory
+
+I've read this wiki page on [type theory][wiki-type-theory]
+
+Some notes:
+
+  * "type systems [...] language feature used to reduce bugs"
+  * two types: Church's typed λ-calculi and Martin-Löf's intuitionistic type theory.
+  * notation:
+    * typing judgement: ``M : A``. Term ``M`` has type ``A``
+    * example: ``nat`` may be a type
+    * ``2 : nat``, like in Scala
+    * function: "arrow"
+    * apply function to argument: no parenthesis
+  * conversion rule: rule for rewriting terms
+    * reduction rule: conversion rule that only works in one direction
+  * normal form: a form that cannot be further reduced
+  * element: all closed elements that can be reduced to the same normal form
+  * closed term: a term without parameters. Opposite is an open term
+  * convertibility: property of terms, both open and closed. Said to be convertible if two terms can be reduced to the same term 
+    * warning: x + 1 and 1 + x are not convertible because they are in normal form and not the same
+
+[wiki-type-theory]: https://en.wikipedia.org/wiki/Type_theory
+
+
 
 
