@@ -49,9 +49,6 @@ Regex explanation for ``^[^(]+\([a-Z.]*\.(.*)\)``:
   * ``(.*)``: any character, zero or more times, captured in group ``$1``
   * ``\)``: closing parenthesis
 
-
-
-
 Output:
 
 ```
