@@ -62,7 +62,7 @@ DocumentControllerTest
 
 copy that to file ``a.txt``
 
-execute this:
+Revert all the changes in these files:
 
 ```bash
 for i in $(cat a.txt | uniq); do
