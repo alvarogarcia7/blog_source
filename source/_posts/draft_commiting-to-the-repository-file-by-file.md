@@ -13,7 +13,7 @@ I was prefer committing to the repo with commits that are as small as possible a
 This is why I have some scripts to commit all the changes, even with the same message. This is one of them:
 
 ```bash
-for f in $(git status -s |grep "^M"); do
+for f in $(git status -s |grep "^M"|awk '{print $2}'); do
   git add $f
   git commit -m "generic commit for all files"
 done
