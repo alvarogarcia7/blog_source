@@ -15,6 +15,7 @@ regex:
 (tested in Sublime 3, build 3083, Windows 64)
 
 find what: ``^[^(]+\([a-Z.]*\.(.*)\)``
+
 replace with: ``$1``
 
 
