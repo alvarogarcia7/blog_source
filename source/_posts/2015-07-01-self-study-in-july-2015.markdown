@@ -65,6 +65,9 @@ categories:
   - role-model
   - joanne-wilson
   - type-theory
+  - hashcode
+  - java
+  - ralf-sternbergd
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -246,4 +249,8 @@ Some notes:
 
 [wiki-type-system]: https://en.wikipedia.org/wiki/Type_system
 
+## The 3 things you should know about hashCode()
 
+I've read [this article][things-know-hashcode] on the hashCode() method in java, written by Ralf Sternberg.
+
+[things-know-hashcode]: http://eclipsesource.com/blogs/2012/09/04/the-3-things-you-should-know-about-hashcode/
