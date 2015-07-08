@@ -46,7 +46,7 @@ Regex explanation for ``^[^(]+\([a-Z.]*\.(.*)\)``:
 
   * ``^``: beginning of line
   * ``[^(]+``: every character except parenthesis, one or more times
-  * ``\([a-Z.]*``: start with one parenthesis, any number of a-z, a-Z
+  * ``\([a-Z.]*``: start with one parenthesis, any number of a-z, A-Z
   * `\.``: a dot, as I'm using regex replacement
   * ``(.*)``: any character, zero or more times, captured in group ``$1``
   * ``\)``: closing parenthesis
