@@ -8,7 +8,9 @@ categories:
   - regex
 ---
 
-I was changing a massive amount of files (>1000) for a repeated code. The search and replace query was not too exact and it broke many tests in the system. For that, I reverted all test-breaking changes in the system.
+I was changing a massive amount of files (>1000) for a repeated code. The search and replace query was not too exact and it broke many tests in the system. For that, I preferred reverting those tests.
+
+Here's how to do it automatically:
 
 Copy all the failing tests to a text editor:
 
