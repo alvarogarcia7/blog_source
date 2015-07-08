@@ -1,8 +1,11 @@
 ---
-published: false
+layout: post
+title: "Tip: committing to the repo file by file"
+date: 2015-07-08 02:37:08 +0200
+comments: true
 categories:
-  - sample
   - tip
+  - protip
   - git
   - bash
   - polish-your-tools
@@ -18,4 +21,3 @@ for f in $(git status -s |grep "^M"|awk '{print $2}'); do
   git commit -m "generic commit for all files"
 done
 ```
-
