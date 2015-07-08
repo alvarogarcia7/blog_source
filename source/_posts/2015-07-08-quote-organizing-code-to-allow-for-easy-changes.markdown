@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: "Quote: Organizing Code to Allow for Easy Changes"
+date: 2015-07-08 02:41:54 +0200
+comments: true
 categories:
   - poodr
   - sandi-metz
