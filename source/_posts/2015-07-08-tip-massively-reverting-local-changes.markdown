@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: "Tip: massively reverting local changes"
+date: 2015-07-08 02:40:24 +0200
+comments: true
 categories:
   - sample
   - tip
