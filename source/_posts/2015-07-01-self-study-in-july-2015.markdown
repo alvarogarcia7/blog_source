@@ -227,6 +227,23 @@ Some notes:
 
 [wiki-type-theory]: https://en.wikipedia.org/wiki/Type_theory
 
+## Type system
 
+I've read this wiki page on [type system][wiki-type-system]
+
+Some notes:
+
+  * "The depth of type constraints and the manner of their evaluation affect the typing of the language"
+  * Type polymorphism
+  * {compile time, runtime} x {manually annotated, inferred}
+  * "A program associates each value with at least one particular type, but it also can occur that one value is associated with many subtypes."
+  * Classification of types:
+    * data type – a type of a value
+    * class – a type of an object
+    * kind – a type of a type, or metatype
+  * the type inference might be undecidable (for more complex type inference)
+  * "Strong typing offers more safety, but cannot guarantee complete type safety." An example is the division by zero, altough some languages may declare a dependent type "non-zero numbers"
+
+[wiki-type-system]: https://en.wikipedia.org/wiki/Type_system
 
 
