@@ -9,6 +9,7 @@ categories:
   - git
   - bash
   - polish-your-tools
+  - automation
 ---
 
 I was prefer committing to the repo with commits that are as small as possible as long as it makes sense. It makes it much easier to rever the changes.

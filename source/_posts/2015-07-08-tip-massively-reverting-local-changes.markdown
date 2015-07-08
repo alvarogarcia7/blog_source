@@ -9,6 +9,8 @@ categories:
   - git
   - bash
   - regex
+  - polish-your-tools
+  - automation
 ---
 
 I was changing a massive amount of files (>1000) for a repeated code. The search and replace query was not too exact and it broke many tests in the system. For that, I preferred reverting those tests.
