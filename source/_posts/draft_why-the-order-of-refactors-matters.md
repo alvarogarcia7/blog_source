@@ -30,6 +30,8 @@ Now imagine that it is time for the refactor phase. What would you change first?
   * Duplication for generating ``PairList``
   * Duplication for invoking ``asList``
   * Other
+  
+# Spoilers below
 
 I've chosen to remove the duplication for the ``new PairList`` first. For that, I'd extract ``new PairList`` to a method (the IDE only suggests extracting everything) and extracting parameter ``asList(...)``. This has the problem that the other method (``sutWith(input, output)``) is not affected and has to be manually refactored, again. Which is duplication in the process.
 
