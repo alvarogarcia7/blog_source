@@ -68,6 +68,8 @@ categories:
   - hashcode
   - java
   - ralf-sternbergd
+  - variant
+  - eric-normand
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -254,3 +256,9 @@ Some notes:
 I've read [this article][things-know-hashcode] on the hashCode() method in java, written by Ralf Sternberg.
 
 [things-know-hashcode]: http://eclipsesource.com/blogs/2012/09/04/the-3-things-you-should-know-about-hashcode/
+
+## Reduce Complexity with Variants
+
+I've read [this article][reduce-complexity-with-variants] on variants in clojure by Eric Normand
+
+[reduce-complexity-with-variants]: http://www.lispcast.com/reduce-complexity-with-variants
