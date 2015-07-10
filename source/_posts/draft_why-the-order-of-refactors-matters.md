@@ -23,3 +23,5 @@ Levels of navigation:
   * Go to definition by string match
   * Go to definition by fully qualified class name (FQCN)
   * Go to definition by fully qualified class name (FQCN) and parameters (to support overload). Might not work in dynamicly typed languages
+
+The cost of writing / adapting tests is not included, as this has to be done either way (manual or automatic)
