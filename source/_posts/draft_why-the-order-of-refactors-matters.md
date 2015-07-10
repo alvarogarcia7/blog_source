@@ -2,6 +2,11 @@
 published: false
 categories:
   - sample
+  - refactoring
+  - theory
+  - big-o-notation
+  - refactor
+  - cost
 ---
 
 TODO expand this post
