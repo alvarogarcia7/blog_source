@@ -6,30 +6,30 @@ categories:
 
 This is a draft sample
 
-imagine this code:
+imagine this code (fragment):
 
 ```java
-private HypothesisSet sutWith (final int input1, final int output1, final int input2, final int output2) {
-	return new HypothesisSet(
+private PairList sutWith (final int input1, final int output1, final int input2, final int output2) {
+	return new PairList(
 			asList(
-					hypothesis(output1, input1),
-					hypothesis(output2, input2)));
+				pair(output1, input1),
+				pair(output2, input2)));
 }
 
-private HypothesisSet sutWith (final int input, final int output) {
-	return new HypothesisSet(
+private PairList sutWith (final int input, final int output) {
+	return new PairList(
 			asList(
-					hypothesis(output, input)));
+				pair(output, input)));
 }
 ```
 
 Now imagine that it is time for the refactor phase. What would you change first?
 
-  * Duplication for generating ``HypothesisSet```
+  * Duplication for generating ``PairList```
   * Duplication for invoking ``asList``
   * Other
 
-I've chosen to remove the duplication for the ``new HypothesisSet``first. For that, I'd extract ``new HypothesisSet``to a method (only suggests extracting everything) and extracting parameter ``asList(...)``. This has the problem that the other method (``sutWith(input, output)``) is not affected and has to be manually refactored, again. Which is duplication, in the process. We should stop this.
+I've chosen to remove the duplication for the ``new PairList``first. For that, I'd extract ``new PairList``to a method (only suggests extracting everything) and extracting parameter ``asList(...)``. This has the problem that the other method (``sutWith(input, output)``) is not affected and has to be manually refactored, again. Which is duplication, in the process. We should stop this.
 
 ## DRY - Don't repeat yourself
 
