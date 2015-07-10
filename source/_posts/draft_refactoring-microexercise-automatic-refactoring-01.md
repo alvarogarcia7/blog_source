@@ -2,6 +2,12 @@
 published: false
 categories:
   - sample
+  - refactoring
+  - refactoring-microexercise
+  - microexercise
+  - automatic-refactoring
+  - spoiler
+  - dry
 ---
 
 Refactoring microexercise: Automatic refactoring
