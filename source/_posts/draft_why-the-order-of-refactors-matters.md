@@ -38,7 +38,7 @@ I've chosen to remove the duplication for the ``new PairList`` first. For that, 
 There's another way (there are more, also) to do this refactor:
 
   1. Extract the ``asList(...)`` to a variable
-  2. Extract the method
+  2. Extract a method containing only the ``new`` (with the parameters)
   3. Receive this suggestion: 
   
   > Idea has detected 1 code fragment in this file that can be replaced with a call to the extracted method. [...]
