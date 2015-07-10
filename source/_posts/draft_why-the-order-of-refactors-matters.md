@@ -4,7 +4,7 @@ categories:
   - sample
 ---
 
-This is a draft sample
+Refactoring microexercise: Automatic refactoring
 
 imagine this code (fragment - [^1]):
 
