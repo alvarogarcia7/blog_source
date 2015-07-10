@@ -25,7 +25,7 @@ private PairList sutWith (final int input, final int output) {
 
 Now imagine that it is time for the refactor phase. What would you change first?
 
-  * Duplication for generating ``PairList```
+  * Duplication for generating ``PairList``
   * Duplication for invoking ``asList``
   * Other
 
