@@ -24,3 +24,20 @@ private HypothesisSet sutWith (final int input, final int output) {
 ```
 
 Now imagine that it is time for the refactor phase. What would you change first?
+
+  * Duplication for generating ``HypothesisSet```
+  * Duplication for invoking ``asList``
+  * Other
+
+I've chosen to remove the duplication for the ``new HypothesisSet``first. For that, I'd extract ``new HypothesisSet``to a method (only suggests extracting everything) and extracting parameter ``asList(...)``. This has the problem that the other method (``sutWith(input, output)``) is not affected and has to be manually refactored, again. Which is duplication, in the process. We should stop this.
+
+## DRY - Don't repeat yourself
+
+There's another way (there are more, also) to do this refactor:
+
+  1. Extract the ``asList(...)`` to a variable
+  2. Extract the method
+  3. Receive this suggestion: 
+  
+  > Idea has detected 1 code fragment in this file that can be replaced with a call to the extracted method. [...]
+  4. Accept it and you're done
