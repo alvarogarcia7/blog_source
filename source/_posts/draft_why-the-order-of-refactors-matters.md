@@ -18,7 +18,8 @@ Levels of automatic refactoring:
 Levels of navigation:
 
   * No automation, whatsoever
-  * Search
+  * Search in file
+  * Search global
   * Go to definition by string match
   * Go to definition by fully qualified class name (FQCN)
   * Go to definition by fully qualified class name (FQCN) and parameters (to support overload). Might not work in dynamicly typed languages
