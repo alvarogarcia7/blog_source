@@ -6,7 +6,9 @@ categories:
 
 This is a draft sample
 
-imagine this code (fragment):
+imagine this code (fragment - [^1]):
+
+[^1]: the full code is available [here](https://github.com/alvarogarcia7/refactoring-microexercises/tree/master/java/src/main/java/refactoring)
 
 ```java
 private PairList sutWith (final int input1, final int output1, final int input2, final int output2) {
