@@ -17,7 +17,7 @@ password=1234a
 
 With clojure, you can convert this into ``application-properties.clj`` [^1]:
 
-[^1]: the full code can be found in [this file](https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/test/simple/repl-session-14.clj)
+[^1]: the full code can be found in [this file](https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/test/simple/application-properties.clj)
 
 ```lisp
 (defn max-connection-pool-size []
@@ -28,7 +28,9 @@ With clojure, you can convert this into ``application-properties.clj`` [^1]:
   "john.doe")
 ```
 
-and to read it:
+and to read it [^2]:
+
+[^2]: the full code can be found in [this file](https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/test/simple/repl-session-14.clj)
 
 ```lisp
 (load-file "test/simple/application-properties.clj")
