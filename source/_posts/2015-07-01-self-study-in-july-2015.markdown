@@ -77,6 +77,7 @@ categories:
   - airbrake
   - raygun
   - stackhunter
+  - alex-zhitnitsky
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -272,7 +273,7 @@ I've read [this white paper][sql-2011] on the new features in SQL 2011. Written 
 
 ## 5 Error Tracking Tools Java Developers Should Know
 
-I've read [this article][5-error-tracking-tools] about tracking tools for java, featuring:
+I've read [this article][5-error-tracking-tools] about tracking tools for java written by Alex Zhitnitsky, featuring:
 
   * Raygun
   * Sentry
