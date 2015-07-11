@@ -68,6 +68,9 @@ categories:
   - hashcode
   - java
   - ralf-sternbergd
+  - fred-zemke
+  - sql-2011
+  - sql
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -254,3 +257,9 @@ Some notes:
 I've read [this article][things-know-hashcode] on the hashCode() method in java, written by Ralf Sternberg.
 
 [things-know-hashcode]: http://eclipsesource.com/blogs/2012/09/04/the-3-things-you-should-know-about-hashcode/
+
+## What is new in SQL:2011
+
+I've read [this white paper][sql-2011] on the new features in SQL 2011. Written by Fred Zemke
+
+[sql-2011]: http://www.sigmod.org/publications/sigmod-record/1203/pdfs/10.industry.zemke.pdf
