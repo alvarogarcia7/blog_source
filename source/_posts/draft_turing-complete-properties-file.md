@@ -18,6 +18,35 @@ TODO refactor this post to include the problem first, then the solution
 
 TODO add reference to library ``environ`` (found [here](https://github.com/weavejester/environ))
 
+TODO add example to this in ``environ``: 
+
+(original example from their README)
+
+```lisp
+{:dev  {:env {:database-url "jdbc:postgres://localhost/dev"}}
+ :test {:env {:database-url "jdbc:postgres://localhost/test"}}}
+```
+
+```lisp
+(defn get-test-database [type]
+  (str "localhost/" type))
+
+{:dev  {:env {:database-url (str "jdbc:postgres://" (get-test-database "dev"))}}
+ :test {:env {:database-url "jdbc:postgres://localhost/test"}}}
+```
+
+or even
+
+```lisp
+(defn get-test-database [type]
+  (get-from-webserver "db"))
+
+{:dev  {:env {:database-url (str "jdbc:postgres://" (get-test-database "dev"))}}
+ :test {:env {:database-url "jdbc:postgres://localhost/test"}}}
+```
+
+--- END example
+
 A common ``application.properties``:
 
 ```
