@@ -16,6 +16,8 @@ TODO expand on this post
 
 TODO refactor this post to include the problem first, then the solution
 
+TODO add reference to library ``environ`` (found [here](https://github.com/weavejester/environ))
+
 A common ``application.properties``:
 
 ```
