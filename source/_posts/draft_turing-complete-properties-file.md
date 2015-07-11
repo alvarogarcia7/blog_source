@@ -15,7 +15,9 @@ username=john.doe
 password=1234a
 ```
 
-With clojure, you can convert this into ``application-properties.clj``:
+With clojure, you can convert this into ``application-properties.clj`` [^1]:
+
+[^1]: the full code can be found in [this file](https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/test/simple/repl-session-14.clj)
 
 ```lisp
 (defn max-connection-pool-size []
