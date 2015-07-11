@@ -7,6 +7,8 @@ categories:
 
 TODO expand on this post
 
+TODO refactor this post to include the problem first, then the solution
+
 A common ``application.properties``:
 
 ```
