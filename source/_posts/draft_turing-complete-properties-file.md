@@ -3,6 +3,7 @@ published: false
 categories:
   - sample
   - clojure
+  - java
   - properties
   - environment
   - turing-complete
@@ -11,6 +12,7 @@ categories:
   - application-properties
   - snippet
   - zookeeper
+  - comparison
 ---
 
 TODO expand on this post
