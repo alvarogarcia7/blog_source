@@ -56,6 +56,8 @@ Zookeeper:
 >
 > source: https://github.com/liebke/zookeeper-clj
 
+the Apache Zookeeper project's home is [here](http://zookeeper.apache.org/)
+
 The (one-way) maintaining configuration information can be easily done with this system of reading properties
 
 END TODO zookeeper zone
