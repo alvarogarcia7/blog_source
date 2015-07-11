@@ -10,6 +10,7 @@ categories:
   - environ
   - application-properties
   - snippet
+  - zookeeper
 ---
 
 TODO expand on this post
@@ -46,6 +47,18 @@ or even
 ```
 
 --- END example
+
+TODO explain that 
+
+Zookeeper:
+
+> [...] is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services."
+>
+> source: https://github.com/liebke/zookeeper-clj
+
+The (one-way) maintaining configuration information can be easily done with this system of reading properties
+
+END TODO zookeeper zone
 
 A common ``application.properties``:
 
