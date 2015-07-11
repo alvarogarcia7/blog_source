@@ -3,6 +3,13 @@ published: false
 categories:
   - sample
   - clojure
+  - properties
+  - environment
+  - turing-complete
+  - library
+  - environ
+  - application-properties
+  - snippet
 ---
 
 TODO expand on this post
