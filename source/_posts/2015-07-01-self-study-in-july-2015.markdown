@@ -71,6 +71,12 @@ categories:
   - fred-zemke
   - sql-2011
   - sql
+  - tracking-tools
+  - takipi
+  - sentry
+  - airbrake
+  - raygun
+  - stackhunter
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -263,3 +269,17 @@ I've read [this article][things-know-hashcode] on the hashCode() method in java,
 I've read [this white paper][sql-2011] on the new features in SQL 2011. Written by Fred Zemke
 
 [sql-2011]: http://www.sigmod.org/publications/sigmod-record/1203/pdfs/10.industry.zemke.pdf
+
+## 5 Error Tracking Tools Java Developers Should Know
+
+I've read [this article][5-error-tracking-tools] about tracking tools for java, featuring:
+
+  * Raygun
+  * Sentry
+  * Takipi
+  * Airbrake
+  * StackHunter
+  * [Bonus] ABRT
+  * Comments cite [Squash](http://squash.io) (server written in ruby, java client available) and [Rollbar](http://rollbar.com) (home says supports android but not says anything about java)
+
+[5-error-tracking-tools]: http://www.javacodegeeks.com/2014/09/5-error-tracking-tools-java-developers-should-know.html
