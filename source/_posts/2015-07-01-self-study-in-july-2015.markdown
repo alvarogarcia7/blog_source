@@ -78,6 +78,9 @@ categories:
   - raygun
   - stackhunter
   - alex-zhitnitsky
+  - p-vs-np
+  - theoretical-computation
+  - elvira-mayordomo
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -284,3 +287,10 @@ I've read [this article][5-error-tracking-tools] about tracking tools for java w
   * Comments cite [Squash](http://squash.io) (server written in ruby, java client available) and [Rollbar](http://rollbar.com) (home says supports android but not says anything about java)
 
 [5-error-tracking-tools]: http://www.javacodegeeks.com/2014/09/5-error-tracking-tools-java-developers-should-know.html
+
+## NP-Complete problems
+
+I've read [these slides][slides-np-completos] by Prof. Elvira Mayordomo about NP-Complete problems, how to reduce them to other problems and practical applications. (In Spanish)
+
+[slides-np-completos]: http://webdiis.unizar.es/asignaturas/TC/wp/wp-content/uploads/2012/01/L15_NPcompletos.pdf
+
