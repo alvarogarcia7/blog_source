@@ -14,7 +14,7 @@ categories:
   - object-oriented-design
 ---
 
-We've read the first chapter from the Practical Object-Oriented Design in Ruby, by Sandi Metz.
+We've read the second chapter from the Practical Object-Oriented Design in Ruby, by Sandi Metz.
 
 These are the concepts and links brought up during the discussion:
 
