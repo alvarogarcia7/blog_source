@@ -1,16 +1,17 @@
 ---
-published: false
-categories:
-  - sample
+layout: post
+title: "Object Peer Stereotypes"
+date: 2015-07-13 07:36:14 +0200
+comments: true
+categories: 
+  - goos
+  - object-peer-stereotype
+  - dependency
+  - notification
+  - adjustment
 ---
 
-This is a draft sample
 
-
->Object Peer Stereotypes
->
->We have objects with single responsibilities, communicating with their peers through messages in clean APIs, but what do they say to each other?
->
 >We categorize an object's peers (loosely) into three types of relationship. An object might have:
 >
 > * Dependencies: Services that the object requires from its peers so it can perform its responsibilities. The object cannot function without these services. It should not be possible to create the object without them. For example, a graphics package will need something like a screen or canvas to draw on--it doesn't make sense without one.
@@ -19,3 +20,4 @@ This is a draft sample
 
 Source is Growing Object-Oriented Software, Guided by Tests > Chapter 6, Object-Oriented Style > Object Peer Stereotypes, page 52
  
+  
