@@ -4,6 +4,15 @@ title: "What defines a dependency"
 date: 2015-07-13 07:48:28 +0200
 comments: true
 categories: 
+  - goos
+  - java
+  - code
+  - fragment
+  - dependency
+  - notification
+  - goos
+  - listener
+  - object-stereotype
 ---
 
 A friend and I were arguing about this code ([fragment][fragment-registry-1]):
