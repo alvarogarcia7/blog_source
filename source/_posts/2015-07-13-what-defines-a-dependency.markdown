@@ -34,7 +34,7 @@ He suggested that:
   * being injected through  the constructor is usually what happens with dependencies, but does not make it one (i.e., something can be injected by the constructor and not be a dependency)
   * what defines a dependency is related to the business: if this behavior is mandatory for the business, then it is a dependency. 
 
-As a conclusion, ``resultListener`` would be a notification, as it business does not require it.
+As a conclusion, ``resultListener`` would be a notification, as business does not require it.
 
 On a later commit, we decided to inject it to ``registeredUsers`` ([fragment][fragment-registered-users-1])
 
