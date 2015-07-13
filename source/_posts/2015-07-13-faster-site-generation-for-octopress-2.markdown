@@ -70,6 +70,18 @@ rake generate && rake deploy
 [Optional: change the remote URL for the cloned repository, so the git push is faster.]   
 
 
+After each new post, you have to ignore old files again. I've created a new task in the ``Rakefile`` for this purpose:
+
+```ruby
+desc "Cleans all *.markdown files for a faster site generation"
+task :ignore do
+  cd "#{source_dir}/#{posts_dir}"
+  system "git update-index --assume-unchanged $(ls *.markdown)"
+  system "rm $(ls *.markdown)"
+end
+```
+
+
 ## Conclusion
 
 I've reduced the amount of time to generate files from 2 minutes for 85 files to ~0.62 seconds for 1 file.
