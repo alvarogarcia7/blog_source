@@ -86,6 +86,7 @@ categories:
   - java-9
   - unsafe
   - backwards-compatibility
+  - rob-austin
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -311,3 +312,8 @@ I've read [this article][unsafe-a-disaster] about the removal of this Unsafe cla
 
 [unsafe-a-disaster]: http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/
 
+##  How To Write Directly to a Memory Locations In Java
+
+I've read [this guide][direct-memory-locations-in-java] on how to write directly to a memory position in java, by Rob Austin
+
+[direct-memory-locations-in-java]: http://robaustin.wikidot.com/how-to-write-to-direct-memory-locations-in-java
