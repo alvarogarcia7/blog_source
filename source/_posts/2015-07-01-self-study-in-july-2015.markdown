@@ -78,6 +78,7 @@ categories:
   - raygun
   - stackhunter
   - alex-zhitnitsky
+  - bliki
   - p-vs-np
   - theoretical-computation
   - elvira-mayordomo
@@ -287,6 +288,12 @@ I've read [this article][5-error-tracking-tools] about tracking tools for java w
   * Comments cite [Squash](http://squash.io) (server written in ruby, java client available) and [Rollbar](http://rollbar.com) (home says supports android but not says anything about java)
 
 [5-error-tracking-tools]: http://www.javacodegeeks.com/2014/09/5-error-tracking-tools-java-developers-should-know.html
+
+## Data clump
+
+I've read [this article][bliki-data-clump] on the bliki, by Martin Fowler
+
+[bliki-data-clump]: http://martinfowler.com/bliki/DataClump.html
 
 ## NP-Complete problems
 
