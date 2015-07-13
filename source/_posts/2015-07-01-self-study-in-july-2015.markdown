@@ -82,6 +82,10 @@ categories:
   - p-vs-np
   - theoretical-computation
   - elvira-mayordomo
+  - dripstat
+  - java-9
+  - unsafe
+  - backwards-compatibility
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -300,4 +304,10 @@ I've read [this article][bliki-data-clump] on the bliki, by Martin Fowler
 I've read [these slides][slides-np-completos] by Prof. Elvira Mayordomo about NP-Complete problems, how to reduce them to other problems and practical applications. (In Spanish)
 
 [slides-np-completos]: http://webdiis.unizar.es/asignaturas/TC/wp/wp-content/uploads/2012/01/L15_NPcompletos.pdf
+
+## Removal of sun.misc.Unsafe in Java 9 - A disaster in the making
+
+I've read [this article][unsafe-a-disaster] about the removal of this Unsafe class in Java 9, by the DripStat team
+
+[unsafe-a-disaster]: http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/
 
