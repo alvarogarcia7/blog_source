@@ -317,3 +317,9 @@ I've read [this article][unsafe-a-disaster] about the removal of this Unsafe cla
 I've read [this guide][direct-memory-locations-in-java] on how to write directly to a memory position in java, by Rob Austin
 
 [direct-memory-locations-in-java]: http://robaustin.wikidot.com/how-to-write-to-direct-memory-locations-in-java
+
+## Interesting uses of sun.misc.Unsafe
+
+I've read [this article][interesting-uses-of-sunmiscunsafe] by Haris A.L.
+
+[interesting-uses-of-sunmiscunsafe]: http://bytescrolls.blogspot.com.es/2011/04/interesting-uses-of-sunmiscunsafe.html
