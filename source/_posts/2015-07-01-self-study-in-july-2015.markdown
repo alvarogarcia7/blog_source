@@ -79,6 +79,9 @@ categories:
   - stackhunter
   - alex-zhitnitsky
   - bliki
+  - p-vs-np
+  - theoretical-computation
+  - elvira-mayordomo
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -291,3 +294,10 @@ I've read [this article][5-error-tracking-tools] about tracking tools for java w
 I've read [this article][bliki-data-clump] on the bliki, by Martin Fowler
 
 [bliki-data-clump]: http://martinfowler.com/bliki/DataClump.html
+
+## NP-Complete problems
+
+I've read [these slides][slides-np-completos] by Prof. Elvira Mayordomo about NP-Complete problems, how to reduce them to other problems and practical applications. (In Spanish)
+
+[slides-np-completos]: http://webdiis.unizar.es/asignaturas/TC/wp/wp-content/uploads/2012/01/L15_NPcompletos.pdf
+
