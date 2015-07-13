@@ -8,11 +8,12 @@ categories:
   - book
   - category
   - meta
+  - mihaly-csikszentmihalyi
 ---
 
-This category is mainly dedicated to anything related or included in the book '[Flow: The Psychology of Optimal Experience][flow-book]'
+This category is mainly dedicated to anything related or included in the book '[Flow: The Psychology of Optimal Experience][book]', written by Mihaly Csikszentmihalyi
 
 
-[flow-book]: http://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202/
+[book]: http://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202/
 
 Note: This has been created a posteriori with a previous date
