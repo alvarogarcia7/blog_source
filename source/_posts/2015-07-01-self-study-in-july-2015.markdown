@@ -89,6 +89,11 @@ categories:
   - rob-austin
   - np-complete
   - lucia-moura
+  - yitz-schaffer
+  - tpp
+  - transformation-priority-premise
+  - kata
+  - linked-list
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -331,3 +336,14 @@ I've read [this article][interesting-uses-of-sunmiscunsafe] by Haris A.L.
 I've read [these notes / slides][introduction-to-np] to the introductory course of NP-completeness, by Prof Lucia Moura
 
 [introduction-to-np]: https://www.site.uottawa.ca/~lucia/courses/4105-02/np.pdf
+
+## JS Code Kata: Linked List
+
+I've read [these slides][slides-linked-list] on the kata linked list, by Yitz Schaffer. The slide #13 talks about the transformations:
+
+  * refactor: change form without changing behavior
+  * transform: change behavior while changing form as little as possible
+
+Also about the Transformation Priority Premise (TPP)
+
+[slides-linked-list]: https://speakerdeck.com/yitznewton/js-code-kata-linked-list
