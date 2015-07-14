@@ -344,6 +344,12 @@ I've read [these slides][slides-linked-list] on the kata linked list, by Yitz Sc
   * refactor: change form without changing behavior
   * transform: change behavior while changing form as little as possible
 
-Also about the Transformation Priority Premise (TPP)
+Also about the Transformation Priority Premise (TPP) (also in this month)
 
 [slides-linked-list]: https://speakerdeck.com/yitznewton/js-code-kata-linked-list
+
+## The Transformation Priority Premise
+
+I've read, again, [this article][TheTransformationPriorityPremise] by Uncle Bob (Robert C. Martin) 
+
+[TheTransformationPriorityPremise]: https://blog.8thlight.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
