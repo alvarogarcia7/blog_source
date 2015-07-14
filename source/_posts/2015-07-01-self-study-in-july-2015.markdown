@@ -87,6 +87,8 @@ categories:
   - unsafe
   - backwards-compatibility
   - rob-austin
+  - np-complete
+  - lucia-moura
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -323,3 +325,9 @@ I've read [this guide][direct-memory-locations-in-java] on how to write directly
 I've read [this article][interesting-uses-of-sunmiscunsafe] by Haris A.L.
 
 [interesting-uses-of-sunmiscunsafe]: http://bytescrolls.blogspot.com.es/2011/04/interesting-uses-of-sunmiscunsafe.html
+
+## Introduction to the theory of np-completeness
+
+I've read [these notes / slides][introduction-to-np] to the introductory course of NP-completeness, by Prof Lucia Moura
+
+[introduction-to-np]: https://www.site.uottawa.ca/~lucia/courses/4105-02/np.pdf
