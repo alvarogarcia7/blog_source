@@ -94,6 +94,8 @@ categories:
   - transformation-priority-premise
   - kata
   - linked-list
+  - big-o-notation
+  - data-structure
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -353,3 +355,14 @@ Also about the Transformation Priority Premise (TPP) (also in this month)
 I've read, again, [this article][TheTransformationPriorityPremise] by Uncle Bob (Robert C. Martin) 
 
 [TheTransformationPriorityPremise]: https://blog.8thlight.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
+
+## Data structures
+
+I've read the wiki page for 
+ 
+  * [SPQR tree](https://en.wikipedia.org/wiki/SPQR_tree)
+  * [BSR tree](https://en.wikipedia.org/wiki/Binary_search_tree)
+  * [Red black tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
+  * [Judy array](https://en.wikipedia.org/wiki/Judy_array)
+  
+Also, The [Big-O notation complexity cheatsheet](http://bigocheatsheet.com/)
