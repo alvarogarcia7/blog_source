@@ -70,6 +70,34 @@ categories:
   - ralf-sternbergd
   - variant
   - eric-normand
+  - fred-zemke
+  - sql-2011
+  - sql
+  - tracking-tools
+  - takipi
+  - sentry
+  - airbrake
+  - raygun
+  - stackhunter
+  - alex-zhitnitsky
+  - bliki
+  - p-vs-np
+  - theoretical-computation
+  - elvira-mayordomo
+  - dripstat
+  - java-9
+  - unsafe
+  - backwards-compatibility
+  - rob-austin
+  - np-complete
+  - lucia-moura
+  - yitz-schaffer
+  - tpp
+  - transformation-priority-premise
+  - kata
+  - linked-list
+  - big-o-notation
+  - data-structure
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -262,3 +290,87 @@ I've read [this article][things-know-hashcode] on the hashCode() method in java,
 I've read [this article][reduce-complexity-with-variants] on variants in clojure by Eric Normand
 
 [reduce-complexity-with-variants]: http://www.lispcast.com/reduce-complexity-with-variants
+
+## What is new in SQL:2011
+
+I've read [this white paper][sql-2011] on the new features in SQL 2011. Written by Fred Zemke
+
+[sql-2011]: http://www.sigmod.org/publications/sigmod-record/1203/pdfs/10.industry.zemke.pdf
+
+## 5 Error Tracking Tools Java Developers Should Know
+
+I've read [this article][5-error-tracking-tools] about tracking tools for java written by Alex Zhitnitsky, featuring:
+
+  * Raygun
+  * Sentry
+  * Takipi
+  * Airbrake
+  * StackHunter
+  * [Bonus] ABRT
+  * Comments cite [Squash](http://squash.io) (server written in ruby, java client available) and [Rollbar](http://rollbar.com) (home says supports android but not says anything about java)
+
+[5-error-tracking-tools]: http://www.javacodegeeks.com/2014/09/5-error-tracking-tools-java-developers-should-know.html
+
+## Data clump
+
+I've read [this article][bliki-data-clump] on the bliki, by Martin Fowler
+
+[bliki-data-clump]: http://martinfowler.com/bliki/DataClump.html
+
+## NP-Complete problems
+
+I've read [these slides][slides-np-completos] by Prof. Elvira Mayordomo about NP-Complete problems, how to reduce them to other problems and practical applications. (In Spanish)
+
+[slides-np-completos]: http://webdiis.unizar.es/asignaturas/TC/wp/wp-content/uploads/2012/01/L15_NPcompletos.pdf
+
+## Removal of sun.misc.Unsafe in Java 9 - A disaster in the making
+
+I've read [this article][unsafe-a-disaster] about the removal of this Unsafe class in Java 9, by the DripStat team
+
+[unsafe-a-disaster]: http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/
+
+##  How To Write Directly to a Memory Locations In Java
+
+I've read [this guide][direct-memory-locations-in-java] on how to write directly to a memory position in java, by Rob Austin
+
+[direct-memory-locations-in-java]: http://robaustin.wikidot.com/how-to-write-to-direct-memory-locations-in-java
+
+## Interesting uses of sun.misc.Unsafe
+
+I've read [this article][interesting-uses-of-sunmiscunsafe] by Haris A.L.
+
+[interesting-uses-of-sunmiscunsafe]: http://bytescrolls.blogspot.com.es/2011/04/interesting-uses-of-sunmiscunsafe.html
+
+## Introduction to the theory of np-completeness
+
+I've read [these notes / slides][introduction-to-np] to the introductory course of NP-completeness, by Prof Lucia Moura
+
+[introduction-to-np]: https://www.site.uottawa.ca/~lucia/courses/4105-02/np.pdf
+
+## JS Code Kata: Linked List
+
+I've read [these slides][slides-linked-list] on the kata linked list, by Yitz Schaffer. The slide #13 talks about the transformations:
+
+  * refactor: change form without changing behavior
+  * transform: change behavior while changing form as little as possible
+
+Also about the Transformation Priority Premise (TPP) (also in this month)
+
+[slides-linked-list]: https://speakerdeck.com/yitznewton/js-code-kata-linked-list
+
+## The Transformation Priority Premise
+
+I've read, again, [this article][TheTransformationPriorityPremise] by Uncle Bob (Robert C. Martin) 
+
+[TheTransformationPriorityPremise]: https://blog.8thlight.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html
+
+## Data structures
+
+I've read the wiki page for 
+ 
+  * [SPQR tree](https://en.wikipedia.org/wiki/SPQR_tree)
+  * [BSR tree](https://en.wikipedia.org/wiki/Binary_search_tree)
+  * [Red black tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
+  * [Judy array](https://en.wikipedia.org/wiki/Judy_array)
+  
+Also, The [Big-O notation complexity cheatsheet](http://bigocheatsheet.com/)

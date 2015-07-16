@@ -22,6 +22,8 @@ Books I want to finish:
 
 Books that have entered the queue:
 
+  * [Clojure for the brave and true](http://www.braveclojure.com/#toc)
+
 {% comment %}
 
 repository for WIP books:
