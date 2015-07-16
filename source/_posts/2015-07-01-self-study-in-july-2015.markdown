@@ -102,6 +102,8 @@ categories:
   - attila-mihaly-balazs
   - shortcut
   - oleg-shelajev
+  - summer-training
+  - paymill
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -390,3 +392,9 @@ I've read [this post][on-benchmarks] on doing back-of-the-envelope calculations 
 I've read [these slides][ide-keyboard-shortcuts] on the topic of keyboard shortcuts for java IDEs, written by Oleg Shelajev
 
 [ide-keyboard-shortcuts]: http://zeroturnaround.com/rebellabs/top-java-ide-keyboard-shortcuts-for-eclipse-intellij-idea-netbeans/
+
+## The hacker’s summer training guide – part 1
+
+I've read [this post][hackers-training-guide-1] by Paymill, that suggests which new languages to learn this summer: rust, go, elixir, ocaml, scala, livescript.
+
+[hackers-training-guide-1]: https://blog.paymill.com/hackers-training-guide-1
