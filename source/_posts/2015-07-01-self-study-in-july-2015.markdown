@@ -98,6 +98,8 @@ categories:
   - linked-list
   - big-o-notation
   - data-structure
+  - benchmark
+  - attila-mihaly-balazs
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -374,3 +376,9 @@ I've read the wiki page for
   * [Judy array](https://en.wikipedia.org/wiki/Judy_array)
   
 Also, The [Big-O notation complexity cheatsheet](http://bigocheatsheet.com/)
+
+## On benchmarks: Numbers every programmer should know and their impact on benchmarks
+
+I've read [this post][on-benchmarks] on doing back-of-the-envelope calculations on publicly available benchmarks, written by Attila-Mihaly Balazs
+
+[on-benchmarks]: http://hype-free.blogspot.com/2014/03/on-benchmarks.html
