@@ -100,6 +100,8 @@ categories:
   - data-structure
   - benchmark
   - attila-mihaly-balazs
+  - shortcut
+  - oleg-shelajev
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -382,3 +384,9 @@ Also, The [Big-O notation complexity cheatsheet](http://bigocheatsheet.com/)
 I've read [this post][on-benchmarks] on doing back-of-the-envelope calculations on publicly available benchmarks, written by Attila-Mihaly Balazs
 
 [on-benchmarks]: http://hype-free.blogspot.com/2014/03/on-benchmarks.html
+
+## Top Java IDE Keyboard Shortcuts for Eclipse, IntelliJ IDEA & NetBeans
+
+I've read [these slides][ide-keyboard-shortcuts] on the topic of keyboard shortcuts for java IDEs, written by Oleg Shelajev
+
+[ide-keyboard-shortcuts]: http://zeroturnaround.com/rebellabs/top-java-ide-keyboard-shortcuts-for-eclipse-intellij-idea-netbeans/
