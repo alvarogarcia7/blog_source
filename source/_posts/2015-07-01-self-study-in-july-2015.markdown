@@ -104,6 +104,8 @@ categories:
   - oleg-shelajev
   - summer-training
   - paymill
+  - xavi-hidalgo
+  - outsourcing
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -398,3 +400,10 @@ I've read [these slides][ide-keyboard-shortcuts] on the topic of keyboard shortc
 I've read [this post][hackers-training-guide-1] by Paymill, that suggests which new languages to learn this summer: rust, go, elixir, ocaml, scala, livescript.
 
 [hackers-training-guide-1]: https://blog.paymill.com/hackers-training-guide-1
+
+
+## Applications built extremely right
+
+I've read [this post][build-with-outsourcing] with a list of candidates for building nice products, written by Xavi Hidalgo.
+
+[build-with-outsourcing]: http://apiumtech.com/blog/applications-build-with-outsourcing/
