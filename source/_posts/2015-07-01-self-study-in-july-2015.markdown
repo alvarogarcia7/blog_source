@@ -415,5 +415,11 @@ I've read [this post][agile-infraestructura-por-defecto] on an agile seed projec
 [agile-infraestructura-por-defecto]: http://apiumtech.com/blog/seed-de-proyecto-agile-infraestructura-por-defecto/
 
 
+## What an agile developer should know
+
+I've read [this post][desarrollador-agile-deberia-saber] by Xavi Hidalgo
+
+[desarrollador-agile-deberia-saber]: http://www.apiumtech.com/blog/lo-que-un-desarrollador-agile-deberia-saber/
+
 
 
