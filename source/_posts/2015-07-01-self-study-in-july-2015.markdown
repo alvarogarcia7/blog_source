@@ -407,3 +407,13 @@ I've read [this post][hackers-training-guide-1] by Paymill, that suggests which 
 I've read [this post][build-with-outsourcing] with a list of candidates for building nice products, written by Xavi Hidalgo.
 
 [build-with-outsourcing]: http://apiumtech.com/blog/applications-build-with-outsourcing/
+
+## Agile project seed. Infrastructure by default.
+
+I've read [this post][agile-infraestructura-por-defecto] on an agile seed project. Reminded me of the 12-factor app
+
+[agile-infraestructura-por-defecto]: http://apiumtech.com/blog/seed-de-proyecto-agile-infraestructura-por-defecto/
+
+
+
+
