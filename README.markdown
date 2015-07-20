@@ -83,3 +83,12 @@ See an example in tdd intensive workshop:
 (See more on this topic [here][tdd-is-not-a-good-name])
 {% endcomment %}
 ````
+
+### Authors as categories
+
+Get the clojure REPL (e.g., Light Table or [TryCLJ](http://www.tryclj.com/)) and 
+
+````
+(clojure.string/lower-case (clojure.string/replace "Rich Hickey" " " "-"))
+; "rich-hickey"
+````
