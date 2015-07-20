@@ -106,6 +106,10 @@ categories:
   - paymill
   - xavi-hidalgo
   - outsourcing
+  - vasco-duarte
+  - dominic-krimmer
+  - agile
+  - podcast
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
@@ -421,5 +425,9 @@ I've read [this post][desarrollador-agile-deberia-saber] by Xavi Hidalgo
 
 [desarrollador-agile-deberia-saber]: http://www.apiumtech.com/blog/lo-que-un-desarrollador-agile-deberia-saber/
 
+## Bad Apples that can destroy a team
 
+I've listened to [this podcast][bad-apples-podcast] about the bad apples in a team. Presented by Vasco Duarte and Dominic Krimmer as the main speaker
+
+[bad-apples-podcast]: http://www.scrum-master-toolbox.com/2015/03/podcast/dominic-krimmer-describes-the-types-of-bad-apples-that-can-destroy-a-team/
 
