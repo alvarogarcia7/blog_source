@@ -112,6 +112,12 @@ categories:
   - podcast
 ---
 
+{% COMMENT %}
+
+Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/README.markdown#authors-as-categories
+
+{% ENDCOMMENT %}
+
 I've grouped all small posts related to the self-study from July 2015 into a single post
 
 ## Clojure made simple
