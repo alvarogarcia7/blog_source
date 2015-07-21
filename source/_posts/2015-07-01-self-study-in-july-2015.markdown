@@ -113,6 +113,8 @@ categories:
   - oliver-white
   - language
   - comparison
+  - ben-nadel
+  - book-review
 ---
 
 {% COMMENT %}
@@ -445,3 +447,9 @@ I've listened to [this podcast][bad-apples-podcast] about the bad apples in a te
 I've read [this analysis][programming-languages-reddit-analysis] of the language comparison, written by Oliver White
 
 [programming-languages-reddit-analysis]: https://www.typesafe.com/blog/how-scala-compares-20-programming-languages-reddit-analysis
+
+## Javascript patterns book review
+
+I've read [this review][javascript-patterns-review] by Ben Nadel on the book Javascript Patterns, by Stoyan Stefanov
+
+[javascript-patterns-review]: http://www.bennadel.com/blog/2047-javascript-patterns-by-stoyan-stefanov.htm
