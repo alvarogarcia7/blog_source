@@ -115,6 +115,10 @@ categories:
   - comparison
   - ben-nadel
   - book-review
+  - robert-c-martin
+  - craftsmanship
+  - monogamy
+  - analogy
 ---
 
 {% COMMENT %}
@@ -453,3 +457,10 @@ I've read [this analysis][programming-languages-reddit-analysis] of the language
 I've read [this review][javascript-patterns-review] by Ben Nadel on the book Javascript Patterns, by Stoyan Stefanov
 
 [javascript-patterns-review]: http://www.bennadel.com/blog/2047-javascript-patterns-by-stoyan-stefanov.htm
+
+
+## Monogamous TDD
+
+I've read [this article][MonogamousTDD] on the fundamentalism of TDD, written by Robert C Martin
+
+[MonogamousTDD]: https://blog.8thlight.com/uncle-bob/2014/04/25/MonogamousTDD.html
