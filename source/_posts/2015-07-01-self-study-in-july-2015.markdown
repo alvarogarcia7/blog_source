@@ -119,6 +119,8 @@ categories:
   - craftsmanship
   - monogamy
   - analogy
+  - localstorage
+  - angularjs
 ---
 
 {% COMMENT %}
@@ -464,3 +466,12 @@ I've read [this review][javascript-patterns-review] by Ben Nadel on the book Jav
 I've read [this article][MonogamousTDD] on the fundamentalism of TDD, written by Robert C Martin
 
 [MonogamousTDD]: https://blog.8thlight.com/uncle-bob/2014/04/25/MonogamousTDD.html
+
+## Encapsulating LocalStorage Access In AngularJS
+
+I've read [this article][encapsulating-localstorage-access] on why encapsulate the access to the localStorage, written by Ben Nadel
+
+[encapsulating-localstorage-access]: http://www.bennadel.com/blog/2861-encapsulating-localstorage-access-in-angularjs.htm
+
+
+
