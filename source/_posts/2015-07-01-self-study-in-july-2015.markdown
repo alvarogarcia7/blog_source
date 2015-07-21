@@ -110,6 +110,9 @@ categories:
   - dominic-krimmer
   - agile
   - podcast
+  - oliver-white
+  - language
+  - comparison
 ---
 
 {% COMMENT %}
@@ -437,3 +440,8 @@ I've listened to [this podcast][bad-apples-podcast] about the bad apples in a te
 
 [bad-apples-podcast]: http://www.scrum-master-toolbox.com/2015/03/podcast/dominic-krimmer-describes-the-types-of-bad-apples-that-can-destroy-a-team/
 
+## How Scala compares with 20 other programming languages according to Reddit analysis
+
+I've read [this analysis][programming-languages-reddit-analysis] of the language comparison, written by Oliver White
+
+[programming-languages-reddit-analysis]: https://www.typesafe.com/blog/how-scala-compares-20-programming-languages-reddit-analysis
