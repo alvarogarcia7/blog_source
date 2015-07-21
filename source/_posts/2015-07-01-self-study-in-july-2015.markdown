@@ -121,6 +121,8 @@ categories:
   - analogy
   - localstorage
   - angularjs
+  - zero-knowledge
+  - clipperz
 ---
 
 {% COMMENT %}
@@ -473,5 +475,10 @@ I've read [this article][encapsulating-localstorage-access] on why encapsulate t
 
 [encapsulating-localstorage-access]: http://www.bennadel.com/blog/2861-encapsulating-localstorage-access-in-angularjs.htm
 
+## Anatomy of a zero-knowledge web application
+
+I've read [this article][anatomy_zero_knowledge_web_application] on a zero-knowledge web application, by the clipperz team
+
+[anatomy_zero_knowledge_web_application]: https://clipperz.is/blog/2007/08/24/anatomy_zero_knowledge_web_application/
 
 
