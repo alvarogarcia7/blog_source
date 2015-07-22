@@ -123,6 +123,10 @@ categories:
   - angularjs
   - zero-knowledge
   - clipperz
+  - tom-leighton
+  - mit
+  - ocw
+  - open-courseware
 ---
 
 {% COMMENT %}
@@ -481,4 +485,10 @@ I've read [this article][anatomy_zero_knowledge_web_application] on a zero-knowl
 
 [anatomy_zero_knowledge_web_application]: https://clipperz.is/blog/2007/08/24/anatomy_zero_knowledge_web_application/
 
+## Mathematics for Computer Science, Lecture 1
+
+I've watched by [the first recitation][maths-for-comp-sci-1] in [this course][maths-for-comp-sci-course], offered by MIT Open Course Ware (OCW). Recited by Tom Leighton
+
+[maths-for-comp-sci-1]: http://xoax.net/comp_sci/crs/math_for_comp_science_mit/lessons/Lecture1/
+[maths-for-comp-sci-course]: http://xoax.net/comp_sci/crs/math_for_comp_science_mit/index.php
 
