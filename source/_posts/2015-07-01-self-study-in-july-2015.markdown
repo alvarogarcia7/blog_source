@@ -126,6 +126,12 @@ categories:
   - danijel-arsenovski
   - c-sharp
   - java-agent
+  - tom-leighton
+  - mit
+  - ocw
+  - open-courseware
+  - julie-zelensky
+  - stanford
 ---
 
 {% COMMENT %}
@@ -495,3 +501,19 @@ I've read [these slides][slides-java-agents], again, from a conference I went to
 
 [slides-java-agents]: https://speakerdeck.com/shelajev/taming-javaagents-bcn-jug-2015
 [javaagent-repo-memory-leak]: https://github.com/shelajev/ResourceLeakAgent
+
+## Mathematics for Computer Science, Lecture 1
+
+I've watched by [the first recitation][maths-for-comp-sci-1] in [this course][maths-for-comp-sci-course], offered by MIT Open Course Ware (OCW). Recited by Tom Leighton
+
+[maths-for-comp-sci-1]: http://xoax.net/comp_sci/crs/math_for_comp_science_mit/lessons/Lecture1/
+[maths-for-comp-sci-course]: http://xoax.net/comp_sci/crs/math_for_comp_science_mit/index.php
+
+## Programming Abstractions: Lecture 7
+
+I've watched [this lecture][programming_abstractions_stanford-7] by Julie Zelensky about the comparison operator, recursion and a live coding session calculating the most ocurring anagram word in a file.
+
+She uses small outputs to check the correctness of her programs to get short feedback cycles, even if they are manual.
+
+[programming_abstractions_stanford-7]: http://xoax.net/comp_sci/crs/programming_abstractions_stanford/lessons/Lecture7/
+
