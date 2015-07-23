@@ -417,7 +417,7 @@ I've read [this post][on-benchmarks] on doing back-of-the-envelope calculations 
 
 ## Top Java IDE Keyboard Shortcuts for Eclipse, IntelliJ IDEA & NetBeans
 
-I've read [these slides][ide-keyboard-shortcuts] on the topic of keyboard shortcuts for java IDEs, written by Oleg Shelajev
+I've read [these slides][ide-keyboard-shortcuts] on the topic of keyboard shortcuts for java IDEs, written by Oleg Šelajev
 
 [ide-keyboard-shortcuts]: http://zeroturnaround.com/rebellabs/top-java-ide-keyboard-shortcuts-for-eclipse-intellij-idea-netbeans/
 
