@@ -123,6 +123,8 @@ categories:
   - angularjs
   - zero-knowledge
   - clipperz
+  - danijel-arsenovski
+  - c-sharp
 ---
 
 {% COMMENT %}
@@ -481,4 +483,8 @@ I've read [this article][anatomy_zero_knowledge_web_application] on a zero-knowl
 
 [anatomy_zero_knowledge_web_application]: https://clipperz.is/blog/2007/08/24/anatomy_zero_knowledge_web_application/
 
+## Refactorización de Código Legado Clase Maestra
 
+I've watched [this video][master-class-refactoring-legacy-code] about refactoring a legacy code in C#, by Danijel Arsenovski
+
+[master-class-refactoring-legacy-code]: https://www.youtube.com/watch?v=VBgCKKevhyI
