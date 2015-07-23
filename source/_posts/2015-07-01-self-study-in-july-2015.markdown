@@ -127,6 +127,8 @@ categories:
   - mit
   - ocw
   - open-courseware
+  - julie-zelensky
+  - stanford
 ---
 
 {% COMMENT %}
@@ -491,4 +493,12 @@ I've watched by [the first recitation][maths-for-comp-sci-1] in [this course][ma
 
 [maths-for-comp-sci-1]: http://xoax.net/comp_sci/crs/math_for_comp_science_mit/lessons/Lecture1/
 [maths-for-comp-sci-course]: http://xoax.net/comp_sci/crs/math_for_comp_science_mit/index.php
+
+## Programming Abstractions: Lecture 7
+
+I've watched [this lecture][programming_abstractions_stanford-7] by Julie Zelensky about the comparison operator, recursion and a live coding session calculating the most ocurring anagram word in a file.
+
+She uses small outputs to check the correctness of her programs to get short feedback cycles, even if they are manual.
+
+[programming_abstractions_stanford-7]: http://xoax.net/comp_sci/crs/programming_abstractions_stanford/lessons/Lecture7/
 
