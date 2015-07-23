@@ -125,6 +125,7 @@ categories:
   - clipperz
   - danijel-arsenovski
   - c-sharp
+  - java-agent
 ---
 
 {% COMMENT %}
@@ -488,3 +489,10 @@ I've read [this article][anatomy_zero_knowledge_web_application] on a zero-knowl
 I've watched [this video][master-class-refactoring-legacy-code] about refactoring a legacy code in C#, by Danijel Arsenovski
 
 [master-class-refactoring-legacy-code]: https://www.youtube.com/watch?v=VBgCKKevhyI
+
+## Taming Javaagents 
+
+I've read [these slides][slides-java-agents], again, from a conference I went to a few months ago about java agents. Written by Oleg Šelajev
+
+[slides-java-agents]: https://speakerdeck.com/shelajev/taming-javaagents-bcn-jug-2015
+
