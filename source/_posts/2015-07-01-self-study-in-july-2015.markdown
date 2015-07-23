@@ -465,7 +465,6 @@ I've read [this review][javascript-patterns-review] by Ben Nadel on the book Jav
 
 [javascript-patterns-review]: http://www.bennadel.com/blog/2047-javascript-patterns-by-stoyan-stefanov.htm
 
-
 ## Monogamous TDD
 
 I've read [this article][MonogamousTDD] on the fundamentalism of TDD, written by Robert C Martin
