@@ -427,7 +427,6 @@ I've read [this post][hackers-training-guide-1] by Paymill, that suggests which 
 
 [hackers-training-guide-1]: https://blog.paymill.com/hackers-training-guide-1
 
-
 ## Applications built extremely right
 
 I've read [this post][build-with-outsourcing] with a list of candidates for building nice products, written by Xavi Hidalgo.
