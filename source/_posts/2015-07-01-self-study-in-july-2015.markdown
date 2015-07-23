@@ -492,7 +492,9 @@ I've watched [this video][master-class-refactoring-legacy-code] about refactorin
 
 ## Taming Javaagents 
 
-I've read [these slides][slides-java-agents], again, from a conference I went to a few months ago about java agents. Written by Oleg Šelajev
+I've read [these slides][slides-java-agents], again, from a conference I went to a few months ago about java agents. Written by Oleg Šelajev.
+
+[This][javaagent-repo-memory-leak] is the repository containing the memory leak agent he talks about
 
 [slides-java-agents]: https://speakerdeck.com/shelajev/taming-javaagents-bcn-jug-2015
-
+[javaagent-repo-memory-leak]: https://github.com/shelajev/ResourceLeakAgent
