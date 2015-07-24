@@ -132,6 +132,10 @@ categories:
   - open-courseware
   - julie-zelensky
   - stanford
+  - dmitri-tikhanski
+  - jmeter
+  - headless-test
+  - headless
 ---
 
 {% COMMENT %}
@@ -516,4 +520,10 @@ I've watched [this lecture][programming_abstractions_stanford-7] by Julie Zelens
 She uses small outputs to check the correctness of her programs to get short feedback cycles, even if they are manual.
 
 [programming_abstractions_stanford-7]: http://xoax.net/comp_sci/crs/programming_abstractions_stanford/lessons/Lecture7/
+
+## 5 Ways To Launch a JMeter Test without Using the JMeter GUI
+
+I've read [this guide][test-without-using-jmeter-gui] on using jmeter without a GUI, by Dmitri Tikhanski
+
+[test-without-using-jmeter-gui]: https://blazemeter.com/blog/5-ways-launch-jmeter-test-without-using-jmeter-gui
 
