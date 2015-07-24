@@ -136,6 +136,9 @@ categories:
   - jmeter
   - headless-test
   - headless
+  - clojure-unraveled
+  - andrey-antukh
+  - alejandro-gomez
 ---
 
 {% COMMENT %}
@@ -526,4 +529,11 @@ She uses small outputs to check the correctness of her programs to get short fee
 I've read [this guide][test-without-using-jmeter-gui] on using jmeter without a GUI, by Dmitri Tikhanski
 
 [test-without-using-jmeter-gui]: https://blazemeter.com/blog/5-ways-launch-jmeter-test-without-using-jmeter-gui
+
+## Clojure unraveled, chapter 5
+
+I've read the [fifth chapter][clojure-unraveled-5], on the topics of Transducers, Transients, Metadata, Macros, Core protocols. Written by Andrey Antukh and Alejandro Gómez
+
+[clojure-unraveled-5]: http://funcool.github.io/clojurescript-unraveled/#language-advanced-topics
+
 
