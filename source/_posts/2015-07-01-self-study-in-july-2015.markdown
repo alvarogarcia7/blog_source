@@ -156,6 +156,7 @@ categories:
   - post-mortem-analysis
   - algorithmic-complexity
   - big-oh-notation
+  - recursion
 ---
 
 {% comment %}  
@@ -600,4 +601,9 @@ I've read [this guide][algorithmic-complexity] to algorithmic complexity, explai
 
 [algorithmic-complexity]: http://algosaur.us/algorithmic-complexity
 
+## A guide to Recursion
+
+I've read [this guide][a-guide-to-recursion] to recursion explaining the gist of it. Examples include the Fibonacci sequence and the Hanoi Towers problem. Later, an introduction to the chaos theory and fractals. Written by Radhika Ghosal
+
+[a-guide-to-recursion]: http://algosaur.us/recursion
 
