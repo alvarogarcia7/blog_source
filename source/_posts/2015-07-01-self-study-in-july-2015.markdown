@@ -142,6 +142,10 @@ categories:
   - radhika-ghosal
   - algosaurus
   - bozhidar-bozhanov
+  - mark-hibberd
+  - stream
+  - incremental-stream
+  - slides
 ---
 
 {% comment %}  
@@ -551,4 +555,8 @@ I've read [this post][government-abandonware] on abandoned, public software that
 
 [government-abandonware]: http://techblog.bozho.net/government-abandonware/
 
+## The Art of Incremental Stream Processing
 
+I've read [these slides][incremental-stream-processing] on incremental stream processing. The examples are in haskell and scala. Written by Mark Hibberd
+
+[incremental-stream-processing]: http://mth.io/talks/streams/
