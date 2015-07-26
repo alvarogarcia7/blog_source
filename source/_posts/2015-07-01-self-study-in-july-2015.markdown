@@ -154,6 +154,8 @@ categories:
   - apache-kafka
   - kafka
   - post-mortem-analysis
+  - algorithmic-complexity
+  - big-oh-notation
 ---
 
 {% comment %}  
@@ -592,5 +594,10 @@ I've read [this post][log-oriented-architecture] on experiences using the log-ba
 [big-data-book-marz]: http://www.amazon.com/gp/product/1617290343
 
 
+## A guide to Algorithmic Complexity
+
+I've read [this guide][algorithmic-complexity] to algorithmic complexity, explaining Big-Oh notation (Big-Oh, Big-Theta, Big-Omega), with examples. Written by Radhika Ghosal
+
+[algorithmic-complexity]: http://algosaur.us/algorithmic-complexity
 
 
