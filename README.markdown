@@ -89,6 +89,8 @@ See an example in tdd intensive workshop:
 Get the clojure REPL (e.g., Light Table or [TryCLJ](http://www.tryclj.com/)) and 
 
 ````
-(clojure.string/lower-case (clojure.string/replace "Rich Hickey" " " "-"))
+((fn lowdash [names] (clojure.string/lower-case (clojure.string/replace names " " "-"))) "Rich Hickey")
 ; "rich-hickey"
 ````
+
+In this version the argument that changes all the time (the author or URL keywords) are at the end and it is simpler to edit.
