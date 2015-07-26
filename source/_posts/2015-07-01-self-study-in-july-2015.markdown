@@ -149,6 +149,11 @@ categories:
   - mike-caulfield
   - federation
   - federated-wiki
+  - andrew-montalenti
+  - parsely
+  - apache-kafka
+  - kafka
+  - post-mortem-analysis
 ---
 
 {% comment %}  
@@ -570,5 +575,12 @@ I've read [these slides][incremental-stream-processing] on incremental stream pr
 I've read [this insight][follow-up-reader-as-link-author] into federated wikis by Mike Caulfield
 
 [follow-up-reader-as-link-author]: http://hapgood.us/2015/07/22/follow-up-reader-as-link-author/
+
+## Kafkapocalypse: a postmortem on our service outage
+
+I've read [this post-mortem analysis][kafkapocalypse] of the service outage at parse.ly, by Andrew Montalenti
+
+[kafkapocalypse]: http://blog.parsely.com/post/1738/kafkapocalypse/
+
 
 
