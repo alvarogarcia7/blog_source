@@ -158,6 +158,10 @@ categories:
   - big-oh-notation
   - recursion
   - clojurescript
+  - manuel-rivero
+  - property-based-testing
+  - quickcheck
+  - test-check
 ---
 
 {% comment %}  
@@ -614,5 +618,11 @@ I've read [this FAQ][bootstrapping-clojurescript] related to bootstrapping cloju
 
 
 [bootstrapping-clojurescript]: https://github.com/clojure/clojurescript/wiki/Bootstrapped-ClojureScript-FAQ
+
+## Applying property-based testing on my binary search tree implementation
+
+I've read [this article][property-based-testing-bst], written by Manuel Rivero, on applying test-check (a property-based testing framework, similar to quickcheck) to a Binary Search Tree (BST) he did.
+
+[property-based-testing-bst]: http://garajeando.blogspot.com/2015/07/applying-property-based-testing-on-my.html
 
 
