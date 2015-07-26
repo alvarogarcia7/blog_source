@@ -157,6 +157,7 @@ categories:
   - algorithmic-complexity
   - big-oh-notation
   - recursion
+  - clojurescript
 ---
 
 {% comment %}  
@@ -606,4 +607,12 @@ I've read [this guide][algorithmic-complexity] to algorithmic complexity, explai
 I've read [this guide][a-guide-to-recursion] to recursion explaining the gist of it. Examples include the Fibonacci sequence and the Hanoi Towers problem. Later, an introduction to the chaos theory and fractals. Written by Radhika Ghosal
 
 [a-guide-to-recursion]: http://algosaur.us/recursion
+
+## Bootstrapped ClojureScript FAQ
+
+I've read [this FAQ][bootstrapping-clojurescript] related to bootstrapping clojurescript
+
+
+[bootstrapping-clojurescript]: https://github.com/clojure/clojurescript/wiki/Bootstrapped-ClojureScript-FAQ
+
 
