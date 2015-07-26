@@ -17,7 +17,7 @@ categories:
   - python
   - kris-jenkins
   - backwards-compatibility
-  - integration-testing
+  - integration-test
   - jeremy-miller
   - black-box-testing
   - white-box-testing
