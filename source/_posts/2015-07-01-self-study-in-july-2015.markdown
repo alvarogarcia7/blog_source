@@ -141,6 +141,7 @@ categories:
   - alejandro-gomez
   - radhika-ghosal
   - algosaurus
+  - bozhidar-bozhanov
 ---
 
 {% comment %}  
@@ -543,5 +544,11 @@ I've read the [fifth chapter][clojure-unraveled-5], on the topics of Transducers
 I've read [this guide][data-structures-basics] to data structures, covering the stack, the queue, the heap, the tree and the hashmap. Written by Radhika Ghosal
 
 [data-structures-basics]: http://algosaur.us/data-structures-basics/
+
+## Government Abandonware
+
+I've read [this post][government-abandonware] on abandoned, public software that is not opensource. Dubbed by the author as "Government Abandonware". Written by Bozhidar Bozhanov
+
+[government-abandonware]: http://techblog.bozho.net/government-abandonware/
 
 
