@@ -616,7 +616,6 @@ I've read [this guide][a-guide-to-recursion] to recursion explaining the gist of
 
 I've read [this FAQ][bootstrapping-clojurescript] related to bootstrapping clojurescript
 
-
 [bootstrapping-clojurescript]: https://github.com/clojure/clojurescript/wiki/Bootstrapped-ClojureScript-FAQ
 
 ## Applying property-based testing on my binary search tree implementation
