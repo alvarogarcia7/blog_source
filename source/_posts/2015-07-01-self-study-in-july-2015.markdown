@@ -139,13 +139,15 @@ categories:
   - clojure-unraveled
   - andrey-antukh
   - alejandro-gomez
+  - radhika-ghosal
+  - algosaurus
 ---
 
-{% comment %}
+{% comment %}  
 
 Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/README.markdown#authors-as-categories
 
-{% comment %}
+{% endcomment %}
 
 I've grouped all small posts related to the self-study from July 2015 into a single post
 
@@ -535,5 +537,11 @@ I've read [this guide][test-without-using-jmeter-gui] on using jmeter without a 
 I've read the [fifth chapter][clojure-unraveled-5], on the topics of Transducers, Transients, Metadata, Macros, Core protocols. Written by Andrey Antukh and Alejandro Gómez
 
 [clojure-unraveled-5]: http://funcool.github.io/clojurescript-unraveled/#language-advanced-topics
+
+## A guide to the Basics of Data Structures
+
+I've read [this guide][data-structures-basics] to data structures, covering the stack, the queue, the heap, the tree and the hashmap. Written by Radhika Ghosal
+
+[data-structures-basics]: http://algosaur.us/data-structures-basics/
 
 
