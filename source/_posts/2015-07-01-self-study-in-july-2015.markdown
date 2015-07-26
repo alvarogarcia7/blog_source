@@ -146,6 +146,9 @@ categories:
   - stream
   - incremental-stream
   - slides
+  - mike-caulfield
+  - federation
+  - federated-wiki
 ---
 
 {% comment %}  
@@ -560,3 +563,12 @@ I've read [this post][government-abandonware] on abandoned, public software that
 I've read [these slides][incremental-stream-processing] on incremental stream processing. The examples are in haskell and scala. Written by Mark Hibberd
 
 [incremental-stream-processing]: http://mth.io/talks/streams/
+
+
+## Reader as Link Author
+
+I've read [this insight][follow-up-reader-as-link-author] into federated wikis by Mike Caulfield
+
+[follow-up-reader-as-link-author]: http://hapgood.us/2015/07/22/follow-up-reader-as-link-author/
+
+
