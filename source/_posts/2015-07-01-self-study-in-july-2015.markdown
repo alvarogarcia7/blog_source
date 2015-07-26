@@ -582,5 +582,15 @@ I've read [this post-mortem analysis][kafkapocalypse] of the service outage at p
 
 [kafkapocalypse]: http://blog.parsely.com/post/1738/kafkapocalypse/
 
+## Loving a Log-Oriented Architecture
+
+I've read [this post][log-oriented-architecture] on experiences using the log-based architecture, by Andrew Montalenti. Cites the books [I Heart Logs][i-heart-logs],  and [Big Data: Principles and best practices of scalable realtime data systems][big-data-book-marz] the essay [The Log][essay-the-log]
+
+[log-oriented-architecture]: http://blog.parsely.com/post/1550/kreps-logs/
+[essay-the-log]: http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+[i-heart-logs]: http://www.amazon.com/Heart-Logs-Stream-Processing-Integration/dp/1491909382
+[big-data-book-marz]: http://www.amazon.com/gp/product/1617290343
+
+
 
 
