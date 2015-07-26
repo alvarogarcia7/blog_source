@@ -12,6 +12,8 @@ categories:
   - ruby
   - object-oriented-design
   - ood
+  - craftsmanship
+  - analogy
 ---
 
 We've read the fourth chapter from the Practical Object-Oriented Design in Ruby, by Sandi Metz.
