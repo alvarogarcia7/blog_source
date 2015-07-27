@@ -163,6 +163,8 @@ categories:
   - quickcheck
   - test-check
   - manuel-chakravarty
+  - wip
+  - tomas-rybing
 ---
 
 {% comment %}  
@@ -631,5 +633,12 @@ I've read [this article][property-based-testing-bst], written by Manuel Rivero, 
 I've read [these slides][extraterrestrials-functional-programming], an introduction to lambda calculus, the Turing machine and the Halting Problem. Later, continues to describe ways of solving problems in a functional way. Also performance and optimizations; monads as well. Written by Manuel M T Chakravarty
 
 [extraterrestrials-functional-programming]: http://yowconference.com.au/slides/yowlambdajam2013/Chakravarty-Extraterrestrials-Keynote.pdf
+
+
+## WIP Limits
+
+I've read [this post][wip-limits] by Tomas Rybing
+
+[wip-limits]: https://theagileist.wordpress.com/2015/06/15/wip-limits/
 
 
