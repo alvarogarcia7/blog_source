@@ -165,6 +165,7 @@ categories:
   - manuel-chakravarty
   - wip
   - tomas-rybing
+  - mike-cavaliere
 ---
 
 {% comment %}  
@@ -634,7 +635,6 @@ I've read [these slides][extraterrestrials-functional-programming], an introduct
 
 [extraterrestrials-functional-programming]: http://yowconference.com.au/slides/yowlambdajam2013/Chakravarty-Extraterrestrials-Keynote.pdf
 
-
 ## WIP Limits
 
 I've read [this post][wip-limits] by Tomas Rybing
@@ -646,3 +646,9 @@ I've read [this post][wip-limits] by Tomas Rybing
 I've read [this post][applied-capacity-planning] by Tomas Rybing.
 
 [applied-capacity-planning]: https://theagileist.wordpress.com/2015/07/27/applied-capacity-planning/
+
+## Don’t Get Attached to Programming Languages
+
+I've read [this post][dont-get-attached-language] by Mike Cavaliere
+
+[dont-get-attached-language]: http://mikecavaliere.com/dont-get-attached-programming-languages
