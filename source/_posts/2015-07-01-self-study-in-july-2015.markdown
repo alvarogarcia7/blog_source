@@ -641,4 +641,8 @@ I've read [this post][wip-limits] by Tomas Rybing
 
 [wip-limits]: https://theagileist.wordpress.com/2015/06/15/wip-limits/
 
+## Applied capacity planning
 
+I've read [this post][applied-capacity-planning] by Tomas Rybing.
+
+[applied-capacity-planning]: https://theagileist.wordpress.com/2015/07/27/applied-capacity-planning/
