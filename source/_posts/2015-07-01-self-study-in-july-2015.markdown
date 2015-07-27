@@ -166,6 +166,9 @@ categories:
   - wip
   - tomas-rybing
   - mike-cavaliere
+  - cory-berg
+  - skill
+  - rockstar
 ---
 
 {% comment %}  
@@ -652,3 +655,9 @@ I've read [this post][applied-capacity-planning] by Tomas Rybing.
 I've read [this post][dont-get-attached-language] by Mike Cavaliere
 
 [dont-get-attached-language]: http://mikecavaliere.com/dont-get-attached-programming-languages
+
+## The Top 5 Skills of Rock Star Software Engineers
+
+I've read [this post][skills-of-rockstar-engineers] by Cory Berg
+
+[skills-of-rockstar-engineers]: http://softwareplusplus.com/2015/06/24/the-top-5-skills-of-rock-star-software-engineers/
