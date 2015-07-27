@@ -162,6 +162,7 @@ categories:
   - property-based-testing
   - quickcheck
   - test-check
+  - manuel-chakravarty
 ---
 
 {% comment %}  
@@ -623,5 +624,12 @@ I've read [this FAQ][bootstrapping-clojurescript] related to bootstrapping cloju
 I've read [this article][property-based-testing-bst], written by Manuel Rivero, on applying test-check (a property-based testing framework, similar to quickcheck) to a Binary Search Tree (BST) he did.
 
 [property-based-testing-bst]: http://garajeando.blogspot.com/2015/07/applying-property-based-testing-on-my.html
+
+
+## Do Extraterrestrials Use Functional Programming?
+
+I've read [these slides][extraterrestrials-functional-programming], an introduction to lambda calculus, the Turing machine and the Halting Problem. Later, continues to describe ways of solving problems in a functional way. Also performance and optimizations; monads as well. Written by Manuel M T Chakravarty
+
+[extraterrestrials-functional-programming]: http://yowconference.com.au/slides/yowlambdajam2013/Chakravarty-Extraterrestrials-Keynote.pdf
 
 
