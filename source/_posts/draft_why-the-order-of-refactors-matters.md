@@ -43,6 +43,7 @@ what I want:
 int sum = doubleAbs(1+1);
 
 how to get there:
+
   * extract method (no parameters)
   * introduce parameter
 
