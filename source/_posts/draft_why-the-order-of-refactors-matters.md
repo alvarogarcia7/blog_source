@@ -32,3 +32,28 @@ Levels of navigation:
 The cost of writing / adapting tests is not included, as this has to be done either way (manual or automatic)
 
 There are some languages / editors that might prevent refactoring as they don't make it easy
+
+TODO continue with this example:
+
+
+original: 
+int sum = double(abs(1 + 1));
+
+what I want:
+int sum = doubleAbs(1+1);
+
+how to get there:
+  * extract method (no parameters)
+  * introduce parameter
+
+
+  * extract variable
+  * extract method (one parameter)
+
+
+result:
+int sum = doubleAbs(1+1);
+
+int doubleAbs(int value) {
+	return double(abs(value));
+}
