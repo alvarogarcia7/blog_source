@@ -174,6 +174,7 @@ categories:
   - protobuffer
   - json
   - josh-szmajda
+  - tomasz-nurkiewicz
 ---
 
 {% comment %}  
@@ -684,5 +685,11 @@ I've read [this comparison][gist-comparison-serialization] between MsgPack, JSON
 I've read [this introduction][protocol-buffers-docs-javatutorial] to Protocol Buffers in Java, by Google
 
 [protocol-buffers-docs-javatutorial]: https://developers.google.com/protocol-buffers/docs/javatutorial
+
+## RESTful Considered Harmful
+
+I've read [this article][restful-considered-harmful], commenting downsides to using JSON / RESTful APIs, written by Tomasz Nurkiewicz
+
+[restful-considered-harmful]: https://dzone.com/articles/restful-considered-harmful?oid=top_title
 
 
