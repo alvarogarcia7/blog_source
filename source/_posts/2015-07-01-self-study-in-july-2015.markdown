@@ -177,6 +177,9 @@ categories:
   - tomasz-nurkiewicz
   - eric-meyer
   - considered-harmful
+  - venkat-subramaniam
+  - lambda
+  - cohesion
 ---
 
 {% comment %}  
@@ -700,4 +703,9 @@ I've read [this post][chech], by Eric Meyer, on why "Considered Harmful" are har
 
 [chech]: http://meyerweb.com/eric/comment/chech.html
 
+## Keep Lambdas Cohesive
+
+I've read [this post][keep-lambdas-cohesive] with recommendations on keeping the java lambdas cohesive. Written by Venkat Subramaniam
+
+[keep-lambdas-cohesive]: http://blog.agiledeveloper.com/2015/07/keep-lambdas-cohesive.html
 
