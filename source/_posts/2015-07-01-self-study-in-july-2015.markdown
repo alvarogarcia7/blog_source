@@ -181,6 +181,7 @@ categories:
   - lambda
   - cohesion
   - carin-meier
+  - justin-weiss
 ---
 
 {% comment %}  
@@ -715,4 +716,11 @@ I've read [this post][keep-lambdas-cohesive] with recommendations on keeping the
 I've watched [this video][joy-flying-robots-clojure] by Carin Meier at the OSCON 2013 about communicating with robots in Clojure
 
 [joy-flying-robots-clojure]: https://www.youtube.com/watch?v=Ty9QDqV-_Ak
+
+## How to Learn TDD Without Getting Overwhelmed
+
+I've read [this article][tdd-without-getting-overwhelmed] on learning TDD, by Justin Weiss
+
+[tdd-without-getting-overwhelmed]: http://www.justinweiss.com/blog/2014/06/02/how-to-learn-tdd-without-getting-overwhelmed/
+
 
