@@ -180,6 +180,7 @@ categories:
   - venkat-subramaniam
   - lambda
   - cohesion
+  - carin-meier
 ---
 
 {% comment %}  
@@ -708,4 +709,10 @@ I've read [this post][chech], by Eric Meyer, on why "Considered Harmful" are har
 I've read [this post][keep-lambdas-cohesive] with recommendations on keeping the java lambdas cohesive. Written by Venkat Subramaniam
 
 [keep-lambdas-cohesive]: http://blog.agiledeveloper.com/2015/07/keep-lambdas-cohesive.html
+
+## The Joy of Flying Robots with Clojure
+
+I've watched [this video][joy-flying-robots-clojure] by Carin Meier at the OSCON 2013 about communicating with robots in Clojure
+
+[joy-flying-robots-clojure]: https://www.youtube.com/watch?v=Ty9QDqV-_Ak
 
