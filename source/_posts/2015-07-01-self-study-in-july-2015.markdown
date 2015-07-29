@@ -182,6 +182,7 @@ categories:
   - cohesion
   - carin-meier
   - justin-weiss
+  - peter-provost
 ---
 
 {% comment %}  
@@ -723,4 +724,8 @@ I've read [this article][tdd-without-getting-overwhelmed] on learning TDD, by Ju
 
 [tdd-without-getting-overwhelmed]: http://www.justinweiss.com/blog/2014/06/02/how-to-learn-tdd-without-getting-overwhelmed/
 
+## Kata - the Only Way to Learn TDD
 
+I've read [this article][kata-way-to-learn-tdd] on learning TDD, by Peter Provost
+
+[kata-way-to-learn-tdd]: http://www.peterprovost.org/blog/2012/05/02/kata-the-only-way-to-learn-tdd/
