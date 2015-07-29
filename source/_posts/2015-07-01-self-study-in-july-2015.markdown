@@ -679,4 +679,10 @@ I've read [this comparison][gist-comparison-serialization] between MsgPack, JSON
 
 [gist-comparison-serialization]: https://gist.github.com/joshsz/11299196
 
+## Protocol Buffer Basics: Java
+
+I've read [this introduction][protocol-buffers-docs-javatutorial] to Protocol Buffers in Java, by Google
+
+[protocol-buffers-docs-javatutorial]: https://developers.google.com/protocol-buffers/docs/javatutorial
+
 
