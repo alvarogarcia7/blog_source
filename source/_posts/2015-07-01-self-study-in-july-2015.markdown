@@ -169,6 +169,10 @@ categories:
   - cory-berg
   - skill
   - rockstar
+  - michael-bernstein
+  - protocol-buffer
+  - protobuffer
+  - json
 ---
 
 {% comment %}  
@@ -661,3 +665,11 @@ I've read [this post][dont-get-attached-language] by Mike Cavaliere
 I've read [this post][skills-of-rockstar-engineers] by Cory Berg
 
 [skills-of-rockstar-engineers]: http://softwareplusplus.com/2015/06/24/the-top-5-skills-of-rock-star-software-engineers/
+
+## 5 Reasons to Use Protocol Buffers Instead of JSON For Your Next Service
+
+I've read [this article][choose-protocol-buffers] on Protocol Buffers, written by Michael Bernstein 
+
+[choose-protocol-buffers]: http://blog.codeclimate.com/blog/2014/06/05/choose-protocol-buffers/
+
+
