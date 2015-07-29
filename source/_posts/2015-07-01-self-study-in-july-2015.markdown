@@ -175,6 +175,8 @@ categories:
   - json
   - josh-szmajda
   - tomasz-nurkiewicz
+  - eric-meyer
+  - considered-harmful
 ---
 
 {% comment %}  
@@ -691,5 +693,11 @@ I've read [this introduction][protocol-buffers-docs-javatutorial] to Protocol Bu
 I've read [this article][restful-considered-harmful], commenting downsides to using JSON / RESTful APIs, written by Tomasz Nurkiewicz
 
 [restful-considered-harmful]: https://dzone.com/articles/restful-considered-harmful?oid=top_title
+
+## “Considered Harmful” Essays Considered Harmful
+
+I've read [this post][chech], by Eric Meyer, on why "Considered Harmful" are harmful as well.
+
+[chech]: http://meyerweb.com/eric/comment/chech.html
 
 
