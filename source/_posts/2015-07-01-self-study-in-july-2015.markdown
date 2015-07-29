@@ -173,6 +173,7 @@ categories:
   - protocol-buffer
   - protobuffer
   - json
+  - josh-szmajda
 ---
 
 {% comment %}  
@@ -671,5 +672,11 @@ I've read [this post][skills-of-rockstar-engineers] by Cory Berg
 I've read [this article][choose-protocol-buffers] on Protocol Buffers, written by Michael Bernstein 
 
 [choose-protocol-buffers]: http://blog.codeclimate.com/blog/2014/06/05/choose-protocol-buffers/
+
+## Data Serialization Formats
+
+I've read [this comparison][gist-comparison-serialization] between MsgPack, JSON, Protocol Buffers, by Josh Szmajda.
+
+[gist-comparison-serialization]: https://gist.github.com/joshsz/11299196
 
 
