@@ -43,3 +43,4 @@ categories:
   * Compare with the Haskell and Clojure source
   * Compare with the yield keyword in python
 * Add post on transducers and the clojure article (funcool.github.io/clojurescript-unraveled)
+* Jitpack.io for sharing dependencies, just like spring boot
