@@ -11,9 +11,10 @@ categories:
   - lambda
   - test
   - exploration
+  - client
 ---
 
-TODO expand this draft
+At a client, we were testing a simple feature, but the resulting tests had much subtle repetition:
 
 ```
 @Test
@@ -49,8 +50,7 @@ public void sendLoveLetter(LoveLetter letter) {
 }
 ```
 
-
-the tests, refactored:
+So I decided to explore a bit on refactoring these tests to use lambdas and reduce repetition:
 
 ```
 private MailSender sut;
@@ -81,11 +81,13 @@ private void assertAndVerify() {
 }
 ```
 
-Comments:
+Some comments, mine and my teammates:
 
-  * not very readable, maybe because we're still not used to java 8 lambdas
+  * The tests are not very readable, maybe because we're still not used to java 8 lambdas
   * ``assertAndVerify`` has multiple purposes / responsibilities
-  * the gain of usability does not outweight the loss of readability
+  * The gain of usability does not outweight the loss of readability
+
+Finally, the refactor was discarded and we are using the initial version.
 
 Note: this is an adapted code, so the business logic is not complete and seems simple.
 
