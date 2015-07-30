@@ -1,7 +1,6 @@
 ---
-published: false
 layout: post
-title: "Exploring tests with lambdas in java 8"
+title: "Exploring Testing with Java 8 Lambdas"
 date: 2015-07-30 13:04:10 +0200
 comments: true
 categories: 
