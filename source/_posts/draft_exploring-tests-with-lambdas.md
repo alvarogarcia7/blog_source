@@ -83,3 +83,6 @@ Comments:
   * not very readable, maybe because we're still not used to java 8 lambdas
   * ``assertAndVerify`` has multiple purposes / responsibilities
 
+Note: this is an adapted code, so the business logic is not complete and seems simple.
+
+Note: the code has not been generalized to ``sendLetter(Letter letter)`` as the invoked logger has to be different. It could be if letter invoked the logger, but this is not wanted (on-purpose constraint).
