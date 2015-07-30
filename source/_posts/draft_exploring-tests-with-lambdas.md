@@ -13,6 +13,8 @@ categories:
   - exploration
 ---
 
+TODO expand this draft
+
 ```
 @Test
 public void log_when_sending_greeting_letters() {
