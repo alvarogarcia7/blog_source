@@ -96,4 +96,52 @@ Some comments, mine and my teammates:
 
 Finally, the refactor was discarded and we are using the initial version.
 
+Later, in the dojo, Manuel and I have refactored this a little bit more. Source code is [here](https://github.com/alvarogarcia7/spike-lambda-testing/tree/8e3dbecd91e1ead33c5b3f6560e2a786c36b0de9)
+
+```java
+public class MailSenderShould {
+
+	private EventLogger eventLogger;
+	private MailSender mailSender;
+
+	@Before
+	public void setUp () {
+		eventLogger = mock(EventLogger.class);
+		mailSender = new MailSender(eventLogger);
+	}
+
+	@Test
+	public void log_greetings_letter() {
+		checkThat(aLoggingLine().forA(greetingLetter()).wasLoggedWhen(aGreetingLetterWasSent()));
+	}
+
+	@Test
+	public void log_love_letter() {
+		checkThat(aLoggingLine().forA(loveLetter()).wasLoggedWhen(aLoveLetterWasSent()));
+	}
+
+	private void checkThat (final Check check) {
+		check.checkFor(mailSender, eventLogger);
+	}
+
+	private Consumer<EventLogger> aGreetingLetterWasSent () {
+		return EventLogger::sentGreetingLetter;
+	}
+
+	private Consumer<MailSender> greetingLetter () {
+		return (MailSender sut) -> sut.sendGreetingLetter(mock(GreetingLetter.class));
+	}
+
+	private Consumer<MailSender> loveLetter () {
+		return (MailSender sut) -> sut.sendLoveLetter(mock(LoveLetter.class));
+	}
+
+	private Consumer<EventLogger> aLoveLetterWasSent () {
+		return EventLogger::sentLoveLetter;
+	}
+}
+```
+
+(the logger is [here](https://github.com/alvarogarcia7/spike-lambda-testing/blob/8e3dbecd91e1ead33c5b3f6560e2a786c36b0de9/src/test/java/com/example/lambdatesting/CheckBuilder.java))
+
 Note: this is an adapted code, so the business logic is not complete and seems simple.
