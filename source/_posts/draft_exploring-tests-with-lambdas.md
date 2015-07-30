@@ -46,3 +46,34 @@ public void sendLetter(LoveLetter letter) {
 	// more business logic
 }
 ```
+
+
+the tests, refactored:
+
+```
+private Consumer<MailSender> arrange;
+private Consumer<EventLogger> verify;
+
+@Test
+public void log_greetings_letter() {
+	arrange = (MailSender sut) -> sut.sendLetter(mock(GreetingLetter.class));
+
+	verify = EventLogger::sentGreetingLetter;
+
+	assertAndVerify();
+}
+
+@Test
+public void log_love_letter() {
+	arrange = (MailSender sut) -> sut.sendLetter(mock(LoveLetter.class));
+
+	verify = EventLogger::sentLoveLetter;
+
+	assertAndVerify();
+}
+
+private void assertAndVerify() {
+	arrange.accept(sut);
+	verify.accept(logger);
+}
+```
