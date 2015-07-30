@@ -17,7 +17,7 @@ categories:
 @Test
 public void log_when_sending_greeting_letters() {
 
-	sut.sendLetter(mock(GreetingLetter.class));
+	sut.sendGreetingLetter(mock(GreetingLetter.class));
 
 	verify(logger).sentGreetingLetter();
 }
@@ -25,7 +25,7 @@ public void log_when_sending_greeting_letters() {
 @Test
 public void log_when_sending_love_letters() {
 
-	sut.sendLetter(mock(LoveLetter.class));
+	sut.sendLoveLetter(mock(LoveLetter.class));
 
 	verify(logger).sentLoveLetter();
 }
@@ -35,13 +35,13 @@ and the production code:
 
 ```
 @Override
-public void sendLetter(GreetingLetter letter) {
+public void sendGreetingLetter(GreetingLetter letter) {
 	logger.sentGreetingLetter();
 	// more business logic
 }
 
 @Override
-public void sendLetter(LoveLetter letter) {
+public void sendLoveLetter(LoveLetter letter) {
 	logger.sentLoveLetter();
 	// more business logic
 }
@@ -56,7 +56,7 @@ private Consumer<EventLogger> verify;
 
 @Test
 public void log_greetings_letter() {
-	arrange = (MailSender sut) -> sut.sendLetter(mock(GreetingLetter.class));
+	arrange = (MailSender sut) -> sut.sendGreetingLetter(mock(GreetingLetter.class));
 
 	verify = EventLogger::sentGreetingLetter;
 
@@ -65,7 +65,7 @@ public void log_greetings_letter() {
 
 @Test
 public void log_love_letter() {
-	arrange = (MailSender sut) -> sut.sendLetter(mock(LoveLetter.class));
+	arrange = (MailSender sut) -> sut.sendLoveLetter(mock(LoveLetter.class));
 
 	verify = EventLogger::sentLoveLetter;
 
