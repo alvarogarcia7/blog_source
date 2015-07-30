@@ -737,3 +737,9 @@ I've read [this koan][koan-past-perfect], past perfect, reflecting on the people
 
 [koan-past-perfect]: http://thecodelesscode.com/case/180
 
+## Koan: Future Imperfect
+
+I've read [this koan][koan-future-imperfect], continuation from past perfect.
+
+[koan-future-imperfect]: http://thecodelesscode.com/case/181
+
