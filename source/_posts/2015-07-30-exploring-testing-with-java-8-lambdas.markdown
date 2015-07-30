@@ -144,4 +144,72 @@ public class MailSenderShould {
 
 (the logger is [here](https://github.com/alvarogarcia7/spike-lambda-testing/blob/8e3dbecd91e1ead33c5b3f6560e2a786c36b0de9/src/test/java/com/example/lambdatesting/CheckBuilder.java))
 
+Later, we have created a simpler functional DSL for the logging, joining the ``act`` and ``verify`` into an object called ``Check``
+
+```java
+public class MailSenderShould {
+
+	private EventLogger eventLogger;
+	private MailSender mailSender;
+
+	@Before
+	public void setUp () {
+		eventLogger = mock(EventLogger.class);
+		mailSender = new MailSender(eventLogger);
+	}
+
+	@Test
+	public void log_greetings_letter() {
+		mailSenderLogs(whenSendingAGreetingLetter());
+	}
+
+	@Test
+	public void log_love_letter() {
+		mailSenderLogs(whenSendingALoveLetter());
+	}
+
+	private Check whenSendingALoveLetter () {
+		return new Check(
+			(MailSender sut) -> sut.send(letter(LoveLetter.class)),
+			EventLogger::sentLoveLetter
+		);
+	}
+
+	private void mailSenderLogs (Check check) {
+		check.checkFor(mailSender, eventLogger);
+	}
+
+	private Check whenSendingAGreetingLetter () {
+		return new Check(
+			(MailSender sut) -> sut.send(letter(GreetingLetter.class)),
+			EventLogger::sentGreetingLetter
+		);
+	}
+
+	private <T> T letter (final Class<T> typeOfLetter) {
+		return mock(typeOfLetter);
+	}
+}
+```
+
+and the ``Check``, just a placeholder for two ``Consumer``s:
+
+```java
+public class Check {
+
+	private final Consumer<MailSender> act;
+	private final Consumer<EventLogger> verify;
+
+	public Check (final Consumer<MailSender> act, final Consumer<EventLogger> verify) {
+		this.act = act;
+		this.verify = verify;
+	}
+
+	public void checkFor(MailSender mailSender, EventLogger eventLogger) {
+		act.accept(mailSender);
+		verify.accept(eventLogger);
+	}
+}
+```
+
 Note: this is an adapted code, so the business logic is not complete and seems simple.
