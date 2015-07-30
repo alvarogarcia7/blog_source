@@ -37,10 +37,12 @@ and the production code:
 @Override
 public void sendLetter(GreetingLetter letter) {
 	logger.sentGreetingLetter();
+	// more business logic
 }
 
 @Override
 public void sendLetter(LoveLetter letter) {
 	logger.sentLoveLetter();
+	// more business logic
 }
 ```
