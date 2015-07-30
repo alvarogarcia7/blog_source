@@ -184,6 +184,7 @@ categories:
   - justin-weiss
   - peter-provost
   - koan
+  - michael-church
 ---
 
 {% comment %}  
@@ -742,4 +743,10 @@ I've read [this koan][koan-past-perfect], past perfect, reflecting on the people
 I've read [this koan][koan-future-imperfect], continuation from past perfect.
 
 [koan-future-imperfect]: http://thecodelesscode.com/case/181
+
+## Why “Agile” and especially Scrum are terrible
+
+I've read [this article][agile-scrum-terrible] on downsides of Agile and Scrum, written by Michael Church.
+
+[agile-scrum-terrible]: https://michaelochurch.wordpress.com/2015/06/06/why-agile-and-especially-scrum-are-terrible/
 
