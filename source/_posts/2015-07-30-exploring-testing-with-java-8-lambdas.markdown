@@ -98,7 +98,7 @@ Some comments, mine and my teammates:
 
 Finally, the refactor was discarded and we are using the initial version.
 
-Later, in the dojo, Manuel and I have refactored this a little bit more. Source code is [here](https://github.com/alvarogarcia7/spike-lambda-testing/tree/8e3dbecd91e1ead33c5b3f6560e2a786c36b0de9)
+Later, in the dojo, [Manuel](https://twitter.com/@trikitrok) and I have refactored this a little bit more. Source code is [here](https://github.com/alvarogarcia7/spike-lambda-testing/tree/8e3dbecd91e1ead33c5b3f6560e2a786c36b0de9)
 
 ```java
 public class MailSenderShould {
