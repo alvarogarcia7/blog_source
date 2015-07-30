@@ -53,6 +53,7 @@ public void sendLoveLetter(LoveLetter letter) {
 the tests, refactored:
 
 ```
+private MailSender sut;
 private Consumer<MailSender> arrange;
 private Consumer<EventLogger> verify;
 
