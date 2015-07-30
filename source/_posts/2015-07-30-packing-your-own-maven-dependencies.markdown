@@ -14,7 +14,9 @@ Lately, I've found myself repeating always the same dependencies for my pet proj
 This is how most of them look like:
 
 ```xml
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.gmaur.legacycode</groupId>
   <artifactId>legacyutils</artifactId>
@@ -36,11 +38,11 @@ This is how most of them look like:
   		<scope>test</scope>
   	</dependency>
 
-	<dependency>
-		<groupId>org.mockito</groupId>
-		<artifactId>mockito-all</artifactId>
-		<scope>test</scope>
-		<version>2.0.2-beta</version>
+  	<dependency>
+  		<groupId>org.mockito</groupId>
+  		<artifactId>mockito-all</artifactId>
+  		<scope>test</scope>
+  		<version>2.0.2-beta</version>
 	</dependency>
   </dependencies>
 
@@ -64,5 +66,68 @@ This is how most of them look like:
 
 Note: the ``org.apache.maven.plugins:maven-surefire-plugin`` is to make maven execute the tests that end in ``*Should``.
 
+Now, the dependency versions and plugin configuration is repeated in all the projects, which is plenty of repetition.
 
+## Enter JitPack.io
 
+With the tool [JitPack.io](https://JitPack.io), you can generate your own dependencies. A guide on how to use it can be found [here](https://jitpack.io/docs/)
+
+I've published my own java dependency (originally [a github release](https://github.com/alvarogarcia7/java-parent/releases/tag/v0.0.1))
+
+A ``pom.xml`` in the new style is [here](https://github.com/alvarogarcia7/spike-lambda-testing/blob/master/pom.xml):
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.example.spike</groupId>
+    <artifactId>lambdatesting</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+
+    <parent>
+        <groupId>com.github.alvarogarcia7</groupId>
+        <artifactId>java-parent</artifactId>
+        <version>v0.0.1</version>
+    </parent>
+
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.github.alvarogarcia7</groupId>
+            <artifactId>java-parent</artifactId>
+            <version>v0.0.1</version>
+            <type>pom</type>
+        </dependency>
+
+        <dependency>
+            <groupId>org.hamcrest</groupId>
+            <artifactId>hamcrest-all</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-all</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+```
+
+It does not need the plugin configuration nor the dependency versions. The downside is that it needs to be as the ``parent pom``.
+
+## Acknowledgments
+
+Thanks to Manuel for encouraging me to write this article
