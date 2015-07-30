@@ -57,6 +57,8 @@ public class MailSender {
 }
 ```
 
+Note: this is an adapted code, so the business logic is not complete and seems simple.
+
 So I decided to explore a bit on refactoring these tests to use lambdas and reduce repetition:
 
 ```java
@@ -212,4 +214,49 @@ public class Check {
 }
 ```
 
-Note: this is an adapted code, so the business logic is not complete and seems simple.
+## Comparison
+
+Comparison between the original form and the three refactored forms of the test:
+
+```java
+@Test
+public void log_when_sending_greeting_letters() {
+
+	sut.send(mock(GreetingLetter.class));
+
+	verify(logger).sentGreetingLetter();
+}
+```
+
+This reads like a classical JUnit tests, using the interaction (with mocks).
+
+```java
+@Test
+public void log_greetings_letter() {
+	arrange = (MailSender sut) -> sut.send(mock(GreetingLetter.class));
+
+	verify = EventLogger::sentGreetingLetter;
+
+	assertAndVerify();
+}
+```
+
+This is the first step towards more cohesion, at the cost of readability. You save the verify at the end, but the repeated method ``assertAndVerify`` is still present.
+
+```java
+@Test
+public void log_greetings_letter() {
+	checkThat(aLoggingLine().forA(greetingLetter()).wasLoggedWhen(aGreetingLetterWasSent()));
+}
+```
+
+This one reads more like a classical DSL, but is harder to read compared to a classical test.
+
+```java
+@Test
+public void log_greetings_letter() {
+	mailSenderLogs(whenSendingAGreetingLetter());
+}
+```
+
+This one reads more like a business requirement.
