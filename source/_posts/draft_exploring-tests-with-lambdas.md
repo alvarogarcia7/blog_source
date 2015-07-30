@@ -77,3 +77,9 @@ private void assertAndVerify() {
 	verify.accept(logger);
 }
 ```
+
+Comments:
+
+  * not very readable, maybe because we're still not used to java 8 lambdas
+  * ``assertAndVerify`` has multiple purposes / responsibilities
+
