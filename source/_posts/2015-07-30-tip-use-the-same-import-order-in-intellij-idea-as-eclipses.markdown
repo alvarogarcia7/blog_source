@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "Tip: Use the same Import Order in IntelliJ IDEA as Eclipse's"
+date: 2015-07-30 13:22:44 +0200
 categories:
   - sample
   - protip
