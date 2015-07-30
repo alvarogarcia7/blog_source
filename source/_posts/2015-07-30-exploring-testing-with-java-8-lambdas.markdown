@@ -17,7 +17,7 @@ At a client, we were testing a simple feature, but the resulting tests had much 
 
 (source code is [here](https://github.com/alvarogarcia7/spike-lambda-testing/tree/ef00a220f427900e3180dcbeec51248845446248))
 
-```
+```java
 @Test
 public void log_when_sending_greeting_letters() {
 
@@ -37,7 +37,7 @@ public void log_when_sending_love_letters() {
 
 and the production code:
 
-```
+```java
 public class MailSender {
 	private final EventLogger eventLogger;
 
@@ -59,7 +59,7 @@ public class MailSender {
 
 So I decided to explore a bit on refactoring these tests to use lambdas and reduce repetition:
 
-```
+```java
 private MailSender sut;
 private Consumer<MailSender> arrange;
 private Consumer<EventLogger> verify;
