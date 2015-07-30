@@ -30,3 +30,17 @@ public void log_when_sending_love_letters() {
 	verify(logger).sentLoveLetter();
 }
 ```
+
+and the production code:
+
+```
+@Override
+public void sendLetter(LoveLetter letter) {
+	logger.sentLoveLetter();
+}
+
+@Override
+public void sendLetter(GreetingLetter letter) {
+	logger.sentGreetingLetter();
+}
+```
