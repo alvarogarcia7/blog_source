@@ -35,12 +35,12 @@ and the production code:
 
 ```
 @Override
-public void sendLetter(LoveLetter letter) {
-	logger.sentLoveLetter();
+public void sendLetter(GreetingLetter letter) {
+	logger.sentGreetingLetter();
 }
 
 @Override
-public void sendLetter(GreetingLetter letter) {
-	logger.sentGreetingLetter();
+public void sendLetter(LoveLetter letter) {
+	logger.sentLoveLetter();
 }
 ```
