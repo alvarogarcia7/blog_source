@@ -15,11 +15,13 @@ categories:
 
 At a client, we were testing a simple feature, but the resulting tests had much subtle repetition:
 
+(source code is [here](https://github.com/alvarogarcia7/spike-lambda-testing/tree/ef00a220f427900e3180dcbeec51248845446248))
+
 ```
 @Test
 public void log_when_sending_greeting_letters() {
 
-	sut.sendGreetingLetter(mock(GreetingLetter.class));
+	sut.send(mock(GreetingLetter.class));
 
 	verify(logger).sentGreetingLetter();
 }
@@ -27,7 +29,7 @@ public void log_when_sending_greeting_letters() {
 @Test
 public void log_when_sending_love_letters() {
 
-	sut.sendLoveLetter(mock(LoveLetter.class));
+	sut.send(mock(LoveLetter.class));
 
 	verify(logger).sentLoveLetter();
 }
@@ -36,16 +38,22 @@ public void log_when_sending_love_letters() {
 and the production code:
 
 ```
-@Override
-public void sendGreetingLetter(GreetingLetter letter) {
-	logger.sentGreetingLetter();
-	// more business logic
-}
+public class MailSender {
+	private final EventLogger eventLogger;
 
-@Override
-public void sendLoveLetter(LoveLetter letter) {
-	logger.sentLoveLetter();
-	// more business logic
+	public MailSender (final EventLogger eventLogger) {
+		this.eventLogger = eventLogger;
+	}
+
+	public void send (final GreetingLetter letter) {
+		// more business logic
+		eventLogger.sentGreetingLetter();
+	}
+
+	public void send (final LoveLetter letter) {
+		// more business logic
+		eventLogger.sentLoveLetter();
+	}
 }
 ```
 
@@ -58,7 +66,7 @@ private Consumer<EventLogger> verify;
 
 @Test
 public void log_greetings_letter() {
-	arrange = (MailSender sut) -> sut.sendGreetingLetter(mock(GreetingLetter.class));
+	arrange = (MailSender sut) -> sut.send(mock(GreetingLetter.class));
 
 	verify = EventLogger::sentGreetingLetter;
 
@@ -67,7 +75,7 @@ public void log_greetings_letter() {
 
 @Test
 public void log_love_letter() {
-	arrange = (MailSender sut) -> sut.sendLoveLetter(mock(LoveLetter.class));
+	arrange = (MailSender sut) -> sut.send(mock(LoveLetter.class));
 
 	verify = EventLogger::sentLoveLetter;
 
@@ -89,5 +97,3 @@ Some comments, mine and my teammates:
 Finally, the refactor was discarded and we are using the initial version.
 
 Note: this is an adapted code, so the business logic is not complete and seems simple.
-
-Note: the code has not been generalized to ``sendLetter(Letter letter)`` as the invoked logger has to be different. It could be if letter invoked the logger, but this is not wanted (on-purpose constraint).
