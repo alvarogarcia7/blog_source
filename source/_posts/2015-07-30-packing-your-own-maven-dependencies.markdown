@@ -62,4 +62,7 @@ This is how most of them look like:
 </project>
 ```
 
+Note: the ``org.apache.maven.plugins:maven-surefire-plugin`` is to make maven execute the tests that end in ``*Should``.
+
+
 
