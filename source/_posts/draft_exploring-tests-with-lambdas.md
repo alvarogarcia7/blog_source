@@ -85,6 +85,7 @@ Comments:
 
   * not very readable, maybe because we're still not used to java 8 lambdas
   * ``assertAndVerify`` has multiple purposes / responsibilities
+  * the gain of usability does not outweight the loss of readability
 
 Note: this is an adapted code, so the business logic is not complete and seems simple.
 
