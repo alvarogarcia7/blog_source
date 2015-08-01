@@ -12,6 +12,8 @@ categories:
   - management-30
 ---
 
+## Types of relationships between objects
+
 >If objects were human and could describe their own relationships, [...]
 >
 >  * "I know what I want and I know how you do it"
