@@ -39,3 +39,7 @@ the three expressed above correspond to TODO^x,y,z$ but there are others.
 The point here is not to deal with objects by the way they are or what they do, but what messages they respond to and send.
 
 TODO^expand on this conclusion. too poor, for the moment$
+
+## Further work
+
+This topic could be expanded investigating more the relationship between objects in the same way that psychology studies the relationships between persons. There might be interesting (from a scientific point of view) relations: matriarchy, patriarchy, marriages, polyamory, mating for life, people casted of the the society, abuse, etc.
