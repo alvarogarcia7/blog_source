@@ -26,7 +26,7 @@ categories:
 
 All segments have the first part in common "I know what I want".
 
-The second part, is variable in the way of getting it done. 
+The second part though, is variable in the way of getting it done. 
 
 Has reminded me of the TODO^find source$ 7 levels of trust/delegation in management 3.0, by Jurgen Appelo:
 
