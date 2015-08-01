@@ -31,3 +31,9 @@ Has reminded me of the TODO^find source$ 7 levels of trust/delegation in managem
   * TODO^add levels here$
 
 the three expressed above correspond to TODO^x,y,z$ but there are others.
+
+## Conclusion
+
+The point here is not to deal with objects by the way they are or what they do, but what messages they respond to and send.
+
+TODO^expand on this conclusion. too poor, for the moment$
