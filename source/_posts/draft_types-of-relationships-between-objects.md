@@ -34,6 +34,8 @@ Has reminded me of the TODO^find source$ 7 levels of trust/delegation in managem
 
 the three expressed above correspond to TODO^x,y,z$ but there are others.
 
+TODO^explain if they are in the lower part or the higher part of the trust scale. Or comment on where they are$
+
 ## Conclusion
 
 The point here is not to deal with objects by the way they are or what they do, but what messages they respond to and send.
