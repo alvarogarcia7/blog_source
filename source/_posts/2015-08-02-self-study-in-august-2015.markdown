@@ -9,6 +9,9 @@ categories:
   - 2015
   - pattern
   - gerard-meszaros
+  - paul-graham
+  - reread
+  - read
 ---
 
 {% comment %}  
@@ -31,4 +34,11 @@ Tags: pattern, gerard-meszaros
 
 [humble-object]: http://xunitpatterns.com/Humble%20Object.html
 
+## How you know
+
+I've reread [this small essay][how-you-know] by Paul Graham on storing information in our heads, based on the context. On the importance of rereading, to add more contexts to the initial one.
+
+Tags: paul-graham, reread, read
+
+[how-you-know]: http://www.paulgraham.com/know.html
 
