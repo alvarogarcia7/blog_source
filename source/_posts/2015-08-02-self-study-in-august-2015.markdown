@@ -9,3 +9,8 @@ categories:
   - 2015
 ---
 
+{% comment %}  
+
+Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/README.markdown#authors-as-categories
+
+{% endcomment %}
