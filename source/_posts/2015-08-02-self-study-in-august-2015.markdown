@@ -42,3 +42,13 @@ Tags: paul-graham, reread, read
 
 [how-you-know]: http://www.paulgraham.com/know.html
 
+## Protected Variation: The Importance of Being Closed
+
+I've read [this article][the-importance-of-being-closed] by Craig Larman in the magazine IEEE Software > Design.
+
+Discusses Information Hiding, Protected Variation and the Open-Closed Principle.
+
+Tags: craig-larman, ocp, open-closed principle, design, information-hiding, ih, protected-variation, pv,
+
+[the-importance-of-being-closed]: http://www.martinfowler.com/ieeeSoftware/protectedVariation.pdf
+
