@@ -40,4 +40,4 @@ A key metric is "how much of my business is impacted by SaaS".
   * 2000's: SOA - lower coupling. Coarse-grained SOA services
   * 2010's: microservices - decoupled. Fine-grained microservices
 
-TODO add comment on being back-dated
+Note: This has been created a posteriori with a previous date
