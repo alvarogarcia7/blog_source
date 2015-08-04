@@ -52,3 +52,14 @@ Tags: craig-larman, ocp, open-closed principle, design, information-hiding, ih, 
 
 [the-importance-of-being-closed]: http://www.martinfowler.com/ieeeSoftware/protectedVariation.pdf
 
+## Lambda, Javascript Micro-Services on AWS
+
+I've read [this post][javascript-microservice-lambda-aws] explaining how to deploy a microservice on AWS on top of Lambda. Written by Anders Janmyr
+
+The cool thing is that you get billed by milliseconds!
+
+Tags: anders-janmyr, devops, microservice, lambda, aws
+
+[javascript-microservice-lambda-aws]: http://www.jayway.com/2014/12/18/lambda-javascript-micro-services-aws/
+
+
