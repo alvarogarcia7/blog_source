@@ -8,6 +8,8 @@ categories:
   - philosophy
   - hannah-arendt
   - quote
+  - animal-laborans
+  - homo-faber
 ---
 
 # The *Animal Laborans* and the *Homo Faber*
