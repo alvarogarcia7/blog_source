@@ -24,5 +24,9 @@ Has analogies for the ancient weavers and linux programmers ("The modern Hephaes
 
 He goes on to find the greek roots for the craftsmanship word
 
+TODO add quote on page 24 "arete"
+
+TODO add quote on page 25 "demiergoi"
+
 [amazon-buying-page]: http://www.amazon.co.uk/The-Craftsman-Richard-Sennett-x/dp/0141022094
 
