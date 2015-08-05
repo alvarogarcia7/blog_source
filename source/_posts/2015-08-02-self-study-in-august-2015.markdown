@@ -77,3 +77,11 @@ I've read [this article][enough-technical-debt] on why we need to accumulate a b
 Tags: santiago-valdarrama, technical-debt, perfectionism
 
 [enough-technical-debt]: https://blog.svpino.com/2015/08/05/we-need-enough-technical-debt
+
+## Escribe mejores tests en Javascript
+
+I've read [this list][better-js-tests] of tips to write better javascript tests (Spanish). By Carlos Villuendas
+
+Tags: carlos-villuendas, javascript, test
+
+[better-js-tests]: http://carlosvillu.com/escribe-mejores-tests-en-javascript/
