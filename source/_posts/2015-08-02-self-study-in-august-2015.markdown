@@ -62,4 +62,10 @@ Tags: anders-janmyr, devops, microservice, lambda, aws
 
 [javascript-microservice-lambda-aws]: http://www.jayway.com/2014/12/18/lambda-javascript-micro-services-aws/
 
+## Migrating To Clojure. So Much Fn
 
+I've watched [this talk][migrating-to-clojure-fn] by Jan Stępień where he talks about his experience on migrating part of an application to clojure from ruby on rails
+
+Tags: jan-stepien, clojure, migration, ruby-on-rails, talk, wrocloverb
+
+[migrating-to-clojure-fn]: https://www.youtube.com/watch?v=Hv4slaRydRM
