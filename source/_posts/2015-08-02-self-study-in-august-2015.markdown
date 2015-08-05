@@ -69,3 +69,11 @@ I've watched [this talk][migrating-to-clojure-fn] by Jan Stępień where he talk
 Tags: jan-stepien, clojure, migration, ruby-on-rails, talk, wrocloverb
 
 [migrating-to-clojure-fn]: https://www.youtube.com/watch?v=Hv4slaRydRM
+
+## We need enough technical debt
+
+I've read [this article][enough-technical-debt] on why we need to accumulate a bit of technical debt, as a way of being less perfectionist and deliver more features / value to our stakeholders. Written by Santiago L. Valdarrama.
+
+Tags: santiago-valdarrama, technical-debt, perfectionism
+
+[enough-technical-debt]: https://blog.svpino.com/2015/08/05/we-need-enough-technical-debt
