@@ -16,7 +16,8 @@ categories:
 > a drudge condemned to routine. Arendt enriched this image by imagining him or her absorbed
 > in a task that shuts out the world, a state well exemplified by Oppenheimer's feeling that the
 > atomic bomb was a "sweet" problem, or Eichmann's obsession with making the gas chambers
-> efficient. In the act of making it work, nothing else matters; Animal laborans takes the work as en end it itself.
+> efficient. In the act of making it work, nothing else matters; Animal laborans takes the work as
+> end end it itself.
 >
 >By contrast, *Homo faber* is her image of men and women doing another kind of work, making 
 > a life in common. Again Arendt enriched an inherited idea. The Lating tag Homo faber
