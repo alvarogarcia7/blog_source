@@ -93,3 +93,11 @@ I've read [this wiki][page-down-the-rabbit-hole] page on how to tune some aspect
 Tags: performance, jvm, hotspot, inline, bytecode, brett-wooldridge
 
 [page-down-the-rabbit-hole]: https://github.com/brettwooldridge/HikariCP/wiki/Down-the-Rabbit-Hole
+
+## XP Manchester Lightning Talks 2015 Live broadcast
+
+I have watched the first two [lightning talks][lightning-talks-xp-61] from XP Manchester, edition number 61.
+
+Tags: lightning-talk, broadcast, simplicity, manchester, 2015
+
+[lightning-talks-xp-61]: https://www.youtube.com/watch?v=VD4UEW2i7hU
