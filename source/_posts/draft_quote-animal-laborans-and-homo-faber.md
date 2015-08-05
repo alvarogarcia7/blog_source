@@ -32,4 +32,4 @@ I've found this quote very interesting from the book "The Craftsman", by Richard
 > judging together. Whereas Animal laborans is fixated in the question "How?" Homo faber
 > asks "Why?"
 >
-> Richard Sennet, The Craftsman, Prologue, page 7
+> Richard Sennett, The Craftsman, Prologue, page 7
