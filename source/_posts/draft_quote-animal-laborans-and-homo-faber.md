@@ -12,6 +12,8 @@ categories:
 
 # The *Animal Laborans* and the *Homo Faber*
 
+I've found this quote very interesting from the book "The Craftsman", by Richard Sennett:
+
 > *Animal laborans* is, as the name implies, the human being akin to a beast of burden,
 > a drudge condemned to routine. Arendt enriched this image by imagining him or her absorbed
 > in a task that shuts out the world, a state well exemplified by Oppenheimer's feeling that the
