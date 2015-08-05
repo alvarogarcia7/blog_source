@@ -85,3 +85,11 @@ I've read [this list][better-js-tests] of tips to write better javascript tests 
 Tags: carlos-villuendas, javascript, test
 
 [better-js-tests]: http://carlosvillu.com/escribe-mejores-tests-en-javascript/
+
+## Down the Rabbit Hole
+
+I've read [this wiki][page-down-the-rabbit-hole] page on how to tune some aspects of the server hotspot JVM, by Brett Wooldridge
+
+Tags: performance, jvm, hotspot, inline, bytecode, brett-wooldridge
+
+[page-down-the-rabbit-hole]: https://github.com/brettwooldridge/HikariCP/wiki/Down-the-Rabbit-Hole
