@@ -69,3 +69,13 @@ I've watched [this talk][migrating-to-clojure-fn] by Jan Stępień where he talk
 Tags: jan-stepien, clojure, migration, ruby-on-rails, talk, wrocloverb
 
 [migrating-to-clojure-fn]: https://www.youtube.com/watch?v=Hv4slaRydRM
+
+## Te recomiendo escribir en un blog
+
+I've read [this article][recomiendo-escribir-blog] from Carlos Blé in which he recommends writing a blog, on things we discover along the way. (Spanish)
+
+Tags: carlos-ble, meta, blog, long-way
+
+[recomiendo-escribir-blog]: http://www.carlosble.com/2015/07/te-recomiendo-escribir-en-un-blog/
+
+
