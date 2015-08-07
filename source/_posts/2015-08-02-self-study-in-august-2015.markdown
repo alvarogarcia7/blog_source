@@ -109,3 +109,11 @@ I have watched the first two [lightning talks][lightning-talks-xp-61] from XP Ma
 Tags: lightning-talk, broadcast, simplicity, manchester, 2015
 
 [lightning-talks-xp-61]: https://www.youtube.com/watch?v=VD4UEW2i7hU
+
+## Counting hash collisions with the birthday paradox
+
+I've read [this article][counting-hash-collisions] on the birthday paradox, or the percentage of chance of people sharing the same birthday. This could be applied to hash function, as the title says, but is not included in the article. Written by Matt Might
+
+[counting-hash-collisions]: http://matt.might.net/articles/counting-hash-collisions/
+
+
