@@ -59,3 +59,43 @@ this makes the stubbed function to return multiple values:
 assertThat(spike1.getBool(), is(false));
 assertThat(spike1.getBool(), is(true));
 ```
+
+The last value is repeated after the last defined value:
+
+```java
+@Test
+public void spike1() {
+	spike1 = spy(spike1);
+	when(spike1.getBool()).thenReturn(false, true);
+
+	assertThat(spike1.getBool(), is(false));
+	assertThat(spike1.getBool(), is(true));
+
+	assertThat(spike1.getBool(), is(true));
+	assertThat(spike1.getBool(), is(true));
+}
+```
+
+If you want to loop over the values, you can implement it with the ``doAnswer`` method:
+
+```java
+@Test
+public void spike1() {
+	spike1 = spy(spike1);
+	when(spike1.getBool()).thenReturn(false, true);
+
+	final boolean[] value = {true};
+
+	doAnswer(invocation -> {
+		value[0] = !value[0];
+		return value[0];
+	}).when(spike1).getBool();
+
+	assertThat(spike1.getBool(), is(false));
+	assertThat(spike1.getBool(), is(true));
+
+	assertThat(spike1.getBool(), is(false));
+	assertThat(spike1.getBool(), is(true));
+}
+```
+
