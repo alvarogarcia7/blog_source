@@ -5,6 +5,9 @@ date: 2015-08-07 11:31:19 +0200
 comments: true
 categories: 
   - mockito
+  - tip
+  - stub
+  - java
 ---
 
 I've been asked today how to return multiple return values from a Mockito Spy, effectively using the spy as a Stub, as well.
