@@ -140,5 +140,11 @@ Tags: uku-taht, option, maybe, optional, rust
 
 [effective-use-of-option]: https://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html
 
+## When Should You Think?
 
+I've read [this post][when-should-you-think] by Robert C Martin on when to think and the hypothesis that TDD does not allow you to think before coding.
+
+Tags: tdd, robert-c-martin, design, hypothesis
+
+[when-should-you-think]: https://blog.8thlight.com/uncle-bob/2014/03/11/when-to-think.html
 
