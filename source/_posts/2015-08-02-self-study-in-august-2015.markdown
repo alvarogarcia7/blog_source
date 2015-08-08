@@ -116,4 +116,13 @@ I've read [this article][counting-hash-collisions] on the birthday paradox, or t
 
 [counting-hash-collisions]: http://matt.might.net/articles/counting-hash-collisions/
 
+## The Key to Giving and Receiving Negative Feedback
+
+I've read [this article][key-to-negative-feedback] by Joseph Grenny about how to give and receive negative feedback. It is exemplified by the plant manager who was expecting another kind of feedback from his subordinates and was surprised by their negative feedback.
+
+Tags: joseph-grenny, negative-feedback, feedback, by-example
+
+[key-to-negative-feedback]: https://hbr.org/2015/08/the-key-to-giving-and-receiving-negative-feedback?
+
+
 
