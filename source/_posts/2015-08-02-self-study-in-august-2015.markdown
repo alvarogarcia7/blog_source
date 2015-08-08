@@ -132,5 +132,13 @@ Tags: nebojsa-stricevic, compojure, kerodon, clojure, testing, guide
 
 [testing-clojure-with-kerodon]: https://semaphoreci.com/community/tutorials/testing-clojure-web-applications-with-kerodon
 
+## Using The Option Type Effectively
+
+I've read [this article][effective-use-of-option] on how to use the ``Option`` type (in rust), similar to ``Optional`` in java or ``Maybe`` in haskell. Written by Uku Taht.
+
+Tags: uku-taht, option, maybe, optional, rust
+
+[effective-use-of-option]: https://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html
+
 
 
