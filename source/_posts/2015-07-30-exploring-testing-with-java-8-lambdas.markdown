@@ -260,3 +260,44 @@ public void log_greetings_letter() {
 ```
 
 This one reads more like a business requirement.
+
+## Other
+
+Other ideas we have tested:
+
+```java
+Builder.aNew().sendGreetingLetter()
+
+assertAndVerifyThat(
+	theLoggingLine()
+		.for(aGreetingLetter())
+		.isLoggedWhen(greetingLetterIsSent()
+	)
+);
+
+public Consumer<MailSender> aGreetingLetter(){
+	return (MailSender sut) -> sut.sendGreetingLetter(mock(GreetingLetter.class));
+}
+
+public Consumer<EventLogger> greetingLetterIsSent(){
+	return EventLogger::sentGreetingLetter;
+}
+```
+
+```java
+assertAndVerifyThat(
+	theLoggingLine()
+		.for(
+			(MailSender sut) -> sut.sendGreetingLetter(mock(GreetingLetter.class))
+		)
+		.isLoggedWhen(EventLogger::sentGreetingLetter)
+	)
+);
+```
+
+```java
+public void assertAndVerifyThat(TestContext testContext){
+	testContext.assert();
+	testContext.verify();
+}
+```
