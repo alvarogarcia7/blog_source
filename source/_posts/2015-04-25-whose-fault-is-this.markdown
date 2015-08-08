@@ -19,10 +19,7 @@ In the prologue of the book, while thanking everyone that has made the book poss
 >
 > Mihaly Csikszentmihalyi (translated)[^1], prologue of "[Flow][flow-book]"
 
-
-{% comment %}
-TODO add link to the craft page in my blog
-{% endcomment %}
+(More posts on this same book, [here](/{{site.category_dir}}/flow))
 
 This connects with what [Dan North][tastapod] said in the Craft Conf about this idea of the "I'm the only one in the company producing good quality work, the rest are not doing the same". Of course, he was quoting greedy, selfish people who think this instead of attributing the success to the whole team.
 

@@ -13,3 +13,4 @@ vendor
 node_modules
 Gemfile.lock
 clean_bak.sh
+author.txt

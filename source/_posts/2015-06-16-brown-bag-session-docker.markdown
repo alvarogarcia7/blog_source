@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brown-bag session: maven"
+title: "Brown-bag session: docker"
 date: 2015-06-16 18:52:28 +0200
 comments: true
 categories:

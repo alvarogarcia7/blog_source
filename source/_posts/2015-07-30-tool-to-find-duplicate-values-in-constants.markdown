@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "Tool to Find Duplicate values in Constants"
+date: 2015-07-30 13:42:44 +0200
 categories:
   - sample
   - tool
@@ -8,8 +10,6 @@ categories:
   - gmaur
   - library
 ---
-
-## Tool to find duplicate values in constants
 
 Imagine having this java class:
 

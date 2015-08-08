@@ -5,6 +5,7 @@ date: 2014-12-08 17:20:59 +0100
 comments: true
 categories: 
  - hello-world
+ - meta
 ---
 
 This is the obligatory "Hello World!" post 
