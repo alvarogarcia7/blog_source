@@ -124,5 +124,13 @@ Tags: joseph-grenny, negative-feedback, feedback, by-example
 
 [key-to-negative-feedback]: https://hbr.org/2015/08/the-key-to-giving-and-receiving-negative-feedback?
 
+## Testing Clojure web applications with Kerodon
+
+I've read [this guide][testing-clojure-with-kerodon] on how to test compojure-based applications with kerodon. Written by Nebojša Stričević
+
+Tags: nebojsa-stricevic, compojure, kerodon, clojure, testing, guide
+
+[testing-clojure-with-kerodon]: https://semaphoreci.com/community/tutorials/testing-clojure-web-applications-with-kerodon
+
 
 
