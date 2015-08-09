@@ -33,6 +33,7 @@ During book reviews:
 
   * Bring to this book what you have found useful in other books. This might be the writing style, the information boxes, the style of the chapter (introduction, body, summary)
   * For practical books (e.g., learning a new language or framework, practicing patterns) write down examples and their solutions at the end of each chapter.
+  * Make sure you find people interested in beta-reviewing your book. They should have the same level as the target group. This is more of a controlled trial than beta-reviewing.
   
   
 
