@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The language was prepared for that"
-date: 2015-08-09 01:19:50 +0200
+date: 2015-08-10 00:58:33 +0200
 comments: true
 categories: 
   - clojure
@@ -88,3 +88,4 @@ Unless a more elegant, language-provided solution exists in haskell, the clojure
 [clojure-less-equals-implementation]: https://github.com/clojure/clojure/blob/clojure-1.7.0/src/clj/clojure/core.clj#L1020
 [clojuredocs-less-equals]: https://clojuredocs.org/clojure.core/%3C=
 [haskell-less-equals-implementation]: http://codereview.stackexchange.com/questions/46606/is-a-list-sorted/46608#46608
+
