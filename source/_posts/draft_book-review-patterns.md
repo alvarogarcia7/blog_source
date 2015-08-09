@@ -38,6 +38,7 @@ During book reviews:
   * Make sure copy-pasting code is available from your PDF. This is especially problematic if you format with LaTeX. Be extra careful with apostrophes and other symbols. The snippets must work out of the box. I prefer to also include imports in the code, to make it complete, although other authors consider it noise. Even if you want your readers to type the code themselves into the editor / REPL, as in the series "the hard way", there are cases where being able to copy-paste is useful. do not remove this possibility.
 
   * As a reviewer, keep a steady pace: not too much, not too few. I find that 20-30 pages of dense text is enough for a week. For lighter texts, double or even triple quantity is feasible. I prefer to read it the first day of the week and reflect on it during the whole week, then deliver the notes on the last day of the week. 
+  * Never skim trough the chapters or even the paragraphs: if it is too simple for you, you can do it fast. If it is too difficult for you, take your time and digest it properly. If it is too dense for that moment, mark it down as unread and leave it for later. I recommend not to leave parts of the chapter unread then starting a new chapter.
   
   
 
