@@ -81,7 +81,7 @@ isSorted xs = and $ zipWith (<=) xs (tail xs)
 
 ## Conclusion
 
-Unless a more elegant, language-provided solution exists in haskell, the clojure one is way simpler. This is one of the benefits of prefix notation, that operators (e.g., +, -, *, <=) are overloaded to take more arguments than before.
+Unless a more elegant, language-provided solution exists in haskell, the clojure one is way simpler. This is one of the benefits of prefix notation, that operators (e.g., ``+``, ``-``, ``*``, ``<=``) are overloaded to take more arguments than before.
 
 
 
