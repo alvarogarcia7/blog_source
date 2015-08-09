@@ -40,6 +40,7 @@ During book reviews:
   * As a reviewer, keep a steady pace: not too much, not too few. I find that 20-30 pages of dense text is enough for a week. For lighter texts, double or even triple quantity is feasible. I prefer to read it the first day of the week and reflect on it during the whole week, then deliver the notes on the last day of the week. 
   * Never skim trough the chapters or even the paragraphs: if it is too simple for you, you can do it fast. If it is too difficult for you, take your time and digest it properly. If it is too dense for that moment, mark it down as unread and leave it for later. I recommend not to leave parts of the chapter unread then starting a new chapter.
   * Always ask for citations, quotes, further reading. Even if you are not interested in reading more of this subject, part of your readers will be. They should be able to deepen their knowledge using references.
+  * Write a review sheet at the end of each chapter: what is good, what is missing, what you would like to find more. A numeric score (e.g., X out of 10). What does the chapter need to get to the perfect score (i.e., 10 out of 10)?
   
   
 
