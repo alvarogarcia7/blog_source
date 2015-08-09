@@ -32,6 +32,7 @@ During book reviews:
   * Have a shared space (e.g., google drive, dropbox) where all the authors, reviewers, designers, etc have access and can share information
 
   * Bring to this book what you have found useful in other books. This might be the writing style, the information boxes, the style of the chapter (introduction, body, summary)
+  * For practical books (e.g., learning a new language or framework, practicing patterns) write down examples and their solutions at the end of each chapter.
   
   
 
