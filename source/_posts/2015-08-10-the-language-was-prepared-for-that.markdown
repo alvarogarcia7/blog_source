@@ -8,6 +8,9 @@ categories:
   - haskell
   - java
   - language-comparison
+  - prefix-notation
+  - operator
+  - overloading
 ---
 
 Many times I've written this function:
