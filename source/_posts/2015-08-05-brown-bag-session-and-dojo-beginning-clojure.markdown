@@ -1,14 +1,10 @@
 ---
-date: 2015-07-17 15:08:10 +0200
-published: false
-categories:
-  - sample
-  - brown-bag
-  - training
-  - client
+layout: post
+title: "Brown-bag session and Dojo: Beginning Clojure"
+date: 2015-08-05 01:14:14 +0200
+comments: true
+categories: 
 ---
-
-Brown-bag session and Dojo in Clojure
 
 At a client, today I've facilitated a brown-bag session introducing the Clojure language to a group of java programmers.
 
@@ -24,5 +20,3 @@ There is a sample implementation in the same repo, [this folder][folder-fizzbuzz
 [clojure-maven-plugin]: https://github.com/talios/clojure-maven-plugin
 [guide]: https://github.com/alvarogarcia7/clojure-for-java-devs/blob/master/guide.md
 [folder-fizzbuzz-implementation]: https://github.com/alvarogarcia7/clojure-for-java-devs/tree/sample-implementation/src
-
-TODO: tweet this, thanking him: @talios Thanks for your awesome https://github.com/talios/clojure-maven-plugin, we've successfully used it for this dojo: https://github.com/alvarogarcia7/clojure-for-java-devs
