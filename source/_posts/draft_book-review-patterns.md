@@ -36,6 +36,8 @@ During book reviews:
   * For practical books (e.g., learning a new language or framework, practicing patterns) write down examples and their solutions at the end of each chapter.
   * Make sure you find people interested in beta-reviewing your book. They should have the same level as the target group. This is more of a controlled trial than beta-reviewing.
   * Make sure copy-pasting code is available from your PDF. This is especially problematic if you format with LaTeX. Be extra careful with apostrophes and other symbols. The snippets must work out of the box. I prefer to also include imports in the code, to make it complete, although other authors consider it noise. Even if you want your readers to type the code themselves into the editor / REPL, as in the series "the hard way", there are cases where being able to copy-paste is useful. do not remove this possibility.
+
+  * As a reviewer, keep a steady pace: not too much, not too few. I find that 20-30 pages of dense text is enough for a week. For lighter texts, double or even triple quantity is feasible. I prefer to read it the first day of the week and reflect on it during the whole week, then deliver the notes on the last day of the week. 
   
   
 
