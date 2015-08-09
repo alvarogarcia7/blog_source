@@ -148,3 +148,12 @@ Tags: tdd, robert-c-martin, design, hypothesis
 
 [when-should-you-think]: https://blog.8thlight.com/uncle-bob/2014/03/11/when-to-think.html
 
+## Orthogonal latin squares: an application of experiment design to compiler testing 
+
+I've read [this paper][near-exhaustive-testing-using-latin-squares] by Robert Mandl on techniques that can be applied to reduce the burden of exhaustive testing to compilers. Preferring "surely all relevant distinct combinations" we can reduce the amount of testing. This paper tries to formalize the concept of "near-exhaustive testing"
+
+Tags: latin-square, robert-mandl, compiler, testing, near-exhaustive-testing, optimization, exhaustive-testing
+
+[near-exhaustive-testing-using-latin-squares]: http://barbie.uta.edu/~mehra/20_an%20application%20of%20experiment%20design%20to%20compiler%20testing.pdf
+
+
