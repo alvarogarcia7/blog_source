@@ -28,7 +28,7 @@ During book reviews:
 
   * Create an internal repo with everything that is sent to / from the publisher. Version everything, even the .doc drafts that they send, before, during, after commenting / reviewing
   * Manage this repo with pull requests, as if it were code
-  * Use a tool for automatically copy-pasting code into the draft.
+  * Use a tool for automatically copy-pasting code into the draft. Or better yet, a tool for automatically importing code from the git repo to your manuscript.
   * Have a shared space (e.g., google drive, dropbox) where all the authors, reviewers, designers, etc have access and can share information
 
   * Bring to this book what you have found useful in other books. This might be the writing style, the information boxes, the style of the chapter (introduction, body, summary)
