@@ -28,6 +28,7 @@ During book reviews:
 
   * Create an internal repo with everything that is sent to / from the publisher. Version everything, even the .doc drafts that they send, before, during, after commenting / reviewing
   * Manage this repo with pull requests, as if it were code
+  * The comments should be also controlled in the main repository. You can create LaTeX macros to make sure they are not present in the final code. It is also possible (with a small program or a regex) that all the contributions by a pull-request start with pound (#), the LaTeX comment symbol
   * Use a tool for automatically copy-pasting code into the draft. Or better yet, a tool for automatically importing code from the git repo to your manuscript.
   * Have a shared space (e.g., google drive, dropbox) where all the authors, reviewers, designers, etc have access and can share information
 
