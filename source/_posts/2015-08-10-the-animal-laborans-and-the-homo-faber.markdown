@@ -1,8 +1,9 @@
 ---
-date: 2015-08-05 15:08:10 +0200
-published: false
+layout: post
+title: "The Animal Laborans and the Homo Faber"
+date: 2015-08-10 01:19:58 +0200
+comments: true
 categories:
-  - sample
   - the-craftsman
   - richard-sennett
   - philosophy
@@ -11,8 +12,6 @@ categories:
   - animal-laborans
   - homo-faber
 ---
-
-# The *Animal Laborans* and the *Homo Faber*
 
 I've found this quote very interesting from the book "The Craftsman", by Richard Sennett:
 
