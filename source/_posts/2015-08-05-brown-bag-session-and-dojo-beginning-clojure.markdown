@@ -10,7 +10,7 @@ At a client, today I've facilitated a brown-bag session introducing the Clojure 
 
 I've started hands-on, live coding on a REPL. To make things easier, I've created a maven project that imports the clojure jar and lets you obtain dependencies from clojars. The repo is [here][repo-project-clojure-for-java-devs]. This repo wouldn't have been possible without the [clojure maven plugin][clojure-maven-plugin], written by Mark Derricutt.
 
-I've more or less followed [the guide][guide]
+I've more or less followed [this guide][guide]
 
 We've also practiced, using a dojo in clojure, the fizzbuzz kata.
 
