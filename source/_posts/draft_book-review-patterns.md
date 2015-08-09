@@ -24,7 +24,7 @@ During book reviews:
 
 
   * Sometimes delays are short (e.g., 3 working days per 20-25 page chapter). This will be intense, not as much as writing it, be prepare a whole in your schedule for it
-  * I do not do it on the moment, not even on the last responsible moment. I like it for the contents to click in my head and ressonate with other thoughts. The sooner you do it, the sooner it can start clicking. You can always deliver the original reviewing notes the last day
+  * I do not do it on the moment, not even on the last responsible moment. I like it for the contents to click in my head and ressonate with other thoughts. The sooner you do it, the sooner it can start clicking. You can always deliver the original reviewing notes the last day. Let the text click with as many ideas as possible. Later, you might find that these associations were not useful. Or maybe they were. "Write drunk and review sober" (paraphrased from Hemingway)
 
   * Create an internal repo with everything that is sent to / from the publisher. Version everything, even the .doc drafts that they send, before, during, after commenting / reviewing
   * Manage this repo with pull requests, as if it were code
