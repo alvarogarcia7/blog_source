@@ -156,4 +156,19 @@ Tags: latin-square, robert-mandl, compiler, testing, near-exhaustive-testing, op
 
 [near-exhaustive-testing-using-latin-squares]: http://barbie.uta.edu/~mehra/20_an%20application%20of%20experiment%20design%20to%20compiler%20testing.pdf
 
+##  Practical Type System Benefits
+
+I've read [this article][practical-type-system-benefits] by Neil Brown on benefits of the type system, with examples in haskell. He goes on to explore the benefits of involving the type-checker at compile time to remove type errors and ease the programming effort:
+
+> I find that several problems in Haskell can be solved by involving the type system
+> further: The trick is to involve the type system in ways that provide a big benefit
+> for the cost, but not going so far that the type system gets in the way of code
+> that you know --but can’t easily prove to the compiler-- is safe
+
+I've also learned the concept of the quasi-quoter: similar to a preprocessor, executed at compile time and type-checked
+
+Tags: neil-brown, quote, quasi-quoter, preprocessor, haskell, monad-reader
+
+[practical-type-system-benefits]: https://themonadreader.files.wordpress.com/2014/04/nccb.pdf
+
 
