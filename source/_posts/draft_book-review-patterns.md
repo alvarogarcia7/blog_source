@@ -30,6 +30,8 @@ During book reviews:
   * Manage this repo with pull requests, as if it were code
   * Use a tool for automatically copy-pasting code into the draft.
   * Have a shared space (e.g., google drive, dropbox) where all the authors, reviewers, designers, etc have access and can share information
+
+  * Bring to this book what you have found useful in other books. This might be the writing style, the information boxes, the style of the chapter (introduction, body, summary)
   
   
 
