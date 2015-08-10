@@ -116,4 +116,11 @@ I've read [this article][counting-hash-collisions] on the birthday paradox, or t
 
 [counting-hash-collisions]: http://matt.might.net/articles/counting-hash-collisions/
 
+## Why I'm The Best Programmer In The World*
+
+I've read [this ironically-titled article][best-programmer-in-the-world] by Jeff Atwood on humility and how to improve as a programmer.
+
+Tags: jeff-atwood
+
+[best-programmer-in-the-world]: http://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/
 
