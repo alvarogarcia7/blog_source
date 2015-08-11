@@ -124,3 +124,59 @@ Tags: jeff-atwood
 
 [best-programmer-in-the-world]: http://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/
 
+## The Key to Giving and Receiving Negative Feedback
+
+I've read [this article][key-to-negative-feedback] by Joseph Grenny about how to give and receive negative feedback. It is exemplified by the plant manager who was expecting another kind of feedback from his subordinates and was surprised by their negative feedback.
+
+Tags: joseph-grenny, negative-feedback, feedback, by-example
+
+[key-to-negative-feedback]: https://hbr.org/2015/08/the-key-to-giving-and-receiving-negative-feedback?
+
+## Testing Clojure web applications with Kerodon
+
+I've read [this guide][testing-clojure-with-kerodon] on how to test compojure-based applications with kerodon. Written by Nebojša Stričević
+
+Tags: nebojsa-stricevic, compojure, kerodon, clojure, testing, guide
+
+[testing-clojure-with-kerodon]: https://semaphoreci.com/community/tutorials/testing-clojure-web-applications-with-kerodon
+
+## Using The Option Type Effectively
+
+I've read [this article][effective-use-of-option] on how to use the ``Option`` type (in rust), similar to ``Optional`` in java or ``Maybe`` in haskell. Written by Uku Taht.
+
+Tags: uku-taht, option, maybe, optional, rust
+
+[effective-use-of-option]: https://blog.8thlight.com/uku-taht/2015/04/29/using-the-option-type-effectively.html
+
+## When Should You Think?
+
+I've read [this post][when-should-you-think] by Robert C Martin on when to think and the hypothesis that TDD does not allow you to think before coding.
+
+Tags: tdd, robert-c-martin, design, hypothesis
+
+[when-should-you-think]: https://blog.8thlight.com/uncle-bob/2014/03/11/when-to-think.html
+
+## Orthogonal latin squares: an application of experiment design to compiler testing 
+
+I've read [this paper][near-exhaustive-testing-using-latin-squares] by Robert Mandl on techniques that can be applied to reduce the burden of exhaustive testing to compilers. Preferring "surely all relevant distinct combinations" we can reduce the amount of testing. This paper tries to formalize the concept of "near-exhaustive testing"
+
+Tags: latin-square, robert-mandl, compiler, testing, near-exhaustive-testing, optimization, exhaustive-testing
+
+[near-exhaustive-testing-using-latin-squares]: http://barbie.uta.edu/~mehra/20_an%20application%20of%20experiment%20design%20to%20compiler%20testing.pdf
+
+##  Practical Type System Benefits
+
+I've read [this article][practical-type-system-benefits] by Neil Brown on benefits of the type system, with examples in haskell. He goes on to explore the benefits of involving the type-checker at compile time to remove type errors and ease the programming effort:
+
+> I find that several problems in Haskell can be solved by involving the type system
+> further: The trick is to involve the type system in ways that provide a big benefit
+> for the cost, but not going so far that the type system gets in the way of code
+> that you know --but can’t easily prove to the compiler-- is safe
+
+I've also learned the concept of the quasi-quoter: similar to a preprocessor, executed at compile time and type-checked
+
+Tags: neil-brown, quote, quasi-quoter, preprocessor, haskell, monad-reader
+
+[practical-type-system-benefits]: https://themonadreader.files.wordpress.com/2014/04/nccb.pdf
+
+
