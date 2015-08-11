@@ -179,4 +179,12 @@ Tags: neil-brown, quote, quasi-quoter, preprocessor, haskell, monad-reader
 
 [practical-type-system-benefits]: https://themonadreader.files.wordpress.com/2014/04/nccb.pdf
 
+## ClojureScript and the Blub Paradox
+
+I've read this article comparing javascript and clojurescript using the fizzbuzz kata. There is a nice example of the pattern matching for the cases (i.e. "switch") of the fizz, buzz. Written by Nate Wildermuth
+
+Tags: clojurescript, javascript, fizzbuzz, kata, nate-wildermuth
+
+[clojurescript-blub-paradox]: https://wildermuthn.github.io/2015/08/04/clojurescript-and-the-blub-paradox/
+
 
