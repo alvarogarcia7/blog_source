@@ -187,4 +187,10 @@ Tags: clojurescript, javascript, fizzbuzz, kata, nate-wildermuth
 
 [clojurescript-blub-paradox]: https://wildermuthn.github.io/2015/08/04/clojurescript-and-the-blub-paradox/
 
+## No malinterpretes tu carrera
 
+I've read [this article][no-malinterpretes-tu-carrera] on (not) changing careers from programmer to designer, analyst, team manager. About the programmer's passion and why not to misinterpret your career. Written by Carlos Blé. In Spanish.
+
+Tags: carlos-ble, career, programming, management, career-change
+
+[no-malinterpretes-tu-carrera]: http://www.carlosble.com/2011/02/no-malinterpretes-tu-carrera/
