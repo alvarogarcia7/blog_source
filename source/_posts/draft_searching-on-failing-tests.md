@@ -86,6 +86,12 @@ The amount of tests to be executed is ``n + n/2 + n/4 + n/8 + ... + 1`` which is
 
 If we take it by the amount of steps we need to manually execute is 1 for the whole, 1 for the half, 1 for the quarter, .... = ``O(log2 n)``
 
+## Procedure
+
+To keep the executed tests, I created a support branch where I deleted the tests that were selected to be excluded. Always executed "all tests in the suite" as this makes it faster to select in the IDE.
+
+When the half taken was wrong, I reverted the last commit and selected the other half
+
 ## Conclusion
 
 In the real scenario, with around 100 tests, searching manually in the naïve way would not have been possible. It would have cost 100 steps, as the minimum set that produces ``F`` had size 2 (so only one step was necessary).
