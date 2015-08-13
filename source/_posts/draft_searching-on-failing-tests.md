@@ -25,11 +25,6 @@ A quick glance was not revealing anything interesting, so I decided to search wh
 
 This post covers how to perform this search.
 
-
-## Order of the tests
-
-In this case, the order is important, as the failed test suite (presumably) comes from a shared state set by a previous test.
-
 ## Mathematical formulation
 
 Let ``T`` be a list of tests: ``i1, i2, ..., in, F, j1, j2, ..., jm``
@@ -41,7 +36,7 @@ where:
     * when executed in the sequence, is red
   *  ``j`` are tests after the failed test.
 
-Remember that in this list the order is important
+In this case, the order is important, as the failed test suite (presumably) comes from a shared state set by a previous test.
 
 The first search-space pruning is to remove the ``j``, as they supposedly don't have any effect (as they are after the failed test)
 
