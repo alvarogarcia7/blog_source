@@ -48,3 +48,5 @@ let ``T1`` be a sublist of ``T`` that includes ``i`` and ``F``: ``i1, i2, ..., i
 Then it is assumed that one (or more) of the ``i`` generates an inconsistent state that makes ``F`` fail.
 
 In the list ``T1``, ``F`` fails, but in the list ``TF`` composed by ``F`` only, the test succeeds. This can be thought as the equivalent of the [Intermediate value theorem](https://en.wikipedia.org/wiki/Intermediate_value_theorem), also called Bolzano's theorem, where the ``T1`` is at one side ot the axis and the ``TF`` at another. The theorem proves that there must be at least one value where the domain of the function crosses the axis
+
+I say thought of because that theorem is only for continous functions and sets are not (are discrete) but the analogy is good enough: if one result is OK but the other isn't, there must be a minimum where the result is OK and another where the results are not. They must not be the same case as one result cannot be OK and not OK at the same time.
