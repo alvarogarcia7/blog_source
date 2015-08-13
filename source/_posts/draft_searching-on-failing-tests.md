@@ -35,6 +35,8 @@ Let ``T`` be a list of tests: ``i1, i2, ..., in, F, j1, j2, ..., jn``
 where:
   * ``i`` are green tests
   *  ``F`` is first failing test
+    * when executed in isolation, is green
+    * when executed in the sequence, is red
   *  ``j`` are tests after the failed test.
 
 Remember that in this list the order is important
