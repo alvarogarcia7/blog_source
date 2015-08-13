@@ -17,9 +17,10 @@ Today, at a client, in the green phase, we had a test suite which was failing. A
 
 So my first impression was that something was being shared between tests. Also confirmed because the failing class was an EndToEnd test.
 
-A quick glance was not revealing anything interesting, so I decided to search which is the minimum suite (as opposed as to the whole suite) that makes the new testcase fail. This post covers how to perform this search.
+A quick glance was not revealing anything interesting, so I decided to search which is the minimum suite (as opposed as to the whole suite) that makes the new testcase fail. This is very similar to what QuickCheck does, to generate the minimum testcase that breaks your property. In this way, you can focus in a possibly simpler feature.
 
-TODO: expand on searching the minimum set is the same thing that QuickCheck does
+This post covers how to perform this search.
+
 
 ## Order of the tests
 
