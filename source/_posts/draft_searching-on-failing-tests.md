@@ -30,7 +30,7 @@ In this case, the order is important, as the failed test suite (presumably) come
 
 ## Mathematical formulation
 
-Let ``T`` be a list of tests: ``i1, i2, ..., in, F, j1, j2, ..., jn``
+Let ``T`` be a list of tests: ``i1, i2, ..., in, F, j1, j2, ..., jm``
 
 where:
   * ``i`` are green tests
