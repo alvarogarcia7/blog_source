@@ -50,3 +50,19 @@ Then it is assumed that one (or more) of the ``i`` generates an inconsistent sta
 In the list ``T1``, ``F`` fails, but in the list ``TF`` composed by ``F`` only, the test succeeds. This can be thought as the equivalent of the [Intermediate value theorem](https://en.wikipedia.org/wiki/Intermediate_value_theorem), also called Bolzano's theorem, where the ``T1`` is at one side ot the axis and the ``TF`` at another. The theorem proves that there must be at least one value where the domain of the function crosses the axis
 
 I say thought of because that theorem is only for continous functions and sets are not (are discrete) but the analogy is good enough: if one result is OK but the other isn't, there must be a minimum where the result is OK and another where the results are not. They must not be the same case as one result cannot be OK and not OK at the same time.
+
+## Naïve search
+
+The first way of searching would be find the minimum set that fails:
+
+  * include ``F``, then another from ``i1,...,in`` that makes the ``F`` fail. ``F`` the last one, because it needs to be affected by the side effects from the preceding test.
+  * if the first strategy does not work, for each of the above cases, add another from the ``i1,...,in`` (except the one that was added)
+
+For the first step, it takes O(n * 2), assuming executing a single test costs O(1). Reduces to O(n)
+
+For the second step, O(n * n-1 * 3). Reduces to O(n^2)
+
+For the third step, O(n * n-1 * n-2 * 4). Reduces to O(n^3)
+
+For the nth step, it costs O(n * n-1 * n-2 * ... * n-(n-1) * (n+1)). Reduces to O(n^n). Which is polynomical but not feasible for medium-sized n (in an automatic fashion) or small n (in a manual fashion)
+
