@@ -19,7 +19,7 @@ categories:
 
 ## Motivation
 
-Today, at a client, in the green phase, we had a test suite which was failing. After a quick investigation, the whole suite fails but the test cases, individually, succeed.
+Today, at a client, in the green phase, we had a test suite which was failing: the whole suite fails but the test cases, individually, succeed.
 
 So my first impression was that something was being shared between tests. Also confirmed because the failing class was an EndToEnd test, in which we load the whole spring context
 
