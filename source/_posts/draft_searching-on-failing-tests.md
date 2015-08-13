@@ -16,7 +16,7 @@ categories:
 
 Today, at a client, in the green phase, we had a test suite which was failing. After a quick investigation, the whole suite fails but the test cases, individually, succeed.
 
-So my first impression was that something was being shared between tests. Also confirmed because the failing class was an EndToEnd test.
+So my first impression was that something was being shared between tests. Also confirmed because the failing class was an EndToEnd test, in which we load the whole spring context
 
 A quick glance was not revealing anything interesting, so I decided to search which is the minimum suite (as opposed as to the whole suite) that makes the new testcase fail. This is very similar to what QuickCheck does, to generate the minimum testcase that breaks your property. In this way, you can focus in a possibly simpler[^1] feature.
 
