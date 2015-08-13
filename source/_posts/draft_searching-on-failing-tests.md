@@ -90,7 +90,7 @@ When the half taken was wrong, I reverted the last commit and selected the other
 
 In the real scenario, with around 100 tests, searching manually in the naïve way would not have been possible. It would have cost 100 steps, as the minimum set that produces ``F`` had size 2 (so only one step was necessary).
 
-Applying the dichotomous search in 8-10 steps I had finished, with the guarantee that no matter how many tests produced the ``F`` I would have found it in a reasonable amount of time.
+Applying the dichotomous search, in 8-10 steps I had finished, with the guarantee that no matter how many tests produced the ``F`` I would have found it in a reasonable amount of time.
 
 ## Comments
 
