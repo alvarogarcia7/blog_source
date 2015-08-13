@@ -89,7 +89,9 @@ If we take it by the amount of steps we need to manually execute is 1 for the wh
 
 To keep the executed tests, I created a support branch where I deleted the tests that were selected to be excluded. Always executed "all tests in the suite" as this makes it faster to select in the IDE.
 
-When the half taken was wrong, I reverted the last commit and selected the other half
+When the half taken was wrong, I reverted the last commit and selected the other half.
+
+After finding the minimum sequence and solving the issue, this support branch was discarded
 
 ## Conclusion
 
