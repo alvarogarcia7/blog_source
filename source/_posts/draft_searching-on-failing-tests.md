@@ -46,3 +46,5 @@ The first search-space pruning is to remove the ``j``, as they supposedly don't 
 let ``T1`` be a sublist of ``T`` that includes ``i`` and ``F``: ``i1, i2, ..., in, F``
 
 Then it is assumed that one (or more) of the ``i`` generates an inconsistent state that makes ``F`` fail.
+
+In the list ``T1``, ``F`` fails, but in the list ``TF`` composed by ``F`` only, the test succeeds. This can be thought as the equivalent of the [Intermediate value theorem](https://en.wikipedia.org/wiki/Intermediate_value_theorem), also called Bolzano's theorem, where the ``T1`` is at one side ot the axis and the ``TF`` at another. The theorem proves that there must be at least one value where the domain of the function crosses the axis
