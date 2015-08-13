@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: "Searching on a suite of failing tests"
 date: 2015-08-13 16:45:19 +0200
