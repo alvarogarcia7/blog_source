@@ -27,3 +27,20 @@ This post covers how to perform this search.
 ## Order of the tests
 
 In this case, the order is important, as the failed test suite (presumably) comes from a shared state set by a previous test.
+
+## Mathematical formulation
+
+Let ``T`` be a list of tests: ``i1, i2, ..., in, F, j1, j2, ..., jn``
+
+where:
+  * ``i`` are green tests
+  *  ``F`` is first failing test
+  *  ``j`` are tests after the failed test.
+
+Remember that in this list the order is important
+
+The first search-space pruning is to remove the ``j``, as they supposedly don't have any effect (as they are after the failed test)
+
+let ``T1`` be a sublist of ``T`` that includes ``i`` and ``F``: ``i1, i2, ..., in, F``
+
+Then it is assumed that one (or more) of the ``i`` generates an inconsistent state that makes ``F`` fail.
