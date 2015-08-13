@@ -7,8 +7,10 @@ comments: true
 categories: 
   - tip
   - search
+  - naive-search
   - binary-search
   - dichotomous-search
+  - comparison
 ---
 
 ## Motivation
