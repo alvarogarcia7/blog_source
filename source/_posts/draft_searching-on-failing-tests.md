@@ -10,6 +10,11 @@ categories:
   - binary-search
   - dichotomous-search
   - comparison
+  - spring
+  - context
+  - end-to-end-test
+  - test-dependency
+  - antipattern
 ---
 
 ## Motivation
