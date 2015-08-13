@@ -194,3 +194,12 @@ I've read [this article][no-malinterpretes-tu-carrera] on (not) changing careers
 Tags: carlos-ble, career, programming, management, career-change
 
 [no-malinterpretes-tu-carrera]: http://www.carlosble.com/2011/02/no-malinterpretes-tu-carrera/
+
+## Just Haskell or Nothing
+
+I've read [these slides][just-haskell-or-nothing] on packaging values in (Just a) or Nothing for possibly failed computations in haskell. Written by John Chee
+
+Tags: john-chee, haskell, just, nothing, maybe, functor
+
+[just-haskell-or-nothing]: https://cheecheeo.github.io/just_haskell_or_nothing.html
+
