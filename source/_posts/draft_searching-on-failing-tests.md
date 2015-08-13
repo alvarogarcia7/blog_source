@@ -81,3 +81,9 @@ This n in the nth step is smaller than the other n, as each step divides by two 
 The amount of tests to be executed is = n + n/2 + n/4 + n/8 + ... + 1 which is roughly 2n. Executing each test costs O(1) (by the assumption before), so the total cost is O(2n) = O(n)
 
 If we take it by the amount of steps we need to manually execute is 1 for the whole, 1 for the half, 1 for the quarter, .... = O(log2 n)
+
+## Conclusion
+
+In the real scenario, with around 100 tests, searching manually in the naïve way would not have been possible. It would have cost 100 steps, as the minimum set that produces ``F`` had size 2 (so only one step was necessary).
+
+Applying the dichotomous search in 8-10 steps I had finished, with the guarantee that no matter how many tests produced the ``F`` I would have found it in a reasonable amount of time.
