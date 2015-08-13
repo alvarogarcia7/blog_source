@@ -70,6 +70,8 @@ For the nth step, it costs ``O(n * n-1 * n-2 * ... * n-(n-1) * (n+1))``. Reduces
 
 ## Dichotomous search
 
+(This is also known as [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm))
+
 Inspired by ``git-bisect``, I decided to treat the sequence ``i1, ..., in`` as the source for the dicotomical search, applying the subsequences to ``F``.
 
 The first step, it takes ``O(n/2 * n/2)`` = ``O(n^2)`` to execute half the tests
