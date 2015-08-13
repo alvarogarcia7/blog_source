@@ -8,7 +8,7 @@ categories:
   - tip
   - search
   - binary-search
-  - dicotomical-search
+  - dichotomous-search
 ---
 
 ## Motivation
@@ -66,3 +66,18 @@ For the third step, O(n * n-1 * n-2 * 4). Reduces to O(n^3)
 
 For the nth step, it costs O(n * n-1 * n-2 * ... * n-(n-1) * (n+1)). Reduces to O(n^n). Which is polynomical but not feasible for medium-sized n (in an automatic fashion) or small n (in a manual fashion)
 
+## Dichotomous search
+
+Inspired by ``git-bisect``, I decided to treat the sequence ``i1, ..., in`` as the source for the dicotomical search, applying the subsequences to ``F``.
+
+The first step, it takes O(n/2 * n/2) = O(n^2) to execute half the tests
+
+The second step, is to execute half the number of the tests previously executed, either from the sequence before (if the ``F`` fails) or from the other half (if ``F`` does not fail). The cost is O(n/4 * n/4) = O(n^2)
+
+For the nth step, the cost is O(n/2^n * n/2^n) = O(n^2/2^n) = O(0)
+
+This n in the nth step is smaller than the other n, as each step divides by two the amount of tests to be included.
+
+The amount of tests to be executed is = n + n/2 + n/4 + n/8 + ... + 1 which is roughly 2n. Executing each test costs O(1) (by the assumption before), so the total cost is O(2n) = O(n)
+
+If we take it by the amount of steps we need to manually execute is 1 for the whole, 1 for the half, 1 for the quarter, .... = O(log2 n)
