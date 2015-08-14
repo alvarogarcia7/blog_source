@@ -103,4 +103,6 @@ Applying the dichotomous search, in 8-10 steps I had finished, with the guarante
 
 Finally, the root cause for the failing test ``F`` was the OrientDB InMemory implementation with Spring context, as the former does not allow two instances at the same time in the same JVM.
 
-It was solved using ``@DirtiesContext`` in both cases of the minimum sequence that forms ``F``, so no matter which order the executor decides, the context will always be clean for the next execution
+It was solved using ``@DirtiesContext`` in both cases of the minimum sequence that forms ``F``, so no matter which order the executor decides, the context will always be clean for the next execution.
+
+We found this thanks to a teammate's intuition.
