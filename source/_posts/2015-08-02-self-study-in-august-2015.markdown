@@ -203,3 +203,11 @@ Tags: john-chee, haskell, just, nothing, maybe, functor
 
 [just-haskell-or-nothing]: https://cheecheeo.github.io/just_haskell_or_nothing.html
 
+## Falling in Love with Computer Science
+
+I've watched [this video][falling-in-love-with-cs] by Kathy Pham, an American that discovered her passion, her love to computer science a few years ago. She tells the events around computer science from the beginning of college to the current moment.
+
+Tags: kathy-pham, passion, love, computer-science, autobiography, time-lapse, google-developers
+
+[falling-in-love-with-cs]: https://www.youtube.com/watch?v=haxusGuUyt4
+
