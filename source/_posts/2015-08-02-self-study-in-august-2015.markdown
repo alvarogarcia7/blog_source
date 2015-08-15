@@ -211,3 +211,12 @@ Tags: kathy-pham, passion, love, computer-science, autobiography, time-lapse, go
 
 [falling-in-love-with-cs]: https://www.youtube.com/watch?v=haxusGuUyt4
 
+## Duck Typing
+
+I've watched [this video][duck-typing-dan-grossman] by Dan Grossman, part of the ["Programming Languages" MOOC][proglang-mooc], in which he explains what is a Duck Type and how to use (and abuse) them in ruby.
+
+Tags: ruby, dan-grossman, mooc, mooc-programming-languages
+
+[proglang-mooc]: https://www.coursera.org/course/proglang
+[duck-typing-dan-grossman]: https://www.youtube.com/watch?v=h0rTF__RNo4
+
