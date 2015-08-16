@@ -252,3 +252,11 @@ Tags: company, clojure, eric-normand, how-to, guide
 
 [start-using-clojure-normand]: http://www.lispcast.com/convince-your-boss-to-use-clojure
 
+## A brief introduction to Prolog
+
+I've read [these slides][web-development-in-prolog] about a brief introduction to prolog and how to do web development in it. By Jaelle Scheuerman
+
+Tags: jaelle-scheuerman, prolog, web-development, rest, slide
+
+[web-development-in-prolog]: https://docs.google.com/presentation/d/1NAUo8nWLfNvvW3Wb7HJMunljjDJbzu7mo-5twKeGDvc/edit#slide=id.g63daf4745_0_56
+
