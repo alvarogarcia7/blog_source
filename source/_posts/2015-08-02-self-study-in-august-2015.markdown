@@ -228,3 +228,18 @@ Tags: private-variable, clojure, testing, joy-of-clojure, christopher-maier, pri
 
 [not-so-private-fn]: http://christophermaier.name/blog/2011/04/30/not-so-private-clojure-functions
 
+## Frege (and Clojure)
+
+I've read [this article][frege-and-clojure] that tells the Pragmatic Programmer's advice to learn a new language every year and the author (Sean Corfield) explains his trajectory learning them. He also cites the Lein plugin he's built: ``lein-fregec`` and how to connect clojure and frege (a.k.a JVM's haskell).
+
+Tags: haskell, frege, jvm, clojure, ffi, pragmatic-programmer, advice, lein-fregec,  sean-corfield, comparison
+
+[frege-and-clojure]: http://seancorfield.github.io/blog/2015/02/13/frege-and-clojure/
+
+## Two months early. 300k under budget
+
+I've read [the tale][delivering-a-cms-two-months-early] of a Thoughtworks Project Manager who convinced his client to start using clojure to deliver a custom-made CMS. Written by Dave Elliman.
+
+Tags: dave-elliman, thoughtworks, project-manager, clojure, cms, microservice
+
+[delivering-a-cms-two-months-early]: https://thoughtworks.github.io/p2/issue09/two-months-early/
