@@ -243,3 +243,12 @@ I've read [the tale][delivering-a-cms-two-months-early] of a Thoughtworks Projec
 Tags: dave-elliman, thoughtworks, project-manager, clojure, cms, microservice
 
 [delivering-a-cms-two-months-early]: https://thoughtworks.github.io/p2/issue09/two-months-early/
+
+## Convince your boss to use Clojure
+
+I've read [this guide][start-using-clojure-normand] by Eric Normand on how to convince your boss or your company to start using clojure.
+
+Tags: company, clojure, eric-normand, how-to, guide
+
+[start-using-clojure-normand]: http://www.lispcast.com/convince-your-boss-to-use-clojure
+
