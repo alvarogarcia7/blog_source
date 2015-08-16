@@ -220,3 +220,11 @@ Tags: ruby, dan-grossman, mooc, mooc-programming-languages
 [proglang-mooc]: https://www.coursera.org/course/proglang
 [duck-typing-dan-grossman]: https://www.youtube.com/watch?v=h0rTF__RNo4
 
+## Not-So-Private Clojure Functions
+
+I've read [this article][not-so-private-fn] explaining how to bypass private functions in clojure: either create a lambda or create a different namespace. Written by Christopher Maier
+
+Tags: private-variable, clojure, testing, joy-of-clojure, christopher-maier, private-function, namespace
+
+[not-so-private-fn]: http://christophermaier.name/blog/2011/04/30/not-so-private-clojure-functions
+
