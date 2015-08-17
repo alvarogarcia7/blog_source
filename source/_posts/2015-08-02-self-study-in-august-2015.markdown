@@ -225,3 +225,13 @@ Tags: article, joe-nelson, write-only, social-media, reading, philosophy, thorea
 [going-write-only]: http://begriffs.com/posts/2015-04-20-going-write-only.html
 [joey-hess]: http://joey.hess.usesthis.com/
 
+## Create a static site with Hakyll, Github and Travis CI
+
+I've read [this article][static-site-with-hakyll] on how to create your blog with hakyll and travis ci. Written by Joe Nelson
+
+Travis ci is used to do continuous integration and automatically deploy each commit to production (github pages).
+
+Tags: hakyll, haskell, joe-nelson, meta, blog, continuous-deployment, github, github-pages, travis-ci
+
+[static-site-with-hakyll]: http://begriffs.com/posts/2014-08-12-create-static-site-with-hakyll-github.html
+
