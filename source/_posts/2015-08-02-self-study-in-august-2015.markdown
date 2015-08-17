@@ -235,3 +235,60 @@ Tags: hakyll, haskell, joe-nelson, meta, blog, continuous-deployment, github, gi
 
 [static-site-with-hakyll]: http://begriffs.com/posts/2014-08-12-create-static-site-with-hakyll-github.html
 
+## Falling in Love with Computer Science
+
+I've watched [this video][falling-in-love-with-cs] by Kathy Pham, an American that discovered her passion, her love to computer science a few years ago. She tells the events around computer science from the beginning of college to the current moment.
+
+Tags: kathy-pham, passion, love, computer-science, autobiography, time-lapse, google-developers
+
+[falling-in-love-with-cs]: https://www.youtube.com/watch?v=haxusGuUyt4
+
+## Duck Typing
+
+I've watched [this video][duck-typing-dan-grossman] by Dan Grossman, part of the ["Programming Languages" MOOC][proglang-mooc], in which he explains what is a Duck Type and how to use (and abuse) them in ruby.
+
+Tags: ruby, dan-grossman, mooc, mooc-programming-languages
+
+[proglang-mooc]: https://www.coursera.org/course/proglang
+[duck-typing-dan-grossman]: https://www.youtube.com/watch?v=h0rTF__RNo4
+
+## Not-So-Private Clojure Functions
+
+I've read [this article][not-so-private-fn] explaining how to bypass private functions in clojure: either create a lambda or create a different namespace. Written by Christopher Maier
+
+Tags: private-variable, clojure, testing, joy-of-clojure, christopher-maier, private-function, namespace
+
+[not-so-private-fn]: http://christophermaier.name/blog/2011/04/30/not-so-private-clojure-functions
+
+## Frege (and Clojure)
+
+I've read [this article][frege-and-clojure] that tells the Pragmatic Programmer's advice to learn a new language every year and the author (Sean Corfield) explains his trajectory learning them. He also cites the Lein plugin he's built: ``lein-fregec`` and how to connect clojure and frege (a.k.a JVM's haskell).
+
+Tags: haskell, frege, jvm, clojure, ffi, pragmatic-programmer, advice, lein-fregec,  sean-corfield, comparison
+
+[frege-and-clojure]: http://seancorfield.github.io/blog/2015/02/13/frege-and-clojure/
+
+## Two months early. 300k under budget
+
+I've read [the tale][delivering-a-cms-two-months-early] of a Thoughtworks Project Manager who convinced his client to start using clojure to deliver a custom-made CMS. Written by Dave Elliman.
+
+Tags: dave-elliman, thoughtworks, project-manager, clojure, cms, microservice
+
+[delivering-a-cms-two-months-early]: https://thoughtworks.github.io/p2/issue09/two-months-early/
+
+## Convince your boss to use Clojure
+
+I've read [this guide][start-using-clojure-normand] by Eric Normand on how to convince your boss or your company to start using clojure.
+
+Tags: company, clojure, eric-normand, how-to, guide
+
+[start-using-clojure-normand]: http://www.lispcast.com/convince-your-boss-to-use-clojure
+
+## A brief introduction to Prolog
+
+I've read [these slides][web-development-in-prolog] about a brief introduction to prolog and how to do web development in it. By Jaelle Scheuerman
+
+Tags: jaelle-scheuerman, prolog, web-development, rest, slide
+
+[web-development-in-prolog]: https://docs.google.com/presentation/d/1NAUo8nWLfNvvW3Wb7HJMunljjDJbzu7mo-5twKeGDvc/edit#slide=id.g63daf4745_0_56
+
