@@ -203,3 +203,16 @@ Tags: john-chee, haskell, just, nothing, maybe, functor
 
 [just-haskell-or-nothing]: https://cheecheeo.github.io/just_haskell_or_nothing.html
 
+## Tracking Joy at Work
+
+I've read [this article][tracking-joy-at-work] about quantifying happiness at the office (or at work). Joe Nelson, the author of the article, uses the quantifying method described int the book [Experience Sampling Method][experience-sampling-method-book] ([wikipedia page][experience-sampling-method-wiki]) by Hektner, Schmidt, Csikszentmihalyi.
+
+The last one, not coincidentally is the author of [Flow: The Psychology of Optimal Experience][flow-book].
+
+Tags: mihaly-csikszentmihalyi, flow, quantification, data, experience-sampling, article, joe-nelson
+
+[tracking-joy-at-work]: http://begriffs.com/posts/2015-03-15-tracking-joy-at-work.html
+[experience-sampling-method-book]: http://www.amazon.com/Experience-Sampling-Method-Measuring-Everyday/dp/1412925576/
+[flow-book]: http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202
+[experience-sampling-method-wiki]: https://en.wikipedia.org/wiki/Experience_sampling_method
+
