@@ -216,3 +216,12 @@ Tags: mihaly-csikszentmihalyi, flow, quantification, data, experience-sampling, 
 [flow-book]: http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202
 [experience-sampling-method-wiki]: https://en.wikipedia.org/wiki/Experience_sampling_method
 
+## Going "Write-Only"
+
+I've read [this article][going-write-only] by Joe Nelson on going "write-only" on social media, blogs, news, etc, as opposed to read-only (only consuming media) or read-write (consuming and producing). He cites another programmer, [Joey Hess][joey-hess] and about the quality and durability of your work.
+
+Tags: article, joe-nelson, write-only, social-media, reading, philosophy, thoreau, nietzsche, joey-hess
+
+[going-write-only]: http://begriffs.com/posts/2015-04-20-going-write-only.html
+[joey-hess]: http://joey.hess.usesthis.com/
+
