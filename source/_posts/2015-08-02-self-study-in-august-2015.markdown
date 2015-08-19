@@ -300,3 +300,11 @@ Tags: cheatsheet, array, javascript, gist, justin-perry
 
 [cheatsheet-js-arrays]: https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42
 
+## Some words on lazy evaluation and sharing
+
+I've read [this article][lazy_evaluation_and_sharing] comparing the ``fix`` definition with a hand-made one and its "sharing" problems. Written by Joel E. Kaasinen
+
+Tags: joel-kaasinen, haskell, fix, sharing, non-strictness, lazy-evaluation
+
+[lazy_evaluation_and_sharing]: http://pseudo.fixme.fi/~opqdonut/blog/Some_words_on_lazy_evaluation_and_sharing.html
+
