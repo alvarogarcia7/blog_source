@@ -8,6 +8,8 @@ categories:
   - coding-dojo
   - java
   - palindrome
+  - facilitation
+  - facilitator
 ---
 
 At a client, today I've facilitated a coding dojo on palindrome searching.
