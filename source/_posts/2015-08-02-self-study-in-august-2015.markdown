@@ -292,3 +292,11 @@ Tags: jaelle-scheuerman, prolog, web-development, rest, slide
 
 [web-development-in-prolog]: https://docs.google.com/presentation/d/1NAUo8nWLfNvvW3Wb7HJMunljjDJbzu7mo-5twKeGDvc/edit#slide=id.g63daf4745_0_56
 
+## Arrayzing - The JavaScript array cheatsheet
+
+I've read [this cheatsheet][cheatsheet-js-arrays] for javascript arrays. Written by Justin Perry
+
+Tags: cheatsheet, array, javascript, gist, justin-perry
+
+[cheatsheet-js-arrays]: https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42
+
