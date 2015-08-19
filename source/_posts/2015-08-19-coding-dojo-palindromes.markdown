@@ -16,4 +16,4 @@ At a client, today I've facilitated a coding dojo on palindrome searching.
 
 I've prepared a [github repository](https://github.com/alvarogarcia7/palindromes-searcher-kata-java) for the java solutions. In this repository, the tag [``start-here``](https://github.com/alvarogarcia7/palindromes-searcher-kata-java/tree/start-here) has the prepared pom with dependencies.
 
-None of my teammate's solutions are available (at the moment), but mine is at the ``master`` branch.
+We have paired to work on the kata but none of my teammate's solutions are available (at the moment), but mine is at the ``master`` branch.
