@@ -308,3 +308,61 @@ Tags: joel-kaasinen, haskell, fix, sharing, non-strictness, lazy-evaluation
 
 [lazy_evaluation_and_sharing]: http://pseudo.fixme.fi/~opqdonut/blog/Some_words_on_lazy_evaluation_and_sharing.html
 
+## Hammock Driven Development
+
+I've watched [this video][hammock-driven-development] by Rich Hickey. A few notes:
+
+A: identifying a problem that we're trying to solve
+
+D: assessing if the proposed solution solves the problem
+
+the union of the features is not the purpose of the product / is not the product
+
+proramming is not completing features
+
+avoiding problems /= solving problems
+
+book: how to solve it - G. Polya. Practices & techniques for solving mathematic problems
+
+How to solve the problem
+
+  * state the problem
+  * understand the problem:
+    * what do you know: facts, context, constraints.
+    * what do you don't know
+    * are there related problems? solutions to related problems. find an analogy: starting from scratch vs incremental step
+  * be discerning
+  * more input, better output:
+    * read about your domain problem, research papers (maybe ACM)
+  * tradeoffs:
+    * find at least two options (ups and downs) to compare before taking a decision
+
+Focus time for programmers like alone time for kids. Hammock time is important mind's eye time
+
+Waking mind:
+
+  * critical thinking
+  * analysis
+  * tactics
+  * prone to local maxima
+  * feed work to background mind
+  * analyze its products
+
+Background mind:
+
+  * making connections
+  * synthesis
+  * strategy
+  * abstracts, analogies
+  * solves most non-trivial problems
+
+loading it: work it hard in the waking mind to be included in the background mind
+
+abstraction = software strategy
+
+tip: small answer is better than big answer (occam's razor?)​
+
+Tags: rich-hickey, hammock-driven-development, background-mind, waking-mind, solve-problem, george-polya, book, analysis, design, talk
+
+[hammock-driven-development]: https://www.youtube.com/watch?v=f84n5oFoZBc
+
