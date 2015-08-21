@@ -382,3 +382,16 @@ Tags: haskell, concurrency, parallelism, ghc, comparison
 
 [parallelism-vs-concurrency]: https://wiki.haskell.org/Parallelism_vs._Concurrency
 
+## Writing code that writes code — with Hack Codegen
+
+I've read [this article][metaprogramming-php] about metaprogramming (code that generates code) in PHP. Written by Alejandro Marcu.
+
+I've arrived to this from this tweet:
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">This is what happens when your programming language doesn&#39;t have macros <a href="https://t.co/ZfsEe2EJIj">https://t.co/ZfsEe2EJIj</a>. Yuck.</p>&mdash; David Nolen (@swannodette) <a href="https://twitter.com/swannodette/status/634495099607613440">August 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Tags: alejandro-marcu, metaprogramming, php, macro, lisp, clojure
+
+[metaprogramming-php]: https://code.facebook.com/posts/1624644147776541/writing-code-that-writes-code-with-hack-codegen/
+
