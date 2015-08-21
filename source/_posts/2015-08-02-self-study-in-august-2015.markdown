@@ -395,3 +395,11 @@ Tags: alejandro-marcu, metaprogramming, php, macro, lisp, clojure
 
 [metaprogramming-php]: https://code.facebook.com/posts/1624644147776541/writing-code-that-writes-code-with-hack-codegen/
 
+## How katas can help you learn
+
+I've read [this article][learning-from-katas] on learning from katas, with the example of the Roman Numerals kata in Objective-C. Written by Sandro Mancuso.
+
+Tags: sandro-mancuso, kata, learning, roman-numeral, objective-c
+
+[learning-from-katas]: http://codurance.com/2015/08/18/How-katas-can-help-you-learn/
+
