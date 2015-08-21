@@ -366,3 +366,11 @@ Tags: rich-hickey, hammock-driven-development, background-mind, waking-mind, sol
 
 [hammock-driven-development]: https://www.youtube.com/watch?v=f84n5oFoZBc
 
+## Parallelism /= Concurrency
+
+I've read [this article][parallelism-concurrency] on the differences between parallelism and concurrency, with examples in the haskell compiler GHC. Written by [simonmar](https://ghcmutterings.wordpress.com/author/simonmar/)
+
+Tags: haskell, concurrency, parallelism, ghc, simonmar, comparison
+
+[parallelism-concurrency]: https://ghcmutterings.wordpress.com/2009/10/06/parallelism-concurrency/
+
