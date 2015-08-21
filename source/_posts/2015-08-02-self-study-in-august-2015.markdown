@@ -374,3 +374,11 @@ Tags: haskell, concurrency, parallelism, ghc, simonmar, comparison
 
 [parallelism-concurrency]: https://ghcmutterings.wordpress.com/2009/10/06/parallelism-concurrency/
 
+## Parallelism vs. Concurrency
+
+I've read [this page][parallelism-vs-concurrency] from the haskell wiki.
+
+Tags: haskell, concurrency, parallelism, ghc, comparison
+
+[parallelism-vs-concurrency]: https://wiki.haskell.org/Parallelism_vs._Concurrency
+
