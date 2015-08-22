@@ -197,7 +197,7 @@ Tags: carlos-ble, career, programming, management, career-change
 
 ## Java 8: Definitive guide to CompletableFuture
 
-I've read this article about Java 8's feature, the ``CompletableFeature``. Written by Tomasz Nurkiewicz
+I've read [this article][definitive-guide-to-completablefuture] about Java 8's feature, the ``CompletableFeature``. Written by Tomasz Nurkiewicz
 
 Tags: tomasz-nurkiewicz, java-8, completable-future, future, non-blocking, reactive-programming
 
