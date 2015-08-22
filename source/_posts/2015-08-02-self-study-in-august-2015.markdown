@@ -194,3 +194,12 @@ I've read [this article][no-malinterpretes-tu-carrera] on (not) changing careers
 Tags: carlos-ble, career, programming, management, career-change
 
 [no-malinterpretes-tu-carrera]: http://www.carlosble.com/2011/02/no-malinterpretes-tu-carrera/
+
+## Java 8: Definitive guide to CompletableFuture
+
+I've read this article about Java 8's feature, the ``CompletableFeature``. Written by Tomasz Nurkiewicz
+
+Tags: tomasz-nurkiewicz, java-8, completable-future, future, non-blocking, reactive-programming
+
+[definitive-guide-to-completablefuture]: http://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html
+
