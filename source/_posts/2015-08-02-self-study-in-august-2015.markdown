@@ -203,3 +203,11 @@ Tags: tomasz-nurkiewicz, java-8, completable-future, future, non-blocking, react
 
 [definitive-guide-to-completablefuture]: http://www.nurkiewicz.com/2013/05/java-8-definitive-guide-to.html
 
+## Are You Making These 10 DDD Mistakes?
+
+I've read [this infographic][making-10-ddd-mistakes] on 10 DDD common mistakes, by Daniel Whittaker.
+
+Tags: ddd, daniel-whittaker, bounded-context, ubiquotous-language, infographic
+
+[making-10-ddd-mistakes]: http://danielwhittaker.me/2015/07/05/are-you-making-these-10-ddd-mistakes/#
+
