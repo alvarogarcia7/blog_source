@@ -211,3 +211,14 @@ Tags: ddd, daniel-whittaker, bounded-context, ubiquotous-language, infographic
 
 [making-10-ddd-mistakes]: http://danielwhittaker.me/2015/07/05/are-you-making-these-10-ddd-mistakes/#
 
+## Haste: Full-Stack Haskell for Non-PhD Candidates
+
+I've watched [this talk][full-stack-haskell] at the Strange Loop Conference 2014 about Haste language, a haskell version that compiles to javascript, therefore letting you write haskell in the browser. By Erin Swenson-Healey and James Cooper
+
+In this talk they recommend the [CIS194 course][cis-194-course]
+
+Tags: haste, haskell, james-cooper, erin-swenson-healey, strange-loop, 2014, talk
+
+[full-stack-haskell]: https://www.youtube.com/watch?v=3v03NFcyvzc
+[cis-194-course]: http://www.seas.upenn.edu/~cis194/lectures.html
+
