@@ -222,3 +222,13 @@ Tags: haste, haskell, james-cooper, erin-swenson-healey, strange-loop, 2014, tal
 [full-stack-haskell]: https://www.youtube.com/watch?v=3v03NFcyvzc
 [cis-194-course]: http://www.seas.upenn.edu/~cis194/lectures.html
 
+## A Year of Haskell
+
+I've watched [this talk][a-year-of-haskell] about experiences using haskell professionally, by the American Justin Leitgeb in a Equatorian company in Quito, Stack Builders. He goes on to explain the haskell language in comparison to ruby on rails, what he mostly used with his clients.
+
+Also explains what sells and doesn't (mostly productivity, not security) and gives pointer for applying it to a company
+
+Tags: justin-leitgeb, ecuador, haskell, stack-builders, lambda-days, 2015, client, professional, consulting, consultancy
+
+[a-year-of-haskell]: https://www.youtube.com/watch?v=wZ0RQG3mFPw
+
