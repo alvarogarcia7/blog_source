@@ -232,3 +232,15 @@ Tags: justin-leitgeb, ecuador, haskell, stack-builders, lambda-days, 2015, clien
 
 [a-year-of-haskell]: https://www.youtube.com/watch?v=wZ0RQG3mFPw
 
+## A Taste of Haskell
+
+I've watched a lesson by Simon Peyton-Jones, that introduces haskell to experienced programmers, not in the language but in programming in general. At the conference OSCON 2007
+
+Links: [part 1][a-taste-of-haskell-1], [part 2][a-taste-of-haskell-2], [slides][a-taste-of-haskell-slides]
+
+Tags: oscon, 2007, haskell, introduction, lesson, simon-peyton-jones
+
+[a-taste-of-haskell-1]: https://www.youtube.com/watch?v=jLj1QV11o9g
+[a-taste-of-haskell-2]: https://www.youtube.com/watch?v=IqXTUbdLig0
+[a-taste-of-haskell-slides]: http://www.slideshare.net/oscon2007/os-peytonjones
+
