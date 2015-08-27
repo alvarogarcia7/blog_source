@@ -244,3 +244,12 @@ Tags: oscon, 2007, haskell, introduction, lesson, simon-peyton-jones
 [a-taste-of-haskell-2]: https://www.youtube.com/watch?v=IqXTUbdLig0
 [a-taste-of-haskell-slides]: http://www.slideshare.net/oscon2007/os-peytonjones
 
+
+## Programming - Why Haskell is Great
+
+I've seen [this video][why-haskell-is-great] introducing some features of haskell. The most basic features, the REPL,  function composition. By FrungyKing
+
+Tags: haskell, introduction, video, screencast, repl, frungyking
+
+[why-haskell-is-great]: https://www.youtube.com/watch?v=RqvCNb7fKsg
+
