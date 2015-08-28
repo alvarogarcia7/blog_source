@@ -253,3 +253,11 @@ Tags: haskell, introduction, video, screencast, repl, frungyking
 
 [why-haskell-is-great]: https://www.youtube.com/watch?v=RqvCNb7fKsg
 
+## History of Haskell: being lazy with class
+
+I've watched [this video][history-of-haskell-lazy] by Simon Peyton-Jones at the "History of Programming Languages Conference III" which explains how the language was designed and written, a language timeline, what options they took, how they decided about monadic IO, etc.
+
+Tags: simon-peyton-jones, 2007, history-of-programming-languages-conference, haskell, talk
+
+[history-of-haskell-lazy]: https://www.youtube.com/watch?v=3bjXGrycMhQ
+
