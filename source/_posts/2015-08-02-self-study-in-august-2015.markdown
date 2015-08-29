@@ -261,3 +261,30 @@ Tags: simon-peyton-jones, 2007, history-of-programming-languages-conference, has
 
 [history-of-haskell-lazy]: https://www.youtube.com/watch?v=3bjXGrycMhQ
 
+
+## The Humble Programmer
+
+​I've read [this EWD][ewd-340]​ about the necessary humbleness for being a programmer and the slow expansion of the trade, as compared to hardware engineers.
+
+He cites six reasons for preferring to be a humble programmer:
+
+  * the programmer only needs to manage simple programs
+  * simple programs imply reducing the search space
+  * construct a program from a mathematical proof instead of test its properties after building the software. see quote below
+  * a good abstraction can hide much complexity and difficulty
+  * the importance of the used tool in the final product
+  * "the only problems we can satisfactory solve are the ones that admit a factored solution"
+
+In this essay I've found the idea of 
+
+> Testing shows the presence, not the absence of bugs
+
+That [Wikiquote](https://en.wikiquote.org/wiki/Edsger_W._Dijkstra) attributes to an earlier paper (in 1969). In this paper, the verbatim quote is:
+
+> program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.
+
+This idea also connects to the "lower bounds" and "upper bounds" of program correctness expressed in the article [An Old Article I Wrote](https://cdsmith.wordpress.com/2011/01/09/an-old-article-i-wrote/) which is about static types, by Cdsmith. Admittedly, much later, in 2008, so this idea could be inspired by the Dijkstra's article.
+
+Tags: edsger-dijkstra, ewd, dijkstra, humble-programmer, essay, comparison, absence-of-bugs, quote
+
+[​ewd-340]: ​http://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
