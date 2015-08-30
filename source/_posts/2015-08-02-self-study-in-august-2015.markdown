@@ -288,3 +288,12 @@ This idea also connects to the "lower bounds" and "upper bounds" of program corr
 Tags: edsger-dijkstra, ewd, dijkstra, humble-programmer, essay, comparison, absence-of-bugs, quote
 
 [​ewd-340]: ​http://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
+
+## Building a Link Shortener with Snaplets
+
+I've seen [this video][link-shortener-snap] of how to build a link shortener webapp in haskell with the framework snap. By Ryan Trinkle. Found it in the [snap docs][snap-framework-docs] page.
+
+Tags: snap, haskell, link-shortener, talk, webapp, framework, ryan-trinkle
+
+[link-shortener-snap]: https://vimeo.com/59109358
+[snap-framework-docs]: http://snapframework.com/docs
