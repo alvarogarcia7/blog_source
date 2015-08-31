@@ -297,3 +297,12 @@ Tags: snap, haskell, link-shortener, talk, webapp, framework, ryan-trinkle
 
 [link-shortener-snap]: https://vimeo.com/59109358
 [snap-framework-docs]: http://snapframework.com/docs
+
+## Comparing Haskell Web Frameworks
+
+I've read [this comparison][comparison-of-web-frameworks] of haskell web frameworks, by Andraz Bajt (a.k.a, edofic)
+
+Tags: andraz-bajt, edofic, haskell, web-framework, framework, comparison
+
+[comparison-of-web-frameworks]: http://www.edofic.com/posts/2014-02-23-haskell-web.html
+
