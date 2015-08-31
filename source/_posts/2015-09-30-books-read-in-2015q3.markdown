@@ -19,6 +19,7 @@ Books I've read this quarter[^1]:
   * [The Craftsman](http://www.amazon.co.uk/Craftsman-Richard-Sennett/dp/0141022094) by Richard Sennett. Posts under the tag [the-craftsman](/{{site.category_dir}}/the-craftsman)
   * [Software Craftsmanship: The New Imperative](http://www.amazon.co.uk/Software-Craftsmanship-Imperative-McBreen-Aug-2001/dp/B00L6JZAT0) by Pete McBreen. Posts under the tag [software-craftsmanship-book](/{{site.category_dir}}/software-craftsmanship-book)
   * [Lisp Hackers](https://leanpub.com/lisphackers) by Vsevolod Dyomkin
+  * [The Passionate Programmer: Creating a Remarkable Career in Software Development](https://pragprog.com/book/cfcar2/the-passionate-programmer) by Chad Fowler.
 
 Books started, not yet finished (WIP):
 
