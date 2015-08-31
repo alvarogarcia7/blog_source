@@ -28,7 +28,7 @@ while [ true ]; do
 done
 ```
 
-This program will:
+This script will:
 
   * print the date
   * execute the tests
