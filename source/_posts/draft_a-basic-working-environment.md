@@ -15,3 +15,15 @@ In this case, what I usually do --as long as the programming session is more tha
   * test runner. A simple bash script executing the tests will suffice
   * git terminal: to commit, see differences, revert, etc
   * [optional] REPL if the language has it
+
+## Details
+
+More in depth, the test runner will be similar to this:
+
+```bash
+while [ true ]; do
+    date;
+    runhaskell Spec.hs;
+    read i;
+done
+```
