@@ -12,6 +12,8 @@ categories:
   - bash
   - snippet
   - carlos-ble
+  - tdd
+  - programming-session
 ---
 
 Sometimes, when working out of somebody's else computer, I won't have my preferred IDE installed. 
