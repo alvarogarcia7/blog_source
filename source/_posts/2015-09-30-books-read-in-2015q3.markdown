@@ -30,6 +30,7 @@ Books I want to finish:
 Books that have entered the queue:
 
   * [Clojure for the brave and true](http://www.braveclojure.com/#toc)
+  * [How to Solve It: A New Aspect of Mathematical Method](http://press.princeton.edu/titles/669.html) by George Pólya
 
 {% comment %}
 

@@ -195,6 +195,215 @@ Tags: carlos-ble, career, programming, management, career-change
 
 [no-malinterpretes-tu-carrera]: http://www.carlosble.com/2011/02/no-malinterpretes-tu-carrera/
 
+## Just Haskell or Nothing
+
+I've read [these slides][just-haskell-or-nothing] on packaging values in (Just a) or Nothing for possibly failed computations in haskell. Written by John Chee
+
+Tags: john-chee, haskell, just, nothing, maybe, functor
+
+[just-haskell-or-nothing]: https://cheecheeo.github.io/just_haskell_or_nothing.html
+
+## Tracking Joy at Work
+
+I've read [this article][tracking-joy-at-work] about quantifying happiness at the office (or at work). Joe Nelson, the author of the article, uses the quantifying method described int the book [Experience Sampling Method][experience-sampling-method-book] ([wikipedia page][experience-sampling-method-wiki]) by Hektner, Schmidt, Csikszentmihalyi.
+
+The last one, not coincidentally is the author of [Flow: The Psychology of Optimal Experience][flow-book].
+
+Tags: mihaly-csikszentmihalyi, flow, quantification, data, experience-sampling, article, joe-nelson
+
+[tracking-joy-at-work]: http://begriffs.com/posts/2015-03-15-tracking-joy-at-work.html
+[experience-sampling-method-book]: http://www.amazon.com/Experience-Sampling-Method-Measuring-Everyday/dp/1412925576/
+[flow-book]: http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202
+[experience-sampling-method-wiki]: https://en.wikipedia.org/wiki/Experience_sampling_method
+
+## Going "Write-Only"
+
+I've read [this article][going-write-only] by Joe Nelson on going "write-only" on social media, blogs, news, etc, as opposed to read-only (only consuming media) or read-write (consuming and producing). He cites another programmer, [Joey Hess][joey-hess] and about the quality and durability of your work.
+
+Tags: article, joe-nelson, write-only, social-media, reading, philosophy, thoreau, nietzsche, joey-hess
+
+[going-write-only]: http://begriffs.com/posts/2015-04-20-going-write-only.html
+[joey-hess]: http://joey.hess.usesthis.com/
+
+## Create a static site with Hakyll, Github and Travis CI
+
+I've read [this article][static-site-with-hakyll] on how to create your blog with hakyll and travis ci. Written by Joe Nelson
+
+Travis ci is used to do continuous integration and automatically deploy each commit to production (github pages).
+
+Tags: hakyll, haskell, joe-nelson, meta, blog, continuous-deployment, github, github-pages, travis-ci
+
+[static-site-with-hakyll]: http://begriffs.com/posts/2014-08-12-create-static-site-with-hakyll-github.html
+
+## Falling in Love with Computer Science
+
+I've watched [this video][falling-in-love-with-cs] by Kathy Pham, an American that discovered her passion, her love to computer science a few years ago. She tells the events around computer science from the beginning of college to the current moment.
+
+Tags: kathy-pham, passion, love, computer-science, autobiography, time-lapse, google-developers
+
+[falling-in-love-with-cs]: https://www.youtube.com/watch?v=haxusGuUyt4
+
+## Duck Typing
+
+I've watched [this video][duck-typing-dan-grossman] by Dan Grossman, part of the ["Programming Languages" MOOC][proglang-mooc], in which he explains what is a Duck Type and how to use (and abuse) them in ruby.
+
+Tags: ruby, dan-grossman, mooc, mooc-programming-languages
+
+[proglang-mooc]: https://www.coursera.org/course/proglang
+[duck-typing-dan-grossman]: https://www.youtube.com/watch?v=h0rTF__RNo4
+
+## Not-So-Private Clojure Functions
+
+I've read [this article][not-so-private-fn] explaining how to bypass private functions in clojure: either create a lambda or create a different namespace. Written by Christopher Maier
+
+Tags: private-variable, clojure, testing, joy-of-clojure, christopher-maier, private-function, namespace
+
+[not-so-private-fn]: http://christophermaier.name/blog/2011/04/30/not-so-private-clojure-functions
+
+## Frege (and Clojure)
+
+I've read [this article][frege-and-clojure] that tells the Pragmatic Programmer's advice to learn a new language every year and the author (Sean Corfield) explains his trajectory learning them. He also cites the Lein plugin he's built: ``lein-fregec`` and how to connect clojure and frege (a.k.a JVM's haskell).
+
+Tags: haskell, frege, jvm, clojure, ffi, pragmatic-programmer, advice, lein-fregec,  sean-corfield, comparison
+
+[frege-and-clojure]: http://seancorfield.github.io/blog/2015/02/13/frege-and-clojure/
+
+## Two months early. 300k under budget
+
+I've read [the tale][delivering-a-cms-two-months-early] of a Thoughtworks Project Manager who convinced his client to start using clojure to deliver a custom-made CMS. Written by Dave Elliman.
+
+Tags: dave-elliman, thoughtworks, project-manager, clojure, cms, microservice
+
+[delivering-a-cms-two-months-early]: https://thoughtworks.github.io/p2/issue09/two-months-early/
+
+## Convince your boss to use Clojure
+
+I've read [this guide][start-using-clojure-normand] by Eric Normand on how to convince your boss or your company to start using clojure.
+
+Tags: company, clojure, eric-normand, how-to, guide
+
+[start-using-clojure-normand]: http://www.lispcast.com/convince-your-boss-to-use-clojure
+
+## A brief introduction to Prolog
+
+I've read [these slides][web-development-in-prolog] about a brief introduction to prolog and how to do web development in it. By Jaelle Scheuerman
+
+Tags: jaelle-scheuerman, prolog, web-development, rest, slide
+
+[web-development-in-prolog]: https://docs.google.com/presentation/d/1NAUo8nWLfNvvW3Wb7HJMunljjDJbzu7mo-5twKeGDvc/edit#slide=id.g63daf4745_0_56
+
+## Arrayzing - The JavaScript array cheatsheet
+
+I've read [this cheatsheet][cheatsheet-js-arrays] for javascript arrays. Written by Justin Perry
+
+Tags: cheatsheet, array, javascript, gist, justin-perry
+
+[cheatsheet-js-arrays]: https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42
+
+## Some words on lazy evaluation and sharing
+
+I've read [this article][lazy_evaluation_and_sharing] comparing the ``fix`` definition with a hand-made one and its "sharing" problems. Written by Joel E. Kaasinen
+
+Tags: joel-kaasinen, haskell, fix, sharing, non-strictness, lazy-evaluation
+
+[lazy_evaluation_and_sharing]: http://pseudo.fixme.fi/~opqdonut/blog/Some_words_on_lazy_evaluation_and_sharing.html
+
+## Hammock Driven Development
+
+I've watched [this video][hammock-driven-development] by Rich Hickey. A few notes:
+
+A: identifying a problem that we're trying to solve
+
+D: assessing if the proposed solution solves the problem
+
+the union of the features is not the purpose of the product / is not the product
+
+proramming is not completing features
+
+avoiding problems /= solving problems
+
+book: how to solve it - G. Polya. Practices & techniques for solving mathematic problems
+
+How to solve the problem
+
+  * state the problem
+  * understand the problem:
+    * what do you know: facts, context, constraints.
+    * what do you don't know
+    * are there related problems? solutions to related problems. find an analogy: starting from scratch vs incremental step
+  * be discerning
+  * more input, better output:
+    * read about your domain problem, research papers (maybe ACM)
+  * tradeoffs:
+    * find at least two options (ups and downs) to compare before taking a decision
+
+Focus time for programmers like alone time for kids. Hammock time is important mind's eye time
+
+Waking mind:
+
+  * critical thinking
+  * analysis
+  * tactics
+  * prone to local maxima
+  * feed work to background mind
+  * analyze its products
+
+Background mind:
+
+  * making connections
+  * synthesis
+  * strategy
+  * abstracts, analogies
+  * solves most non-trivial problems
+
+loading it: work it hard in the waking mind to be included in the background mind
+
+abstraction = software strategy
+
+tip: small answer is better than big answer (occam's razor?)​
+
+Tags: rich-hickey, hammock-driven-development, background-mind, waking-mind, solve-problem, george-polya, book, analysis, design, talk
+
+[hammock-driven-development]: https://www.youtube.com/watch?v=f84n5oFoZBc
+
+## Parallelism /= Concurrency
+
+I've read [this article][parallelism-concurrency] on the differences between parallelism and concurrency, with examples in the haskell compiler GHC. Written by [simonmar](https://ghcmutterings.wordpress.com/author/simonmar/)
+
+Tags: haskell, concurrency, parallelism, ghc, simonmar, comparison
+
+[parallelism-concurrency]: https://ghcmutterings.wordpress.com/2009/10/06/parallelism-concurrency/
+
+## Parallelism vs. Concurrency
+
+I've read [this page][parallelism-vs-concurrency] from the haskell wiki.
+
+Tags: haskell, concurrency, parallelism, ghc, comparison
+
+[parallelism-vs-concurrency]: https://wiki.haskell.org/Parallelism_vs._Concurrency
+
+## Writing code that writes code — with Hack Codegen
+
+I've read [this article][metaprogramming-php] about metaprogramming (code that generates code) in PHP. Written by Alejandro Marcu.
+
+I've arrived to this from this tweet:
+
+<blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">This is what happens when your programming language doesn&#39;t have macros <a href="https://t.co/ZfsEe2EJIj">https://t.co/ZfsEe2EJIj</a>. Yuck.</p>&mdash; David Nolen (@swannodette) <a href="https://twitter.com/swannodette/status/634495099607613440">August 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Tags: alejandro-marcu, metaprogramming, php, macro, lisp, clojure
+
+[metaprogramming-php]: https://code.facebook.com/posts/1624644147776541/writing-code-that-writes-code-with-hack-codegen/
+
+## How katas can help you learn
+
+I've read [this article][learning-from-katas] on learning from katas, with the example of the Roman Numerals kata in Objective-C. Written by Sandro Mancuso.
+
+Tags: sandro-mancuso, kata, learning, roman-numeral, objective-c
+
+[learning-from-katas]: http://codurance.com/2015/08/18/How-katas-can-help-you-learn/
+
+
 ## Java 8: Definitive guide to CompletableFuture
 
 I've read [this article][definitive-guide-to-completablefuture] about Java 8's feature, the ``CompletableFeature``. Written by Tomasz Nurkiewicz
