@@ -16,6 +16,8 @@ categories:
   - carlos-ble
   - tdd
   - programming-session
+  - bocazas
+  - antipattern
 ---
 
 Sometimes, when working out of somebody's else computer, I won't have my preferred IDE installed. 
