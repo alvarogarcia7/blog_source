@@ -5,6 +5,8 @@ categories:
   - sample
   - environment
   - protip
+  - java
+  - python
   - haskell
   - clojure-test
   - junit
