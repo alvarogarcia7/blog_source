@@ -63,5 +63,5 @@ As a side note, other test runners are quieter than others:
   * ``py.test`` will output the name of the file and "E" for error and "." for OK
   * ``clojure.test`` will output the name of the file and a total of tests and assertions. [Here](http://jakemccrary.com/blog/2015/04/25/quieter-clojure-dot-test-output/) to make it quieter
   * ``HSpec`` will output one line per ``describe`` and ``it``. Inspired by RSpec
-  * ``Jasmine`` will output one line per ``describe`` and ``it``, as HSpec, as both are inspired by RSpec.
+  * ``Jasmine`` will output one line per ``describe`` and ``it``, as HSpec, as both of them are inspired by RSpec.
   * ``Junit`` and derivatives will produce the name of the file and total of tests and assertions. Also, on demand, a file containing test results so it can be interpreted by the IDE.
