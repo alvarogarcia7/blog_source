@@ -23,6 +23,8 @@ In this case, what I usually do --as long as the programming session is more tha
   * git terminal: to commit, see differences, revert, etc
   * [optional] REPL if the language has it
 
+If the system already has it, I will use ``screen`` to cycle around the sessions.
+
 ## Details
 
 More in depth, the test runner will be similar to this:
