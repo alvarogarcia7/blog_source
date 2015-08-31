@@ -5,6 +5,13 @@ categories:
   - sample
   - environment
   - protip
+  - haskell
+  - clojure-test
+  - junit
+  - test-runner
+  - bash
+  - snippet
+  - carlos-ble
 ---
 
 Sometimes, when working out of somebody's else computer, I won't have my preferred IDE installed. 
