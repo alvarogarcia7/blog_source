@@ -37,3 +37,14 @@ This program will:
 The date is useful for both detecting the pace of the cycles and for scrolling up and down in the terminal.
 
 If this date is much too necessary, it might indicate the presence of the TDD antipattern "El Bocazas" / "A mouthful", present in [Diseño Ágil con TDD](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf). I use when the output of the test runner is extensive (such as ``runhaskell``).
+
+If the test runner output is too verbose, a possible step forward is to silence output in when every test is green:
+
+```bash
+output=$(runhaskell Spec.hs);
+if [ $? = 0 ]; then
+    echo "OK";
+else
+    echo $output;
+fi
+```
