@@ -24,6 +24,7 @@ Books I've read this quarter[^1]:
 Books started, not yet finished (WIP):
 
   * [Haskell Programming](http://haskellbook.com/), By Chris Allen and Julie Moronuki. This book is still in progress and I'm reviewing it
+  * [Functional Programming Patterns in Scala and Clojure](https://pragprog.com/book/mbfpp/functional-programming-patterns-in-scala-and-clojure) by Michael Bevilacqua-Linn
 
   
 Books I want to finish:
