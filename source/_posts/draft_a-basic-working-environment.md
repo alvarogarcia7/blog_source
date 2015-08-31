@@ -27,3 +27,13 @@ while [ true ]; do
     read i;
 done
 ```
+
+This program will:
+
+  * print the date
+  * execute the tests
+  * read from the console, effectively waiting for the user to interact (an enter is enough)
+
+The date is useful for both detecting the pace of the cycles and for scrolling up and down in the terminal.
+
+If this date is much too necessary, it might indicate the presence of the TDD antipattern "El Bocazas" / "A mouthful", present in [Diseño Ágil con TDD](http://www.carlosble.com/downloads/disenoAgilConTdd_ebook.pdf). I use when the output of the test runner is extensive (such as ``runhaskell``).
