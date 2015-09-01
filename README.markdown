@@ -94,3 +94,36 @@ Get the clojure REPL (e.g., Light Table or [TryCLJ](http://www.tryclj.com/)) and
 ````
 
 In this version the argument that changes all the time (the author or URL keywords) are at the end and it is simpler to edit.
+
+### Get all the categories from a Self-Study aggregation
+
+from all the markdown files:
+
+```bash
+find -iname "*markdown"|xargs grep Tags|cut -d":" -f3 > tags.txt
+```
+
+from a single file:
+```bash
+cat $file |grep Tags|cut -d":" -f2 > tags.txt
+```
+
+then process tags and delete the temporary file:
+```bash
+cat tags.txt |tr -d " " | sed '{s/,/\n/g}'|sort|uniq| sed '{s/^/  - /}'
+rm -f tags.txt
+```
+
+e.g.:
+
+```
+  - stack-builders
+  - strange-loop
+  - talk
+  - technical-debt
+  - test
+  - testing
+  - thoreau
+  - thoughtworks
+  - time-lapse
+```
