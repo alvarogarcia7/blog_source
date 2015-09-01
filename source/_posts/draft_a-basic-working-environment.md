@@ -31,7 +31,7 @@ In this case, what I usually do --as long as the programming session is more tha
 
 If the system already has it, I will use ``screen`` to cycle around the sessions.
 
-## Details
+## A simple test runner
 
 More in depth, the test runner will be similar to this:
 
@@ -63,6 +63,8 @@ else
     echo $output;
 fi
 ```
+
+## Other test runners
 
 As a side note, other test runners are quieter than others:
 
