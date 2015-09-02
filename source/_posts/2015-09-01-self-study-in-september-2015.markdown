@@ -50,3 +50,13 @@ Tags: jason-liszka, tech-lead, comparison
 
 [good-bad-tech-lead]: https://blog.growth.supply/good-tech-lead-bad-tech-lead-948b2b806d86
 
+## Why Procrastinators Procrastinate
+
+I've read [this article][why-procrastinators-procrastinate] by Tim Urban on procrastination: this article compares the procrastinator and the non-procrastinator brain with pictures, introducing the Rational part, the Instant Gratification Monkey and the Panic Monster. Shows some reasons why. 
+
+There is more on part 2: [How to beat procrastination](http://waitbutwhy.com/2013/11/how-to-beat-procrastination.html)
+
+Tags: tim-urban, procrastination, rational-part, instant-gratification-monkey, panic-monster, brain, comparison
+
+[why-procrastinators-procrastinate]: http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html
+
