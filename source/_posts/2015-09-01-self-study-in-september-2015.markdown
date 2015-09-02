@@ -32,3 +32,11 @@ Tags: extreme-programming, xp, william-matheson, video, strength, weakness
 
 [strength-weakness-of-xp]: https://www.youtube.com/watch?v=LkhLZ7_KZ5w
 
+## Poster de Extreme Programming
+
+I've watched [this video][xp-intro-kleer] introducing eXtreme Programming. By Martín Salías
+
+Tags: martin-salias, kleer, extreme-programming, xp
+
+[xp-intro-kleer]: https://www.youtube.com/watch?v=4nN6Gh79Yg8
+
