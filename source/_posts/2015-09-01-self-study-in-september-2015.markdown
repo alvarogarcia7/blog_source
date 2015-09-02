@@ -40,3 +40,13 @@ Tags: martin-salias, kleer, extreme-programming, xp
 
 [xp-intro-kleer]: https://www.youtube.com/watch?v=4nN6Gh79Yg8
 
+## Good Tech Lead, Bad Tech Lead
+
+I've read [this comparison][good-bad-tech-lead] of good and bad traits in tech leads. By Jason Liszka.
+
+Explains the differences between good and bad tech leads, even though many of these qualities are shared by plain team members
+
+Tags: jason-liszka, tech-lead, comparison
+
+[good-bad-tech-lead]: https://blog.growth.supply/good-tech-lead-bad-tech-lead-948b2b806d86
+
