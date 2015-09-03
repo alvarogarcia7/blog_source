@@ -60,3 +60,11 @@ Tags: tim-urban, procrastination, rational-part, instant-gratification-monkey, p
 
 [why-procrastinators-procrastinate]: http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html
 
+## Algebraic data type
+
+I've read [this wikipedia page][Algebraic_data_type], that explains what this is, a few examples and the theory behind it.
+
+Tags: wikipedia, data-type, algebraic-data-type
+
+[Algebraic_data_type]: https://en.wikipedia.org/wiki/Algebraic_data_type
+
