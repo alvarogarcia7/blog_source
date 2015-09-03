@@ -88,3 +88,13 @@ Tags: recursion, corecursion, induction, coinduction, tail-call-optimization, ta
 
 [recursion_]: https://en.wikipedia.org/wiki/Recursion_(computer_science)
 
+## Anonymous function
+
+I've read [this wikipedia page][anonymous_function], that describes what is a lambda expression or an anonymous function. How it can be used (e.g., currying, higher-order function, closures) and gives examples in many languages.
+
+Cites its invention (Church, 1936, lambda-calculus) and its first implementation (Lisp, 1958)
+
+Tags: alonzo-church, anonymous-function, lambda-expression, closure, lambda-calculus, lisp, currying, higher-order-function, wikipedia
+
+[anonymous_function]: https://en.wikipedia.org/wiki/Anonymous_function
+
