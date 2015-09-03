@@ -98,3 +98,13 @@ Tags: alonzo-church, anonymous-function, lambda-expression, closure, lambda-calc
 
 [anonymous_function]: https://en.wikipedia.org/wiki/Anonymous_function
 
+## Closure
+
+I've read [this wikipedia page][closure-wiki], that explains the concept of closures and the usual confusion between closure and lambda. Also some applications.
+
+Discusses closures as a way of deferring execution and implementing object-oriented (OO) systems
+
+Tags: wikipedia, closure, object-orientation, lambda-expression
+
+[closure-wiki]: https://en.wikipedia.org/wiki/Closure_(computer_programming)
+
