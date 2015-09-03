@@ -68,3 +68,23 @@ Tags: wikipedia, data-type, algebraic-data-type
 
 [Algebraic_data_type]: https://en.wikipedia.org/wiki/Algebraic_data_type
 
+## Recursion
+
+I've read [this wikipedia page][recursion_], that explains the recursion basic concepts, such as:
+
+  * induction, coinduction
+  * recursion, corecursion
+  * implementation details in iterative vs recursive programs:
+    * shortcutting recursion (i.e., arm-length's recursion)
+    * wrapper function
+    * tail-call optimization, related to tail-recursive functions
+  * recursion and its relation to data structures
+  * base case / recursive case and removing the need of the base one in corecursion or in non-strict languages
+  * types of recursion:
+    * direct, indirect, mutual
+    * generative, structural
+
+Tags: recursion, corecursion, induction, coinduction, tail-call-optimization, tail-recursion, direct-recursion, indirect-recursion, mutual-recursion, generative-recursion, structural-recursion, arm-length-recursion, iterative-function, recursive-function, base-case, recursive-case, wikipedia, data-structure
+
+[recursion_]: https://en.wikipedia.org/wiki/Recursion_(computer_science)
+
