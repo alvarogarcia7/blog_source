@@ -108,3 +108,11 @@ Tags: wikipedia, closure, object-orientation, lambda-expression
 
 [closure-wiki]: https://en.wikipedia.org/wiki/Closure_(computer_programming)
 
+## Zen Story: The Master Archer
+
+I've read [this story][the-master-archer] by Charlie Ambler about perfectionism and deep study, exemplified by the general that retires to study archery and the child who draws targets around the arrows.
+
+Tags: charlie-amber, master, student, zen, story
+
+[the-master-archer]: http://www.thedailyzen.org/2015/06/23/zen-story-the-master-archer/
+
