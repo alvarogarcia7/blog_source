@@ -116,3 +116,10 @@ Tags: charlie-amber, master, student, zen, story
 
 [the-master-archer]: http://www.thedailyzen.org/2015/06/23/zen-story-the-master-archer/
 
+## Loosely Coupled
+
+I've read [this article][loosely-coupled] by Ben Whaley about how to loosely couple services introducing a queue and the difference in patterns between push and pull communication.
+
+Tags: ben-whaley, push, pull, coupling, loose-coupling, service, queue, aws
+
+[loosely-coupled]: http://blog.bwhaley.com/loosely-coupled
