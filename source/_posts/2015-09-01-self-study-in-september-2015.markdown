@@ -116,3 +116,15 @@ Tags: charlie-amber, master, student, zen, story
 
 [the-master-archer]: http://www.thedailyzen.org/2015/06/23/zen-story-the-master-archer/
 
+## Being good at programming competitions correlates negatively with being good on the job
+
+I've watched the small video and the discussion about programmers' talent at [this page][programmers-talent-around-contests].
+
+The original video explains that being good at a programming contest correlates negatively with skill at a programming job, even if the company hires them.
+
+The discussion explains the analogy with height and the NBA and concludes that this parameter should be preponderated with less importance than others.
+
+Tags: google, peter-norvig, nba, analogy, programming-contest, programming-skill, peteris-krumins
+
+[programmers-talent-around-contests]: http://www.catonmat.net/blog/programming-competitions-work-performance/
+
