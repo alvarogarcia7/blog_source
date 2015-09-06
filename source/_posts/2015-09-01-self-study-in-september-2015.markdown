@@ -151,3 +151,14 @@ Tags: peteris-krumins, regular-expression, recursion, recursive-regular-expressi
 
 [recursive-regex]: http://www.catonmat.net/blog/recursive-regular-expressions/
 [cfg-wiki]: https://en.wikipedia.org/wiki/Context-free_grammar
+
+## In Functional Programming, what is a functor?
+
+I've read [this answer][so-functor], by Norman Ramsey, on what is a functor. 
+
+He explains in simple words what the concept is and how a type can belong to the class functor. Examples in haskell.
+
+Tags: norman-ramsey, functor, stack-overflow, haskell, type-class, class, map, fmap
+
+[so-functor]: http://stackoverflow.com/questions/2030863/in-functional-programming-what-is-a-functor/2031421#2031421
+
