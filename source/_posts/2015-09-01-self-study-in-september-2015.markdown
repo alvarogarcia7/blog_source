@@ -141,3 +141,13 @@ Tags: peteris-krumins, comparison, haskell, c-plus-plus, standard-ml, prolog, fu
 
 [functor-comparison]: http://www.catonmat.net/blog/on-functors/
 
+## Recursive Regular Expressions
+
+I've read [this article][recursive-regex] on recursive regular expressions by Peteris Krumins.
+
+In it, he lightly describes how a regular expression relates to a [Context-Free Grammar][cfg-wiki] and the language support for Perl to include recursive regular expressions. Based on the examples (e.g., ``0^n1^n``), it really clicked to me that this could be expressed as a recursive function, with its base case and the recursive one. Also that it "depends on solutions to smaller instances of the same problem" ([wikipedia][recursion_])
+
+Tags: peteris-krumins, regular-expression, recursion, recursive-regular-expression, perl, context-free-grammar, formal-language-theory
+
+[recursive-regex]: http://www.catonmat.net/blog/recursive-regular-expressions/
+[cfg-wiki]: https://en.wikipedia.org/wiki/Context-free_grammar
