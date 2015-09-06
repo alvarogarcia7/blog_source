@@ -162,3 +162,11 @@ Tags: norman-ramsey, functor, stack-overflow, haskell, type-class, class, map, f
 
 [so-functor]: http://stackoverflow.com/questions/2030863/in-functional-programming-what-is-a-functor/2031421#2031421
 
+## Functors
+
+I've read [this article][functors] by Jim Duey explaining functors in Clojure. He introduces a couple of notes of Haskell but all of the examples are in Clojure. Explains functors, a subset of it called applicatives, and the two libraries he has created.
+
+Tags: jim-duey, functor, clojure, haskell
+
+[functors]: http://www.clojure.net/2013/01/19/Functors/
+
