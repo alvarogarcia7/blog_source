@@ -128,3 +128,16 @@ Tags: google, peter-norvig, nba, analogy, programming-contest, programming-skill
 
 [programmers-talent-around-contests]: http://www.catonmat.net/blog/programming-competitions-work-performance/
 
+## On Functors
+
+I've read [this comparison][functor-comparison] of what the functors are in different languages:
+
+  * C++: function objects
+  * Standard ML: generic implementation of interfaces. They allow to compose structures
+  * Haskell: structure containing zero or more objects that can be converted to another structure containing the other objects. It's an homomorphism between two categories.
+  * Prolog: built-in predicate for self-inspection and the atom at the start of the structure
+
+Tags: peteris-krumins, comparison, haskell, c-plus-plus, standard-ml, prolog, functor
+
+[functor-comparison]: http://www.catonmat.net/blog/on-functors/
+
