@@ -130,7 +130,7 @@ Tags: google, peter-norvig, nba, analogy, programming-contest, programming-skill
 
 ## On Functors
 
-I've read [this comparison][functor-comparison] of what the functors are in different languages:
+I've read [this comparison][functor-comparison] by Peteris Krumins of what the functors are in different languages:
 
   * C++: function objects
   * Standard ML: generic implementation of interfaces. They allow to compose structures
