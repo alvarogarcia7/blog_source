@@ -118,7 +118,7 @@ Tags: charlie-amber, master, student, zen, story
 
 ## Being good at programming competitions correlates negatively with being good on the job
 
-I've watched the small video and the discussion about programmers' talent at [this page][programmers-talent-around-contests].
+I've watched the small video and the discussion about programmers' talent at [this page][programmers-talent-around-contests]. By Peteris Krumins.
 
 The original video explains that being good at a programming contest correlates negatively with skill at a programming job, even if the company hires them.
 
