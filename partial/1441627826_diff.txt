@@ -1,4 +1,4 @@
-## What is "duck typing"€
+## What is "duck typing"?
 
 I've read [this article][what-is-duck-typing] by Eric Lipper about duck typing
 
