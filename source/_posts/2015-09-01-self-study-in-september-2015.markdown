@@ -178,3 +178,17 @@ Tags: jim-duey, functor, clojure, haskell
 
 [functors]: http://www.clojure.net/2013/01/19/Functors/
 
+## 10 Tips for Proper Application Logging
+
+I've read [this article][proper-application-logging] by Tomasz Nurkiewicz about tips on logging:
+
+  * reduce side effects
+  * use categories and levels
+  * connection with external systems
+  * handling exceptions
+  * automatically / manually reading logging files
+
+Tags: tomasz-nurkiewicz, logging, sl4j, log4j, tip
+
+[proper-application-logging]: http://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html
+
