@@ -15,7 +15,11 @@ echo "$2" > $message_file
 
 elif test "$1" = "apply"; then
 
-filename="$2"
+    if test -z "$2"; then
+        filename="source/_posts/2015-09-01-self-study-in-september-2015.markdown"
+    else
+        filename="$2"
+    fi
 
 diff_file=partial/$(ls -htp partial|grep -v "/"|head -2|grep diff)
 message_file=partial/$(ls -htp partial|grep -v "/" | head -2|grep msg)
