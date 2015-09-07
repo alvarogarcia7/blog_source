@@ -44,3 +44,9 @@ categories:
   * Compare with the yield keyword in python
 * Add post on transducers and the clojure article (funcool.github.io/clojurescript-unraveled)
 * Jitpack.io for sharing dependencies, just like spring boot
+
+
+20150907-140403 AGB
+
+  * In the unix command-line, some  of the same patterns apply as in functional programming with a REPL: hacked code / programming by coincidence, as there is not a previous design (or even a thought). The function names are not well chosen as it is "easy" to see what they do.
+    * Any other similities or differences?
