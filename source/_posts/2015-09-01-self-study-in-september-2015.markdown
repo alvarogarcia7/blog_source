@@ -123,3 +123,58 @@ I've read [this article][loosely-coupled] by Ben Whaley about how to loosely cou
 Tags: ben-whaley, push, pull, coupling, loose-coupling, service, queue, aws
 
 [loosely-coupled]: http://blog.bwhaley.com/loosely-coupled
+
+## Being good at programming competitions correlates negatively with being good on the job
+
+I've watched the small video and the discussion about programmers' talent at [this page][programmers-talent-around-contests]. By Peteris Krumins.
+
+The original video explains that being good at a programming contest correlates negatively with skill at a programming job, even if the company hires them.
+
+The discussion explains the analogy with height and the NBA and concludes that this parameter should be preponderated with less importance than others.
+
+Tags: google, peter-norvig, nba, analogy, programming-contest, programming-skill, peteris-krumins
+
+[programmers-talent-around-contests]: http://www.catonmat.net/blog/programming-competitions-work-performance/
+
+## On Functors
+
+I've read [this comparison][functor-comparison] by Peteris Krumins of what the functors are in different languages:
+
+  * C++: function objects
+  * Standard ML: generic implementation of interfaces. They allow to compose structures
+  * Haskell: structure containing zero or more objects that can be converted to another structure containing the other objects. It's an homomorphism between two categories.
+  * Prolog: built-in predicate for self-inspection and the atom at the start of the structure
+
+Tags: peteris-krumins, comparison, haskell, c-plus-plus, standard-ml, prolog, functor
+
+[functor-comparison]: http://www.catonmat.net/blog/on-functors/
+
+## Recursive Regular Expressions
+
+I've read [this article][recursive-regex] on recursive regular expressions by Peteris Krumins.
+
+In it, he lightly describes how a regular expression relates to a [Context-Free Grammar][cfg-wiki] and the language support for Perl to include recursive regular expressions. Based on the examples (e.g., ``0^n1^n``), it really clicked to me that this could be expressed as a recursive function, with its base case and the recursive one. Also that it "depends on solutions to smaller instances of the same problem" ([wikipedia][recursion_])
+
+Tags: peteris-krumins, regular-expression, recursion, recursive-regular-expression, perl, context-free-grammar, formal-language-theory
+
+[recursive-regex]: http://www.catonmat.net/blog/recursive-regular-expressions/
+[cfg-wiki]: https://en.wikipedia.org/wiki/Context-free_grammar
+
+## In Functional Programming, what is a functor?
+
+I've read [this answer][so-functor], by Norman Ramsey, on what is a functor. 
+
+He explains in simple words what the concept is and how a type can belong to the class functor. Examples in haskell.
+
+Tags: norman-ramsey, functor, stack-overflow, haskell, type-class, class, map, fmap
+
+[so-functor]: http://stackoverflow.com/questions/2030863/in-functional-programming-what-is-a-functor/2031421#2031421
+
+## Functors
+
+I've read [this article][functors] by Jim Duey explaining functors in Clojure. He introduces a couple of notes of Haskell but all of the examples are in Clojure. Explains functors, a subset of it called applicatives, and the two libraries he has created.
+
+Tags: jim-duey, functor, clojure, haskell
+
+[functors]: http://www.clojure.net/2013/01/19/Functors/
+
