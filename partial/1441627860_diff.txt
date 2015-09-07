@@ -1,0 +1,8 @@
+## Yagni
+
+I've reread [this article][yagni-fowler] by Martin Fowler on the cost of developing features that are not needed
+
+Tags: martin-fowler, yagni, article, misunderstanding
+
+[yagni-fowler]: http://martinfowler.com/bliki/Yagni.html
+
