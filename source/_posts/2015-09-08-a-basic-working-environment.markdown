@@ -37,6 +37,7 @@ More in depth, the test runner will be similar to this:
 
 ```bash
 while [ true ]; do
+    clear;
     date;
     runhaskell Spec.hs;
     read i;
@@ -45,6 +46,7 @@ done
 
 This script will:
 
+  * clear the screen (for better readability)
   * print the date
   * execute the tests
   * read from the console, effectively waiting for the user to interact (an enter is enough)
