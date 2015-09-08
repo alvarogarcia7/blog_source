@@ -192,3 +192,10 @@ Tags: tomasz-nurkiewicz, logging, sl4j, log4j, tip
 
 [proper-application-logging]: http://www.javacodegeeks.com/2011/01/10-tips-proper-application-logging.html
 
+## What is "duck typing"?
+
+I've read [this article][what-is-duck-typing] by Eric Lippert about duck typing
+
+Tags: duck-typing, eric-lippert, type-system, c-sharp
+
+[what-is-duck-typing]: http://ericlippert.com/2014/01/02/what-is-duck-typing/
