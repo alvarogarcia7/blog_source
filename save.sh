@@ -60,8 +60,8 @@ git commit -F $message_file
 rm -f $diff_file
 rm -f $message_file
 
-git add partial
-git commit --all "delete partial files"
+git add --all partial
+git commit "delete partial files"
 
 else
 
