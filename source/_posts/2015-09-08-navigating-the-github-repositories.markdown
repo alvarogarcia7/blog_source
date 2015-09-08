@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Navigating the GitHub repositories"
-date: 2015-09-01 20:32:19 +0200
+date: 2015-09-08 07:54:15 +0200
 comments: true
 categories: 
   - github
