@@ -1,8 +1,8 @@
 ---
-published: false
+layout: post
 title: "A basic working environment"
-categories:
-  - sample
+date: 2015-09-08 07:46:56 +0200
+comments: true
   - environment
   - protip
   - java
