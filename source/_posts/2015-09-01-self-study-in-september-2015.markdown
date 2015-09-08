@@ -215,3 +215,11 @@ Tags: haskell, repl, jordan-medlock, beginner, video
 
 [medlock-learn-haskell]: https://www.youtube.com/watch?v=JJlI5FPTbgE
 
+## Learn Haskell
+
+I've seen [this video][medlock-learn-haskell] by Jordan Medlock on learning haskell, explaining the basics and how to use the REPL
+
+Tags: haskell, repl, jordan-medlock, beginner, video
+
+[medlock-learn-haskell]: https://www.youtube.com/watch?v=JJlI5FPTbgE
+
