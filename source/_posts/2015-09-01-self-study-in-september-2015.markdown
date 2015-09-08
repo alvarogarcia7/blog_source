@@ -199,3 +199,11 @@ I've read [this article][what-is-duck-typing] by Eric Lippert about duck typing
 Tags: duck-typing, eric-lippert, type-system, c-sharp
 
 [what-is-duck-typing]: http://ericlippert.com/2014/01/02/what-is-duck-typing/
+## Yagni
+
+I've reread [this article][yagni-fowler] by Martin Fowler on the cost of developing features that are not needed
+
+Tags: martin-fowler, yagni, article, misunderstanding
+
+[yagni-fowler]: http://martinfowler.com/bliki/Yagni.html
+
