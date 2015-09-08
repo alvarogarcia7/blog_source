@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-if test "$1" = "save"; then
+if test "$1" = "push"; then
 
 echo "there were $(ls -lah partial|wc -l) files"
 
@@ -19,7 +19,7 @@ git add --all partial
 
 git commit -m "add partial: $2"
 
-elif test "$1" = "apply"; then
+elif test "$1" = "pop"; then
 
 
     regex=$(echo $2|tr -d "partial/")
@@ -51,6 +51,7 @@ git commit -F $message_file
 rm -f $diff_file
 rm -f $message_file
 
+git commit --all "delete partial files"
 
 else
 
