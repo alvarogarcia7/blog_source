@@ -15,6 +15,10 @@ git reset --hard
 
 echo "$2" > $message_file
 
+git add --all partial
+
+git commit -m "add partial: $2"
+
 elif test "$1" = "apply"; then
 
     if test -z "$2"; then
