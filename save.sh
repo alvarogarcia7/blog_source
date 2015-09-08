@@ -3,6 +3,8 @@
 
 if test "$1" = "save"; then
 
+echo "there were $(ls -lah partial|wc -l) files"
+
 timestamp=partial/$(date +%s)
 diff_file=${timestamp}_diff.txt
 message_file=${timestamp}_msg.txt
