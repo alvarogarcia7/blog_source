@@ -21,14 +21,28 @@ git commit -m "add partial: $2"
 
 elif test "$1" = "apply"; then
 
-    if test -z "$2"; then
+
+    regex=$(echo $2|tr -d "partial/")
+    cd partial
+    diff_file=partial/$(ls -htp $regex*| grep -v "/"|head -2|grep diff)
+    message_file=partial/$(ls -htp $regex*|grep -v "/" | head -2|grep msg)
+    cd -
+
+    if [[ $# -eq 3 ]]; then
+        # save.sh $operation $partial $to_file
+        filename="$3"
+    elif [[ $# -eq 2 ]]; then
+        # save.sh $operation $partial
         filename="source/_posts/2015-09-01-self-study-in-september-2015.markdown"
+    elif [[ $# -eq 1 ]]; then
+        # save.sh $operation
+        filename="source/_posts/2015-09-01-self-study-in-september-2015.markdown"
+        diff_file=partial/$(ls -htp partial|grep -v "/"|head -2|grep diff)
+        message_file=partial/$(ls -htp partial|grep -v "/" | head -2|grep msg)
     else
-        filename="$2"
+        echo "did not understand the amount of arguments"
     fi
 
-diff_file=partial/$(ls -htp partial|grep -v "/"|head -2|grep diff)
-message_file=partial/$(ls -htp partial|grep -v "/" | head -2|grep msg)
 
 cat $diff_file >> $filename
 git add $filename
