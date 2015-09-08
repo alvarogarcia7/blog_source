@@ -45,8 +45,8 @@ elif test "$1" = "pop"; then
 
 
     if [ -z $diff_file -o -z $message_file  ]; then
-    	echo "could not apply this partial file"
-    	exit 1
+        echo "could not apply this partial file"
+        exit 1
     fi
 
     message_file=partial/$message_file
@@ -60,11 +60,11 @@ git commit -F $message_file
 rm -f $diff_file
 rm -f $message_file
 
-git add --all partial
-git commit "delete partial files"
+git add --all -- partial
+git commit -m "delete partial files"
 
 else
 
-	echo "did not understand command $@"
+    echo "did not understand command $@"
 
 fi
