@@ -223,3 +223,14 @@ Tags: haskell, repl, jordan-medlock, beginner, video
 
 [medlock-learn-haskell]: https://www.youtube.com/watch?v=JJlI5FPTbgE
 
+## TMUX - The Terminal Multiplexer
+
+I've read these two parts: ([one][tmux-part-1], [two][tmux-part-2]) of an introduction guide to ``tmux`` (the unix terminal multiplexer) by Cody from Hawk Host.
+
+In it, he explains the basics of tmux and the main differences with ``screen``
+
+Tags: cody, hawk-host, tmux, how-to
+
+[tmux-part-1]: http://blog.hawkhost.com/2010/06/28/tmux-the-terminal-multiplexer/
+[tmux-part-2]: http://blog.hawkhost.com/2010/07/02/tmux-%E2%80%93-the-terminal-multiplexer-part-2
+
