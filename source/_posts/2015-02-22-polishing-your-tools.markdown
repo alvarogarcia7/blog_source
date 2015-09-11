@@ -75,6 +75,9 @@ Either way, should your company provide it for your or not, you are the one in c
 
   * Every sprint, one of my clients (as of 2015-05) wants to review the work done using some slides and a live demo. The 'sample' slides with the format, layout is useful. Everything that should be replaced (timestamp, contents, etc) is marked with a TODO
   * Every day, I commit plenty of times to the control version system (i.e., git). I have an alias for commit, diff, status, etc, that saves me some keystrokes on the most common commands
+  * See the post "A basic working environment"
+  * Deployment, even on local, is automated: a script for getting the latest ``branch``, ``develop`` or ``master`` code, build the Docker container, start the docker image, notify me the code is ready
+  * Pipeline: I have a pipeline, in local, where I can push and the tests will be executed automatically. If the build fails (usually BDD tests), I can ``push -f`` without affecting to the repo history. 
 
 ----
 
