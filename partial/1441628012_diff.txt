@@ -1,0 +1,10 @@
+## Alternatives to boolean parameters
+
+I've read [this article][alternative-to-boolean-parameters] explaining alternatives to sending a boolean parameter to decide on the contents of the function. Written by Dariusz Pasciak
+
+As I heard some time ago, if a function receives a boolean to decide on what to do, it will for sure have more than one responsibility: one for the false value and one for the true value.
+
+Tags: dariusz-pasciak, boolean, srp, boolean-parameter
+
+[alternative-to-boolean-parameters]: https://blog.8thlight.com/dariusz-pasciak/2015/05/28/alternatives-to-boolean-parameters.html
+
