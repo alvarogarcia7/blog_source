@@ -242,6 +242,8 @@ Comparison between entropy and lack of information, using the theories from Shan
 
 There's also a gentle introduction to thermodynamics in layman terms: heat, temperature, microstates, macrostates, reversability, etc.
 
+In this paper it is also reflected (in macro vs micro states) that the sum all parts is simpler than the single ones (i.e., Information Hiding)
+
 Tags: henry-baker, thermodynamics, microstate, macrostate, analogy, simulated-annealing, garbage-collection, shannon, information, maxwell-boltzmann, freezer, oven, entropy
 
 [thermogc]: http://www.pipeline.com/~hbaker1/ThermoGC.html
