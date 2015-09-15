@@ -248,3 +248,15 @@ Tags: henry-baker, thermodynamics, microstate, macrostate, analogy, simulated-an
 
 [thermogc]: http://www.pipeline.com/~hbaker1/ThermoGC.html
 
+## How we ended up with microservices
+
+I've read [this article][end-up-with-microservices], by Phil Calçado, where he talks about his stay at SoundCloud:
+
+  * the value stream map: from X days to Y
+  * reorganizing teams into service teams
+  * conway's law and teams being responsible for support. Also, being given full authority
+
+  Tags: phil-calcado, soundcloud, microservice, team-split, value-stream-mapping, conversion, reorganization
+
+[end-up-with-microservices]: http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html
+
