@@ -260,3 +260,11 @@ I've read [this article][end-up-with-microservices], by Phil Calçado, where he 
 
 [end-up-with-microservices]: http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html
 
+## Lisp is still a secret weapon
+
+I've read [this article][lisp-still-secret-weapon] by Judd Keppel where he explains it is a good idea that Clojure / ClojureScript continues to be a secret, not known among developers. Cites the article 'Beating the averages' by Paul Graham and the amount of available packages in npm, maven central, etc
+
+Tags: paul-graham, judd-keppel, clojure, clojurescript, weapon, developer
+
+[lisp-still-secret-weapon]: http://kep.io/is-lisp-still-a-secret-weapon/
+
