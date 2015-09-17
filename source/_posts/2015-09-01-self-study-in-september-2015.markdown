@@ -268,3 +268,11 @@ Tags: paul-graham, judd-keppel, clojure, clojurescript, weapon, developer
 
 [lisp-still-secret-weapon]: http://kep.io/is-lisp-still-a-secret-weapon/
 
+## Perceptron
+
+I've read [this wikipedia][perceptron-wiki] article that explains the single-layer and multi-layer perceptron. First designed to be a machine (hardware), but later an algorithm for supervised machine learning. Worked by Minsky & Papert and invented by Frank Rosenblatt in 1958.
+
+Tags: peceptron, artificial-intelligence, machine-learning, frank-rosenblatt, 1958, mavin-minsky, seymour-papert
+
+[perceptron-wiki]: https://en.wikipedia.org/wiki/Perceptron
+
