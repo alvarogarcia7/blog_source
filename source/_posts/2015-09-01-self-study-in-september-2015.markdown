@@ -283,3 +283,4 @@ I've read [this paper][design-by-contract-unam] that explains design by contract
 Tags: gerardo-rossel, andrea-manna, design-by-contract, unam-mx, eiffel, java, precondition, postcondition, trust, quality, hoare-triplet, method-invariant, class-invariant
 
 [design-by-contract-unam]: http://www.revista.unam.mx/vol.4/num5/art11/sep_art11.pdf
+
