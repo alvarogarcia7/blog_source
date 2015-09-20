@@ -1,0 +1,20 @@
+[design-by-contract-unam]: http://www.revista.unam.mx/vol.4/num5/art11/sep_art11.pdf
+
+## Do you really get classloaders?
+
+I've watched [this video][really-get-classloaders] by Jevgeny Kabanov on classloaders: what they are, how they work nad some tips to solve common issues.
+
+My notes:
+
+  * the classloading is lazy: the resources are not loaded until they are mentioned
+  * every classloader has a parent
+  * every class has a classloader associated with it
+  * every object has a class associated with it
+  * classloading delegation: the parent is consulted before loading a class. if it has it, it will load it. If not, I will delegate it
+
+There is also [this article][comments-on-classloaders] on the same video
+
+Tags: jevgeny-kabanov, classloader, java, 
+
+[really-get-classloaders]: http://zeroturnaround.com/rebellabs/rebel-labs-tutorial-do-you-really-get-classloaders/
+[comments-on-classloaders]: http://www.javaworld.com/article/2074396/core-java/javaone-2011--do-you-really-get-classloaders-.html
