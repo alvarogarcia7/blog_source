@@ -276,3 +276,10 @@ Tags: peceptron, artificial-intelligence, machine-learning, frank-rosenblatt, 19
 
 [perceptron-wiki]: https://en.wikipedia.org/wiki/Perceptron
 
+## Diseño por contratos: construyendo software confiable
+
+I've read [this paper][design-by-contract-unam] that explains design by contract, based on the Hoare triplet, pre-post condition, method and class invariant. With examples in Eiffel, Java about a package sender company. Also explains pre/post with inheritance. By Gerardo Rossel and Andrea Manna. In Spanish.
+
+Tags: gerardo-rossel, andrea-manna, design-by-contract, unam-mx, eiffel, java, precondition, postcondition, trust, quality, hoare-triplet, method-invariant, class-invariant
+
+[design-by-contract-unam]: http://www.revista.unam.mx/vol.4/num5/art11/sep_art11.pdf
