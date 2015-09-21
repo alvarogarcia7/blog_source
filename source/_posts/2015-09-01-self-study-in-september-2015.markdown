@@ -284,3 +284,10 @@ Tags: gerardo-rossel, andrea-manna, design-by-contract, unam-mx, eiffel, java, p
 
 [design-by-contract-unam]: http://www.revista.unam.mx/vol.4/num5/art11/sep_art11.pdf
 
+## The Inevitable Return of COBOL
+
+I've read [this article][return-of-cobol] that explains the current state of COBOL in programming and systems. Written by Ritika Trikha
+
+Tags: ritika-trikha, cobol, programming-language, retirement, median-age
+
+[return-of-cobol]: http://blog.hackerrank.com/the-inevitable-return-of-cobol/
