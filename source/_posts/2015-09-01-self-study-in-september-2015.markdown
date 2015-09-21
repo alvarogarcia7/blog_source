@@ -291,3 +291,12 @@ I've read [this article][return-of-cobol] that explains the current state of COB
 Tags: ritika-trikha, cobol, programming-language, retirement, median-age
 
 [return-of-cobol]: http://blog.hackerrank.com/the-inevitable-return-of-cobol/
+
+## The Risky Eclipse of Statisticians
+
+I've read [this article][eclipse-of-statiscians] where Ritika Trikha explains the current situation regarding Big Data and the statiscian jobs. How Big Data is in demand but the latter are not and what effects this might have.
+
+Tags: ritika-trikha, bootcamp, programming, hiring, big-data, analysis, statistics
+
+[eclipse-of-statiscians]: http://blog.hackerrank.com/the-risky-eclipse-of-statisticians/
+
