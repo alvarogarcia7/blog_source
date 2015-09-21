@@ -36,3 +36,16 @@ git push --set-upstream origin $branch
 git checkout develop
 ```
 
+In the pipeline, in the ``.git/hooks/post-receive`` file:
+
+```bash
+#!/bin/sh
+
+while read oldrev newrev refname
+do
+    branch=$(git rev-parse --symbolic --abbrev-ref $refname)
+    ./pipeline.sh $branch
+done
+```
+
+
