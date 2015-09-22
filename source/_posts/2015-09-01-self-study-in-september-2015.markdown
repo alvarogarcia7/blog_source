@@ -276,7 +276,6 @@ Tags: peceptron, artificial-intelligence, machine-learning, frank-rosenblatt, 19
 
 [perceptron-wiki]: https://en.wikipedia.org/wiki/Perceptron
 
-
 ## Is C# a strongly typed or a weakly typed language?
 
 I've read [this article][c-sharp-strongly-or-weakly-typed], in the form of a dialogue between Eric Lippert and himself about the C# language and its type system.
@@ -284,4 +283,28 @@ I've read [this article][c-sharp-strongly-or-weakly-typed], in the form of a dia
 Tags: type-system, c-sharp, eric-lippert, dialogue, strongly-typed, weakly-typed, language
 
 [c-sharp-strongly-or-weakly-typed]: http://ericlippert.com/2012/10/15/is-c-a-strongly-typed-or-a-weakly-typed-language/
+
+## Diseño por contratos: construyendo software confiable
+
+I've read [this paper][design-by-contract-unam] that explains design by contract, based on the Hoare triplet, pre-post condition, method and class invariant. With examples in Eiffel, Java about a package sender company. Also explains pre/post with inheritance. By Gerardo Rossel and Andrea Manna. In Spanish.
+
+Tags: gerardo-rossel, andrea-manna, design-by-contract, unam-mx, eiffel, java, precondition, postcondition, trust, quality, hoare-triplet, method-invariant, class-invariant
+
+[design-by-contract-unam]: http://www.revista.unam.mx/vol.4/num5/art11/sep_art11.pdf
+
+## The Inevitable Return of COBOL
+
+I've read [this article][return-of-cobol] that explains the current state of COBOL in programming and systems. Written by Ritika Trikha
+
+Tags: ritika-trikha, cobol, programming-language, retirement, median-age
+
+[return-of-cobol]: http://blog.hackerrank.com/the-inevitable-return-of-cobol/
+
+## The Risky Eclipse of Statisticians
+
+I've read [this article][eclipse-of-statiscians] where Ritika Trikha explains the current situation regarding Big Data and the statiscian jobs. How Big Data is in demand but the latter are not and what effects this might have.
+
+Tags: ritika-trikha, bootcamp, programming, hiring, big-data, analysis, statistics
+
+[eclipse-of-statiscians]: http://blog.hackerrank.com/the-risky-eclipse-of-statisticians/
 
