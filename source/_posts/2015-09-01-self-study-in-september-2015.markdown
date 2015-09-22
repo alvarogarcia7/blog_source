@@ -276,3 +276,12 @@ Tags: peceptron, artificial-intelligence, machine-learning, frank-rosenblatt, 19
 
 [perceptron-wiki]: https://en.wikipedia.org/wiki/Perceptron
 
+
+## Is C# a strongly typed or a weakly typed language?
+
+I've read [this article][c-sharp-strongly-or-weakly-typed], in the form of a dialogue between Eric Lippert and himself about the C# language and its type system.
+
+Tags: type-system, c-sharp, eric-lippert, dialogue, strongly-typed, weakly-typed, language
+
+[c-sharp-strongly-or-weakly-typed]: http://ericlippert.com/2012/10/15/is-c-a-strongly-typed-or-a-weakly-typed-language/
+
