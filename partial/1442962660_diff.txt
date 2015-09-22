@@ -1,0 +1,23 @@
+## Truth table
+
+I've read [the wikipedia article][truth-table-wiki] about the truth table and the 16 possible binary boolean operators:
+
+  * Contradiction
+  * NOR
+  * Converse nonimplication
+  * Negation (of p)
+  * Material nonimplication
+  * Negation (of q)
+  * XOR (exclusive disjunction)
+  * NAND
+  * AND (conjunction)
+  * XNOR (biconditional)
+  * Projection (of p)
+  * Implication
+  * Projection (of q)
+  * Converse implication
+  * OR (disjunction)
+  * Tautology
+
+[truth-table-wiki]: https://en.wikipedia.org/wiki/Truth_table
+
