@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 
 if test "$1" = "push"; then
 
