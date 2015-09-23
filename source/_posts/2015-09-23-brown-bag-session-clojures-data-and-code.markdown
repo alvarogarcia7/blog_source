@@ -12,6 +12,9 @@ categories:
   - homoiconicity
   - prepared-kata
   - lisp
+  - code=data
+  - data=code
+  - feedback
 ---
 
 Today, at a client, I've facilitated the brown-bag session on Clojure, introducing Lisp's [homoiconicity][wiki-homoiconocity].
