@@ -30,7 +30,7 @@ Among them:
   * Configuration and extensibility: allowing for flexibility, define at configuration time new features without recompiling or modifying the system.
   * Persisting and restoring certain state: this is a problem that could easily be solved persisting data in Lisp
 
-I explained, in private to those who asked, about Lisp and its dialects Common Lisp, Clojure and Scheme.
+I explained, in private to those who asked, about [Lisp][wiki-lisp] and its dialects [Common Lisp][wiki-common-lisp], [Clojure][wiki-clojure] and [Scheme][wiki-scheme].
 
 ## Feedback
 
@@ -39,3 +39,7 @@ I explained, in private to those who asked, about Lisp and its dialects Common L
   * They suggested to improve the level of the session: as the group as a whole is still starting with Clojure, leaving them on their own with code is too much. They asked for more guidance
 
 [wiki-homoiconocity]: https://en.wikipedia.org/wiki/Homoiconicity
+[wiki-lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language)
+[wiki-scheme]: https://en.wikipedia.org/wiki/Scheme_(programming_language)
+[wiki-common-lisp]: https://en.wikipedia.org/wiki/Common_Lisp
+[wiki-clojure]: https://en.wikipedia.org/wiki/Clojure
