@@ -9,6 +9,9 @@ categories:
   - client
   - code-equals-data
   - clojure
+  - homoiconicity
+  - prepared-kata
+  - lisp
 ---
 
 Today, at a client, I've facilitated the brown-bag session on Clojure, introducing Lisp's [homoiconicity][wiki-homoiconocity].
