@@ -156,3 +156,25 @@ and in the ``test/simple/application-properties.clj``:
 (defn peers[]
   (get-from-webserver "peer"))
 ```
+
+## Other uses
+
+The properties file can also be seen as a configuration source, i.e., a place where configuration can be stored.
+
+A common case for these configuration files are rules.
+
+Let's take a validation example: describing validation rules in a DSL
+
+A first take would be to create an engine plus ``eval``uable rules.
+
+Example: 
+
+Java engine + XML/Json/YAML rules
+
+TODO Is the problem about being practical or theoretically possible?
+  
+  You could have Java code in the configuration file and then javac that code into valid java bytecode to be executed.
+
+  If your write it in javascript, the problem is reduced because you can use the eval function.
+
+TODO: S-Expressions are not considered Turing-complete, although it doesn't cite a source. https://en.wikipedia.org/wiki/Turing_completeness . Search for S-Expression
