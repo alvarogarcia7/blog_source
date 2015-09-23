@@ -7,7 +7,6 @@ categories:
   - brown-bag
   - training
   - client
-  - code-equals-data
   - clojure
   - homoiconicity
   - prepared-kata
