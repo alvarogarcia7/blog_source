@@ -22,4 +22,10 @@ Among them:
   * Configuration and extensibility: allowing for flexibility, define at configuration time new features without recompiling or modifying the system.
   * Persisting and restoring certain state: this is a problem that could easily be solved persisting data in Lisp
 
+Among the feedback:
+
+  * They liked the effort of investigating new languages to solve problems we have in our current stack
+  * They liked introducing the language features with a back-story to better understand the concepts
+  * They suggested to improve the level of the session: as the group as a whole is still starting with Clojure, leaving them on their own with code is too much. They asked for more guidance
+
 [wiki-homoiconocity]: https://en.wikipedia.org/wiki/Homoiconicity
