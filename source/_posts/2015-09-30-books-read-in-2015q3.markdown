@@ -35,6 +35,8 @@ Books that have entered the queue:
   * [Clojure for the brave and true](http://www.braveclojure.com/#toc)
   * [How to Solve It: A New Aspect of Mathematical Method](http://press.princeton.edu/titles/669.html) by George Pólya
   * [Conceptual Mathematics: A First Introduction to Categories](http://www.amazon.com/Conceptual-Mathematics-First-Introduction-Categories/dp/052171916X) by Lawvere and Schanuel
+  * [Understanding Computation: From Simple Machines to Impossible Programs](http://computationbook.com/) by Tom Stuart
+  * [Programming in Haskell](http://www.cambridge.org/wm-ecommerce-web/academic/landingPage/PIHMOOC) by Graham Hutton
 
 {% comment %}
 
