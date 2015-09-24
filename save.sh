@@ -3,7 +3,7 @@
 set -e
 
 
-if test "$1" = "push"; then
+if test "$1" = "save"; then
 
 echo "there were $(ls -lah partial|wc -l) files"
 
