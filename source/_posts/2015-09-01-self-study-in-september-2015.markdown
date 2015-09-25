@@ -316,3 +316,11 @@ Tags: jason-fried, idea, think, startup, blue-hat, thinking-hat,  six-thinking-h
 
 [give-it-five-minutes]: https://signalvnoise.com/posts/3124-give-it-five-minutes
 
+## Reading Clojure Stacktraces
+
+I've read [this article][reading-clojure-stacktraces] by Jay Fields on reading clojure stacktraces. Very similar to "Clojure Stack Traces for the Uninitiated"
+
+Tags: jay-fields, clojure, stacktrace
+
+[reading-clojure-stacktraces]: http://blog.jayfields.com/2012/06/reading-clojure-stacktraces.html
+
