@@ -1,0 +1,1 @@
+add article on using rabbitmq as a lock service
