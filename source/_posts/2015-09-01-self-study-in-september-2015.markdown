@@ -308,3 +308,11 @@ Tags: ritika-trikha, bootcamp, programming, hiring, big-data, analysis, statisti
 
 [eclipse-of-statiscians]: http://blog.hackerrank.com/the-risky-eclipse-of-statisticians/
 
+## Give it five minutes
+
+I've read [this article][give-it-five-minutes] by Jason Fried where he explains why we should give ideas time to sink in and marinate, before dismissing them. Ideas are so fragile that it is better to let them live for a while before dismissing them. This also applies for thoughts (other people's or your own).
+
+Tags: jason-fried, idea, think, startup, blue-hat, thinking-hat,  six-thinking-hats, red-hat
+
+[give-it-five-minutes]: https://signalvnoise.com/posts/3124-give-it-five-minutes
+
