@@ -324,3 +324,11 @@ Tags: jay-fields, clojure, stacktrace
 
 [reading-clojure-stacktraces]: http://blog.jayfields.com/2012/06/reading-clojure-stacktraces.html
 
+## Clojure Stack Traces for the Uninitiated
+
+I've read [this article][clojure-stacktraces] on how to interpret clojure stacktraces. Written by Connor Mendenhall
+
+Tags: connor-mendenhall, clojure, stacktrace
+
+[clojure-stacktraces]: https://blog.8thlight.com/connor-mendenhall/2014/09/12/clojure-stacktraces.html
+
