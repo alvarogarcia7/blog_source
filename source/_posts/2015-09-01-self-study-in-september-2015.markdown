@@ -332,3 +332,11 @@ Tags: connor-mendenhall, clojure, stacktrace
 
 [clojure-stacktraces]: https://blog.8thlight.com/connor-mendenhall/2014/09/12/clojure-stacktraces.html
 
+## JavaScript type inference
+
+I've found (and played) with [this JavaScript type inference engine][js-cfa2]. Written in Javascript (and available online). Written by Dimitrios Vardoulakis.
+
+Tags: javascript-type-inference, type-inference, type-inference-algorithm, dimitrios-vardoulakis, cfa2
+
+[js-cfa2]: http://www.ccs.neu.edu/home/dimvar/jstypes.html
+
