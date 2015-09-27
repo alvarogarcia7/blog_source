@@ -215,7 +215,7 @@ categories:
   - time-lapse
   - tomasz-nurkiewicz
   - travis-ci
-  - ubiquotous-language
+  - ubiquitous-language
   - uku-taht
   - video
   - waking-mind
@@ -622,7 +622,7 @@ Tags: tomasz-nurkiewicz, java-8, completable-future, future, non-blocking, react
 
 I've read [this infographic][making-10-ddd-mistakes] on 10 DDD common mistakes, by Daniel Whittaker.
 
-Tags: ddd, daniel-whittaker, bounded-context, ubiquotous-language, infographic
+Tags: ddd, daniel-whittaker, bounded-context, ubiquitous-language, infographic
 
 [making-10-ddd-mistakes]: http://danielwhittaker.me/2015/07/05/are-you-making-these-10-ddd-mistakes/#
 
