@@ -26,8 +26,8 @@ elif test "$1" = "pop"; then
 
     regex=$(echo $2|tr -d "partial/")
     cd partial
-    diff_file=$(ls -htp $regex*| grep -v "/"|head -2|grep diff)
-    message_file=$(ls -htp $regex*|grep -v "/" | head -2|grep msg)
+    diff_file=$(ls $regex*| sort| grep -v "/"|head -2|grep diff)
+    message_file=$(ls $regex*| sort| grep -v "/" | head -2|grep msg)
     cd -
 
     if [[ $# -eq 3 ]]; then
