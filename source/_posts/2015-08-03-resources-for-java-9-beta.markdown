@@ -4,6 +4,10 @@ title: "Resources for Java 9 (beta)"
 date: 2015-08-03 01:49:30 +0200
 comments: true
 categories: 
+  - java-9
+  - resource
+  - repl
+  - tutorial
 ---
 
 
