@@ -4,6 +4,16 @@ title: "Brown-bag session and Dojo: Beginning Clojure"
 date: 2015-08-05 01:14:14 +0200
 comments: true
 categories: 
+  - client
+  - brown-bag-session
+  - dojo
+  - clojure
+  - facilitator
+  - facilitation
+  - clojure-for-java-developer
+  - repl
+  - guide
+  - repository
 ---
 
 At a client, today I've facilitated a brown-bag session introducing the Clojure language to a group of java programmers.
