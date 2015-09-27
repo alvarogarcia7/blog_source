@@ -54,7 +54,7 @@ categories:
   - hornbeck
   - technologist
   - well-rounded
-  - papers
+  - paper
   - lisp-1
   - lisp-2
   - tedx
