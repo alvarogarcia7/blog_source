@@ -1,0 +1,6 @@
+## Scsh
+
+I've read [the wikipedia page][wiki-scsh] for Scsh, the Scheme shell.
+
+[wiki-scsh]: https://en.wikipedia.org/wiki/Scsh
+
