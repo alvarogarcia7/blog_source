@@ -209,7 +209,6 @@ categories:
   - talk
   - tdd
   - technical-debt
-  - test
   - testing
   - thoreau
   - thoughtworks
