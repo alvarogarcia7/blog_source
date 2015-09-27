@@ -7,7 +7,6 @@ categories:
     - idea
     - protip
     - repository
-    - repo
 ---
 
 Following a team member's recommendation, I recently started a repository to save all my useful snippets.
