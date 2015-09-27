@@ -47,7 +47,7 @@ categories:
   - joseph-yoder
   - rüdiger-möller
   - concurrency
-  - parallellism
+  - parallelism
   - jvm
   - jmm
   - java-memory-model
