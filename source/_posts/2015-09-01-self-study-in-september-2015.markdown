@@ -350,3 +350,11 @@ Tags: dariusz-pasciak, boolean, srp, boolean-parameter
 
 [alternative-to-boolean-parameters]: https://blog.8thlight.com/dariusz-pasciak/2015/05/28/alternatives-to-boolean-parameters.html
 
+## Why Are Web Uploads So Painful?
+
+I've read [this article][web-uploads-painful] on web uploads being painful. By Jeff Atwood. The screenshots feel old (2007) and some of the problems have already been solved.
+
+Tags: jeff-atwood, article, upload, browser
+
+[web-uploads-painful]: http://blog.codinghorror.com/why-are-web-uploads-so-painful/
+
