@@ -358,3 +358,11 @@ Tags: jeff-atwood, article, upload, browser
 
 [web-uploads-painful]: http://blog.codinghorror.com/why-are-web-uploads-so-painful/
 
+## Can Your Team Pass The Elevator Test?
+
+I've read [this article][pass-the-elevator-test] on the elevator test by Jeff Atwood.
+
+Tags: jeff-atwood, article, elevator-test, assumption, microsoft-bob, vision, product, feature
+
+[pass-the-elevator-test]: http://blog.codinghorror.com/can-your-team-pass-the-elevator-test/
+
