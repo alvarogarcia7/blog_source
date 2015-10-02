@@ -35,10 +35,10 @@ elif test "$1" = "pop"; then
         filename="$3"
     elif [[ $# -eq 2 ]]; then
         # save.sh $operation $partial
-        filename="source/_posts/2015-09-01-self-study-in-september-2015.markdown"
+        filename="source/_posts/2015-10-01-self-study-in-october-2015.markdown"
     elif [[ $# -eq 1 ]]; then
         # save.sh $operation
-        filename="source/_posts/2015-09-01-self-study-in-september-2015.markdown"
+        filename="source/_posts/2015-10-01-self-study-in-october-2015.markdown"
         diff_file=$(ls partial|sort|grep -v "/"|head -2|grep diff)
         message_file=$(ls partial|sort|grep -v "/" | head -2|grep msg)
     else
