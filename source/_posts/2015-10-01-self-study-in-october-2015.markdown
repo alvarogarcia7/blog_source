@@ -24,3 +24,10 @@ Tags: elm, dom, virtual-dom, comparison, speed, haskell, evan-czaplicki
 
 [elm-blazing-fast-html]: http://elm-lang.org/blog/blazing-fast-html
 
+## Why you should never, ever, ever use MongoDB
+
+I've read [this article][never-use-mongodb] stating the downsides of using MongoDB. Written by Sven Slootweg
+
+Tags: mongodb, downside, sven-slootweg, json, document-store, postgresql, acid
+
+[never-use-mongodb]: http://cryto.net/~joepie91/blog/2015/07/19/why-you-should-never-ever-ever-use-mongodb/
