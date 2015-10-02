@@ -30,6 +30,7 @@ elif test "$1" = "pop"; then
 		message_file=$(ls partial|sort|grep -v "/" | head -2|grep msg)
 	else
 		echo "did not understand the amount of arguments"
+		exit 1
 	fi
 
 
