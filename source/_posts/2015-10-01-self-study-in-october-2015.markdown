@@ -24,3 +24,12 @@ Tags: 30-second, habit, robyn-scott
 
 [30-second-habit]: https://blog.growth.supply/the-30-second-habit-with-a-lifelong-impact-2c3f948ead98
 
+
+## Blazing Fast HTML: Virtual DOM in Elm
+
+I've read [this article][elm-blazing-fast-html] explaining how Elm works in relation to the virtual DOM. By Evan Czaplicki.
+
+Tags: elm, dom, virtual-dom, comparison, speed, haskell, evan-czaplicki
+
+[elm-blazing-fast-html]: http://elm-lang.org/blog/blazing-fast-html
+
