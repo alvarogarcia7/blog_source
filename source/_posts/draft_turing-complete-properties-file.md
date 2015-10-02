@@ -178,3 +178,45 @@ TODO Is the problem about being practical or theoretically possible?
   If your write it in javascript, the problem is reduced because you can use the eval function.
 
 TODO: S-Expressions are not considered Turing-complete, although it doesn't cite a source. https://en.wikipedia.org/wiki/Turing_completeness . Search for S-Expression
+
+
+## Example
+
+```lisp
+(def configuration 
+	{:isServiceEnabled true
+	 :serviceLocation "http://localhost:5000/op/"
+	 :version "v1"
+	 })
+
+(defn load-configuration [defaultConfig newconfig]
+	(if (newer? newconfig defaultConfig)
+		newconfig
+		defaultConfig))
+
+(defn newer? [c1 c2]
+	(> (:version c1) (:version c2)))
+
+(cond
+	(a > 1) true
+	(a > 2) 8
+	:default false)
+
+(def configuration-rules {
+	:isServiceEnabled
+		{
+			:possible-values [true, false]
+			:mandatory true
+			:forces [:endpoint]
+		}
+
+	:endpoint
+		{
+			:mandatory false
+			:requires [:isServiceEnabled]
+			:is-valid? (fn (or 
+				(fn [n] (> n 9))
+				(fn [n] (= n -1))))
+		}
+})
+```
