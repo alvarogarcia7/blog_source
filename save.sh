@@ -23,20 +23,7 @@ git commit -m "add partial: $2"
 
 elif test "$1" = "pop"; then
 
-
-    regex=$(echo $2|tr -d "partial/")
-    cd partial
-    diff_file=$(ls $regex*| sort| grep -v "/"|head -2|grep diff)
-    message_file=$(ls $regex*| sort| grep -v "/" | head -2|grep msg)
-    cd -
-
-    if [[ $# -eq 3 ]]; then
-        # save.sh $operation $partial $to_file
-        filename="$3"
-    elif [[ $# -eq 2 ]]; then
-        # save.sh $operation $partial
-        filename="source/_posts/2015-10-01-self-study-in-october-2015.markdown"
-    elif [[ $# -eq 1 ]]; then
+    if [[ $# -eq 1 ]]; then
         # save.sh $operation
         filename="source/_posts/2015-10-01-self-study-in-october-2015.markdown"
         diff_file=$(ls partial|sort|grep -v "/"|head -2|grep diff)
