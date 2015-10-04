@@ -51,3 +51,26 @@ Tags: jevgeny-kabanov, classloader, java,
 
 [really-get-classloaders]: http://zeroturnaround.com/rebellabs/rebel-labs-tutorial-do-you-really-get-classloaders/
 [comments-on-classloaders]: http://www.javaworld.com/article/2074396/core-java/javaone-2011--do-you-really-get-classloaders-.html
+## Truth table
+
+I've read [the wikipedia article][truth-table-wiki] about the truth table and the 16 possible binary boolean operators:
+
+  * Contradiction
+  * NOR
+  * Converse nonimplication
+  * Negation (of p)
+  * Material nonimplication
+  * Negation (of q)
+  * XOR (exclusive disjunction)
+  * NAND
+  * AND (conjunction)
+  * XNOR (biconditional)
+  * Projection (of p)
+  * Implication
+  * Projection (of q)
+  * Converse implication
+  * OR (disjunction)
+  * Tautology
+
+[truth-table-wiki]: https://en.wikipedia.org/wiki/Truth_table
+
