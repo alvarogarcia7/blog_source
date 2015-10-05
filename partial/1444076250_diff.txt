@@ -1,0 +1,6 @@
+## Your first Ruby native extension: C
+I've read [this article][native-extension-ruby] about writing a native extension for ruby. Written by James Coglan
+
+Tags: james-coglan, ruby, c, native-extension
+
+[native-extension-ruby]: https://blog.jcoglan.com/2012/07/29/your-first-ruby-native-extension-c/
