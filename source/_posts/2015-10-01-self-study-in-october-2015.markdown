@@ -74,3 +74,13 @@ I've read [the wikipedia article][truth-table-wiki] about the truth table and th
 
 [truth-table-wiki]: https://en.wikipedia.org/wiki/Truth_table
 
+## 7 lines of code, 3 minutes: Implement a programming language from scratch
+
+I've read [this article][implemeting-language] by Matt Might about the benefits of implementing a language (from scratch but on top of another existing language used as framework). Chooses lambda calculus as the desired DSL
+
+Tags: matt-might, lambda-calculus, racket, domain-specific-language
+
+[implemeting-language]: http://matt.might.net/articles/implementing-a-programming-language/
+
+
+
