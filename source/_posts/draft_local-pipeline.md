@@ -24,6 +24,14 @@ In the pipeline, in ``.git`` folder:
 set -e
 set -o pipefail
 
+# upon failure, tell the user
+
+function err {
+  growlnotify "pipeline fails"
+}
+
+trap "err" ERR
+
 branch=$1
 
 if [[ -z $branch ]]; then
@@ -37,6 +45,8 @@ git push --set-upstream origin $branch
 git checkout develop
 ```
 
+The program ``growlnotify`` is a [CLI notifier][growlnotify] to growl ([windows][growl-for-windows], [linux][growl-for-linux])
+
 In the pipeline, in the ``.git/hooks/post-receive`` file:
 
 ```bash
@@ -49,4 +59,13 @@ do
 done
 ```
 
+## Reference
 
+  * [Trap](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_12_02.html)
+  * [Set Builtin](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html#The-Set-Builtin)
+  * [Sample bash error handling](http://idolinux.blogspot.com/2008/08/bash-script-error-handling.html)
+
+
+[growl-for-windows]: http://www.growlforwindows.com/gfw/default.aspx
+[growl-for-linux]: http://mattn.github.io/growl-for-linux/
+[growlnotify]: http://www.growlforwindows.com/gfw/help/growlnotify.aspx
