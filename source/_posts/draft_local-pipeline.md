@@ -22,6 +22,7 @@ In the pipeline, in ``.git`` folder:
 #!/bin/bash
 
 set -e
+set -o pipefail
 
 branch=$1
 
@@ -31,7 +32,7 @@ if [[ -z $branch ]]; then
 fi
 
 git checkout $branch
-mvn clean install
+mvn clean install | tee output.log
 git push --set-upstream origin $branch
 git checkout develop
 ```
