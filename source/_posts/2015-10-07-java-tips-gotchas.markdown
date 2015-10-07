@@ -13,6 +13,7 @@ categories:
   - file-encoding
 ---
 
+## JVM default encoding as UTF-8
 
 Make the JVM use UTF-8 character encoding by default 
 
