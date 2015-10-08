@@ -32,7 +32,7 @@ bash-3.1$ echo $?
 0
 ```
 
-Should you want to pass the non-zero (error) status code to the next operation, use this toggle this feature: ``set -o pipefail``
+Should you want to pass the non-zero (error) status code to the next operation, use this feature toggle: ``set -o pipefail``
 
 ```bash
 bash-3.1$ set -o pipefail

@@ -183,7 +183,12 @@ task :ignore do
   cd "#{source_dir}/#{posts_dir}"
   system "git update-index --assume-unchanged $(ls *.markdown)"
   system "rm $(ls *.markdown)"
-end
+
+=begin
+cd source/_posts
+git update-index --assume-unchanged $(ls *.markdown)
+rm $(ls *.markdown)
+=end
 
 desc "Move sass to sass.old, install sass theme updates, replace sass/custom with sass.old/custom"
 task :update_style, :theme do |t, args|
