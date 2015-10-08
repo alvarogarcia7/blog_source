@@ -101,3 +101,11 @@ As a side note, Lisp is Turing Complete (see [Turing Complete#Examples][turing-c
 
 [turing-completeness]: https://en.wikipedia.org/wiki/Turing_completeness
 
+## The Prize Is Won; The Simplest Universal Turing Machine Is Proved
+
+I've read [this article][simplest-universal-turing-machine] by Stephen Wolfram about the proof of a Turing Machine 2,3 being universal by Alex Smith.
+
+Tags: stephen-wolfram, turing-machine, universal-turing-machine, proof, paper, alex-smith
+
+[simplest-universal-turing-machine]: http://blog.wolfram.com/2007/10/24/the-prize-is-won-the-simplest-universal-turing-machine-is-proved/?year=2007&monthnum=10
+
