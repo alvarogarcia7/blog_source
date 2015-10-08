@@ -84,3 +84,20 @@ Tags: matt-might, lambda-calculus, racket, domain-specific-language
 
 
 
+## Turing completeness
+
+I've read [this wikipedia article][turing-completeness] (both main and discussion) about this subject. 
+
+It has sounded strange to me the reference to S-expressions:
+
+> Data languages
+The notion of Turing-completeness does not apply to languages such as XML, HTML, JSON, YAML and S-expressions because they are typically used to represent structured data, not describe computation [...]
+
+If data (S-expression) is represented as the same format as code (e.g., Lisp's S-expression) and the latter is used to represent a computation, shouldn't be "data languages that also are used as computation languages" excluded from that list?
+
+As a side note, Lisp is Turing Complete (see [Turing Complete#Examples][turing-complete-examples])
+
+[turing-complete-examples]: https://en.wikipedia.org/wiki/Turing_completeness#Examples
+
+[turing-completeness]: https://en.wikipedia.org/wiki/Turing_completeness
+
