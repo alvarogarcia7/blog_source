@@ -109,3 +109,13 @@ Tags: stephen-wolfram, turing-machine, universal-turing-machine, proof, paper, a
 
 [simplest-universal-turing-machine]: http://blog.wolfram.com/2007/10/24/the-prize-is-won-the-simplest-universal-turing-machine-is-proved/?year=2007&monthnum=10
 
+## No increment operator (++) in Ruby?
+
+I've read [this stackoverflow][increment-operator-ruby] question about the lack of post-increment operator (i++) in Ruby:
+
+> ++ and -- are NOT reserved operator in Ruby.
+>
+> Mailing list from [Yukihiro Matsumoto aka matz](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/2710)
+
+[increment-operator-ruby]: http://stackoverflow.com/questions/3717519/no-increment-operator-in-ruby
+
