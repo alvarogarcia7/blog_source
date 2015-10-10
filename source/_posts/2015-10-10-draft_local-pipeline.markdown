@@ -114,6 +114,10 @@ Clean up: checkout to develop (or any other branch that always exists), leaving 
 
 The program ``growlnotify`` is a [CLI notifier][growlnotify] to ``growl`` ([windows][growl-for-windows], [linux][growl-for-linux])
 
+## Conclusions
+
+Ideally, the tests should be faster, and executing them locally should always be possible, maybe in the ``pre-commit`` hook. Whenever this is not possible, a local pipeline can reduce the time spent waiting for test execution.
+
 ## Reference
 
   * [Trap](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_12_02.html)
