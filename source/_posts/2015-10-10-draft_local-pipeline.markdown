@@ -34,7 +34,7 @@ do
 git push pipeline $branch
 ```
 
-This will trigger the pipeline execution.
+After the git hook is installed, this will trigger the pipeline execution.
 
 ----
 
