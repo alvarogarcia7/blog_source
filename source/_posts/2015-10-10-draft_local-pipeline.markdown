@@ -109,7 +109,9 @@ cleanup
 
 Clean up: checkout to develop (or any other branch that always exists), leaving the system prepared to execute again.
 
-The program ``growlnotify`` is a [CLI notifier][growlnotify] to growl ([windows][growl-for-windows], [linux][growl-for-linux])
+## Notifying the user
+
+The program ``growlnotify`` is a [CLI notifier][growlnotify] to ``growl`` ([windows][growl-for-windows], [linux][growl-for-linux])
 
 ## Reference
 
