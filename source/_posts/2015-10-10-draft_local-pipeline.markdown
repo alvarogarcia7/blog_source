@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: "Tool: Building a local pipeline"
+date: 2015-10-10 11:06:58 +0100
+comments: true
 categories:
   - polish-your-tool
   - tool
@@ -13,7 +16,27 @@ At a client, one of the projects has a long building process and the tests are m
 
 ## Implementation
 
-In the working directory, in the top folder:
+This requires two git repositories:
+
+  * ``local`` or working copy. Configure it so it has a remote called ``pipeline`` and the ``origin``, the repository you cloned from.
+  * ``pipeline``, used for building
+
+In the ``local`` you can do the development and local commits.
+
+When you're done, instead of
+
+```bash
+git push origin $branch
+```
+do
+
+```bash
+git push pipeline $branch
+```
+
+This will trigger the pipeline execution.
+
+----
 
 ```bash
 #!/bin/bash
