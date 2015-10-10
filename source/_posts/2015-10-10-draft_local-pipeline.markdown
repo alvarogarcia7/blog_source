@@ -40,7 +40,7 @@ This will trigger the pipeline execution.
 
 ### Git hook
 
-In the pipeline, in the ``.git/hooks/post-receive``:
+In the ``pipeline``, in the ``.git/hooks/post-receive`` file:
 
 ```bash
 #!/bin/bash
@@ -48,7 +48,8 @@ chmod +x pipeline.sh
 while read oldrev newrev ref
 do
   # whatever you want to execute
-  ./pipeline.sh $newrev
+   branch=$(git rev-parse --symbolic --abbrev-ref $refname)
+  ./pipeline.sh $branch
 done
 ```
 
@@ -109,18 +110,6 @@ cleanup
 Clean up: checkout to develop (or any other branch that always exists), leaving the system prepared to execute again.
 
 The program ``growlnotify`` is a [CLI notifier][growlnotify] to growl ([windows][growl-for-windows], [linux][growl-for-linux])
-
-In the pipeline, in the ``.git/hooks/post-receive`` file:
-
-```bash
-#!/bin/sh
-
-while read oldrev newrev refname
-do
-    branch=$(git rev-parse --symbolic --abbrev-ref $refname)
-    ./pipeline.sh $branch
-done
-```
 
 ## Reference
 
