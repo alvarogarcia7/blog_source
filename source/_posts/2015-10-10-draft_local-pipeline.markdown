@@ -38,13 +38,6 @@ This will trigger the pipeline execution.
 
 ----
 
-```bash
-#!/bin/bash
-
-git push pipeline  2>&1 > /dev/null &
-```
-
-
 In the pipeline, in ``.git`` folder:
 
 ```bash
@@ -93,6 +86,16 @@ done
   * [Trap](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_12_02.html)
   * [Set Builtin](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html#The-Set-Builtin)
   * [Sample bash error handling](http://idolinux.blogspot.com/2008/08/bash-script-error-handling.html)
+
+## Appendix
+
+This script will push to the pipeline:
+
+```bash
+#!/bin/bash
+
+git push pipeline  2>&1 > /dev/null &
+```
 
 
 [growl-for-windows]: http://www.growlforwindows.com/gfw/default.aspx
