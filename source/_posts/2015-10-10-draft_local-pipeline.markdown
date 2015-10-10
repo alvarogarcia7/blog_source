@@ -16,6 +16,8 @@ At a client, one of the projects has a long building process and the tests are m
 
 This allows for executing manually only the fast unit tests, then automatically (no user intervention, no time spent) executing the rest of them before pushing. In case the latter fails, it is possible to do ``git push -f`` to the ``pipeline`` without corrupting the central repository (``origin``) history, possibly disturbing others.
 
+This strategy also allows for parallel modification of sources: you can continue working on your IDE while the compiler is working on the other working directory. Should you introduce any syntax / logical error on your working code, the compiler is not affected, as it has a working copy just for itself.
+
 ## Implementation
 
 This requires two git repositories:
