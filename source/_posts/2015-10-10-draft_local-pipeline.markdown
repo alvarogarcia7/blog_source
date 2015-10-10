@@ -135,13 +135,15 @@ This pipeline aims to be simple, without many customizations and being single-us
 
 ## Further work
 
-The jobs in the ``pipeline`` could be queued, so it is possible to push to the pipeline before the previous job has started. [This question][queue-jobs-bash] might be useful
+The jobs in the ``pipeline`` could be queued, so it is possible to push to the pipeline before the previous job has started. See reference below.
 
 ## Reference
 
   * [Trap](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_12_02.html)
   * [Set Builtin](https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html#The-Set-Builtin)
   * [Sample bash error handling](http://idolinux.blogspot.com/2008/08/bash-script-error-handling.html)
+  * [Queuing bash jobs][queue-jobs-bash]
+
 
 ## Appendix
 
