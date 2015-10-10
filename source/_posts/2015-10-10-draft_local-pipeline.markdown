@@ -103,7 +103,7 @@ cleanup
 * Checkout to that branch
 * Clean, compile & execute tests 
 * Push to origin
-* Clean up, leaving the system prepared to execute again.
+* Clean up
 * In case this fails, the script will stop and notify the user with ``growl`` and clean up.
 
 Clean up: checkout to develop (or any other branch that always exists), leaving the system prepared to execute again.
