@@ -7,6 +7,12 @@ categories:
   - automation
 ---
 
+## Motivation
+
+At a client, one of the projects has a long building process and the tests are mostly slow, so I use a local building [pipeline][wiki-pipeline], an example of the [Pipes and Filters][pipes-and-filters] pattern.
+
+## Implementation
+
 In the working directory, in the top folder:
 
 ```bash
@@ -69,3 +75,5 @@ done
 [growl-for-windows]: http://www.growlforwindows.com/gfw/default.aspx
 [growl-for-linux]: http://mattn.github.io/growl-for-linux/
 [growlnotify]: http://www.growlforwindows.com/gfw/help/growlnotify.aspx
+[wiki-pipeline]: https://en.wikipedia.org/wiki/Pipeline_(software)
+[pipes-and-filters]: https://msdn.microsoft.com/library/dn568100.aspx
