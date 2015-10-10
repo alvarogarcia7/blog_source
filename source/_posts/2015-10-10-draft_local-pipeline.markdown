@@ -38,7 +38,6 @@ git push pipeline $branch
 
 After the git hook is installed, this will trigger the pipeline execution.
 
-----
 
 ### Git hook
 
