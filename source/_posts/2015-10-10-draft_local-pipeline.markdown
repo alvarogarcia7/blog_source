@@ -18,8 +18,8 @@ At a client, one of the projects has a long building process and the tests are m
 
 This requires two git repositories:
 
-  * ``local`` or working copy. Configure it so it has a remote called ``pipeline`` and the ``origin``, the repository you cloned from.
-  * ``pipeline``, used for building
+  * ``local`` or working copy. Configure it so it has a remote called ``pipeline`` and the ``origin``, the repository you cloned from. This is a non-bare repository.
+  * ``pipeline``, used for building. This also is a non-bare repository.
 
 In the ``local`` you can do the development and local commits.
 
