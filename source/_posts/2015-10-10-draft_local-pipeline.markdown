@@ -45,7 +45,7 @@ In the ``pipeline``, in the ``.git/hooks/post-receive`` file:
 ```bash
 #!/bin/bash
 chmod +x pipeline.sh
-while read oldrev newrev ref
+while read oldrev newrev refname
 do
   # whatever you want to execute
    branch=$(git rev-parse --symbolic --abbrev-ref $refname)
