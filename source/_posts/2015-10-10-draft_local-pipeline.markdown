@@ -129,7 +129,13 @@ The program ``growlnotify`` is a [CLI notifier][growlnotify] to ``growl`` ([wind
 
 ## Conclusions
 
-Ideally, the tests should be faster, and executing them locally should always be possible, maybe in the ``pre-commit`` hook. Whenever this is not possible, a local pipeline can reduce the time spent waiting for test execution.
+Ideally, the tests should be faster, and executing them locally should always be possible, maybe in the ``pre-commit`` hook. Whenever this is not possible, a local pipeline can reduce the time spent waiting for test execution and remove the lock on the working directory while the compiler is working.
+
+This pipeline aims to be simple, without many customizations and being single-user. For more complex workflows and other restrictions, it might be better to drop this project and start investigating continuous integration (CI) tools such as e.g., [Jenkins][jenkins], [Travis][travis], [Bamboo][bamboo]
+
+## Further work
+
+The jobs in the ``pipeline`` could be queued, so it is possible to push to the pipeline before the previous job has started. [This question][queue-jobs-bash] might be useful
 
 ## Reference
 
@@ -153,3 +159,7 @@ git push pipeline  2>&1 > /dev/null &
 [growlnotify]: http://www.growlforwindows.com/gfw/help/growlnotify.aspx
 [wiki-pipeline]: https://en.wikipedia.org/wiki/Pipeline_(software)
 [pipes-and-filters]: https://msdn.microsoft.com/library/dn568100.aspx
+[queue-jobs-bash]: http://superuser.com/questions/220364/how-to-run-commands-as-in-a-queue
+[jenkins]: https://jenkins-ci.org/
+[travis]: https://travis-ci.org/
+[bamboo]: https://atlassian.com/software/bamboo
