@@ -103,8 +103,10 @@ cleanup
 * Checkout to that branch
 * Clean, compile & execute tests 
 * Push to origin
-* Checkout to develop (or any other branch that always exists), leaving the system prepared to execute again.
-* In case this fails, the script will stop and notify the user with ``growl`` and leave the system prepared for another execution.
+* Clean up, leaving the system prepared to execute again.
+* In case this fails, the script will stop and notify the user with ``growl`` and clean up.
+
+Clean up: checkout to develop (or any other branch that always exists), leaving the system prepared to execute again.
 
 The program ``growlnotify`` is a [CLI notifier][growlnotify] to growl ([windows][growl-for-windows], [linux][growl-for-linux])
 
