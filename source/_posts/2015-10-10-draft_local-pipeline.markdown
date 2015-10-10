@@ -6,8 +6,19 @@ comments: true
 categories:
   - polish-your-tool
   - tool
+  - building-pipeline
   - pipeline
   - automation
+  - working-directory
+  - trap
+  - git
+  - git-hook
+  - pipes-and-filters
+  - repository
+  - signal-trapping
+  - trigger
+  - growl
+  - notification
 ---
 
 ## Motivation
