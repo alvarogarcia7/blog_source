@@ -70,12 +70,13 @@ function cleanup {
   git pull develop
 }
 
+# upon failure, tell the user
 function err {
   cleanup
   growlnotify "pipeline fails"
 }
 
-# upon failure, tell the user
+# trap signal ERR, executing function 'err'
 trap "err" ERR
 
 branch=$1
