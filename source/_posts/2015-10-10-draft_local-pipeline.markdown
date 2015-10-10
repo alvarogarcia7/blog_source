@@ -14,6 +14,8 @@ categories:
 
 At a client, one of the projects has a long building process and the tests are mostly slow, so I use a local building [pipeline][wiki-pipeline], an example of the [Pipes and Filters][pipes-and-filters] pattern.
 
+This allows for executing manually only the fast unit tests, then executing the rest of them before pushing. In case the latter fails, it is possible to do ``git push -f`` without corrupting the central repository history, possibly disturbing others.
+
 ## Implementation
 
 This requires two git repositories:
