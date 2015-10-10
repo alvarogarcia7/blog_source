@@ -38,6 +38,24 @@ This will trigger the pipeline execution.
 
 ----
 
+### Git hook
+
+In the pipeline, in the ``.git/hooks/post-receive``:
+
+```bash
+#!/bin/bash
+chmod +x pipeline.sh
+while read oldrev newrev ref
+do
+  # whatever you want to execute
+  ./pipeline.sh $newrev
+done
+```
+
+In the above script, we're telling git to execute the ``pipeline.sh`` with the received branch as argument.
+
+### Pipeline executor
+
 In the pipeline, in ``.git`` folder:
 
 ```bash
@@ -48,7 +66,13 @@ set -o pipefail
 
 # upon failure, tell the user
 
+function cleanup {
+  git checkout develop
+  git pull develop
+}
+
 function err {
+  cleanup
   growlnotify "pipeline fails"
 }
 
@@ -64,8 +88,23 @@ fi
 git checkout $branch
 mvn clean install | tee output.log
 git push --set-upstream origin $branch
-git checkout develop
+cleanup
 ```
+
+#### Pipeline executor explanation
+
+* We prepare the bash environment:
+
+    * ``-e``: fail the script when a command fails
+    * ``-o pipefail``: fail the script when some command fails in a pipe
+    * ``err`` and ``trap``: create a hook to be executed when the signal is trapped
+
+* We require a branch to execute this script.
+* Checkout to that branch
+* Clean, compile & execute tests 
+* Push to origin
+* Checkout to develop (or any other branch that always exists), leaving the system prepared to execute again.
+* In case this fails, the script will stop and notify the user with ``growl`` and leave the system prepared for another execution.
 
 The program ``growlnotify`` is a [CLI notifier][growlnotify] to growl ([windows][growl-for-windows], [linux][growl-for-linux])
 
