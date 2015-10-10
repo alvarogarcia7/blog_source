@@ -57,7 +57,7 @@ In the above script, we're telling git to execute the ``pipeline.sh`` with the r
 
 ### Pipeline executor
 
-In the pipeline, in ``.git`` folder:
+In the pipeline, in ``.git/pipeline.sh`` file:
 
 ```bash
 #!/bin/bash
