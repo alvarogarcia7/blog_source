@@ -65,8 +65,6 @@ In the ``pipeline`` repository, in ``.git/pipeline.sh`` file:
 set -e
 set -o pipefail
 
-# upon failure, tell the user
-
 function cleanup {
   git checkout develop
   git pull develop
@@ -77,6 +75,7 @@ function err {
   growlnotify "pipeline fails"
 }
 
+# upon failure, tell the user
 trap "err" ERR
 
 branch=$1
