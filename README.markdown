@@ -129,7 +129,7 @@ e.g.:
 ```
 
 
-## Executing the rake scripts in Windows with bash
+## Writing a new post in Windows with bash
 
 * Execute in cmd (not bash)
 * Execute in factory folder (not source)
@@ -157,4 +157,26 @@ identical public/stylesheets/screen.css
     gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
  Auto-regeneration: enabled for 'source'
+```
+
+## Updating the blog in Windows with bash
+
+*TO BE CONFIRMED*
+
+* Execute in cmd (not bash)
+* Execute in source folder (not factory)
+
+```dos
+λ cd source
+λ rake generate
+## Set the codepage to 65001 for Windows machines
+## Generating Site with Jekyll
+identical source/stylesheets/screen.css
+Configuration file: C:/sandbox/blog_source/_config.yml
+            Source: source
+       Destination: public
+      Generating...
+
+(Wait around 20 minutes)
+λ rake deploy
 ```
