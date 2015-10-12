@@ -119,3 +119,13 @@ I've read [this stackoverflow][increment-operator-ruby] question about the lack 
 
 [increment-operator-ruby]: http://stackoverflow.com/questions/3717519/no-increment-operator-in-ruby
 
+## Code is Data, Data is Code
+
+I've read [this article][code-is-data-is-code-donelan] by James Donelan on the equivalence of code and data in homoiconic languages, including Clojure.
+
+The article talks about homoiconicity, manually creating Abstract Syntax Trees (AST) out of data and the macro environment. Also, compares the difference between macros and functions.
+
+Tags: code=data, data=code, james-donelan, clojure, homoiconicity, abstract-syntax-tree, ast, macro, function
+
+[code-is-data-is-code-donelan]: http://blogs.mulesoft.com/dev/news-dev/code-is-data-data-is-code/
+
