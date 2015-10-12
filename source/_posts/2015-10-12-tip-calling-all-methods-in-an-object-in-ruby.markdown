@@ -31,42 +31,66 @@ pry(main)> 1.methods
 In case you want to call all methods, [this][call-all-methods] can be useful:
 
 ```ruby
-def call_all_methods(object, *args) 
+def call_all_methods(object, *args)
   # remove methods that modify the PRY environment or are too verbose
+  success = {}
+  error = {}
   exclusions = [:pry,
                 :methods,
                 :private_methods,
-                :public_methods].map { |x| x.to_s}
-  object.methods.map { |x|
-    begin
-      unless exclusions.include? x.to_s then
-        [method(x), object.send(x, *args)]
+                :public_methods,
+                :gem].map { |x| x.to_s}
+  object.methods.each { |x|
+    unless exclusions.include? x.to_s then
+      begin
+        if (args.empty?) then
+          success[x] = object.__send__(x)
+        else
+          success[x] = object.__send__(x, *args)
+        end
+      rescue StandardError => ex
+        error[x] = ex
       end
-    rescue StandardError => ex;
-      [x, ex]
     end
-  }.select { |x| not x.nil?}
+  }
+
+  success.select! { |x| not x.nil?}
+  error.select! { |x| not x.nil?}
+
+  {success: success, error: error}
 end
 ```
 
 usage:
 
 ```ruby
-pry(main)> call_all_methods(1)
- [#<Method: Object#__binding__>, #<Binding:0x44fe608>],
- [#<Method: Object(PP::ObjectMixin)#pretty_print_instance_variables>, []],
- [#<Method: Object(PP::ObjectMixin)#pretty_print_inspect>, "1"],
- [#<Method: Object(Kernel)#nil?>, false],
- [#<Method: Object(Kernel)#hash>, 1048833383],
- [#<Method: Object(Kernel)#class>, Fixnum],
- [#<Method: Object(Kernel)#taint>, 1],
- [#<Method: Object(Kernel)#tainted?>, false],
- [#<Method: Object(Kernel)#untaint>, 1],
- [#<Method: Object(Kernel)#untrust>, 1],
- [#<Method: Object(Kernel)#untrusted?>, false],
- [#<Method: Object(Kernel)#trust>, 1],
- [#<Method: Object(Kernel)#freeze>, 1],
+[51] pry(main)> call_all_methods(1)
+=> {:success => 
+[[:to_s, "1"],
+ [:-@, -1],
+ [:abs, 1],
+ [:magnitude, 1],
+ [:~, -2],
+ [:to_f, 1.0],
+ [:size, 4],
+ [:zero?, false],
+ [:odd?, true],
+ [:even?, false],
+ [:succ, 2],
  ...
 ```
+
+also with parameters:
+
+```ruby
+[4] pry(main)> call_all_methods(1,1)
+☺=> {:success=>
+  [[:+, 2],
+   [:-, 0],
+   [:*, 1],
+   [:/, 1],
+```
+
+Should you be interested in having this as a gem, please tell me (comments or [@alvarobiz](https://twitter.com/@alvarobiz))
 
 [call-all-methods]: https://github.com/alvarogarcia7/ruby-simple-sessions/blob/master/call_all_methods.rb
