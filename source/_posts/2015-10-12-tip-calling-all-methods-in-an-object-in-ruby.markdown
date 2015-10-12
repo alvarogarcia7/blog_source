@@ -31,13 +31,19 @@ pry(main)> 1.methods
 In case you want to call all methods, [this][call-all-methods] can be useful:
 
 ```ruby
-def call_all_methods(dest)
-  dest.methods.map { |x|
+def call_all_methods(object, *args) 
+  # remove methods that modify the PRY environment or are too verbose
+  exclusions = [:pry,
+                :methods,
+                :private_methods,
+                :public_methods].map { |x| x.to_s}
+  object.methods.map { |x|
     begin
-      if x.to_s != "pry" then
-        [method(x), dest.send(x)]
+      unless exclusions.include? x.to_s then
+        [method(x), object.send(x, *args)]
       end
     rescue StandardError => ex;
+      [x, ex]
     end
   }.select { |x| not x.nil?}
 end
