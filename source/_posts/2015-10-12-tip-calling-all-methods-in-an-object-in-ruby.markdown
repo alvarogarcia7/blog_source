@@ -28,7 +28,7 @@ pry(main)> 1.methods
  ...
 ```
 
-In case you want to call all methods, [this][call-all-methods] can be useful:
+In case you want to call all methods, [this][call-all-methods] can be useful (plus its [tests][call-all-methods-test]):
 
 ```ruby
 def call_all_methods(object, *args)
@@ -93,4 +93,5 @@ also with parameters:
 
 Should you be interested in having this as a gem, please tell me (comments or [@alvarobiz](https://twitter.com/@alvarobiz))
 
-[call-all-methods]: https://github.com/alvarogarcia7/ruby-simple-sessions/blob/master/call_all_methods.rb
+[call-all-methods]: https://github.com/alvarogarcia7/ruby-simple-sessions/blob/master/call_all_methods/call_all_methods.rb
+[call-all-methods-test]: https://github.com/alvarogarcia7/ruby-simple-sessions/blob/master/call_all_methods/call_all_methods_spec.rb
