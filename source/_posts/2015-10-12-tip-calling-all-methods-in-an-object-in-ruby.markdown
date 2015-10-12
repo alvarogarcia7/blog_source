@@ -28,7 +28,7 @@ pry(main)> 1.methods
  ...
 ```
 
-In case you want to call all methods, this can be useful:
+In case you want to call all methods, [this][call-all-methods] can be useful:
 
 ```ruby
 def call_all_methods(dest)
@@ -62,3 +62,5 @@ pry(main)> call_all_methods(1)
  [#<Method: Object(Kernel)#freeze>, 1],
  ...
 ```
+
+[call-all-methods]: https://github.com/alvarogarcia7/ruby-simple-sessions/blob/master/call_all_methods.rb
