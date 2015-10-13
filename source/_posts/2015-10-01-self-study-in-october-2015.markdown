@@ -129,3 +129,11 @@ Tags: code=data, data=code, james-donelan, clojure, homoiconicity, abstract-synt
 
 [code-is-data-is-code-donelan]: http://blogs.mulesoft.com/dev/news-dev/code-is-data-data-is-code/
 
+## Agile in Practice: Test Driven Development
+
+I've watched [this video][agile-practice-tdd] introducing TDD by the Agile Academy. Explains its motivations and the basic cyclical fashion.
+
+Tags: agile-academy, video, tdd, introduction
+
+[agile-practice-tdd]: https://www.youtube.com/watch?v=uGaNkTahrIw
+
