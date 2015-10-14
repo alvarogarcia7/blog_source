@@ -137,3 +137,11 @@ Tags: agile-academy, video, tdd, introduction
 
 [agile-practice-tdd]: https://www.youtube.com/watch?v=uGaNkTahrIw
 
+## Agile in Practice: Pair Programming
+
+I've watched [this video][agile-practice-pair-programming] by Agile Academy on practicing pair programming. Explains the destination and how to get there.
+
+Tags: agile-academy, pair-programming, video, introduction
+
+[agile-practice-pair-programming]: https://www.youtube.com/watch?v=ET3Q6zNK3Io
+
