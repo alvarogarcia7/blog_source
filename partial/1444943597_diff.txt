@@ -1,0 +1,10 @@
+## Effective Learning Strategies for Programmers
+
+I've read [this article][learning-strategies] by Allison Kaptur on fixed vs growth mindset and the need for having the latter for being a programmer.
+
+Especially interesting is the provided example of the confusion in the documentation, that can hinder productivity
+
+Tags: allison-kaptur, fixed-mindset, growth-mindset, research, learning-strategy, recurse-center, carol-dweck, mindset
+
+[learning-strategies]: http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
+
