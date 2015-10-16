@@ -145,3 +145,13 @@ Tags: agile-academy, pair-programming, video, introduction
 
 [agile-practice-pair-programming]: https://www.youtube.com/watch?v=ET3Q6zNK3Io
 
+## A low cost approach to working on side projects
+
+I've read [this article][low-cost-side-projects] by Gregory Brown on how to apply the MVP and Lean Startup principles to side projects (a.k.a. pet projects). Try to start with a brainstorming session of all the features you want your product to have, then prioritise, picking the most important ones.
+
+Most projects' needs can be solved with a minimal version, in the form of a script that took half an hour to develop.
+
+Tags: gregory-brown, mvp, lean-startup, script, proof-of-concept, priority, backlog, side-project, pet-project, low-cost, cost-reduction
+
+[low-cost-side-projects]: https://practicingruby.com/articles/low-cost-approach-to-side-projects
+
