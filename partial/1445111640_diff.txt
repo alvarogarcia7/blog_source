@@ -1,0 +1,6 @@
+## Hambre de programar
+
+I've read [this article][hambre-de-programar] (in Spanish) by Xavi Gost where he analyses the Barcelona Software Craftsmanship 2015: the events, the relationships and the passion that it has injected to attendees
+
+[hambre-de-programar]: https://medium.com/@xav1uzz/hambre-de-programar-166aeae3b525
+
