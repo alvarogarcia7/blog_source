@@ -163,3 +163,13 @@ Tags: star-videos, extreme-programming, xp, software-quality
 
 [star-xp]: https://www.youtube.com/watch?v=kFM2Vcu-BRo
 
+## Disruptor: High performance alternative to bounded queues for exchanging data between concurrent threads
+
+I've read [this white paper][white-paper-disruptor] describing the disruptor framework: a way of exchanging data between concurrent threads.
+
+It uses a ring buffer and other techniques to eliminate write contention, reduce read contention and produces good results. It was developed for a financial exchange environment but it's general purpose.
+
+Tags: martin-thompson, dave-farley, michael-barker, patricia-gee, andrew-stewart, trisha-gee, disruptor, contention, framework, concurrency, parallelism, white-paper, comparison, arrayblockingqueue, concurrentlinkedqueue, doug-lea, benchmark, lmax, low-level-optimization, optimization
+
+[white-paper-disruptor]: http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf
+
