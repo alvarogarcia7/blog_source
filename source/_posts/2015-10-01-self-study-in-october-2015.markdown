@@ -109,3 +109,21 @@ Tags: stephen-wolfram, turing-machine, universal-turing-machine, proof, paper, a
 
 [simplest-universal-turing-machine]: http://blog.wolfram.com/2007/10/24/the-prize-is-won-the-simplest-universal-turing-machine-is-proved/?year=2007&monthnum=10
 
+## Making a successful commitment in each Sprint
+
+I've read [this article][commitment-each-spring] by Nikolaos Raptis on committing to work in each sprint.
+
+Tags: nikolaos-raptis, sprint, agile, commitment
+
+[commitment-each-spring]: http://succeeding-with-agile.blogspot.com/2015/07/making-successful-commitment-in-each.html
+
+## Code is Data, Data is Code
+
+I've read [this article][code-is-data-is-code-donelan] by James Donelan on the equivalence of code and data in homoiconic languages, including Clojure.
+
+The article talks about homoiconicity, manually creating Abstract Syntax Trees (AST) out of data and the macro environment. Also, compares the difference between macros and functions.
+
+Tags: code=data, data=code, james-donelan, clojure, homoiconicity, abstract-syntax-tree, ast, macro, function
+
+[code-is-data-is-code-donelan]: http://blogs.mulesoft.com/dev/news-dev/code-is-data-data-is-code/
+
