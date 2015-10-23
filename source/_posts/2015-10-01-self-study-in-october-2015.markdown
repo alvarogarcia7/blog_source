@@ -117,6 +117,16 @@ Tags: nikolaos-raptis, sprint, agile, commitment
 
 [commitment-each-spring]: http://succeeding-with-agile.blogspot.com/2015/07/making-successful-commitment-in-each.html
 
+## No increment operator (++) in Ruby?
+
+I've read [this stackoverflow][increment-operator-ruby] question about the lack of post-increment operator (i++) in Ruby:
+
+> ++ and -- are NOT reserved operator in Ruby.
+>
+> Mailing list from [Yukihiro Matsumoto aka matz](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/2710)
+
+[increment-operator-ruby]: http://stackoverflow.com/questions/3717519/no-increment-operator-in-ruby
+
 ## Code is Data, Data is Code
 
 I've read [this article][code-is-data-is-code-donelan] by James Donelan on the equivalence of code and data in homoiconic languages, including Clojure.
@@ -126,4 +136,48 @@ The article talks about homoiconicity, manually creating Abstract Syntax Trees (
 Tags: code=data, data=code, james-donelan, clojure, homoiconicity, abstract-syntax-tree, ast, macro, function
 
 [code-is-data-is-code-donelan]: http://blogs.mulesoft.com/dev/news-dev/code-is-data-data-is-code/
+
+## Agile in Practice: Test Driven Development
+
+I've watched [this video][agile-practice-tdd] introducing TDD by the Agile Academy. Explains its motivations and the basic cyclical fashion.
+
+Tags: agile-academy, video, tdd, introduction
+
+[agile-practice-tdd]: https://www.youtube.com/watch?v=uGaNkTahrIw
+
+## Agile in Practice: Pair Programming
+
+I've watched [this video][agile-practice-pair-programming] by Agile Academy on practicing pair programming. Explains the destination and how to get there.
+
+Tags: agile-academy, pair-programming, video, introduction
+
+[agile-practice-pair-programming]: https://www.youtube.com/watch?v=ET3Q6zNK3Io
+
+## A low cost approach to working on side projects
+
+I've read [this article][low-cost-side-projects] by Gregory Brown on how to apply the MVP and Lean Startup principles to side projects (a.k.a. pet projects). Try to start with a brainstorming session of all the features you want your product to have, then prioritise, picking the most important ones.
+
+Most projects' needs can be solved with a minimal version, in the form of a script that took half an hour to develop.
+
+Tags: gregory-brown, mvp, lean-startup, script, proof-of-concept, priority, backlog, side-project, pet-project, low-cost, cost-reduction
+
+[low-cost-side-projects]: https://practicingruby.com/articles/low-cost-approach-to-side-projects
+
+## Extreme Programming
+
+I've watched [this video][star-xp] by STAR Videos on the basic principles behind Extreme Programming and how to use it to improve software quality
+
+Tags: star-videos, extreme-programming, xp, software-quality
+
+[star-xp]: https://www.youtube.com/watch?v=kFM2Vcu-BRo
+
+## Disruptor: High performance alternative to bounded queues for exchanging data between concurrent threads
+
+I've read [this white paper][white-paper-disruptor] describing the disruptor framework: a way of exchanging data between concurrent threads.
+
+It uses a ring buffer and other techniques to eliminate write contention, reduce read contention and produces good results. It was developed for a financial exchange environment but it's general purpose.
+
+Tags: martin-thompson, dave-farley, michael-barker, patricia-gee, andrew-stewart, trisha-gee, disruptor, contention, framework, concurrency, parallelism, white-paper, comparison, arrayblockingqueue, concurrentlinkedqueue, doug-lea, benchmark, lmax, low-level-optimization, optimization
+
+[white-paper-disruptor]: http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf
 

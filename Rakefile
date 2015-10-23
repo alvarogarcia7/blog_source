@@ -189,6 +189,7 @@ cd source/_posts
 git update-index --assume-unchanged $(ls *.markdown)
 rm $(ls *.markdown)
 =end
+end
 
 desc "Move sass to sass.old, install sass theme updates, replace sass/custom with sass.old/custom"
 task :update_style, :theme do |t, args|

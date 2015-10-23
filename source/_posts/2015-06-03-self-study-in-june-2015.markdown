@@ -28,7 +28,7 @@ categories:
   - education
   - learning
   - david-bonilla
-  - bonillista
+  - bonilista
   - rui-figueredo
   - scientific-method
   - tdd
@@ -162,7 +162,7 @@ I've read [this article][standup-slowing-you-down] by M. David Green
 
 ## Me duele Indra
 
-I've read [this Bonillista][me-duele-indra] (Spanish) by David Bonilla
+I've read [this Bonilista][me-duele-indra] (Spanish) by David Bonilla
 
 [me-duele-indra]: http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=67ce79e01b
 
