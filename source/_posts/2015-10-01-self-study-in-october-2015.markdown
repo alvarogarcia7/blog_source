@@ -181,3 +181,11 @@ Tags: martin-thompson, dave-farley, michael-barker, patricia-gee, andrew-stewart
 
 [white-paper-disruptor]: http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf
 
+## Dissecting the Disruptor: What's so special about a ring buffer?
+
+I've read [this article][disruptor-ring-buffer] about the ring buffer data structure. A FIFO data structure where elements get overwritten to reduce pressure on the garbage collector. Every message gets sent to every consumer.
+
+Tags: patricia-gee, trisha-gee, disruptor, ring-buffer, data-structure
+
+[disruptor-ring-buffer]: http://mechanitis.blogspot.com.es/2011/06/dissecting-disruptor-whats-so-special.html
+
