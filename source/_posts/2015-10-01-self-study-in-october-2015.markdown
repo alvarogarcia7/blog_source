@@ -155,3 +155,11 @@ Tags: gregory-brown, mvp, lean-startup, script, proof-of-concept, priority, back
 
 [low-cost-side-projects]: https://practicingruby.com/articles/low-cost-approach-to-side-projects
 
+## Extreme Programming
+
+I've watched [this video][star-xp] by STAR Videos on the basic principles behind Extreme Programming and how to use it to improve software quality
+
+Tags: star-videos, extreme-programming, xp, software-quality
+
+[star-xp]: https://www.youtube.com/watch?v=kFM2Vcu-BRo
+
