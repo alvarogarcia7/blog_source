@@ -89,7 +89,7 @@ See an example in tdd intensive workshop:
 Get the clojure REPL (e.g., Light Table or [TryCLJ](http://www.tryclj.com/)) and 
 
 ````
-((fn lowdash [names] (println (clojure.string/lower-case (clojure.string/replace names " " "-")))) "Rich Hickey")
+((comp println clojure.string/lower-case #(clojure.string/replace % " " "-")) "Rich Hickey")
 ; rich-hickey
 ; nil
 ````
