@@ -199,3 +199,13 @@ Tags: robert-martin, dependency-inversion-principle, dip, example, comparison, o
 
 [dip-original]: http://www.objectmentor.com/resources/articles/dip.pdf
 
+## DIP in the Wild
+
+I've read [this article][dip-in-the-wild] about the Dependency Inversion Principle (DIP) written by Brett L. Schuchert.
+
+It is explained non-canonical representations of this principle, how in other cases he has solved it and conclusions of using it day to day.
+
+Tags: brett-l.-schuchert, dependency-inversion-principle, dip, example, object-oriented, solid, design-principle
+
+[dip-in-the-wild]: http://martinfowler.com/articles/dipInTheWild.html
+
