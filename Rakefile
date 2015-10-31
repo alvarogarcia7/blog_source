@@ -184,19 +184,6 @@ task :clean do
   rm_rf [Dir.glob(".pygments-cache/**"), Dir.glob(".gist-cache/**"), Dir.glob(".sass-cache/**"), "source/stylesheets/screen.css"]
 end
 
-desc "Cleans all *.markdown files for a faster site generation"
-task :ignore do
-  cd "#{source_dir}/#{posts_dir}"
-  system "git update-index --assume-unchanged $(ls *.markdown)"
-  system "rm $(ls *.markdown)"
-
-=begin
-cd source/_posts
-git update-index --assume-unchanged $(ls *.markdown)
-rm $(ls *.markdown)
-=end
-end
-
 desc "Move sass to sass.old, install sass theme updates, replace sass/custom with sass.old/custom"
 task :update_style, :theme do |t, args|
   theme = args.theme || 'classic'
