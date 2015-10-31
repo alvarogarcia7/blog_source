@@ -1,0 +1,8 @@
+## Default constructors in Java
+
+I've read [this answer][java-private-constructor] in stackoverflow about extending a java class that has a private constructor.
+
+Tags: stackoverflow, answer, java, constructor, syntax
+
+[java-private-constructor]: http://stackoverflow.com/questions/17068389/default-constructors-in-java
+

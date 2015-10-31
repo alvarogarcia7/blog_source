@@ -109,6 +109,14 @@ Tags: stephen-wolfram, turing-machine, universal-turing-machine, proof, paper, a
 
 [simplest-universal-turing-machine]: http://blog.wolfram.com/2007/10/24/the-prize-is-won-the-simplest-universal-turing-machine-is-proved/?year=2007&monthnum=10
 
+## Making a successful commitment in each Sprint
+
+I've read [this article][commitment-each-spring] by Nikolaos Raptis on committing to work in each sprint.
+
+Tags: nikolaos-raptis, sprint, agile, commitment
+
+[commitment-each-spring]: http://succeeding-with-agile.blogspot.com/2015/07/making-successful-commitment-in-each.html
+
 ## No increment operator (++) in Ruby?
 
 I've read [this stackoverflow][increment-operator-ruby] question about the lack of post-increment operator (i++) in Ruby:
@@ -172,4 +180,12 @@ It uses a ring buffer and other techniques to eliminate write contention, reduce
 Tags: martin-thompson, dave-farley, michael-barker, patricia-gee, andrew-stewart, trisha-gee, disruptor, contention, framework, concurrency, parallelism, white-paper, comparison, arrayblockingqueue, concurrentlinkedqueue, doug-lea, benchmark, lmax, low-level-optimization, optimization
 
 [white-paper-disruptor]: http://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf
+
+## Dissecting the Disruptor: What's so special about a ring buffer?
+
+I've read [this article][disruptor-ring-buffer] about the ring buffer data structure. A FIFO data structure where elements get overwritten to reduce pressure on the garbage collector. Every message gets sent to every consumer.
+
+Tags: patricia-gee, trisha-gee, disruptor, ring-buffer, data-structure
+
+[disruptor-ring-buffer]: http://mechanitis.blogspot.com.es/2011/06/dissecting-disruptor-whats-so-special.html
 

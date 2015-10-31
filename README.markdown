@@ -89,8 +89,9 @@ See an example in tdd intensive workshop:
 Get the clojure REPL (e.g., Light Table or [TryCLJ](http://www.tryclj.com/)) and 
 
 ````
-((fn lowdash [names] (clojure.string/lower-case (clojure.string/replace names " " "-"))) "Rich Hickey")
-; "rich-hickey"
+((comp println clojure.string/lower-case #(clojure.string/replace % " " "-")) "Rich Hickey")
+; rich-hickey
+; nil
 ````
 
 In this version the argument that changes all the time (the author or URL keywords) are at the end and it is simpler to edit.
@@ -160,8 +161,6 @@ identical public/stylesheets/screen.css
 ```
 
 ## Updating the blog in Windows with bash
-
-*TO BE CONFIRMED*
 
 * Execute in cmd (not bash)
 * Execute in source folder (not factory)
