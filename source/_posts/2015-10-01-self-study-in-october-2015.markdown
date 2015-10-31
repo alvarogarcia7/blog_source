@@ -189,3 +189,13 @@ Tags: patricia-gee, trisha-gee, disruptor, ring-buffer, data-structure
 
 [disruptor-ring-buffer]: http://mechanitis.blogspot.com.es/2011/06/dissecting-disruptor-whats-so-special.html
 
+## The Dependency Inversion Principle
+
+I've read [this paper][dip-original] about the Dependency Inversion Principle (DIP) written Robert C. Martin.
+
+It explains the theory, philosophy behind it. Also, creates an example with a copy buffer and different output locations
+
+Tags: robert-martin, dependency-inversion-principle, dip, example, comparison, object-oriented, principle, solid, design-principle
+
+[dip-original]: http://www.objectmentor.com/resources/articles/dip.pdf
+
