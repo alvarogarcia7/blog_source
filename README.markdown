@@ -161,8 +161,6 @@ identical public/stylesheets/screen.css
 
 ## Updating the blog in Windows with bash
 
-*TO BE CONFIRMED*
-
 * Execute in cmd (not bash)
 * Execute in source folder (not factory)
 
