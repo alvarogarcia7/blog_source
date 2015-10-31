@@ -209,3 +209,22 @@ Tags: brett-l.-schuchert, dependency-inversion-principle, dip, example, object-o
 
 [dip-in-the-wild]: http://martinfowler.com/articles/dipInTheWild.html
 
+## The New New Product Development Game
+
+I've read [this paper][new-new-product] about the holistic approach to product development, considered seminal for Scrum and other Agile methodologies. Written by Hirotaka Takeuchi and Ikujiro Nonaka
+
+In it, they describe how teams are distributed, the responsibilities for each one, and the degrees of freedom.
+
+Cites the six basic characteristics:
+
+  * built-in instability
+  * self-organizing project teams
+  * overlapping development phases
+  * multilearning
+  * subtle control
+  * organizational transfer of learning
+
+Tags: hirotaka-takeuchi, ikujiro-nonaka, scrum, agile, product-development, management, 1986
+
+[new-new-product]: https://hbr.org/1986/01/the-new-new-product-development-game
+
