@@ -129,6 +129,19 @@ e.g.:
   - time-lapse
 ```
 
+## Workflow
+
+```dos
+λ cd blog_source
+λ rake new_post[my-new-post]
+λ rake isolate[my-new-post]
+λ rake preview
+...
+λ g cc "..."
+...
+λ rake integrate
+λ rake generate
+```
 
 ## Writing a new post in Windows with bash
 
