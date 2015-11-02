@@ -106,12 +106,6 @@ categories:
   - xp
 ---
 
-{% comment %}  
-
-Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/README.markdown#authors-as-categories
-
-{% endcomment %}
-
 ## Blazing Fast HTML: Virtual DOM in Elm
 
 I've read [this article][elm-blazing-fast-html] explaining how Elm works in relation to the virtual DOM. By Evan Czaplicki.
