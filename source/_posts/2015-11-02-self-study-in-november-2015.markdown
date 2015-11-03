@@ -29,3 +29,11 @@ Tags: rabbitmq, kyle-kingsbury, lock, cap-theorem, distributed-system, jepsen, k
 
 [rabbit-mq-as-lock-service]: https://aphyr.com/posts/315-call-me-maybe-rabbitmq
 
+## Everyone is potentially a teacher
+
+I've read [this article][everyone-a-teacher] by Carlos Blé where he explains that everyone can have ideas worth spreading and that the knowledge not only comes from others but also from the relationships that tie you to other people.
+
+Tags: carlos-ble, teaching, pedagogy, idea, teacher, relationship 
+
+[everyone-a-teacher]: http://www.carlosble.com/2015/09/everyone-is-potentially-a-teacher
+
