@@ -37,3 +37,11 @@ Tags: carlos-ble, teaching, pedagogy, idea, teacher, relationship
 
 [everyone-a-teacher]: http://www.carlosble.com/2015/09/everyone-is-potentially-a-teacher
 
+## Ragel State Machine Compiler
+
+I've read [this article][ragel-fsm] explaining what the Ragel project is about: a code generator from regex to code in languages such as C#, Java, etc. It is limited to finite state machines (FSM), with determinism. It can also handle some indeterminism. Written by Adrian D. Thurston
+
+Tags: adrian-thurston, fsm, state-machine, finite-state-machine, code-generation, ragel
+
+[ragel-fsm]: http://www.colm.net/open-source/ragel/
+
