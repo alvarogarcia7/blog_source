@@ -20,7 +20,7 @@ I'm writing down the read chapters in a text file, to measure progress and also 
 
 After reading approximately half the chapters, the navigation wasn't so easy using only the "see also" part. So I decided to break free from that constraint and start reading other chapters. But how do you know which chapters you have left to read? Knowing the whole set (``all``) and the read set (``read``) this is just the ``all - read``.
 
-Coming to a more practical way, how to know this is an automated (non-manual) way? There are ``m`` in ``read`` and n in ``all``, where m <= n.
+Coming to a more practical way, how to know this is an automated (non-manual) way? There are ``m`` in ``read`` and n in ``all``, where ``m <= n``.
 
 The simplest approach would be:
 
@@ -129,8 +129,8 @@ explanation:
   * ``%`` : in all the file
   * ``g`` : do (I remember it as 'go')
   * ``^`` : starting at the beginning
-  * ``\s*``: whitsepace, as much a possible
-  * ``\u\u``: exactly to uppercase letters. Can also be expressed as ``\u\{2}``
+  * ``\s*``: whitespace, as much a possible
+  * ``\u\u``: exactly two uppercase letters. Can also be expressed as ``\u\{2}``
   * ``d`` : delete
 
 for more information on vim's regex, go [here](http://vimregex.com/)
