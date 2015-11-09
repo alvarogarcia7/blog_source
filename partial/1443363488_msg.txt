@@ -1,1 +1,0 @@
-add question comparing haskell vs scala type inference

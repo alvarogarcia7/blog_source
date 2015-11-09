@@ -87,3 +87,11 @@ I've read [the wikipedia page][wiki-scsh] for Scsh, the Scheme shell.
 
 [wiki-scsh]: https://en.wikipedia.org/wiki/Scsh
 
+## Why is Scala's type inference not as powerful as Haskell's?
+
+I've read the reasoning why Haskell supports other type inferences that are not present in Scala, in [this StackOverflow question][scala-vs-haskell-type-inference]
+
+Tags: scala, haskell, type-inference, hindley-milner, type-inference-algorithm
+
+[scala-vs-haskell-type-inference]: http://stackoverflow.com/questions/7234095/why-is-scalas-type-inference-not-as-powerful-as-haskells
+
