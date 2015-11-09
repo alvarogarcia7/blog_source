@@ -63,3 +63,21 @@ Tags: jbrains, tdd, integrated-test, integration-test, j-rainsberger
 
 http://us2.campaign-archive1.com/?u=80ca60ec48ef77dfaa1f38943&id=42e61e203e&e=4a925444f9
 
+## Broken windows theory
+
+I've read [this wikipedia article][broken-windows-theory] that talks about the broken windows theory, that states that controlling and monitoring public spaces leads to lowering the serious crimes.
+
+Cites three causes for this:
+
+  * Social norms and conformity
+  * Lack of routing monitoring
+  * Social signaling and signal crime
+
+Also discusses examples in the US and in the Netherlands, as well as criticisms.
+
+I've read it to better understand how to apply this theory to software development, on a day-to-day basis.
+
+Tags: wikipedia, theory, broken-window
+
+[broken-windows-theory]: https://en.wikipedia.org/wiki/Broken_windows_theory
+
