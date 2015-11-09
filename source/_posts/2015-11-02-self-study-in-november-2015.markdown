@@ -81,3 +81,9 @@ Tags: wikipedia, theory, broken-window
 
 [broken-windows-theory]: https://en.wikipedia.org/wiki/Broken_windows_theory
 
+## Scsh
+
+I've read [the wikipedia page][wiki-scsh] for Scsh, the Scheme shell.
+
+[wiki-scsh]: https://en.wikipedia.org/wiki/Scsh
+
