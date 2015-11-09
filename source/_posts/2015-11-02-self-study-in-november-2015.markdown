@@ -55,3 +55,11 @@ Tags: kyle-drake, web-archive, centralization, decentralization, distribution, p
 
 [permanent-web]: https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
 
+## Recovering From the Integrated Tests Scam
+
+I've read this article from J. B. Rainsberger on the integrated test scam and how to solve it: refactoring.
+
+Tags: jbrains, tdd, integrated-test, integration-test, j-rainsberger
+
+http://us2.campaign-archive1.com/?u=80ca60ec48ef77dfaa1f38943&id=42e61e203e&e=4a925444f9
+
