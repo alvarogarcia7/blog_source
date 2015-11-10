@@ -95,3 +95,13 @@ Tags: scala, haskell, type-inference, hindley-milner, type-inference-algorithm
 
 [scala-vs-haskell-type-inference]: http://stackoverflow.com/questions/7234095/why-is-scalas-type-inference-not-as-powerful-as-haskells
 
+## The Future of the LispM
+
+I've read [this article][future-lispm] explaining the past and current situation in the Lisp world: from Lisp, to LispM, to the MIT and Symbolics Inc., to Clojure and Scheme.
+
+Also talks about integration with the operating system and its execution in the microprocessor. Written by Reid McKenzie
+
+Tags: reid-mckenzie, lisp, lispm, clojure, scheme, symbolics
+
+[future-lispm]: http://arrdem.com/2014/11/28/the_future_of_the_lispm/
+
