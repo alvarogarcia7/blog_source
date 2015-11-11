@@ -105,3 +105,22 @@ Tags: reid-mckenzie, lisp, lispm, clojure, scheme, symbolics
 
 [future-lispm]: http://arrdem.com/2014/11/28/the_future_of_the_lispm/
 
+## The Lisp Curse
+
+I've read [this essay][lisp-curse] by Rudolf Winestock, where he explains the low barrier (or low cost) for people in powerful languages (such as Lisp) to not accept the status quo in their project and fork / start their own.
+
+It also compares languages and the people attracted to them. Cites Mark Tarver's essays several times, including the Brilliant Bipolar Mind (BBM) in [this other][bipolar-lisp-programmer] essay (from WebArchive). Compares the BBM and the normal worker in usefulness to companies.
+
+Cites the Pareto principle (80-20 rule): a single hacker will port 80% the library from another language, leaving it buggy, undocumented and only understandable by the original author (assuming this is only 20% of the work). The rest (e.g., documentation, bugfixing, maintenance) are dropped and never taken care of.
+
+Cites that this could be somewhat based on the facility of creating new features for the language. A small effort implies small implementation time, leaving no margin for thinking it through and seeing other corner cases. Also, a single person working on the project means no code review. The style might be coherent (always the same one), but might not be idiomatic, understandable by others, maintainable, etc.
+
+Closes the essay with this quote:
+
+> The expressive power of Lisp has drawbacks. There is no such thing as a free lunch.
+
+Tags: rudolf-winestock, essay, pareto-principle, hacking, one-man-band, lisp, no-free-lunch, quote
+
+[lisp-curse]: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
+[bipolar-lisp-programmer]: https://web.archive.org/web/20150308085419/http://www.lambdassociates.org/blog/bipolar.htm
+
