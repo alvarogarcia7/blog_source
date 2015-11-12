@@ -140,3 +140,15 @@ Note: this article was no longer present on its original site. Fetched it from t
 
 [bipolar-lisp-programmer]: https://web.archive.org/web/20150308085419/http://www.lambdassociates.org/blog/bipolar.htm
 
+## Writing readable Clojure code
+
+I've read [these slides][readable-clojure-code] by Jiří Knesl, that explains how to write better clojure code:
+
+  * Macros
+  * HOFs
+  * left-to-right vs right-to-left code
+
+Tags: clojure, jiri-knesl, macro, hof, thread, slide
+
+[readable-clojure-code]: http://www.slideshare.net/jiriknesl/writing-readable-clojure-code
+
