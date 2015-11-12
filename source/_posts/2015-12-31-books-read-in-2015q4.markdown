@@ -23,7 +23,7 @@ Books started, not yet finished (WIP):
   * [Haskell Programming](http://haskellbook.com/), By Chris Allen and Julie Moronuki. This book is still in progress and I'm reviewing it
   * [Functional Programming Patterns in Scala and Clojure](https://pragprog.com/book/mbfpp/functional-programming-patterns-in-scala-and-clojure) by Michael Bevilacqua-Linn
   * [Pragmatic Thinking and Learning: Refactor Your Wetware](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) by Andy Hunt  
-
+  * [The Leprechauns of Software Engineering](https://leanpub.com/leprechauns) by Laurent Bossavit, again. [Gift](https://twitter.com/alvarobiz/status/611799849911103488)  
   
 Books I want to finish:
 
@@ -46,7 +46,6 @@ repository for WIP books:
 Books that in the queue:
 
   * [Mature optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf), by Carlos Bueno
-  * [The Leprechauns of Software Engineering](https://leanpub.com/leprechauns) by Laurent Bossavit, again. [Gift](https://twitter.com/alvarobiz/status/611799849911103488)
   * [XUnit Test Patterns](http://xunitpatterns.com/) by Gerard Meszaros
   * [Why programmers work at night](https://leanpub.com/nightowls) by Swizec Teller
   * [Let Over Lambda](http://letoverlambda.com/) by Doug Hoyte
