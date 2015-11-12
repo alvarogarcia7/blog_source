@@ -124,3 +124,19 @@ Tags: rudolf-winestock, essay, pareto-principle, hacking, one-man-band, lisp, no
 [lisp-curse]: http://www.winestockwebdesign.com/Essays/Lisp_Curse.html
 [bipolar-lisp-programmer]: https://web.archive.org/web/20150308085419/http://www.lambdassociates.org/blog/bipolar.htm
 
+## The Bipolar Lisp Programmer
+
+I've read [this essay][bipolar-lisp-programmer] by Mark Tarver on the Bipolar Lisp programmmer or the koan of Lisp.
+
+It explains the history of the Brilliant Bipolar Mind (BBM) when they attend high school and college. The freedom they're given, exactly the same as in Lisp, as you don't need to mix and socialize with others to create a good-enough solution.
+
+In this fashion, he says, most of the projects are 80% finished, not documented, not maintained. The same problems that worry enterprises.
+
+Cites the article "Lisp: Good News, Bad News, How to Win Big"
+
+Tags: essay, mark-tarver, bipolar-lisp-programmer, lisp-programmer, programmer, brillian-bipolar-mind, blp, bbm, koan
+
+Note: this article was no longer present on its original site. Fetched it from the Web Archive (WayBack Machine).
+
+[bipolar-lisp-programmer]: https://web.archive.org/web/20150308085419/http://www.lambdassociates.org/blog/bipolar.htm
+
