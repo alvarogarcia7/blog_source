@@ -154,9 +154,9 @@ Tags: clojure, jiri-knesl, macro, hof, thread, slide
 
 ## How can I get a reference to a method?
 
-I've read [this StackOverflow question][get-a-reference-to-a-method]
+I've read [this question][get-a-reference-to-a-method], [another question][reference-a-function] from StackOverflow
 
 Tags: stackoverflow, question, ruby, functional-programming, method-reference
 
 [get-a-reference-to-a-method]: http://stackoverflow.com/questions/485151/how-can-i-get-a-reference-to-a-method
-
+[reference-a-function]: http://stackoverflow.com/questions/4294485/how-do-i-reference-a-function-in-ruby
