@@ -119,14 +119,18 @@ You have several HOFs in a row: you decorate the collection, act on the decorate
 ```
 
 ```ruby
-[48] pry(main)> [0, -2, 90, 1, 2, 0].map { |x| [x, -x] }.sort_by { |x| x[1] }.map { |x| x[0] }
+[48] pry(main)> [0, -2, 90, 1, 2, 0]
+                                    .map     { |x| [x, -x] }
+                                    .sort_by { |x| x[1] }
+                                    .map     { |x| x[0] }
 => [90, 2, 1, 0, 0, -2]
 ```
 
 replace it by:
 
 ```ruby
-[49] pry(main)> [0, -2, 90, 1, 2, 0].sort_by { |x| -x }
+[49] pry(main)> [0, -2, 90, 1, 2, 0]
+                                    .sort_by { |x| -x }
 => [90, 2, 1, 0, 0, -2]
 ```
 
@@ -137,6 +141,8 @@ This pattern is not appropriate when you depend on (i.e., cannot discard) the da
 Example:
    
 ```ruby
-[50] pry(main)> [0, -2, 90, 1, 2, 0].map { |x| [x, -x] }.sort_by { |x| x[1] }
+[50] pry(main)> [0, -2, 90, 1, 2, 0]
+                                    .map     { |x| [x, -x] }
+                                    .sort_by { |x| x[1] }
 => [[90, -90], [2, -2], [1, -1], [0, 0], [0, 0], [-2, 2]]
 ```
