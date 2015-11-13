@@ -78,7 +78,8 @@ Original:
 Introduce an intermediary:
 
 ```ruby
-[2] pry(main)> [1,2,3].map {|x| [x, x.even?]}
+[2] pry(main)> [1,2,3]
+                      .map { |x| [x, x.even?] }
 => [[1, false], [2, true], [3, false]]
 ```
 
