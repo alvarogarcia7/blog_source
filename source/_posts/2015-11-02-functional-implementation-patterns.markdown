@@ -85,7 +85,10 @@ Introduce an intermediary:
 Then select all that match:
 
 ```ruby
-[67] pry(main)> [1,2,3].map {|x| [x, x.even?]}.select {|x| x[1]}.map {|x| x.first}
+[67] pry(main)> [1,2,3]
+                       .map    { |x| [x, x.even?] }
+                       .select { |x| x[1] }
+                       .map    { |x| x.first }
 => [2]
 ```
 
