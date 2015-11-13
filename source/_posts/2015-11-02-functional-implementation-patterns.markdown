@@ -67,7 +67,7 @@ You want to materialize properties from a collection
 
   * Intermediary
   * Functional decorator
-  * Collection Annotation (from Wallingford's Roundabout)
+  * Collection Annotation (from [Wallingford's Roundabout](http://www.cs.uni.edu/~wallingf/patterns/recursion.html), especially [Interface procedure](http://www.cs.uni.edu/~wallingf/patterns/recursion.html#2))
 
 ### Example
 
