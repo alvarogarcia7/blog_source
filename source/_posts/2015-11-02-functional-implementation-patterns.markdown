@@ -39,8 +39,8 @@ Then select all that match:
 ## Compact HOF
 
 ```diff
--                           .map { |x| [x, 2 * x]}
--                           .sort_by { |f| f[1]}
--                           .map { |x| x.first}
-+                           .sort_by { |x| 2 * x}
+- .map { |x| [x, 2 * x]}
+- .sort_by { |f| f[1]}
+- .map { |x| x.first}
++ .sort_by { |x| 2 * x}
 ```
