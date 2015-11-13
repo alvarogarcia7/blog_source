@@ -34,6 +34,25 @@ categories:
 ## Select Attribute
 
 
+```ruby
+class Array
+  def select_attribute attr
+    self.map { |unit| unit[attr] }
+  end
+end
+```
+
+usage:
+
+```ruby
+[71] pry(main)> [
+    {:element => 1, :even? => false},
+    {:element => 2, :even? => true},
+    {:element => 3, :even? => false}]
+                                   .select_attribute :even?
+=> [false, true, false]
+```
+
 # Collection of patterns
 
 ## Decorating a collection
