@@ -7,6 +7,20 @@ comments: true
 categories: 
 ---
 
+# Template
+
+## Name
+### Introduction
+### Alternative names
+### Forces
+### Example
+#### Diff
+#### Step by step
+### Use when
+### Do not use when
+
+# Collection of patterns
+
 ## Decorating a collection
 
 ### Alternative names
@@ -44,6 +58,8 @@ Then select all that match:
 You have several HOFs in a row: you decorate the collection, act on the decorated values, then use only part from the new aggregation.
 
 ### Example
+
+#### Diff
 
 ```diff
 - .map { |x| [x, 2 * x]}
