@@ -152,3 +152,11 @@ Tags: clojure, jiri-knesl, macro, hof, thread, slide
 
 [readable-clojure-code]: http://www.slideshare.net/jiriknesl/writing-readable-clojure-code
 
+## How can I get a reference to a method?
+
+I've read [this StackOverflow question][get-a-reference-to-a-method]
+
+Tags: stackoverflow, question, ruby, functional-programming, method-reference
+
+[get-a-reference-to-a-method]: http://stackoverflow.com/questions/485151/how-can-i-get-a-reference-to-a-method
+
