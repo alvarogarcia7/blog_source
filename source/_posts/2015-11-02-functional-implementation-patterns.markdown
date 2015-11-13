@@ -39,7 +39,10 @@ You want to materialize properties from a collection
 ### Example
 
 ```ruby
-[62] pry(main)> [1,2,3].map {|x| {:element => x, :even? => x.even? } }
+[62] pry(main)> [1,2,3]
+                       .map {|x| 
+                         {:element => x, :even? => x.even? } 
+                       }
 => [{:element=>1, :even?=>false}, {:element=>2, :even?=>true}, {:element=>3, :even?=>false}]
 ```
 
