@@ -39,9 +39,27 @@ Then select all that match:
 ```
 ## Compact HOF
 
+### Introduction
+
+You have several HOFs in a row: you decorate the collection, act on the decorated values, then use only part from the new aggregation.
+
+### Example
+
 ```diff
 - .map { |x| [x, 2 * x]}
 - .sort_by { |f| f[1]}
 - .map { |x| x.first}
 + .sort_by { |x| 2 * x}
+```
+
+```ruby
+[48] pry(main)> [0,-2,90,1,2,0].map {|x| [x, -x]}.sort_by {|x| x[1]}.map {|x| x[0]}
+=> [90, 2, 1, 0, 0, -2]
+```
+
+replace it by:
+
+```ruby
+[49] pry(main)> [0,-2,90,1,2,0].sort_by {|x| -x}
+=> [90, 2, 1, 0, 0, -2]
 ```
