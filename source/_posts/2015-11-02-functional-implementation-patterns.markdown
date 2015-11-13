@@ -65,6 +65,15 @@ Naming the decoration
 => [{:element=>1, :even?=>false}, {:element=>2, :even?=>true}, {:element=>3, :even?=>false}]
 ```
 
+compare to
+
+```ruby
+[63] pry(main)> [1,2,3].map {|x| [x, x.even?] }
+=> [[1, false], [2, true], [3, false]]
+```
+
+In the latter, you are expressing the how, not the what.
+
 ## Compact HOF
 
 ### Introduction
