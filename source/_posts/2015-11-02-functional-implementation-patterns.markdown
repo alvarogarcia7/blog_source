@@ -36,3 +36,11 @@ Then select all that match:
 [3] pry(main)> [1,2,3].map {|x| [x, x.even?]}.select {|x| x[1]}
 => [[2, true]]
 ```
+## Compact HOF
+
+```diff
+-                           .map { |x| [x, 2 * x]}
+-                           .sort_by { |f| f[1]}
+-                           .map { |x| x.first}
++                           .sort_by { |x| 2 * x}
+```
