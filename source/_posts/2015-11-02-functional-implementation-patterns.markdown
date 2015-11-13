@@ -13,6 +13,7 @@ categories:
 
   * Intermediary
   * Functional decorator
+  * Collection Annotation (from Wallingford's Roundabout)
 
 ### Example
 
