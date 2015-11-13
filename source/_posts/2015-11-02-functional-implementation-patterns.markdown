@@ -71,7 +71,8 @@ You have a HOF that you want to split in several ones
 Original:
 
 ```ruby
-[5] pry(main)> [1,2,3].select {|x| x.even?}
+[5] pry(main)> [1,2,3]
+                      .select {|x| x.even?}
 => [2]
 ```
 
