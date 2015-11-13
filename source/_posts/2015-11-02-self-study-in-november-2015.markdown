@@ -160,3 +160,13 @@ Tags: stackoverflow, question, ruby, functional-programming, method-reference
 
 [get-a-reference-to-a-method]: http://stackoverflow.com/questions/485151/how-can-i-get-a-reference-to-a-method
 [reference-a-function]: http://stackoverflow.com/questions/4294485/how-do-i-reference-a-function-in-ruby
+
+
+## Implicit and Explicit Blocks
+
+I've read [this lesson from rubyMonk][rubymonk-block-lesson]
+
+Tags: rubymonk, lesson, block, ruby
+
+[rubymonk-block-lesson]: https://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/18-blocks/lessons/55-new-lesson
+
