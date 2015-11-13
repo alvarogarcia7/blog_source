@@ -1,0 +1,8 @@
+## Lazy Ruby
+
+I've read [this article][lazy-ruby] by sonnym about using ruby's lazy (non-strict) features, detailing an example with Fibonacci's sequence.
+
+Tags: laziness, strictness, non-strictness, ruby, fibonacci, comparison
+
+[lazy-ruby]: http://sonnym.github.io/2014/04/05/lazy-ruby/
+
