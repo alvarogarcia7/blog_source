@@ -85,8 +85,8 @@ Introduce an intermediary:
 Then select all that match:
 
 ```ruby
-[3] pry(main)> [1,2,3].map {|x| [x, x.even?]}.select {|x| x[1]}
-=> [[2, true]]
+[67] pry(main)> [1,2,3].map {|x| [x, x.even?]}.select {|x| x[1]}.map {|x| x.first}
+=> [2]
 ```
 
 ## Compact HOF
