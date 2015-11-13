@@ -55,7 +55,8 @@ Naming the decoration
 compare to
 
 ```ruby
-[63] pry(main)> [1,2,3].map {|x| [x, x.even?] }
+[63] pry(main)> [1,2,3]
+                       .map {|x| [x, x.even?] }
 => [[1, false], [2, true], [3, false]]
 ```
 
