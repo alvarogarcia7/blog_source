@@ -55,6 +55,16 @@ Then select all that match:
 [3] pry(main)> [1,2,3].map {|x| [x, x.even?]}.select {|x| x[1]}
 => [[2, true]]
 ```
+
+## Extra
+
+Naming the decoration
+
+```ruby
+[62] pry(main)> [1,2,3].map {|x| {:element => x, :even? => x.even? } }
+=> [{:element=>1, :even?=>false}, {:element=>2, :even?=>true}, {:element=>3, :even?=>false}]
+```
+
 ## Compact HOF
 
 ### Introduction
