@@ -40,7 +40,7 @@ You want to materialize properties from a collection
 
 ```ruby
 [62] pry(main)> [1,2,3]
-                       .map {|x| 
+                       .map { |x| 
                          {:element => x, :even? => x.even? } 
                        }
 => [{:element=>1, :even?=>false}, {:element=>2, :even?=>true}, {:element=>3, :even?=>false}]
@@ -52,7 +52,7 @@ Naming the decoration
 
 ```ruby
 [62] pry(main)> [1,2,3]
-                       .map {|x| 
+                       .map { |x| 
                          {:element => x, :even? => x.even? } 
                        }
 => [{:element=>1, :even?=>false}, {:element=>2, :even?=>true}, {:element=>3, :even?=>false}]
@@ -62,7 +62,7 @@ compare to
 
 ```ruby
 [63] pry(main)> [1,2,3]
-                       .map {|x| [x, x.even?] }
+                       .map { |x| [x, x.even?] }
 => [[1, false], [2, true], [3, false]]
 ```
 
