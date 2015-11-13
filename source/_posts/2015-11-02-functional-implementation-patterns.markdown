@@ -21,6 +21,18 @@ categories:
 #### Points to
 #### Points here
 
+# Collection of HOFs
+
+## Map
+
+## Reduce, Inject
+
+## Each
+
+## Filter, Keep, Select
+
+## Select Attribute
+
 
 # Collection of patterns
 
