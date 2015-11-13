@@ -18,6 +18,10 @@ categories:
 #### Step by step
 ### Use when
 ### Do not use when
+### Relates to
+#### Points to
+#### Points here
+
 
 # Collection of patterns
 
