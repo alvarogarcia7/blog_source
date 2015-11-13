@@ -57,11 +57,11 @@ Tags: kyle-drake, web-archive, centralization, decentralization, distribution, p
 
 ## Recovering From the Integrated Tests Scam
 
-I've read this article from J. B. Rainsberger on the integrated test scam and how to solve it: refactoring.
+I've read [this article][recovering-from-int-test-scam] from J. B. Rainsberger on the integrated test scam and how to solve it: refactoring.
 
 Tags: jbrains, tdd, integrated-test, integration-test, j-rainsberger
 
-http://us2.campaign-archive1.com/?u=80ca60ec48ef77dfaa1f38943&id=42e61e203e&e=4a925444f9
+[recovering-from-int-test-scam]: http://us2.campaign-archive1.com/?u=80ca60ec48ef77dfaa1f38943&id=42e61e203e&e=4a925444f9
 
 ## Broken windows theory
 
