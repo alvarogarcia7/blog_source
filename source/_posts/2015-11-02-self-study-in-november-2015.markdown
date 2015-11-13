@@ -170,3 +170,14 @@ Tags: rubymonk, lesson, block, ruby
 
 [rubymonk-block-lesson]: https://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/18-blocks/lessons/55-new-lesson
 
+## What's Point-free Programing?
+
+I've read [this article][point-free-programming] by Xah Lee explaining point-free programming, which requires a glance at function decomposition (currying)
+
+> [...] “point-free programing” is:
+>
+> * It is about a particular **syntax** for **function definition**.
+> * When **defining a function**, no symbol is used for function parameter.
+
+[point-free-programming]: http://xahlee.info/comp/point-free_programing.html
+
