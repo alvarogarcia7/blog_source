@@ -181,3 +181,13 @@ I've read [this article][point-free-programming] by Xah Lee explaining point-fre
 
 [point-free-programming]: http://xahlee.info/comp/point-free_programing.html
 
+## Oracle’s “planned obsolescence” for Java
+
+I've read [this article][planned-obs-java] by Coman Hamilton on the possible Java's planned obsolescence by Oracle.
+
+Discusses features pushed to future releases, comparing it to other legacy languages.
+
+Tags: obsolescence, legacy-language, planned-obsolescence, java, java-ee, oracle, fortran, cobol, coman-hamilton
+
+[planned-obs-java]: https://jaxenter.com/oracle-and-javas-planned-obsolescence-121144.html
+
