@@ -191,3 +191,9 @@ Tags: obsolescence, legacy-language, planned-obsolescence, java, java-ee, oracle
 
 [planned-obs-java]: https://jaxenter.com/oracle-and-javas-planned-obsolescence-121144.html
 
+## Your first Ruby native extension: C
+I've read [this article][native-extension-ruby] about writing a native extension for ruby. Written by James Coglan
+
+Tags: james-coglan, ruby, c, native-extension
+
+[native-extension-ruby]: https://blog.jcoglan.com/2012/07/29/your-first-ruby-native-extension-c/
