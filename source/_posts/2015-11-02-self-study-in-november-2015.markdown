@@ -197,3 +197,14 @@ I've read [this article][native-extension-ruby] about writing a native extension
 Tags: james-coglan, ruby, c, native-extension
 
 [native-extension-ruby]: https://blog.jcoglan.com/2012/07/29/your-first-ruby-native-extension-c/
+## What's the difference between equal?, eql?, ===, and ==?
+I've read [this stackoverflow][ruby-eql-comparison] question regarding Ruby operators: equal?, eql?, ===, ==:
+
+  * ==: generic equality
+  * ===: case equality (for case - when)
+  * eql?: hash equality
+  * equal?: identity comparison (pointer comparison)
+
+Tags: comparison, stackoverflow, ruby, equal, eq, ==, ===, question, answer, jtbandes
+
+[ruby-eql-comparison]: http://stackoverflow.com/questions/7156955/whats-the-difference-between-equal-eql-and
