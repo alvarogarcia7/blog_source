@@ -7,6 +7,28 @@ categories:
 This is a draft sample
 
 
+```javascript
+beforeEach( function(){
+    window.jasmine.addMatchers({
+      toEqualAlerts: function() {
+
+        return {
+          compare: function(actual, expected) {
+            expected = expected || '';
+
+            var pass = actual.length  === 1 && actual[0].type === expected[0].type &&
+              actual[0].msg === expected[0].msg;
+
+            return {
+              pass: pass,
+              message: pass ? 'Ok' : 'Ko'
+            };
+          }
+        };
+    }});
+  });
+```
+
 TODO Expand around here: http://jsfiddle.net/n0dhrwq2/1/
 
 Also explained here: http://pivotallabs.com/writing-beautiful-specs-jasmine-custom-matchers/

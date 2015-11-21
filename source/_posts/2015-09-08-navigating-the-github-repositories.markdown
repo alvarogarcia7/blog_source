@@ -24,6 +24,7 @@ Separated by language:
   * [Clojure](https://github.com/search?l=Clojure&q=kata+user%3Aalvarogarcia7&ref=searchresults&type=Repositories&utf8=%E2%9C%93)
   * [Javascript](https://github.com/search?l=JavaScript&q=kata+user%3Aalvarogarcia7&ref=searchresults&type=Repositories&utf8=%E2%9C%93)
   * [Haskell](https://github.com/search?l=Haskell&q=kata+user%3Aalvarogarcia7&ref=searchresults&type=Repositories&utf8=%E2%9C%93)
+  * [Ruby](https://github.com/search?l=ruby&q=kata+user%3Aalvarogarcia7&ref=searchresults&type=Repositories&utf8=%E2%9C%93)
 
 To the best of my knowledge, all repositories follow a similar pattern:
 

@@ -8,13 +8,103 @@ categories:
   - october
   - 2015
   - read
+  - 1986
+  - abstract-syntax-tree
+  - acid
+  - agile
+  - agile-academy
+  - alex-smith
+  - andrew-stewart
+  - arrayblockingqueue
+  - ast
+  - backlog
+  - benchmark
+  - brett-l.-schuchert
+  - classloader
+  - clojure
+  - code=data
+  - commitment
+  - comparison
+  - concurrency
+  - concurrentlinkedqueue
+  - contention
+  - cost-reduction
+  - data-structure
+  - data=code
+  - dave-farley
+  - dependency-inversion-principle
+  - design-principle
+  - dip
+  - disruptor
+  - document-store
+  - dom
+  - domain-specific-language
+  - doug-lea
+  - downside
+  - elm
+  - evan-czaplicki
+  - example
+  - extreme-programming
+  - framework
+  - function
+  - gregory-brown
+  - haskell
+  - hirotaka-takeuchi
+  - homoiconicity
+  - ikujiro-nonaka
+  - introduction
+  - james-donelan
+  - java
+  - jevgeny-kabanov
+  - json
+  - lambda-calculus
+  - lean-startup
+  - lmax
+  - low-cost
+  - low-level-optimization
+  - macro
+  - management
+  - martin-thompson
+  - matt-might
+  - michael-barker
+  - mongodb
+  - mvp
+  - nikolaos-raptis
+  - object-oriented
+  - optimization
+  - pair-programming
+  - paper
+  - parallelism
+  - patricia-gee
+  - pet-project
+  - postgresql
+  - principle
+  - priority
+  - product-development
+  - proof
+  - proof-of-concept
+  - racket
+  - ring-buffer
+  - robert-martin
+  - script
+  - scrum
+  - side-project
+  - software-quality
+  - solid
+  - speed
+  - sprint
+  - star-videos
+  - stephen-wolfram
+  - sven-slootweg
+  - tdd
+  - trisha-gee
+  - turing-machine
+  - universal-turing-machine
+  - video
+  - virtual-dom
+  - white-paper
+  - xp
 ---
-
-{% comment %}  
-
-Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/README.markdown#authors-as-categories
-
-{% endcomment %}
 
 ## Blazing Fast HTML: Virtual DOM in Elm
 
@@ -188,4 +278,43 @@ I've read [this article][disruptor-ring-buffer] about the ring buffer data struc
 Tags: patricia-gee, trisha-gee, disruptor, ring-buffer, data-structure
 
 [disruptor-ring-buffer]: http://mechanitis.blogspot.com.es/2011/06/dissecting-disruptor-whats-so-special.html
+
+## The Dependency Inversion Principle
+
+I've read [this paper][dip-original] about the Dependency Inversion Principle (DIP) written Robert C. Martin.
+
+It explains the theory, philosophy behind it. Also, creates an example with a copy buffer and different output locations
+
+Tags: robert-martin, dependency-inversion-principle, dip, example, comparison, object-oriented, principle, solid, design-principle
+
+[dip-original]: http://www.objectmentor.com/resources/articles/dip.pdf
+
+## DIP in the Wild
+
+I've read [this article][dip-in-the-wild] about the Dependency Inversion Principle (DIP) written by Brett L. Schuchert.
+
+It is explained non-canonical representations of this principle, how in other cases he has solved it and conclusions of using it day to day.
+
+Tags: brett-l.-schuchert, dependency-inversion-principle, dip, example, object-oriented, solid, design-principle
+
+[dip-in-the-wild]: http://martinfowler.com/articles/dipInTheWild.html
+
+## The New New Product Development Game
+
+I've read [this paper][new-new-product] about the holistic approach to product development, considered seminal for Scrum and other Agile methodologies. Written by Hirotaka Takeuchi and Ikujiro Nonaka
+
+In it, they describe how teams are distributed, the responsibilities for each one, and the degrees of freedom.
+
+Cites the six basic characteristics:
+
+  * built-in instability
+  * self-organizing project teams
+  * overlapping development phases
+  * multilearning
+  * subtle control
+  * organizational transfer of learning
+
+Tags: hirotaka-takeuchi, ikujiro-nonaka, scrum, agile, product-development, management, 1986
+
+[new-new-product]: https://hbr.org/1986/01/the-new-new-product-development-game
 

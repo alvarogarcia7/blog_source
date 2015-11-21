@@ -1,0 +1,11 @@
+
+## Jessica Livingston
+
+I've read [this essay][jessica-livingston] by Paul Graham about his co-founder at the Y-combinator: Jessica Livingston. She was considered the Social Radar at YC
+
+The essay also talks about the non-existent separation between working hours and not and about her implication and personality.
+
+Tags: jessica-livingston, paul-graham, y-combinator, feminism, yc, essay
+
+[jessica-livingston]: http://paulgraham.com/jessica.html
+

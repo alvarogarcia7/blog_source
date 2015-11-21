@@ -1,0 +1,12 @@
+## Frequency Reduces Difficulty
+
+I've read [this article][freq-reduces-complexity] by Martin Fowler on why we should repeat things that are difficult for us: 
+
+  * Perfectioning the technique
+  * Internalizing the details
+  * Easing its automation
+
+Tags: martin-fowler, automation, process, perfection, internalizing, technique, detail, process-theory, agile
+
+[freq-reduces-complexity]: http://martinfowler.com/bliki/FrequencyReducesDifficulty.html
+
