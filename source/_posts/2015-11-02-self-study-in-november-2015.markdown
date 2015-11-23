@@ -211,3 +211,9 @@ I've read [this stackoverflow][ruby-eql-comparison] question regarding Ruby oper
 Tags: comparison, stackoverflow, ruby, equal, eq, ==, ===, question, answer, jtbandes
 
 [ruby-eql-comparison]: http://stackoverflow.com/questions/7156955/whats-the-difference-between-equal-eql-and
+## Kanban
+I've read [the wikipedia page][kanban-wiki-es] for Kanban (Spanish)
+
+Tags: wikipedia, kanban, agile-methodology, management
+
+[kanban-wiki-es]: https://es.wikipedia.org/wiki/Kanban

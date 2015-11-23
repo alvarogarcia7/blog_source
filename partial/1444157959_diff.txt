@@ -1,6 +1,0 @@
-## Kanban
-I've read [the wikipedia page][kanban-wiki-es] for Kanban (Spanish)
-
-Tags: wikipedia, kanban, agile-methodology, management
-
-[kanban-wiki-es]: https://es.wikipedia.org/wiki/Kanban
