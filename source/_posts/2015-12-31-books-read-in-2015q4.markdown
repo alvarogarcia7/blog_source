@@ -31,6 +31,7 @@ Books I want to finish:
 Books that have entered the queue:
 
   * [Programming Languages: Application and Interpretation](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/) by Shriram Krishnamurthi
+  * [Doing Math with Python](https://www.nostarch.com/doingmathwithpython) by Amit Saha. [Gift from the PyConEs 2015](https://twitter.com/alvarobiz/status/668927802159288322)
 
 {% comment %}
 
