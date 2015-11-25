@@ -217,3 +217,13 @@ I've read [the wikipedia page][kanban-wiki-es] for Kanban (Spanish)
 Tags: wikipedia, kanban, agile-methodology, management
 
 [kanban-wiki-es]: https://es.wikipedia.org/wiki/Kanban
+
+
+## Is your Scrum team Agile?
+
+I've read [this article][scrum-team-agile] by  Bart Bakker where he discusses some common patterns in Agile implementations (in software companies)
+
+Tags: scrum, team, agile, scrum-implementation, bart-bakker
+
+[scrum-team-agile]: https://blog.thesoftwarecraft.com/2014/04/is-your-scrum-team-agile.html
+
