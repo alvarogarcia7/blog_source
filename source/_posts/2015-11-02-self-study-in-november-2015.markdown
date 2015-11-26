@@ -227,3 +227,9 @@ Tags: scrum, team, agile, scrum-implementation, bart-bakker
 
 [scrum-team-agile]: https://blog.thesoftwarecraft.com/2014/04/is-your-scrum-team-agile.html
 
+## Mejora tu trabajo en equipo con el método Kanban
+I've read [this article][que-es-kanban] that explains then kanban management framework, with its principles and its values. Written by Jose López (in Spanish)
+
+Tags: kanban, management, agile-methodology, management-framework, principle, value, jose-lopez
+
+[que-es-kanban]: http://hipertextual.com/archivo/2013/11/que-es-kanban/
