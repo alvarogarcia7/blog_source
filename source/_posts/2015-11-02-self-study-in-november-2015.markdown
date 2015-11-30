@@ -233,3 +233,13 @@ I've read [this article][que-es-kanban] that explains then kanban management fra
 Tags: kanban, management, agile-methodology, management-framework, principle, value, jose-lopez
 
 [que-es-kanban]: http://hipertextual.com/archivo/2013/11/que-es-kanban/
+## ¿Qué es el método Kanban para la gestión de proyectos?
+I've read [this article][garzas-kanban] (Spanish) written by Javier Garzás where it is explained the kanban methodology and three of its main rules:
+
+  * visualize workflow
+  * limit WIP
+  * measure {lead, cycle} time
+
+Tags: kanban, management, agile-methodology, management-framework, principle, value, javier-garzas
+
+[garzas-kanban]: http://www.javiergarzas.com/2011/11/kanban.html
