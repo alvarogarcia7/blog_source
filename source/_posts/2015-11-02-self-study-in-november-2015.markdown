@@ -243,3 +243,11 @@ I've read [this article][garzas-kanban] (Spanish) written by Javier Garzás wher
 Tags: kanban, management, agile-methodology, management-framework, principle, value, javier-garzas
 
 [garzas-kanban]: http://www.javiergarzas.com/2011/11/kanban.html
+## describe vs. context in rspec
+
+I've read [this article][describe-vs-context-rspec] that explains the (lack of) functional difference between RSpec's ``describe`` and ``context`` methods. The difference is contextual (i.e., the amount of information they convey). Written by LM
+
+Tags: rspec, ruby, describe, context, difference
+
+[describe-vs-context-rspec]: http://lmws.net/describe-vs-context-in-rspec
+
