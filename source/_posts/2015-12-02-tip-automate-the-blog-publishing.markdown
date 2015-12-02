@@ -12,7 +12,7 @@ categories:
 
 ---
 
-I've automated the generation of the blog using [Travis CI]. Using this new way, each commit generates a new version of the pages.
+I've automated the generation of the blog using [Travis CI][travis-ci]. Using this new way, each commit generates a new version of the pages.
 
 These resources have been very useful:
 
@@ -24,3 +24,4 @@ These resources have been very useful:
 
 [An example](https://github.com/floydpink?tab=repositories) of the resulting repository, by [Hari Menon](https://github.com/floydpink).
 
+[travis-ci]: https://travis-ci.org/
