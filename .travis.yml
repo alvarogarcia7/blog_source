@@ -4,7 +4,7 @@ rvm:
 - 1.9.3
 branches:
   only:
-  - master
+  - source
 before_script:
 - git config --global user.name "alvarogarcia7 (via Travis CI)"
 - git config --global user.email "derecerca@gmail.com"
