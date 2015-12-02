@@ -124,13 +124,6 @@ categories:
   - wikipedia
 ---
 
-{% comment %}  
-
-Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/README.markdown#authors-as-categories
-
-{% endcomment %}
-
-
 ## Call me maybe: RabbitMQ
 
 I've read [this article][rabbit-mq-as-lock-service] by Kyle Kingsbury on using RabbitMQ as a lock service. It investigates and gives a counterexample of using it for this purpose.
