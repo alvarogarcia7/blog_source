@@ -18,7 +18,7 @@ before_script:
 script:
 - bundle exec rake generate
 after_script:
-- bundle exec rake deploy
+- bundle exec rake deploy_ci
 sudo: false
 env:
   global:
