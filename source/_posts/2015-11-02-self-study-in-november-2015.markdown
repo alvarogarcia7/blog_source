@@ -211,13 +211,13 @@ I've read [this stackoverflow][ruby-eql-comparison] question regarding Ruby oper
 Tags: comparison, stackoverflow, ruby, equal, eq, ==, ===, question, answer, jtbandes
 
 [ruby-eql-comparison]: http://stackoverflow.com/questions/7156955/whats-the-difference-between-equal-eql-and
+
 ## Kanban
 I've read [the wikipedia page][kanban-wiki-es] for Kanban (Spanish)
 
 Tags: wikipedia, kanban, agile-methodology, management
 
 [kanban-wiki-es]: https://es.wikipedia.org/wiki/Kanban
-
 
 ## Is your Scrum team Agile?
 
@@ -233,6 +233,7 @@ I've read [this article][que-es-kanban] that explains then kanban management fra
 Tags: kanban, management, agile-methodology, management-framework, principle, value, jose-lopez
 
 [que-es-kanban]: http://hipertextual.com/archivo/2013/11/que-es-kanban/
+
 ## ¿Qué es el método Kanban para la gestión de proyectos?
 I've read [this article][garzas-kanban] (Spanish) written by Javier Garzás where it is explained the kanban methodology and three of its main rules:
 
@@ -243,6 +244,7 @@ I've read [this article][garzas-kanban] (Spanish) written by Javier Garzás wher
 Tags: kanban, management, agile-methodology, management-framework, principle, value, javier-garzas
 
 [garzas-kanban]: http://www.javiergarzas.com/2011/11/kanban.html
+
 ## describe vs. context in rspec
 
 I've read [this article][describe-vs-context-rspec] that explains the (lack of) functional difference between RSpec's ``describe`` and ``context`` methods. The difference is contextual (i.e., the amount of information they convey). Written by LM
