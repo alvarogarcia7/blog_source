@@ -15,14 +15,19 @@ I've automated the generation of the blog using [Travis CI][travis-ci]. Using th
 
 These resources have been very useful:
 
-  * [Prose.io + Octopress + Travis-CI + GitHub Pages = ♥](http://darvin.github.io/2013/01/13/Prose_Octopress_TravisIO). First post (in this set) that explains how this automation is possible
-  * [Auto-deploying to My Octopress Blog With Travis-CI](https://harimenon.com/blog/2013/01/27/auto-deploying-to-my-octopress-blog/). Explains how to generate your key, encript it with travis
-  * [Octopress + GitHub Pages + Travis](http://blog.yasuoza.com/2014/01/13/octopress-plus-github-pages-plus-travis/): The most useful page, explains step by step what to do for mac and linux.
-  * [Octopress+Prose+Github+Travis CI = coders' blog - Human, not octopus](https://disqus.com/home/discussion/codez/octopressprosegithubtravis_ci_coders_blog_human_not_octopus/).Altough the page is not available anymore, this discussion explains why it is safe to store your private key in the file ``.travis.yml``.
+  * [Prose.io + Octopress + Travis-CI + GitHub Pages = ♥][source1]. First post (in this set) that explains how this automation is possible
+  * [Auto-deploying to My Octopress Blog With Travis-CI][source2]. Explains how to generate your key, encript it with travis
+  * [Octopress + GitHub Pages + Travis][source3]: The most useful page, explains step by step what to do for mac and linux.
+  * [Octopress+Prose+Github+Travis CI = coders' blog - Human, not octopus][source4].Altough the page is not available anymore, this discussion explains why it is safe to store your private key in the file ``.travis.yml``.
 
 [An example](https://github.com/floydpink?tab=repositories) of the resulting repository, by [Hari Menon](https://github.com/floydpink).
 
 [travis-ci]: https://travis-ci.org/
+[source1]: http://darvin.github.io/2013/01/13/Prose_Octopress_TravisIO
+[source2]: https://harimenon.com/blog/2013/01/27/auto-deploying-to-my-octopress-blog/
+[source3]: http://blog.yasuoza.com/2014/01/13/octopress-plus-github-pages-plus-travis/
+[source4]: https://disqus.com/home/discussion/codez/octopressprosegithubtravis_ci_coders_blog_human_not_octopus/
+
 
 ## My own modifications
 
