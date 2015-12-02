@@ -9,6 +9,7 @@ categories:
   - blog
   - travis
   - ci
+  - octopress
 ---
 
 I've automated the generation of the blog using [Travis CI][travis-ci]. Using this new way, each commit generates a new version of the pages.
