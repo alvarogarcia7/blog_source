@@ -23,3 +23,12 @@ These resources have been very useful:
 [An example](https://github.com/floydpink?tab=repositories) of the resulting repository, by [Hari Menon](https://github.com/floydpink).
 
 [travis-ci]: https://travis-ci.org/
+
+## My own modifications
+
+The full diff for making this change is [here](https://github.com/alvarogarcia7/blog_source/compare/8414267a1e8e1f0ef588602121f32da3f6eb9f9e...9f60c76d6d9faca8cff8bce2f0a00bf8f2eafb30). Disregard the changes in:  
+
+  * ``partial/1444939871_diff.txt``
+  * ``partial/1444939871_msg.txt``
+  * ``source/_posts/2015-12-02-self-study-in-december-2015.markdown``
+
