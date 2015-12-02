@@ -9,14 +9,12 @@ categories:
   - blog
   - travis
   - ci
-
 ---
 
 I've automated the generation of the blog using [Travis CI][travis-ci]. Using this new way, each commit generates a new version of the pages.
 
 These resources have been very useful:
 
-  * http://blog.teracy.com/2013/08/03/how-to-start-blogging-easily-with-octopress-and-teracy-dev/
   * https://harimenon.com/blog/2013/01/27/auto-deploying-to-my-octopress-blog/
   * https://disqus.com/home/discussion/codez/octopressprosegithubtravis_ci_coders_blog_human_not_octopus/
   * http://darvin.github.io/2013/01/13/Prose_Octopress_TravisIO/
