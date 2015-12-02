@@ -6,6 +6,7 @@ comments: true
 categories: 
 ---
 
+{% comment %}
 # Template
 
 ## Name
@@ -21,7 +22,11 @@ categories:
 #### Points to
 #### Points here
 
+{% endcomment %}
+
 # Collection of HOFs
+
+{% comment %}
 
 ## Map
 
@@ -32,6 +37,8 @@ categories:
 ## Filter, Keep, Select
 
 ## Flatten
+
+{% endcomment %}
 
 ## Select Attribute
 
