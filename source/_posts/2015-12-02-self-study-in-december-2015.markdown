@@ -28,3 +28,11 @@ Tags: ruby, comparison, equality, object, reference, alan-skorkin
 
 [ruby-equality-object-comparison]: http://www.skorks.com/2009/09/ruby-equality-and-object-comparison/
 
+## Software Folklore
+
+I've watched [this PechaKucha][software-folklore] by Chris Ford on what are laws and how they relate to creating software. Also talks on what could be an analogy to software creation (says not science, not engineering)
+
+Tags: folklore, chris-ford, analogy, computer-science, pechakucha, software-engineering, software-creation, law
+
+[software-folklore]: https://www.thoughtworks.com/insights/blog/software-folklore
+
