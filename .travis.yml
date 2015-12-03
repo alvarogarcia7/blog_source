@@ -14,7 +14,7 @@ before_script:
 - base64 --decode --ignore-garbage ~/.ssh/travis_rsa_64 > ~/.ssh/id_rsa
 - chmod 600 ~/.ssh/id_rsa
 - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
-- bundle exec rake setup_github_pages[$REPO]
+- bundle exec rake create_deploy_env
 - git checkout -- _config.yml
 script:
 - bundle exec rake generate

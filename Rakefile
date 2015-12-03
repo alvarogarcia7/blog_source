@@ -328,6 +328,10 @@ task :set_root_dir, :dir do |t, args|
   end
 end
 
+task :create_deploy_env, :dir do |t, args|
+  mkdir deploy_dir
+end
+
 desc "Set up _deploy folder and deploy branch for Github Pages deployment"
 task :setup_github_pages, :repo do |t, args|
   if args.repo
