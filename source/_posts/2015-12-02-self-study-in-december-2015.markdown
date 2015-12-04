@@ -48,3 +48,14 @@ Tags: clojure, java, eric-normand, stm, edn
 
 [steal-from-clojure]: http://www.lispcast.com/3-things-java-can-steal-from-clojure
 
+## 2 Features of Clojure Editors Professionals Won't Do Without
+
+I've read [this article][clojure-editors] by Eric Normand, where he explains the most necessary features for a clojure editor:
+
+1. REPL Integration
+1. Structural Editing
+
+Tags: clojure, java, eric-normand, stm, edn
+
+[clojure-editors]: http://www.lispcast.com/clojure-editors
+
