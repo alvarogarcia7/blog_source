@@ -36,3 +36,15 @@ Tags: folklore, chris-ford, analogy, computer-science, pechakucha, software-engi
 
 [software-folklore]: https://www.thoughtworks.com/insights/blog/software-folklore
 
+## 3 Things Java Programmers Can Steal from Clojure
+
+I've read [this article][steal-from-clojure] by Eric Normand, where he explains 3 clojure things that can be applied to your day to day java:
+
+1. Persistent Data Structures
+1. Software Transactional Memory
+1. Extensible Data Notation
+
+Tags: clojure, java, eric-normand, stm, edn
+
+[steal-from-clojure]: http://www.lispcast.com/3-things-java-can-steal-from-clojure
+
