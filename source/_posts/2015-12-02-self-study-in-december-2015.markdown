@@ -59,3 +59,15 @@ Tags: clojure, java, eric-normand, stm, edn
 
 [clojure-editors]: http://www.lispcast.com/clojure-editors
 
+## How to read more books
+
+I've read [this article][read-more-books] by Mathias Verraes on tips to read more books:
+
+  * Negative things to stop doing
+  * Positive things to start doing
+  * Habits to form
+
+Tags: mathias-verraes, reading, book
+
+[read-more-books]: http://verraes.net/2012/12/how-to-read-more-books/
+
