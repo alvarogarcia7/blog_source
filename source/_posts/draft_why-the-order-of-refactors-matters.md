@@ -63,7 +63,11 @@ int doubleAbs(int value) {
 
 imagine the code as a graph:
 
-at each modification of the code, the code travels from a vertex to another, and in each edge there is the name of the refactor and its cost.
+at the initial point in time (t0, might be the current one), at each modification of the code, the code travels from a vertex to another.
+
+in each edge there is the name of the refactor and its cost.
+
+in each vertex there is the state (either current or future) and the point in time (tX)
 
 it is clear that the graph has cycles, so it cannot be a tree but a general graph. it is also weighted as each refactor has an associated weight.
 
