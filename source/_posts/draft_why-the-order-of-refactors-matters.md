@@ -67,7 +67,7 @@ at the initial point in time (t0, might be the current one), at each modificatio
 
 in each edge there is the name of the refactor and its cost.
 
-in each vertex there is the state (either current or future) and the point in time (tX)
+in each vertex there is the state (either current or future)
 
 it is clear that the graph has cycles, so it cannot be a tree but a general graph. it is also weighted as each refactor has an associated weight.
 
