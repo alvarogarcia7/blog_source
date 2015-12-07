@@ -115,3 +115,19 @@ Tags: cristobal-garcia, application-gateway, clojure, example, level-7-firewall,
 
 [app-gateway-clojure]: http://blog.obliquo.eu/post/134421923177/application-gateways-an-example-in-clojure
 
+## Habits For Effective Refactoring
+
+I've watched [this video][habits-effective-refactoring] by Jason Gorman about techniques for effective and sustainable refactoring. Among them:
+
+  * check the tests, the coverage to make sure that the refactored code has a good safety net
+  * set a refactoring goal: decide what you want to refactor at this time and when you'll be done
+  * know your code smells
+  * only refactor on green
+  * use automated refactoring steps whenever possible: for the benefits of transactionability and undo are huge and the risk of messing it up decreases
+  * commit after achieving the refactoring goal: allows to create a checkpoint to revert to
+  * bottle the code smells for faster/better learning (in the commit message, he uses a hashtag for searching)
+
+Tags: jason-gorman, refactoring, video, technique, refactor, tutorial, code-smell
+
+[habits-effective-refactoring]: https://www.youtube.com/watch?v=THw8t7ePlsc
+
