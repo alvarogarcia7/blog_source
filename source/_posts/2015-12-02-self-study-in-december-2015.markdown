@@ -97,3 +97,10 @@ Tags: mike-sherov, clean-code,clear-code, clever-code, reflection, team, code
 
 [clear-not-clever-code]: https://medium.com/@mikesherov/writing-clear-code-not-clever-code-d6b90353a3c5
 
+## En vez de “un Scrum por proyecto” mejor un “Scrum por equipo”
+
+I've read [this article][scrum-by-team] where Javier Garzás explains scrum by teams or by projects and why the former should be preferred (in Spanish).
+
+Tags:  javier-garzas, scrum, project-management, team, agile
+
+[scrum-by-team]: http://www.javiergarzas.com/2015/12/alejate-del-concepto-proyecto-si-quieres-usar-bien-scrum-22-adaptar-scrum-segun-cada-proyecto.html
