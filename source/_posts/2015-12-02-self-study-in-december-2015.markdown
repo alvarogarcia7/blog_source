@@ -81,3 +81,11 @@ Tags: allison-kaptur, fixed-mindset, growth-mindset, research, learning-strategy
 
 [learning-strategies]: http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
 
+## Code a fully-functional web app in 14 days… - Challenge Accepted
+
+I've read [this experience report][mvp-14-days] on how Ryan Haase and Benjamin Hoffman built an MVP in 14 days. They describe their stack choices, gotchas and key points.
+
+Tags: ryan-haase, benjamin-hoffman, mvp, angular, firebase, challenge
+
+[mvp-14-days]: https://medium.com/@OggimusPrime/code-a-fully-functional-web-app-in-14-days-e247f536772d
+
