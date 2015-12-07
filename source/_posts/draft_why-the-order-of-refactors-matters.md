@@ -58,3 +58,15 @@ int sum = doubleAbs(1+1);
 int doubleAbs(int value) {
 	return double(abs(value));
 }
+
+---
+
+imagine the code as a graph:
+
+at each modification of the code, the code travels from a vertex to another, and in each edge there is the name of the refactor and its cost.
+
+it is clear that the graph has cycles, so it cannot be a tree but a general graph. it is also weighted as each refactor has an associated weight.
+
+following the refactoring algorithm, it is not possible to navigate the graph in an infinite path, as each refactor should decrease the cost of future modifications and its simplicity >>>
+
+according to the definition, .....????
