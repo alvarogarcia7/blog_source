@@ -131,3 +131,11 @@ Tags: jason-gorman, refactoring, video, technique, refactor, tutorial, code-smel
 
 [habits-effective-refactoring]: https://www.youtube.com/watch?v=THw8t7ePlsc
 
+## Key to "OEIS.org" Poster, n. 15
+
+I've read [the 15th "poster and its key"][oeis-15] by the OEIS, published by N. J. A. Sloane.
+
+Tags: sloane, oeis, poster-and-key, neil-sloane
+
+[oeis-15]: http://oeisf.org/Poster15a_key.pdf
+
