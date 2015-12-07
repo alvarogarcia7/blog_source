@@ -104,3 +104,14 @@ I've read [this article][scrum-by-team] where Javier Garzás explains scrum by t
 Tags:  javier-garzas, scrum, project-management, team, agile
 
 [scrum-by-team]: http://www.javiergarzas.com/2015/12/alejate-del-concepto-proyecto-si-quieres-usar-bien-scrum-22-adaptar-scrum-segun-cada-proyecto.html
+
+## Application gateways: an example in Clojure
+
+I've read [this example][app-gateway-clojure] that Cristobal Garcia prepared for me after asking for it at the local Barcelona Software Craftsmanship community (Many thanks!).
+
+He describes what an application gateway is, giving an example in clojure. In this case, the application gateway is used to cache and forward/deny requests to another webservice.
+
+Tags: cristobal-garcia, application-gateway, clojure, example, level-7-firewall, barcelona-software-craftsmanship, scbcn, gift
+
+[app-gateway-clojure]: http://blog.obliquo.eu/post/134421923177/application-gateways-an-example-in-clojure
+
