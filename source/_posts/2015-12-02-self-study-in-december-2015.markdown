@@ -89,3 +89,11 @@ Tags: ryan-haase, benjamin-hoffman, mvp, angular, firebase, challenge
 
 [mvp-14-days]: https://medium.com/@OggimusPrime/code-a-fully-functional-web-app-in-14-days-e247f536772d
 
+## Writing-Clear-Code, Not-Clever-Code
+
+I've-read [this-article][clear-not-clever-code] by-Mike-Sherov-where-he-explains-the-reflection-he-did-since-his-team-members-were-asking-too-much-about-his-code. His-conclusion-was-to-stop-reducing-the-size-of-the-code-to-improve-readability.
+
+Tags: mike-sherov, clean-code,clear-code, clever-code, reflection, team, code
+
+[clear-not-clever-code]: https://medium.com/@mikesherov/writing-clear-code-not-clever-code-d6b90353a3c5
+
