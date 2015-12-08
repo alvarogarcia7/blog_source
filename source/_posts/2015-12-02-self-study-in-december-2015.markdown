@@ -147,3 +147,10 @@ Tags: bozhidar-batsov, clojure, style-guide
 
 [clj-style-guide]: https://github.com/bbatsov/clojure-style-guide
 
+## Marick's Midje information
+
+  * [Custom checkers](https://github.com/marick/Midje/wiki/Writing-your-own-checkers)
+  * [Domain concepts](https://github.com/marick/Midje/wiki/Two-words-you-need-to-know)
+  * [Top-down testing](https://github.com/marick/Midje/wiki/Top-down-testing)
+  * [Nested checkers](https://github.com/marick/Midje/wiki/Nested-checkers)
+
