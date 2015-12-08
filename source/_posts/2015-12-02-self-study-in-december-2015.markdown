@@ -139,3 +139,11 @@ Tags: sloane, oeis, poster-and-key, neil-sloane
 
 [oeis-15]: http://oeisf.org/Poster15a_key.pdf
 
+## The Clojure Style Guide
+
+I've read [this style guide][clj-style-guide] to clojure, by Bozhidar Batsov
+
+Tags: bozhidar-batsov, clojure, style-guide
+
+[clj-style-guide]: https://github.com/bbatsov/clojure-style-guide
+
