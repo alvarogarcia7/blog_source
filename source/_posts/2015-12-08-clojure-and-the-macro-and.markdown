@@ -90,6 +90,10 @@ simple.core=> (and 3 64)
 64
 ```
 
+## Conclusion
+
+``all-truthy?`` exploits the falsy values in clojure (``nil``, ``false``), while ``all-true`` uses the true boolean values, although the function does not work properly with non-boolean values (i.e. its domain is the booleans)
+
 ## Appendix A: Source code
 
 ``and``:
