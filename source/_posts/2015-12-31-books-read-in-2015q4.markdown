@@ -34,6 +34,7 @@ Books that have entered the queue:
   * [Doing Math with Python](https://www.nostarch.com/doingmathwithpython) by Amit Saha. [Gift from the PyConEs 2015](https://twitter.com/alvarobiz/status/668927802159288322)
   * [Perfect Software: And Other Illusions about Testing](http://www.geraldmweinberg.com/Site/Perfect_Software.html) by Gerald M. Weinberg  
   * [Building Microservices, Designing Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do) by Sam Newman
+  * [Computability and Complexity - From a Programming Perspective](https://mitpress.mit.edu/books/computability-and-complexity) by Neil Deaton Jones
 
 {% comment %}
 
