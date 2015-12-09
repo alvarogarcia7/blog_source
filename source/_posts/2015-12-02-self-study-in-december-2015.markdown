@@ -154,3 +154,11 @@ Tags: bozhidar-batsov, clojure, style-guide
   * [Top-down testing](https://github.com/marick/Midje/wiki/Top-down-testing)
   * [Nested checkers](https://github.com/marick/Midje/wiki/Nested-checkers)
 
+## Clusterware 11gR2 – Setting up an Active/Passive failover configuration
+
+I've read [this how-to guide][active-passive-oracle] by Gilles Haro on how to create an Active/Passive failover configuration for Oracle.
+
+Tags: failover, high-availability, oracle, gilles-haro, active-passive, database
+
+[active-passive-oracle]: https://blogs.oracle.com/xpsoluxdb/entry/clusterware_11gr2_setting_up_an_activepassive_failover_configuration
+
