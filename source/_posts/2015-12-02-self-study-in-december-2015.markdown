@@ -178,3 +178,15 @@ Tags: andrew-burgess, ruby, rspec, test, tutorial
 
 [testing-with-rspec-21297]: http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297
 
+## Ruby dynamic method calling
+
+I've read [this article][ruby-dynamic-method-calling] about dynamically calling methods and a benchmark on three ways of doing it in Ruby:
+
+  * call
+  * send
+  * eval
+
+Tags: khell, metaprogramming, comparison, benchmark, ruby, evaluation, dynamic
+
+[ruby-dynamic-method-calling]: http://blog.khd.me/ruby/ruby-dynamic-method-calling/
+
