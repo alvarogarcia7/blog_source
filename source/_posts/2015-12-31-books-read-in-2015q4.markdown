@@ -21,16 +21,20 @@ Books I've read this quarter[^1]:
 Books started, not yet finished (WIP):
 
   * [Haskell Programming](http://haskellbook.com/), By Chris Allen and Julie Moronuki. This book is still in progress and I'm reviewing it
-  * [Functional Programming Patterns in Scala and Clojure](https://pragprog.com/book/mbfpp/functional-programming-patterns-in-scala-and-clojure) by Michael Bevilacqua-Linn
   * [Pragmatic Thinking and Learning: Refactor Your Wetware](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) by Andy Hunt  
   * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/) by Abelson, Sussman, and Sussman, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [sicp](/{{site.category_dir}}/sicp).
-  * [The Leprechauns of Software Engineering](https://leanpub.com/leprechauns) by Laurent Bossavit, again. [Gift](https://twitter.com/alvarobiz/status/611799849911103488)  
   
 Books I want to finish:
+  * [The Leprechauns of Software Engineering](https://leanpub.com/leprechauns) by Laurent Bossavit, again. [Gift](https://twitter.com/alvarobiz/status/611799849911103488)  
+  * [Functional Programming Patterns in Scala and Clojure](https://pragprog.com/book/mbfpp/functional-programming-patterns-in-scala-and-clojure) by Michael Bevilacqua-Linn
 
 Books that have entered the queue:
 
   * [Programming Languages: Application and Interpretation](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/) by Shriram Krishnamurthi
+  * [Doing Math with Python](https://www.nostarch.com/doingmathwithpython) by Amit Saha. [Gift from the PyConEs 2015](https://twitter.com/alvarobiz/status/668927802159288322)
+  * [Perfect Software: And Other Illusions about Testing](http://www.geraldmweinberg.com/Site/Perfect_Software.html) by Gerald M. Weinberg  
+  * [Building Microservices, Designing Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do) by Sam Newman
+  * [Computability and Complexity - From a Programming Perspective](https://mitpress.mit.edu/books/computability-and-complexity) by Neil Deaton Jones
 
 {% comment %}
 
@@ -46,7 +50,7 @@ repository for WIP books:
   * [Java Performance: The Definitive Guide](http://shop.oreilly.com/product/0636920028499.do) by Scott Oaks
   * [Scrum and XP from the trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches) by Henrik Kniberg
 
-Books that in the queue:
+Books in the queue:
 
   * [Mature optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf), by Carlos Bueno
   * [XUnit Test Patterns](http://xunitpatterns.com/) by Gerard Meszaros

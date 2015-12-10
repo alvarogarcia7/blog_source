@@ -1,1 +1,0 @@
-add article on ruby's equality and object comparison

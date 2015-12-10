@@ -50,3 +50,8 @@ categories:
 
   * In the unix command-line, some  of the same patterns apply as in functional programming with a REPL: hacked code / programming by coincidence, as there is not a previous design (or even a thought). The function names are not well chosen as it is "easy" to see what they do.
     * Any other similities or differences?
+
+2015-11-25-12:04 AGB
+
+  * the double objective when teaching: yours and your student's
+  * the difference of deliberate practice and deliberate use 

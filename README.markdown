@@ -86,6 +86,8 @@ See an example in tdd intensive workshop:
 
 ### Authors as categories
 
+#### using an external service
+
 Get the clojure REPL (e.g., Light Table or [TryCLJ](http://www.tryclj.com/)) and 
 
 ````
@@ -95,6 +97,19 @@ Get the clojure REPL (e.g., Light Table or [TryCLJ](http://www.tryclj.com/)) and
 ````
 
 In this version the argument that changes all the time (the author or URL keywords) are at the end and it is simpler to edit.
+
+#### using an internal service
+
+1. lowercase:
+
+  select, control+k, l (lowercase)
+
+2. replace spaces
+
+```
+([a-z]) ([a-z])
+$1-$2
+```
 
 ### Get all the categories from a Self-Study aggregation
 
