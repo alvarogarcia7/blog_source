@@ -162,3 +162,11 @@ Tags: failover, high-availability, oracle, gilles-haro, active-passive, database
 
 [active-passive-oracle]: https://blogs.oracle.com/xpsoluxdb/entry/clusterware_11gr2_setting_up_an_activepassive_failover_configuration
 
+## The Telescoping Constructor (Anti)Pattern
+
+I've read [this article][telescoping-constructor] by Roger Hughes on the telescoping constructor, with the example in java. The discussion is whether to apply this or not and whether this is a pattern or an anti-pattern
+
+Tags: roger-hughes, telescoping-constructor, java, pattern, antipattern
+
+[telescoping-constructor]: http://www.captaindebug.com/2011/05/telescoping-constructor-antipattern.html#.ViF57eztmkp
+
