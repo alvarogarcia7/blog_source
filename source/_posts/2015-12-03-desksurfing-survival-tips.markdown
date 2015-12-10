@@ -12,4 +12,4 @@ categories:
 
 ## Expose your lack of knowledge
 
-## Where in Rome,
+## Where in Rome, do as Romans
