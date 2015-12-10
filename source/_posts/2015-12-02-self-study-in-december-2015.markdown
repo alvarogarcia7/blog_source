@@ -170,3 +170,11 @@ Tags: roger-hughes, telescoping-constructor, java, pattern, antipattern
 
 [telescoping-constructor]: http://www.captaindebug.com/2011/05/telescoping-constructor-antipattern.html#.ViF57eztmkp
 
+## Ruby for Newbies: Testing with Rspec
+
+I've read [this tutorial][testing-with-rspec-21297] on how to make write tests with RSpec in Ruby. Written by Andrew Burgess
+
+Tags: andrew-burgess, ruby, rspec, test, tutorial
+
+[testing-with-rspec-21297]: http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297
+

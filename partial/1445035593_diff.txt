@@ -1,8 +1,0 @@
-## Ruby for Newbies: Testing with Rspec
-
-I've read [this tutorial][testing-with-rspec-21297] on how to make write tests with RSpec in Ruby. Written by Andrew Burgess
-
-Tags: andrew-burgess, ruby, rspec, test, tutorial
-
-[testing-with-rspec-21297]: http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297
-
