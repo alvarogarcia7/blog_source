@@ -170,3 +170,11 @@ Tags: list, old-stuff, greg-hurrell
 
 [old-stuff-that-rocks]: https://wincent.com/blog/old-stuff-that-rocks
 
+## Do not underestimate credentials leaks
+
+I've read [this article][cred-leaks] that describes how credentials are usually accidentally leaked and a guide on what to do about it. By Сковорода Никита Андреевич.
+
+Tags: credential, leak, guide, how-to
+
+[cred-leaks]: https://github.com/ChALkeR/notes/blob/master/Do-not-underestimate-credentials-leaks.md
+
