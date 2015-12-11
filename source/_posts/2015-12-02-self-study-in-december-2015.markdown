@@ -162,3 +162,11 @@ Tags: failover, high-availability, oracle, gilles-haro, active-passive, database
 
 [active-passive-oracle]: https://blogs.oracle.com/xpsoluxdb/entry/clusterware_11gr2_setting_up_an_activepassive_failover_configuration
 
+## Old stuff that rocks
+
+I've read [this list][old-stuff-that-rocks] of old technologies that still rock, according to Greg Hurrell.
+
+Tags: list, old-stuff, greg-hurrell
+
+[old-stuff-that-rocks]: https://wincent.com/blog/old-stuff-that-rocks
+
