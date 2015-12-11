@@ -178,3 +178,11 @@ Tags: credential, leak, guide, how-to
 
 [cred-leaks]: https://github.com/ChALkeR/notes/blob/master/Do-not-underestimate-credentials-leaks.md
 
+## Clojure for the brave and true: chapter 8 - Writing Macros
+
+I've read [this chapter][clj-bat-ch8] from Daniel Higginbotham about macros in clojure. In it, he explains common gotchas (e.g., double execution, variable capture), splicing, quoting and unquoting.
+
+Tags: daniel-higginbotham, clojure, macro, chapter, quoting, unquoting, splicing
+
+[clj-bat-ch8]: http://www.braveclojure.com/writing-macros
+
