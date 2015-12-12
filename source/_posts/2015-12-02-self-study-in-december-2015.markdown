@@ -190,3 +190,11 @@ Tags: khell, metaprogramming, comparison, benchmark, ruby, evaluation, dynamic
 
 [ruby-dynamic-method-calling]: http://blog.khd.me/ruby/ruby-dynamic-method-calling/
 
+## Becoming a CTO
+
+I've read this article [][becoming-a-cto] by Juozas Kaziukėnas about the profile and the abilities of a CTO. Talks about the limiting factors for being one (e.g., stop programming, attend many meetings) and the type of work you are supposed to do (e.g., face business people, communicate the strategy, make yourself respectable).
+
+Tags: juozas-kaziukenas, cto, career-change, technology, career, programmer, title, job
+
+[becoming-a-cto]: https://medium.com/@juokaz/becoming-a-cto-337dc1a9c6ae
+
