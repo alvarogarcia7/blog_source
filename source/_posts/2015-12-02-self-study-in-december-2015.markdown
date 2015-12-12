@@ -198,3 +198,11 @@ Tags: juozas-kaziukenas, cto, career-change, technology, career, programmer, tit
 
 [becoming-a-cto]: https://medium.com/@juokaz/becoming-a-cto-337dc1a9c6ae
 
+## 4 Stages of Team Development
+
+I've watched [this video][stages-team-development] by the Glenn Smith "Growth Coach Houston" about the four stages of team development: forming, norming, storming, performing and how to get through them.
+
+Tags: tuckman, forming, norming, storming, performing, glenn-smith, video, team-management, team
+
+[stages-team-development]: https://www.youtube.com/watch?feature=player_embedded&v=7NouiH2ZT8w
+
