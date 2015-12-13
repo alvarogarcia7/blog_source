@@ -37,6 +37,7 @@ Books that have entered the queue:
   * [Computability and Complexity - From a Programming Perspective](https://mitpress.mit.edu/books/computability-and-complexity) by Neil Deaton Jones
   * [Thinking Forth: a language and philosophy for solving problems](http://thinking-forth.sourceforge.net/) by Leo Brodie
   * [Concepts, Techniques, and Models of Computer Programming](https://mitpress.mit.edu/index.php?q=books/concepts-techniques-and-models-computer-programming) by Peter Van Roy and Seif Haridi
+  * [Bridging the Communication Gap](http://books.gojko.net/bridging-the-communication-gap/) by Gojko Adzic
 
 {% comment %}
 
