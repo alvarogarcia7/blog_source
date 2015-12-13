@@ -39,6 +39,7 @@ Books that have entered the queue:
   * [Concepts, Techniques, and Models of Computer Programming](https://mitpress.mit.edu/index.php?q=books/concepts-techniques-and-models-computer-programming) by Peter Van Roy and Seif Haridi
   * [Bridging the Communication Gap](http://books.gojko.net/bridging-the-communication-gap/) by Gojko Adzic
   * [Specification by Example](http://books.gojko.net/specification-by-example/) by Gojko Adzic
+  * [The Cucumber book](https://pragprog.com/book/hwcuc/the-cucumber-book) by Matt Wynne and Aslak Hellesøy
 
 {% comment %}
 
