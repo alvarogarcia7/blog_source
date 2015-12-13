@@ -36,6 +36,7 @@ Books that have entered the queue:
   * [Building Microservices, Designing Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do) by Sam Newman
   * [Computability and Complexity - From a Programming Perspective](https://mitpress.mit.edu/books/computability-and-complexity) by Neil Deaton Jones
   * [Thinking Forth: a language and philosophy for solving problems](http://thinking-forth.sourceforge.net/) by Leo Brodie
+  * [Concepts, Techniques, and Models of Computer Programming](https://mitpress.mit.edu/index.php?q=books/concepts-techniques-and-models-computer-programming) by Peter Van Roy and Seif Haridi
 
 {% comment %}
 
