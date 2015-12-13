@@ -40,6 +40,7 @@ Books that have entered the queue:
   * [Bridging the Communication Gap](http://books.gojko.net/bridging-the-communication-gap/) by Gojko Adzic
   * [Specification by Example](http://books.gojko.net/specification-by-example/) by Gojko Adzic
   * [The Cucumber book](https://pragprog.com/book/hwcuc/the-cucumber-book) by Matt Wynne and Aslak Hellesøy
+  * [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers) by Simon Brown
 
 {% comment %}
 
