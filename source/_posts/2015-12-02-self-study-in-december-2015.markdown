@@ -272,3 +272,11 @@ Tags: tdd, jon-pither, senior-developer, junior-developer, aesthetics, lateral-t
 
 [musing-tdd]: http://www.pitheringabout.com/?p=1059
 
+## Fred George On Programmer Anarchy
+
+I've read [this article][programmer-anarchy-shenoy] by Roopesh Shenoy on a talk by Fred George: "Programmer Anarchy", where programmers make business decisions based on business metrics set by clients, among other things.
+
+Tags: roopesh-shenoy, fred-george, programmer-anarchy, analogy, anarchy, business-metric, client, agile, methodology
+
+[programmer-anarchy-shenoy]: http://www.infoq.com/news/2012/02/programmer-anarchy
+
