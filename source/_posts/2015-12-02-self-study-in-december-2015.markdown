@@ -253,3 +253,22 @@ Tags: ring, compojure, bidi, http-kit, clojure, fixed-deadline, project, success
 
 [real-estate-clj]: http://www.pitheringabout.com/?p=1069
 
+## Musing on TDD, Impulsive Developers and Aesthetics
+
+I've read this article by Jon Pither on why TDD can be harmful sometimes:
+
+  * limits the amount of lateral thinking
+  * forces a technology
+  * limits the solution space given a fixed problem space
+  * limits creativity and freedom when performing large / aggressive refactorings
+  * sterile place
+
+while he agrees that can be useful sometimes:
+
+  * mostly in OOP
+  * to keep you on the rails and focused
+
+Tags: tdd, jon-pither, senior-developer, junior-developer, aesthetics, lateral-thinking
+
+[musing-tdd]: http://www.pitheringabout.com/?p=1059
+
