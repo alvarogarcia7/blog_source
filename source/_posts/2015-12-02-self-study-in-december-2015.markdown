@@ -280,3 +280,11 @@ Tags: roopesh-shenoy, fred-george, programmer-anarchy, analogy, anarchy, busines
 
 [programmer-anarchy-shenoy]: http://www.infoq.com/news/2012/02/programmer-anarchy
 
+## Programmer Anarchy
+
+I've read [these slides][programmer-anarchy-slides] by Fred George about programmer's anarchy. Commented in the article above
+
+Tags: slide, fred-george, programmer-anarchy, analogy, anarchy, business-metric, client, agile, methodology
+
+[programmer-anarchy-slides]: http://www.slideshare.net/fredgeorge/programmer-anarchy-chinese
+
