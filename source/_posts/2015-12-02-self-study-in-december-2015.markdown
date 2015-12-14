@@ -230,3 +230,16 @@ Tags: tuckman, forming, norming, storming, performing, glenn-smith, video, team-
 
 [stages-team-development]: https://www.youtube.com/watch?feature=player_embedded&v=7NouiH2ZT8w
 
+## Time Hacking for College Students
+
+I've read [this article][time-hacking-goel] by Karan Goel about techniques for finding time for important things:
+
+  * prioritizing
+  * waking up early
+  * automate
+  * keep learning
+
+Tags: karan-goel, time-management, important-vs-urgent, prioritization
+
+[time-hacking-goel]: https://goel.io/time-hacking/
+
