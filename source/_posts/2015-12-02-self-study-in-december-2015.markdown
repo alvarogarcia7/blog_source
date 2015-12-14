@@ -186,3 +186,47 @@ Tags: daniel-higginbotham, clojure, macro, chapter, quoting, unquoting, splicing
 
 [clj-bat-ch8]: http://www.braveclojure.com/writing-macros
 
+## The Telescoping Constructor (Anti)Pattern
+
+I've read [this article][telescoping-constructor] by Roger Hughes on the telescoping constructor, with the example in java. The discussion is whether to apply this or not and whether this is a pattern or an anti-pattern
+
+Tags: roger-hughes, telescoping-constructor, java, pattern, antipattern
+
+[telescoping-constructor]: http://www.captaindebug.com/2011/05/telescoping-constructor-antipattern.html#.ViF57eztmkp
+
+## Ruby for Newbies: Testing with Rspec
+
+I've read [this tutorial][testing-with-rspec-21297] on how to make write tests with RSpec in Ruby. Written by Andrew Burgess
+
+Tags: andrew-burgess, ruby, rspec, test, tutorial
+
+[testing-with-rspec-21297]: http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297
+
+## Ruby dynamic method calling
+
+I've read [this article][ruby-dynamic-method-calling] about dynamically calling methods and a benchmark on three ways of doing it in Ruby:
+
+  * call
+  * send
+  * eval
+
+Tags: khell, metaprogramming, comparison, benchmark, ruby, evaluation, dynamic
+
+[ruby-dynamic-method-calling]: http://blog.khd.me/ruby/ruby-dynamic-method-calling/
+
+## Becoming a CTO
+
+I've read this article [][becoming-a-cto] by Juozas Kaziukėnas about the profile and the abilities of a CTO. Talks about the limiting factors for being one (e.g., stop programming, attend many meetings) and the type of work you are supposed to do (e.g., face business people, communicate the strategy, make yourself respectable).
+
+Tags: juozas-kaziukenas, cto, career-change, technology, career, programmer, title, job
+
+[becoming-a-cto]: https://medium.com/@juokaz/becoming-a-cto-337dc1a9c6ae
+
+## 4 Stages of Team Development
+
+I've watched [this video][stages-team-development] by the Glenn Smith "Growth Coach Houston" about the four stages of team development: forming, norming, storming, performing and how to get through them.
+
+Tags: tuckman, forming, norming, storming, performing, glenn-smith, video, team-management, team
+
+[stages-team-development]: https://www.youtube.com/watch?feature=player_embedded&v=7NouiH2ZT8w
+

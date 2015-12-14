@@ -35,6 +35,13 @@ Books that have entered the queue:
   * [Perfect Software: And Other Illusions about Testing](http://www.geraldmweinberg.com/Site/Perfect_Software.html) by Gerald M. Weinberg  
   * [Building Microservices, Designing Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do) by Sam Newman
   * [Computability and Complexity - From a Programming Perspective](https://mitpress.mit.edu/books/computability-and-complexity) by Neil Deaton Jones
+  * [Thinking Forth: a language and philosophy for solving problems](http://thinking-forth.sourceforge.net/) by Leo Brodie
+  * [Concepts, Techniques, and Models of Computer Programming](https://mitpress.mit.edu/index.php?q=books/concepts-techniques-and-models-computer-programming) by Peter Van Roy and Seif Haridi
+  * [Bridging the Communication Gap](http://books.gojko.net/bridging-the-communication-gap/) by Gojko Adzic
+  * [Specification by Example](http://books.gojko.net/specification-by-example/) by Gojko Adzic
+  * [The Cucumber book](https://pragprog.com/book/hwcuc/the-cucumber-book) by Matt Wynne and Aslak Hellesøy
+  * [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers) by Simon Brown
+  * [Object Design: Roles, Responsibilities, and Collaborations ](http://www.amazon.com/Object-Design-Roles-Responsibilities-Collaborations/dp/0201379430) by Rebecca Wirfs-Brock and Alan McKean
 
 {% comment %}
 
