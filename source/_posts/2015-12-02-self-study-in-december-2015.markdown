@@ -243,3 +243,13 @@ Tags: karan-goel, time-management, important-vs-urgent, prioritization
 
 [time-hacking-goel]: https://goel.io/time-hacking/
 
+## Clojure at a Real Estate Portal
+
+I've read [this article][real-estate-clj] by Jon Pither, where he does a post-mortem analysis of a real-estate project with a fixed deadline (TV ads) with around ten months of development time. They brought in an external company, JUXT, who with 6 seasoned developers were able to finish the project on time and on budget.
+
+Their stack was:  Ring, Compojure, Bidi, and http-kit for our Clojure web-apps, mixing in Friend and Liberator.
+
+Tags: ring, compojure, bidi, http-kit, clojure, fixed-deadline, project, success-story, post-mortem, jon-pither
+
+[real-estate-clj]: http://www.pitheringabout.com/?p=1069
+
