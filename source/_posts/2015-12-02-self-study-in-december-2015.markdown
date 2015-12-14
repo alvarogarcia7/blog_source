@@ -298,3 +298,11 @@ Tags: fred-george, programmer-anarchy, analogy, anarchy, martin-jee, agile, meth
 
 [programmer-anarchy-comparison]: http://martinjeeblog.com/2012/11/20/what-is-programmer-anarchy-and-does-it-have-a-future/
 
+## Agile is the New Black
+
+I've read [these slides][agile-new-black] by Fred George where compares xp/agile development in 1999, 2006 and 2011. 
+
+Tags: fred-george, agile, methodology, comparison, slide
+
+[agile-new-black]: http://www.slideshare.net/fredgeorge/agile-is-thenewblack
+
