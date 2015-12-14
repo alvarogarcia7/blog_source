@@ -288,3 +288,13 @@ Tags: slide, fred-george, programmer-anarchy, analogy, anarchy, business-metric,
 
 [programmer-anarchy-slides]: http://www.slideshare.net/fredgeorge/programmer-anarchy-chinese
 
+## What is Programmer Anarchy and does it have a future?
+
+I've read [this article][programmer-anarchy-comparison] by Martin Jee explaining what is programmer anarchy and how it compares to an agile team. Compares the division of labor structure in anarchist and agile teams, using Marxist terms.
+
+He finishes saying that what is a powerful idea in this methodology is the taking of personal responsibilities by the programmers.
+
+Tags: fred-george, programmer-anarchy, analogy, anarchy, martin-jee, agile, methodology
+
+[programmer-anarchy-comparison]: http://martinjeeblog.com/2012/11/20/what-is-programmer-anarchy-and-does-it-have-a-future/
+
