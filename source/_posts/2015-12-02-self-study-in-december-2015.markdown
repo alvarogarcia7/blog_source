@@ -306,3 +306,23 @@ Tags: fred-george, agile, methodology, comparison, slide
 
 [agile-new-black]: http://www.slideshare.net/fredgeorge/agile-is-thenewblack
 
+## Show How, Don't Tell What - A Management Style
+
+I've read [this article][show-how-vs-tell-what] by Ryan Tomayko about the management style they apply at github:
+
+> instead of telling them what to do, show people how to plan, build, and ship product together.
+>
+> I’ve never actually told anyone what to do here. In fact, I vehemently refuse to tell people what to do. Here are just a couple reasons why:
+>
+> I don’t scale. If I tell someone what to do and they do it, then what? Do I have to tell them another thing to do? What happens when I have to decide what to do for 20 people?
+>
+> Telling people what to do is lazy. Instead, try to convince them with argument. This is how humans interact when there’s no artificial authority structure and it works great. If you can’t convince people through argument then maybe you shouldn’t be doing it.
+
+about managers:
+
+> It’s often cited that GitHub doesn’t have managers. In my opinion, a better way to describe the phenomenon would be to say that everyone at GitHub is a manager
+
+Tags: ryan-tomayko, management, management-style, team-management, github
+
+[show-how-vs-tell-what]: http://2ndscale.com/rtomayko/2012/management-style
+
