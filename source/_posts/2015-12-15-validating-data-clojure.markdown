@@ -10,6 +10,10 @@ categories:
  - validation
  - yagni
  - idea-for-another-post
+ - repl
+ - repl-based-development
+ - selector
+ - lambda
 ---
 
 At a client, we have CSVs of data that can be simplified to this [^1]:
