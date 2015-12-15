@@ -326,3 +326,11 @@ Tags: ryan-tomayko, management, management-style, team-management, github
 
 [show-how-vs-tell-what]: http://2ndscale.com/rtomayko/2012/management-style
 
+## Clojure for the brave and true: chapter 7 - Clojure Alchemy: Reading, Evaluation, and Macros
+
+I've read [this chapter][clj-bat-ch7] from Daniel Higginbotham about the essential concepts for macros: the reader, the evaluator, their relative order and independence. How to use clojure to extend itself and an example: the thread (``->``) macro
+
+Tags: daniel-higginbotham, clojure, macro, chapter, reader, evaluator
+
+[clj-bat-ch7]: http://www.braveclojure.com/read-and-eval/
+
