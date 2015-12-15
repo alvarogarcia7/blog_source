@@ -5,6 +5,9 @@ date: 2015-12-15 11:52:28 +0100
 comments: true
 categories: 
  - clojure
+ - hof
+ - csv
+ - validation
 ---
 
 At a client, we have CSVs of data similar to this [^1]:
