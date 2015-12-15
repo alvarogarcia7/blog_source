@@ -29,7 +29,7 @@ This is what we need to validate:
 
 ``sum (rest [3]) = total [3]``
 
-this could be written as a one-off program but a better alternative for us was to write a program and let users decide what columns to validate. In the future, power users will write their own validations, thus creating an environment where users are no longer dependent on programmers and they can produce business value on their own [^2]. 
+this could be written as a one-off program but a better alternative for us was to write a program and let users decide what columns to validate. In the future, power users will write their own validations, thus creating an environment where users are no longer dependent on programmers as coupling business users to programmers does not scale [^2]. 
 
 ## Implementation
 
