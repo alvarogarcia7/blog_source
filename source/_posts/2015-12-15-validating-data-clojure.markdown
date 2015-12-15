@@ -29,7 +29,7 @@ This is what we need to validate:
 
 ``sum (rest [3]) = total [3]``
 
-this could be written as a one-off program but a better alternative for us was to write a program and let users decide what columns to validate and power users write their own validations, thus creating an environment where users are no longer dependent on programmers and they can produce business value on their own.
+this could be written as a one-off program but a better alternative for us was to write a program and let users decide what columns to validate. In the future, power users will write their own validations, thus creating an environment where users are no longer dependent on programmers and they can produce business value on their own [^2]. 
 
 ## Implementation
 
@@ -73,3 +73,4 @@ The full [source code is here][production-code]
 [production-code]: https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/test/simple/check-data-with-hofs.clj
 
 [^1]: for more information and a spike on reading CSV data in clojure, [this spike](https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/src/simple/check-media-csv.clj) may be useful
+[^2]: for the time being, there are no power users and no need to enable these custom validators. Doing it now would be YAGNI
