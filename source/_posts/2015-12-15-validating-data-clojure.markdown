@@ -33,7 +33,7 @@ this could be written as a one-off program but a better alternative for us was t
 
 ## Implementation
 
-The full [source code is here](https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/test/simple/check-data-with-hofs.clj)
+The full [source code is here][production-code]
 
 ```lisp
 (defn sum-eq-total [selector dataset]
@@ -67,7 +67,9 @@ simple.core=> (validate-columns [1 3] data)
 (true true)
 ```
 
+The full [source code is here][production-code]
 
-https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/test/simple/check-data-with-hofs.clj
+
+[production-code]: https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/test/simple/check-data-with-hofs.clj
 
 [^1]: for more information and a spike on reading CSV data in clojure, [this spike](https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/src/simple/check-media-csv.clj) may be useful
