@@ -12,7 +12,7 @@ categories:
  - idea-for-another-post
 ---
 
-At a client, we have CSVs of data similar to this [^1]:
+At a client, we have CSVs of data that can be simplified to this [^1]:
 
 ```lisp
 (def data [
@@ -81,8 +81,17 @@ simple.core=> (validate-columns [1 3] data)
 
 The full [source code is here][production-code]
 
+## Conclusion
+
+Working on the REPL for this problem has been a very good idea, but working in a spreadsheet software has been even better. Even faster feedback cycle [^3].
+
+The inclusion of the HOF for validating the data has paid its cost (good RoI)
+
+Do not limit what your users can do, let them decide but do not complicate things unnecessarily. Know when to stop adding features and limit work to prevent YAGNI.
+
 
 [production-code]: https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/test/simple/check-data-with-hofs.clj
 
 [^1]: for more information and a spike on reading CSV data in clojure, [this spike](https://github.com/alvarogarcia7/clojure-simple-sessions/blob/master/src/simple/check-media-csv.clj) may be useful
 [^2]: for the time being, there are no power users and no need to enable these custom validators. Doing it now would be YAGNI
+[^3]: in the case here, the data and business rules are so simple that there is no need for this software.
