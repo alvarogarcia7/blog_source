@@ -8,6 +8,7 @@ categories:
  - hof
  - csv
  - validation
+ - yagni
  - idea-for-another-post
 ---
 
