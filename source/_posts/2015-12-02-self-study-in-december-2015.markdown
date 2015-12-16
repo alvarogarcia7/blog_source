@@ -334,3 +334,17 @@ Tags: daniel-higginbotham, clojure, macro, chapter, reader, evaluator
 
 [clj-bat-ch7]: http://www.braveclojure.com/read-and-eval/
 
+## Team Bus Factors: How to Reduce Them and How to Prevent Them
+
+I've read [this article][team-bus-factor] by Roy Osherove on the bus factor:
+
+  * what is it
+  * how to reduce them
+  * how to prevent them
+
+Also talks about examples of bus-factor people
+
+Tags: bus-factor, roy-osherove, team-management, prevention, reduction, definition
+
+[team-bus-factor]: http://5whys.com/blog/team-bus-factors-how-to-reduce-them-and-how-to-prevent-them.html
+
