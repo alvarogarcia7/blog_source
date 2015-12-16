@@ -405,3 +405,11 @@ Tags: pieter-hintjens, list, habit, good-programmer
 
 [habits-good-programmer]: http://hintjens.com/blog:98
 
+## Beginning Clojure: Cursive
+
+I've read [this tutorial][beginning-clojure-cursive] on installing Cursive, IntelliJ Idea's plugin for working with Clojure. Written by Tim Pote
+
+Tags: cursive, clojure, intellij-idea, plugin, tutorial, tim-pote
+
+[beginning-clojure-cursive]: http://potetm.github.io/2015/10/04/beginning-clojure-cursive.html
+
