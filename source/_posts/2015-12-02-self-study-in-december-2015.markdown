@@ -348,3 +348,11 @@ Tags: bus-factor, roy-osherove, team-management, prevention, reduction, definiti
 
 [team-bus-factor]: http://5whys.com/blog/team-bus-factors-how-to-reduce-them-and-how-to-prevent-them.html
 
+## Hambre de programar
+
+I've read [this article][hambre-de-programar] (in Spanish) by Xavi Gost where he analyses the Barcelona Software Craftsmanship 2015: the events, the relationships and the passion that it has injected to attendees
+
+Tags: xavi-gost, barcelona-software-craftsmanship, 2015, experience-report, scbcn15
+
+[hambre-de-programar]: https://medium.com/@xav1uzz/hambre-de-programar-166aeae3b525
+
