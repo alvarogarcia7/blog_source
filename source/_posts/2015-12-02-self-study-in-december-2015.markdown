@@ -386,3 +386,22 @@ Tags: stack-overflow, functor, answer, functional-programming
 
 [a-functor]: http://stackoverflow.com/questions/2030863/in-functional-programming-what-is-a-functor/2031421#2031421
 
+## Ten Habits of a Good Programmer
+
+I've read [this list][habits-good-programmer] of good habits of good programmers by Pieter Hintjens:
+
+  1. If it works and is still useful, don't throw it out.
+  1. Never solve the same problem twice in parallel.
+  1. Solve the same problem often in serial.
+  1. Write code, and repeat, until you are fluent in your language.
+  1. Learn to use code generators.
+  1. Work with others.
+  1. Technology is a tool, not a tribal affiliation.
+  1. Aim for this cycle: learn, play, work, teach.
+  1. Get your edit-compile-run-fail cycles down to seconds.
+  1. If you need debuggers, you're doing it wrong.
+
+Tags: pieter-hintjens, list, habit, good-programmer
+
+[habits-good-programmer]: http://hintjens.com/blog:98
+
