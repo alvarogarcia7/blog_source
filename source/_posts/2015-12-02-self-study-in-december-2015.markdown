@@ -413,3 +413,11 @@ Tags: cursive, clojure, intellij-idea, plugin, tutorial, tim-pote
 
 [beginning-clojure-cursive]: http://potetm.github.io/2015/10/04/beginning-clojure-cursive.html
 
+## #NodeJS : A quick optimization advice
+
+I've read [this article][inlining-in-crankshaft] on the limit for inlining for the NodeJS optimizing compiler (Crankshaft), that includes both source code and comments. Written Julien Crouzet
+
+Tags: nodejs, comment, julien-crouzet, crankshaft, optimizer, inline, function-inline
+
+[inlining-in-crankshaft]: https://top.fse.guru/nodejs-a-quick-optimization-advice-7353b820c92e
+
