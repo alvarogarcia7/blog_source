@@ -429,3 +429,11 @@ Tags: eric-evans, martin-fowler, specification-pattern, pattern, design-pattern,
 
 [specification-pattern]: https://en.wikipedia.org/wiki/Specification_pattern
 
+## El recruiting está ROTO #Bonilista
+
+I've read [this bonilista][recruitment-roto] where David Bonilla explains why the recruitment sector for technical people in Spain is broken. Article is in Spanish.
+
+Tags: david-bonilla, bonilista, recruitment, job, career
+
+[recruitment-roto]: http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=539364dde4
+
