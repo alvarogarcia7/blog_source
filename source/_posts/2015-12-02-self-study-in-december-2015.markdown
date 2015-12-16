@@ -356,3 +356,11 @@ Tags: xavi-gost, barcelona-software-craftsmanship, 2015, experience-report, scbc
 
 [hambre-de-programar]: https://medium.com/@xav1uzz/hambre-de-programar-166aeae3b525
 
+## Software Craftsmanship Barcelona 2015
+
+I've read [this analysis][idealista-scbcn-2015] of the Barcelona Software Craftsmanship 2015 by the Idealista R&D team.
+
+Tags: jaime-perera, barcelona-software-craftsmanship, 2015, idealista, experience-report, scbcn15
+
+[idealista-scbcn-2015]: http://www.idealista.com/labs/blog/idealista/software-craftsmanship-barcelona-2015/
+
