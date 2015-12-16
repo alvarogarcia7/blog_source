@@ -1,8 +1,0 @@
-## In Functional Programming, what is a functor?
-
-I've read [this answer][a-functor] of what is a functor
-
-Tags: stack-overflow, functor, answer, functional-programming
-
-[a-functor]: http://stackoverflow.com/questions/2030863/in-functional-programming-what-is-a-functor/2031421#2031421
-
