@@ -421,3 +421,11 @@ Tags: nodejs, comment, julien-crouzet, crankshaft, optimizer, inline, function-i
 
 [inlining-in-crankshaft]: https://top.fse.guru/nodejs-a-quick-optimization-advice-7353b820c92e
 
+## Specification Pattern
+
+I've read [this wikipedia][specification-pattern] page on the specification pattern
+
+Tags: eric-evans, martin-fowler, specification-pattern, pattern, design-pattern, dsl, domain-specific-language
+
+[specification-pattern]: https://en.wikipedia.org/wiki/Specification_pattern
+

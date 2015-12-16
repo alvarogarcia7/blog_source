@@ -1,8 +1,0 @@
-## Specification Pattern
-
-I've read [this wikipedia][specification-pattern] page on the specification pattern
-
-Tags: eric-evans, martin-fowler, specification-pattern, pattern, design-pattern, dsl, domain-specific-language
-
-[specification-pattern]: https://en.wikipedia.org/wiki/Specification_pattern
-
