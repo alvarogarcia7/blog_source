@@ -447,3 +447,11 @@ Tags: kevin-dishman, downside, test-pyramid, bdd, test, unit-test, functional-te
 
 [bddont]: https://www.thoughtworks.com/p2magazine/issue12/bdd-dont/
 
+## Cómo usan #Git en GitHub – #scbcn
+
+I've watched [this screencast][git-at-github] on the talk we organized yesterday about github.
+
+Tags: javier-ferrer, codely-tv, codely, event, scbcn, alain-helaili, screencast
+
+[git-at-github]: http://codely.tv/screencasts/como-usan-git-en-github/
+
