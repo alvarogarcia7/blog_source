@@ -437,3 +437,13 @@ Tags: david-bonilla, bonilista, recruitment, job, career
 
 [recruitment-roto]: http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=539364dde4
 
+## BDDon’t: The practice and the tools
+
+​I've  read [this article][bddont] by Kevin Dishman that explains what is BDD and how it I  usually used. Also the common downsides and what to do about it
+
+Suggests using a faster tool, lower on the test pyramid that can bring the same business value at a lower cost
+
+Tags: kevin-dishman, downside, test-pyramid, bdd, test, unit-test, functional-test, acceptance-test
+
+[bddont]: https://www.thoughtworks.com/p2magazine/issue12/bdd-dont/
+
