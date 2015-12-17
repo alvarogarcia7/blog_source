@@ -334,3 +334,13 @@ Tags: daniel-higginbotham, clojure, macro, chapter, reader, evaluator
 
 [clj-bat-ch7]: http://www.braveclojure.com/read-and-eval/
 
+## BDDon’t: The practice and the tools
+
+​I've  read [this article][bddont] by Kevin Dishman that explains what is BDD and how it I  usually used. Also the common downsides and what to do about it
+
+Suggests using a faster tool, lower on the test pyramid that can bring the same business value at a lower cost
+
+Tags: kevin-dishman, downside, test-pyramid, bdd, test, unit-test, functional-test, acceptance-test
+
+[bddont]: https://www.thoughtworks.com/p2magazine/issue12/bdd-dont/
+
