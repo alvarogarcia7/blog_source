@@ -447,3 +447,11 @@ Tags: kevin-dishman, downside, test-pyramid, bdd, test, unit-test, functional-te
 
 [bddont]: https://www.thoughtworks.com/p2magazine/issue12/bdd-dont/
 
+## Trying to speed up Binary Search
+
+I have read [this article][speeding-up-bsearch] on how the binary search is implemented and what other algorithms are possible to speed up the search in large datasets, especially common in databases
+
+Tags: optimization, branch-misprediction, clang, o3, gpp, c, database, binary-search, thomas-neumann
+
+[speeding-up-bsearch]: http://databasearchitects.blogspot.com.es/2015/09/trying-to-speed-up-binary-search.html
+
