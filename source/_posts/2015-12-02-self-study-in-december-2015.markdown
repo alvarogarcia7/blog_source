@@ -465,3 +465,12 @@ Tags: management, agile, scrum, team-management, sebastian-radics, scrum30
 
 [scrum30]: http://www.ontheagilepath.net/2015/12/scrum-30-and-organization-40.html
 
+## Trucos para trabajar con equipos remotos
+
+I have read [this article][trucos-equipos-remotos] by Israel Alcázar (Spanish). Explains how this company organized their product development process. explains tools for working with a remote team.
+
+give three pieces of advice for improving it, and further resources to read
+
+Tags: remote, remote-first, isra-alcazar, israel-alcazar, team-management, advice
+
+[trucos-equipos-remotos]: http://thinkingwithyou.com/2015/11/trucos-para-trabajar-con-equipos-remotos/
