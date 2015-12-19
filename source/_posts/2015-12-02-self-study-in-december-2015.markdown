@@ -449,9 +449,19 @@ Tags: kevin-dishman, downside, test-pyramid, bdd, test, unit-test, functional-te
 
 ## Trying to speed up Binary Search
 
-I have read [this article][speeding-up-bsearch] on how the binary search is implemented and what other algorithms are possible to speed up the search in large datasets, especially common in databases
+I have read [this article][speeding-up-bsearch] on how the binary search is implemented and what other algorithms are possible to speed up the search in large datasets, especially common in databases.
 
 Tags: optimization, branch-misprediction, clang, o3, gpp, c, database, binary-search, thomas-neumann
 
 [speeding-up-bsearch]: http://databasearchitects.blogspot.com.es/2015/09/trying-to-speed-up-binary-search.html
+
+##  Scrum 3.0 and Organization 4.0 - impressions from a great evening with Boris Gloger at ImmobilienScout24
+
+I have read [this article][scrum30] by  Sebastian Radics that compares the different ways of doing scrum: 1 2 3, most comments on other strategies or management methodologies like no estimates.
+
+Compares the importance of focusing on the process or on the final product, the role of the scrum master, the role of the product owner, and the team itself.
+
+Tags: management, agile, scrum, team-management, sebastian-radics, scrum30
+
+[scrum30]: http://www.ontheagilepath.net/2015/12/scrum-30-and-organization-40.html
 
