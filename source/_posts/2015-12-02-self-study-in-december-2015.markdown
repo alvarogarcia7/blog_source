@@ -474,3 +474,14 @@ give three pieces of advice for improving it, and further resources to read
 Tags: remote, remote-first, isra-alcazar, israel-alcazar, team-management, advice
 
 [trucos-equipos-remotos]: http://thinkingwithyou.com/2015/11/trucos-para-trabajar-con-equipos-remotos/
+
+## Introducing new open-source tools for the Elixir community
+
+I've read [this article][elixir-at-pinterest] by Steve Cohen that explains what the actor model is and what is the spirit of the elixir language: user friendlier syntax for erlang
+
+They also explain that they have implemented and ad server and access control using elixir. For this matter, they rely on two tools that are now open source
+
+Tags: elixir, microsecond, latency, erlang, actor-model, language-syntax, open-source, steve-cohen
+
+[elixir-at-pinterest]: https://engineering.pinterest.com/blog/introducing-new-open-source-tools-elixir-community
+
