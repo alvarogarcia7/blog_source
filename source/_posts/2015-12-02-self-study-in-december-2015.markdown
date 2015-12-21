@@ -485,3 +485,11 @@ Tags: elixir, microsecond, latency, erlang, actor-model, language-syntax, open-s
 
 [elixir-at-pinterest]: https://engineering.pinterest.com/blog/introducing-new-open-source-tools-elixir-community
 
+## ¿Cuánto pagas por tus herramientas de trabajo?
+
+I've read [this bonilista][cuanto-pagas-herramientas] about how much programmers invest in buying their tools (and honing them). By David Bonilla, in Spanish
+
+Tags: david-bonilla, bonilista, tool, investment
+
+[cuanto-pagas-herramientas]: http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=12ed2d6eb0
+
