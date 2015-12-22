@@ -493,3 +493,13 @@ Tags: david-bonilla, bonilista, tool, investment
 
 [cuanto-pagas-herramientas]: http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=12ed2d6eb0
 
+## Clojure at a Bank – Freeing the Rules
+
+I've read [this article][business-rules-in-clojure] by Jon Pither about converting OO business rules into Clojure and using the homoiconicity for increasing the power: when code is data, the rules themselves become searchable (using a search engine), visualizable and analyzable. This wasn't possible before when code was not data.
+
+They have also build further tools to analyze rules with larger sets of data, rather than unit tests, to see if they conflict among each other.
+
+Tags: jon-pither, clojure, homoiconicity, code=data, data=code, rule, rule-engine, bank, business-rule, code-analysis
+
+[business-rules-in-clojure]: http://www.pitheringabout.com/?p=830
+

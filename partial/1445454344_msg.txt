@@ -1,1 +1,0 @@
-add article about converting the OO business rules into clojure data
