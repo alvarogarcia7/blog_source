@@ -503,3 +503,13 @@ Tags: jon-pither, clojure, homoiconicity, code=data, data=code, rule, rule-engin
 
 [business-rules-in-clojure]: http://www.pitheringabout.com/?p=830
 
+## Five reasons to learn Clojure and Emacs together
+
+I've read [this article][learning-clojure-emacs-together] by Jon Pither advocating the learning of Clojure and Emacs at the same time. The main reasons are: liberation, change, support, simplicity, mass adoption.
+
+Cites that being hard to learn a new editor is a good idea to separate those who are willing to invest the time in learning (both an editor and a new language) from those who don't.
+
+Tags: clojure, emacs, jon-pither, learning, liberation, change, support, simplicity, mass-adoption
+
+[learning-clojure-emacs-together]: http://www.pitheringabout.com/?p=849
+
