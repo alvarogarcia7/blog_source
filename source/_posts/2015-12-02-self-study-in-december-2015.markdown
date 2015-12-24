@@ -513,3 +513,7 @@ Tags: clojure, emacs, jon-pither, learning, liberation, change, support, simplic
 
 [learning-clojure-emacs-together]: http://www.pitheringabout.com/?p=849
 
+## Pull Requests Maintainers Won't Hate
+I've read this [list of tips][pr-tips] by James Reeves on improving the pull requests
+Tags: pull-request, james-reeves, tip, list
+[pr-tips]: https://www.booleanknot.com/blog/2013/09/07/pull-requests.html
