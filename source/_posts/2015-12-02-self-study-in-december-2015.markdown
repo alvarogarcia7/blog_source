@@ -517,3 +517,14 @@ Tags: clojure, emacs, jon-pither, learning, liberation, change, support, simplic
 I've read this [list of tips][pr-tips] by James Reeves on improving the pull requests
 Tags: pull-request, james-reeves, tip, list
 [pr-tips]: https://www.booleanknot.com/blog/2013/09/07/pull-requests.html
+
+## How to get rich in tech, guaranteed.
+
+I've read [this article][get-rich-in-tech] that describes what is a way to make good money and retire rich why working for a company.
+
+It also explains about entering the startup market, what questions should be asked, what's your real value, what are the benefits of doing it, known limitations and other questions
+
+Tags: startup, career, career-management, work, professional-career, value, money
+
+[get-rich-in-tech]: http://startupljackson.com/post/135800367395/how-to-get-rich-in-tech-guaranteed
+
