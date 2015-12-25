@@ -528,3 +528,13 @@ Tags: startup, career, career-management, work, professional-career, value, mone
 
 [get-rich-in-tech]: http://startupljackson.com/post/135800367395/how-to-get-rich-in-tech-guaranteed
 
+## Modern Perl 4th edition, a review
+
+I have read [this article][modern-perl-4] that explains how this new book covers the syntax, idioms and the rest of the Perl language.
+
+In this 4th edition, parts of  the text have completely been rewritten, a New formatting applied to ease and improve the reading comprehension
+
+Tags: book-review, review, david-farrell, perl, reedition, modern-perl
+
+[modern-perl-4]: http://perltricks.com/article/205/2015/12/21/Modern-Perl-4th-edition--a-review
+
