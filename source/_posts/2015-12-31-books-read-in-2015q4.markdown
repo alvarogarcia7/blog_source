@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: "Books read in 2015Q4"
 date: 2015-12-31 12:49:50 +0200
