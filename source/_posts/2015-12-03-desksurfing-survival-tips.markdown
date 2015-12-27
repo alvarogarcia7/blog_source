@@ -10,6 +10,7 @@ categories:
 ## Suspend the judgment
 
   * The less you bring up as defense, the more knowledge can enter your realm
+  * Take notes of everything you can, as long as it doesn't interfere your main activities, so you can retrospect about it later.
 
 ## Explain your expectations
 
