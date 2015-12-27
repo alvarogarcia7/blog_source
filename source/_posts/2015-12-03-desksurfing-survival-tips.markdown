@@ -22,3 +22,15 @@ categories:
 ## Where in Rome, do as Romans 
 
   * Related to suspend the judgment:  first see what is done, then practice it, then think why if it works for you, the incorporate it or discard it or not. being too quick to judge can lead you to dismiss ideas that are worth investigating but seem weird at best / at the beginning. 
+
+## Immersion
+
+  * Try to immerse with your host as much as you can: a workday is not even half a day. imagine the amount of extra information that can be passed to you if you spend more time with your host instead.
+
+## Prioritize accordingly
+
+  * There are tasks that you can do at home, and others that can be done while surfing. The highest priority tasks are the ones that can't be done at home, so prioritize accordingly. 
+
+  Example: reading by yourself is an activity with good ROI, but reading and discussing with others might have an even higher return. Other social activities can even have a higher returns.
+
+
