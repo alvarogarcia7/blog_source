@@ -455,3 +455,94 @@ Tags: javier-ferrer, codely-tv, codely, event, scbcn, alain-helaili, screencast
 
 [git-at-github]: http://codely.tv/screencasts/como-usan-git-en-github/
 
+## Trying to speed up Binary Search
+
+I have read [this article][speeding-up-bsearch] on how the binary search is implemented and what other algorithms are possible to speed up the search in large datasets, especially common in databases.
+
+Tags: optimization, branch-misprediction, clang, o3, gpp, c, database, binary-search, thomas-neumann
+
+[speeding-up-bsearch]: http://databasearchitects.blogspot.com.es/2015/09/trying-to-speed-up-binary-search.html
+
+##  Scrum 3.0 and Organization 4.0 - impressions from a great evening with Boris Gloger at ImmobilienScout24
+
+I have read [this article][scrum30] by  Sebastian Radics that compares the different ways of doing scrum: 1 2 3, most comments on other strategies or management methodologies like no estimates.
+
+Compares the importance of focusing on the process or on the final product, the role of the scrum master, the role of the product owner, and the team itself.
+
+Tags: management, agile, scrum, team-management, sebastian-radics, scrum30
+
+[scrum30]: http://www.ontheagilepath.net/2015/12/scrum-30-and-organization-40.html
+
+## Trucos para trabajar con equipos remotos
+
+I have read [this article][trucos-equipos-remotos] by Israel Alcázar (Spanish). Explains how this company organized their product development process. explains tools for working with a remote team.
+
+give three pieces of advice for improving it, and further resources to read
+
+Tags: remote, remote-first, isra-alcazar, israel-alcazar, team-management, advice
+
+[trucos-equipos-remotos]: http://thinkingwithyou.com/2015/11/trucos-para-trabajar-con-equipos-remotos/
+
+## Introducing new open-source tools for the Elixir community
+
+I've read [this article][elixir-at-pinterest] by Steve Cohen that explains what the actor model is and what is the spirit of the elixir language: user friendlier syntax for erlang
+
+They also explain that they have implemented and ad server and access control using elixir. For this matter, they rely on two tools that are now open source
+
+Tags: elixir, microsecond, latency, erlang, actor-model, language-syntax, open-source, steve-cohen
+
+[elixir-at-pinterest]: https://engineering.pinterest.com/blog/introducing-new-open-source-tools-elixir-community
+
+## ¿Cuánto pagas por tus herramientas de trabajo?
+
+I've read [this bonilista][cuanto-pagas-herramientas] about how much programmers invest in buying their tools (and honing them). By David Bonilla, in Spanish
+
+Tags: david-bonilla, bonilista, tool, investment
+
+[cuanto-pagas-herramientas]: http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=12ed2d6eb0
+
+## Clojure at a Bank – Freeing the Rules
+
+I've read [this article][business-rules-in-clojure] by Jon Pither about converting OO business rules into Clojure and using the homoiconicity for increasing the power: when code is data, the rules themselves become searchable (using a search engine), visualizable and analyzable. This wasn't possible before when code was not data.
+
+They have also build further tools to analyze rules with larger sets of data, rather than unit tests, to see if they conflict among each other.
+
+Tags: jon-pither, clojure, homoiconicity, code=data, data=code, rule, rule-engine, bank, business-rule, code-analysis
+
+[business-rules-in-clojure]: http://www.pitheringabout.com/?p=830
+
+## Five reasons to learn Clojure and Emacs together
+
+I've read [this article][learning-clojure-emacs-together] by Jon Pither advocating the learning of Clojure and Emacs at the same time. The main reasons are: liberation, change, support, simplicity, mass adoption.
+
+Cites that being hard to learn a new editor is a good idea to separate those who are willing to invest the time in learning (both an editor and a new language) from those who don't.
+
+Tags: clojure, emacs, jon-pither, learning, liberation, change, support, simplicity, mass-adoption
+
+[learning-clojure-emacs-together]: http://www.pitheringabout.com/?p=849
+
+## Pull Requests Maintainers Won't Hate
+I've read this [list of tips][pr-tips] by James Reeves on improving the pull requests
+Tags: pull-request, james-reeves, tip, list
+[pr-tips]: https://www.booleanknot.com/blog/2013/09/07/pull-requests.html
+
+## How to get rich in tech, guaranteed.
+
+I've read [this article][get-rich-in-tech] that describes what is a way to make good money and retire rich why working for a company.
+
+It also explains about entering the startup market, what questions should be asked, what's your real value, what are the benefits of doing it, known limitations and other questions
+
+Tags: startup, career, career-management, work, professional-career, value, money
+
+[get-rich-in-tech]: http://startupljackson.com/post/135800367395/how-to-get-rich-in-tech-guaranteed
+
+## Modern Perl 4th edition, a review
+
+I have read [this article][modern-perl-4] that explains how this new book covers the syntax, idioms and the rest of the Perl language.
+
+In this 4th edition, parts of  the text have completely been rewritten, a New formatting applied to ease and improve the reading comprehension
+
+Tags: book-review, review, david-farrell, perl, reedition, modern-perl
+
+[modern-perl-4]: http://perltricks.com/article/205/2015/12/21/Modern-Perl-4th-edition--a-review
+
