@@ -33,4 +33,7 @@ categories:
 
   Example: reading by yourself is an activity with good ROI, but reading and discussing with others might have an even higher return. Other social activities can even have a higher returns.
 
+## Be content
 
+  * Make the most of it, but whatever happens is for the best. There will be times when your host(s) cannot dedicate time to you, as they also have responsibilities of their own. Bring a backlog of things to do so you can fill the spare time. 
+  * The most of the learning is to be done in your side, and will not be chewed for you. Prepare for deep thinking and reasoning.
