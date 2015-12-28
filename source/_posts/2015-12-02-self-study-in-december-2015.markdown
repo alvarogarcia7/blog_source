@@ -630,3 +630,11 @@ Tags: analogy, wolf, lone-wolf, archetype, programmer, programmer-analogy, profi
 
 [wolf-considered-harmful]: http://laughingmeme.org/2014/09/02/wolf-narrative-considered-harmful-also-biologically-unlikely/
 
+## The Wolf - dictating their own terms
+
+I've read [this article][wolf-article] by Michael Lopp about the ``wolf`` position as a person or in a team. He describes their characteristics and his own experiences working with them.
+
+Tags: management, wolf, team-management, analogy, michael-lopp
+
+[wolf-article]: http://randsinrepose.com/archives/the-wolf/
+
