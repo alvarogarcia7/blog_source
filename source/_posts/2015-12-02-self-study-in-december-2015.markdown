@@ -77,6 +77,8 @@ I've read [this article][learning-strategies] by Allison Kaptur on fixed vs grow
 
 Especially interesting is the provided example of the confusion in the documentation, that can hinder productivity
 
+(Note: this entry is also present in this same month)
+
 Tags: allison-kaptur, fixed-mindset, growth-mindset, research, learning-strategy, recurse-center, carol-dweck, mindset
 
 [learning-strategies]: http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
@@ -596,4 +598,18 @@ Some quotes:
 >  1. accept that hiring takes a really long time and is really, really hard.
 
 [hire-good-devs]: http://qz.com/258066/this-is-why-you-dont-hire-good-developers/
+
+## Effective Learning Strategies for Programmers
+
+I've (re-)read [this article][learning-strategies] by Allison Kaptur on fixed vs growth mindset and the need for having the latter for being a programmer.
+
+The fixed mindset is present in the 10x-engineer, and the worshipping of heroes.
+
+It also includes a recipe for changing from a fixed-mindset to a growth-mindset.
+
+(Note: this entry is also present in this same month)
+
+Tags: allison-kaptur, fixed-mindset, growth-mindset, research, learning-strategy, recurse-center, carol-dweck, mindset, 10x-engineer, impostor-syndrome
+
+[learning-strategies]: http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
 
