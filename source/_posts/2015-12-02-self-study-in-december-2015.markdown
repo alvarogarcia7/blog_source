@@ -559,3 +559,41 @@ Tags: keela-robison, agile, team-management
 [characteristics-of-agile-sw-devs]: https://medium.com/@pm_loop/8-characteristics-of-successful-agile-software-developers-ab2c43abb959
 [source-characteristics]: http://productdevelopmentsuccess.com/study
 
+## This is why you never end up hiring good developers
+
+I've read [this article][hire-good-devs] that explains what to look for in a strong, stronger, strongest (software) developer
+
+The main idea is to find a good person that fits the job, without inflicting pain in the team morale and can learn to perform the specific tasks in the future, as (paraprasing) the pool of people that know what you need is much smaller than the people who can learn it.
+
+The article specifies what to look and not look for in a candidate.
+
+Some quotes:
+
+> grasp of complex topics and the ability to clearly communicate about them, which are the two jobs of the working engineer.
+> 
+> track record of learning new skills and applying them successfully
+> 
+> TL;DR:
+>
+>  1. Many interview techniques test skills that are at best irrelevant to real working life;
+>  
+>  1. you want somebody who knows enough to do the job right now;
+>  
+>  1. or somebody smart and motivated enough that they can learn the job quickly;
+>  
+>  1. you want somebody who keeps getting better at what they do;
+>  
+>  1. your interview should be a collaborative conversations, not a combative interrogation;
+>  
+>  1. you also want somebody who you will enjoy working with;
+>  
+>  1. it’s important to separate “enjoy working with” from “enjoy hanging out with;”
+>  
+>  1. don’t hire assholes, no matter how good they are;
+>  
+>  1. if your team isn’t diverse, your team is worse than it needed to be;
+>  
+>  1. accept that hiring takes a really long time and is really, really hard.
+
+[hire-good-devs]: http://qz.com/258066/this-is-why-you-dont-hire-good-developers/
+
