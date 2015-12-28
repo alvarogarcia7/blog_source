@@ -613,3 +613,12 @@ Tags: allison-kaptur, fixed-mindset, growth-mindset, research, learning-strategy
 
 [learning-strategies]: http://akaptur.com/blog/2015/10/10/effective-learning-strategies-for-programmers/
 
+## Doctor! Please fix my agile!
+
+I've read [these slides][doctor-please-fix-agile] by Ville Törmälä on what is agile, organizational problems and the distinction between efficiency and effectiveness. Also talks about the distribution of time and the organization of the environment (what calls)
+
+
+Tags: slide, agile, efficiency, effectiveness, tip, organization, ville-tormala, project-thinking, team-thinking
+
+[doctor-please-fix-agile]: https://dl.dropboxusercontent.com/u/59614769/Presentations/Doctor%20please%20fix%20my%20Agile.pdf
+
