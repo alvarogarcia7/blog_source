@@ -546,3 +546,16 @@ Tags: book-review, review, david-farrell, perl, reedition, modern-perl
 
 [modern-perl-4]: http://perltricks.com/article/205/2015/12/21/Modern-Perl-4th-edition--a-review
 
+## 8 Characteristics of Agile Software Developers
+
+​I've read [this article][characteristics-of-agile-sw-devs] that describes what characteristics are common in companies practicing an agile methodology, as revealed by a study (that even though it's not cited, can be tracked back to [here][source-characteristics])
+
+Suggests ideas for teams that change in a changing environment and what to do about it.
+
+Written by Keela Robison.
+
+Tags: keela-robison, agile, team-management
+
+[characteristics-of-agile-sw-devs]: https://medium.com/@pm_loop/8-characteristics-of-successful-agile-software-developers-ab2c43abb959
+[source-characteristics]: http://productdevelopmentsuccess.com/study
+
