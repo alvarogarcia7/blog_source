@@ -622,3 +622,11 @@ Tags: slide, agile, efficiency, effectiveness, tip, organization, ville-tormala,
 
 [doctor-please-fix-agile]: https://dl.dropboxusercontent.com/u/59614769/Presentations/Doctor%20please%20fix%20my%20Agile.pdf
 
+## “Wolf” narrative considered harmful (also biologically unlikely)
+
+I've read [this article][wolf-considered-harmful] that explains what the "lone wolf" archetype is, among programmers, and possible outcomings for those profiles. Written by Kellan Elliott-McCrea.
+
+Tags: analogy, wolf, lone-wolf, archetype, programmer, programmer-analogy, profile, team-management, kellan-elliott-mccrea
+
+[wolf-considered-harmful]: http://laughingmeme.org/2014/09/02/wolf-narrative-considered-harmful-also-biologically-unlikely/
+
