@@ -639,3 +639,13 @@ Tags: management, wolf, team-management, analogy, michael-lopp
 
 [wolf-article]: http://randsinrepose.com/archives/the-wolf/
 
+## Volkswagen and Cheating Software
+
+I've read [this essay][vw-cheating-sw] by Bruce Schneier on cheating software, using as an example the Volkswagen case, but especially centered on software that is made do cheat in an undetectable fashion. Or that could be attributed to a programming mistake. The later, says the author, is so common that there could be already intentional or unintentional errors hiding cheating.
+
+The author cites the Internet of Things of new opportunities for companies to use / produce cheating software and about a possible solution: transparency and oversight of the software that more and more reigns our lives.
+
+Tags: cryptogram, bruce Schneier, volkswagen, mistake, quality, transparency, oversight, iot, essay, cheating, cheating software
+
+[vw-cheating-sw]: https://www.schneier.com/crypto-gram/archives/2015/1015.html#1
+
