@@ -41,6 +41,7 @@ Books that have entered the queue:
   * [The Cucumber book](https://pragprog.com/book/hwcuc/the-cucumber-book) by Matt Wynne and Aslak Hellesøy
   * [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers) by Simon Brown
   * [Object Design: Roles, Responsibilities, and Collaborations ](http://www.amazon.com/Object-Design-Roles-Responsibilities-Collaborations/dp/0201379430) by Rebecca Wirfs-Brock and Alan McKean
+  * [Readings in Database Systems, 5th Edition](http://www.redbook.io/) by Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors
 
 {% comment %}
 
