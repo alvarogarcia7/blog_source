@@ -649,3 +649,11 @@ Tags: cryptogram, bruce Schneier, volkswagen, mistake, quality, transparency, ov
 
 [vw-cheating-sw]: https://www.schneier.com/crypto-gram/archives/2015/1015.html#1
 
+## Please, Java. Do Finally Support Multiline String Literals
+
+I've read [this article][multiline-string-java] explaining the need for multi-line string literal in java.
+
+Tags: java, syntax, string, feature, multi-line string
+
+[multiline-string-java]: http://blog.jooq.org/2015/12/29/please-java-do-finally-support-multiline-strings/
+
