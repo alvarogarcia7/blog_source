@@ -80,3 +80,16 @@ there must be cycles, as:
 following the refactoring algorithm, it is not possible to navigate the graph in an infinite path, as each refactor should decrease the cost of future modifications and its simplicity >>>
 
 according to the definition, .....????
+
+
+----
+
+20151229-124956 AGB
+
+There are things that affect structure (e.g., extract) and others affect internals (e.g., rename). This is from an object POV.
+
+further ideas: 
+
+  * chain / unchain
+  * split / join
+
