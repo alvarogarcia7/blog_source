@@ -645,6 +645,12 @@ I've read [this essay][vw-cheating-sw] by Bruce Schneier on cheating software, u
 
 The author cites the Internet of Things of new opportunities for companies to use / produce cheating software and about a possible solution: transparency and oversight of the software that more and more reigns our lives.
 
+Other (opinion) articles I've read on the issue are:
+
+  * [Volkswagen and the Era of Cheating Software](http://www.nytimes.com/2015/09/24/opinion/volkswagen-and-the-era-of-cheating-software.html) by Zeynep Tufekci
+  * [Volkswagen isn’t the first company to use software to break the law and it won’t be the last](http://fusion.net/story/202867/volkswagen-software-deception-ai/) by Daniela Hernandez
+  * [Harry Potter and the Mysterious Defeat Device](http://www.slate.com/articles/technology/future_tense/2015/09/volkswagen_s_cheating_emissions_software_and_the_threat_of_black_boxes.html) by James Grimmelmann
+
 Tags: cryptogram, bruce Schneier, volkswagen, mistake, quality, transparency, oversight, iot, essay, cheating, cheating software
 
 [vw-cheating-sw]: https://www.schneier.com/crypto-gram/archives/2015/1015.html#1
