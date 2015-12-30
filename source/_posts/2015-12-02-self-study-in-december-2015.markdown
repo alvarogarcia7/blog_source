@@ -663,3 +663,19 @@ Tags: java, syntax, string, feature, multi-line string
 
 [multiline-string-java]: http://blog.jooq.org/2015/12/29/please-java-do-finally-support-multiline-strings/
 
+## The Silver Bullet Syndrome
+
+I've watched [this talk][silver-bullet-syndrome] by Hadi Hariri about chasing the next silver bullet.
+
+He explains this with javascript and nodejs, but it could be exemplified with other technologies / promises as well.
+
+Note: ABC stands for:
+
+ * A = address
+ * B = binding
+ * C = contract
+
+ Tags: hadi-hariri, silver-bullet, talk, devoxx
+
+[silver-bullet-syndrome]: https://www.youtube.com/watch?v=3wyd6J3yjcs
+
