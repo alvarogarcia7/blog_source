@@ -1,0 +1,8 @@
+## The JVM and Java Garbage Collection
+
+I've watched [this webcast][java-gc-webcast] about how the JVM garbage collection works. By Michael W Williams
+
+Tags: michael-williams, oracle, webcast, jvm, garbage-collection, gc, 
+
+[java-gc-webcast]: https://www.youtube.com/watch?v=DoJr5QQYsl8
+
