@@ -679,3 +679,14 @@ Note: ABC stands for:
 
 [silver-bullet-syndrome]: https://www.youtube.com/watch?v=3wyd6J3yjcs
 
+##  Writing Clean Tests – Small Is Beautiful
+
+I've read [this article][clean-tests] by Petri Kainulainen on writing BDD style tests with JUnit in java.
+
+There is [a tool][tool-nested-runner], created by Nitor Creations that allows you to write nested classes in JUnit, allowing for test specialization.
+
+Tags: junit, runner, bdd, test, nitor-creations, petri-kainulainen, tdd
+
+[clean-tests]: http://www.petrikainulainen.net/programming/testing/writing-clean-tests-small-is-beautiful/
+[tool-nested-runner]: https://github.com/NitorCreations/CoreComponents/tree/master/junit-runners
+
