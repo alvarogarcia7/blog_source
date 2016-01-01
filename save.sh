@@ -25,7 +25,7 @@ elif test "$1" = "pop"; then
 
 	if [[ $# -eq 1 ]]; then
 		# save.sh $operation
-		filename="source/_posts/2015-12-02-self-study-in-december-2015.markdown"
+		filename="source/_posts/2016-01-01-self-study-in-january-2016.markdown"
 		diff_file=$(ls partial|sort|grep -v "/"|head -2|grep diff)
 		message_file=$(ls partial|sort|grep -v "/" | head -2|grep msg)
 	else
