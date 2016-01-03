@@ -24,3 +24,11 @@ Tags: junit, stackoverflow, answer, nested-runner
 
 [test-inner-class-junit]: http://stackoverflow.com/questions/8758294/test-cases-in-inner-classes-with-junit
 
+## Recording a Great Coding Screencast
+
+I've read [this article][recording-screencast] by John Lindquist where he explains how he sets up the recording environment for egghead.
+
+Tags: john-lindquist, record, screencast, egghead, code-screencast, record-video, video
+
+[recording-screencast]: https://egghead.io/articles/recording-a-great-coding-screencast
+
