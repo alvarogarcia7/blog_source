@@ -62,6 +62,16 @@ Tags: kris-jenkins, functional-programming, input, output, function, complexity-
 
 [what-is-fp]: http://blog.jenkster.com/2015/12/what-is-functional-programming.html
 
+## Which Programming Languages Are Functional?
+
+I've read [this article][what-languages-are-functional] by Kris Jenkins where the author analyses languages, determining whether they are functional or not.
+
+Describes how functional languages deal with side effects and side causes, and to identify them (was also explained in [part one][^1]).
+
+Tags: kris-jenkins, functional-programming, side-effect, side-cause, comparison, haskell, clojure, python, perl, javascript, java, map, reduce, hof, scala, moc
+
+[what-languages-are-functional]: http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html
+
 ## Argument from the "Real World"
 
 I've read [this article][argument-real-world] by Ron Jeffries that dismantles the "real world", as an excuse to use good practices: as in "we could use that, but we live in the real world".
@@ -76,3 +86,6 @@ Tags: ron-jeffries, agile, scrum, tdd, bdd, incremental-iterative-development, p
 
 [argument-real-world]: http://ronjeffries.com/xprog/articles/argument-from-the-real-world/
 
+
+
+[^1]: ``What Is Functional Programming?``
