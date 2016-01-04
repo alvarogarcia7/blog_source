@@ -96,3 +96,13 @@ Tags: ron-jeffries, agile, scrum, tdd, bdd, incremental-iterative-development, p
 
 [argument-real-world]: http://ronjeffries.com/xprog/articles/argument-from-the-real-world/
 
+## Self-Contained Systems
+
+I've read [these slides][scs-slides] about a self-contained system (SCS), an architecture choice to split monolithic systems in parts. It includes the use of microservices in the business logic to solve domain specific problems. Written by Roman Stranghöner
+
+> development, operation and maintenance [...] by a single team
+
+Tags: big-bang-release, roman-stranghoner, self-contained-system, scs, microservice, monolith, monolithic-system, architecture
+
+[scs-slides]: https://speakerdeck.com/rstrangh/self-contained-systems-1
+
