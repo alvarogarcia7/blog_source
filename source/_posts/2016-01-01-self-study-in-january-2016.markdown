@@ -72,7 +72,7 @@ Tags: kris-jenkins, functional-programming, input, output, function, complexity-
 
 I've read [this article][what-languages-are-functional] by Kris Jenkins where the author analyses languages, determining whether they are functional or not.
 
-Describes how functional languages deal with side effects and side causes, and to identify them (was also explained in [part one][^1]).
+Describes how functional languages deal with side effects and side causes, and to identify them (was also explained in part one[^1]).
 
 {% comment %}
 	FOOTNOTES are at the beginning
