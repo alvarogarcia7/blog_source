@@ -40,3 +40,19 @@ Tags: trevor-miller, online-course, screencast, mooc, react, flux, egghead
 
 [react-testing-course]: https://egghead.io/lessons/react-testing-jsx-error-diffs
 
+## What Is Functional Programming?
+
+I've read [this article][what-is-fp] by Kris Jenkins where the author describes functional programming from an input & output point of view.
+
+Describes state of the system (maybe global or local) is input & output of the function
+
+Produced state changes are called side effects. the author calls the state inputs as "side causes".
+
+Side effects and causes are called complexity iceberg, as they are not visible under the water level (surface)
+
+Also what a pure function is: one with no side causes or side effects; e.g., all its inputs are declared inputs (i.e., parameters) and all outputs are declared outputs (i.e., return value).
+
+Tags: kris-jenkins, functional-programming, input, output, function, complexity-iceberg, pure-function, impure-function, side-effect, side-cause
+
+[what-is-fp]: http://blog.jenkster.com/2015/12/what-is-functional-programming.html
+
