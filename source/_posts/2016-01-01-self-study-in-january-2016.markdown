@@ -60,7 +60,7 @@ Also what a pure function is: one with no side causes or side effects; e.g., all
 
 notes on jobbing programmer:
 
-  * [at safari](https://www.safaribooksonline.com/library/view/becoming-a-better/9781491905562/ch32.html)
+  * [at Becoming a Better Programmer](https://www.safaribooksonline.com/library/view/becoming-a-better/9781491905562/ch32.html), by Pete Goodliffe
   * [at Mastering Julia](https://books.google.es/books?id=P-09CgAAQBAJ&pg=PA67&lpg=PA67&dq=%22jobbing+programmer%22&source=bl&ots=U6Gvi9OSda&sig=J4qWDUtnk768SMjAK3yuEeWUv5Y&hl=es&sa=X&ved=0ahUKEwjz58K615DKAhUFVRQKHfyhAZAQ6AEIOTAE#v=onepage&q=%22jobbing%20programmer%22&f=false), by Malcolm Sherrington
   * [at What Makes a Good Programmer Good?](http://joshsymonds.com/blog/2013/11/03/what-makes-a-good-programmer-good/) by Josh Symonds
 
