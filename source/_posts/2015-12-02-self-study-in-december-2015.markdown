@@ -311,12 +311,6 @@ categories:
   - xavi-gost
 ---
 
-{% comment %}  
-
-Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/README.markdown#authors-as-categories
-
-{% endcomment %}
-
 ## Ruby Equality And Object Comparison
 
 I've read [this article][ruby-equality-object-comparison], written by Alan Skorkin, that explains equality comparisons in ruby:
