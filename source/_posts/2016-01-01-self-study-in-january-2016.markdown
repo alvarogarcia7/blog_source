@@ -32,3 +32,11 @@ Tags: john-lindquist, record, screencast, egghead, code-screencast, record-video
 
 [recording-screencast]: https://egghead.io/articles/recording-a-great-coding-screencast
 
+## React Testing Course
+
+I've watched [the full course][react-testing-course] by Trevor D. Miller on how to test react components and the libraries to make it possible.
+
+Tags: trevor-miller, online-course, screencast, mooc, react, flux, egghead
+
+[react-testing-course]: https://egghead.io/lessons/react-testing-jsx-error-diffs
+
