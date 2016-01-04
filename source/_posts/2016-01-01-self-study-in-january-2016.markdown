@@ -16,6 +16,12 @@ Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/
 
 {% endcomment %}
 
+{% comment %}
+	TODO - put FOOTNOTES at the end
+{% endcomment %}
+
+[^1]: ``What Is Functional Programming?``
+
 ## Test cases in inner classes with JUnit
 
 I've read [this answer][test-inner-class-junit] in stackoverflow about nested test runners in JUnit
@@ -68,6 +74,10 @@ I've read [this article][what-languages-are-functional] by Kris Jenkins where th
 
 Describes how functional languages deal with side effects and side causes, and to identify them (was also explained in [part one][^1]).
 
+{% comment %}
+	FOOTNOTES are at the beginning
+{% endcomment %}
+
 Tags: kris-jenkins, functional-programming, side-effect, side-cause, comparison, haskell, clojure, python, perl, javascript, java, map, reduce, hof, scala, moc
 
 [what-languages-are-functional]: http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html
@@ -86,6 +96,3 @@ Tags: ron-jeffries, agile, scrum, tdd, bdd, incremental-iterative-development, p
 
 [argument-real-world]: http://ronjeffries.com/xprog/articles/argument-from-the-real-world/
 
-
-
-[^1]: ``What Is Functional Programming?``
