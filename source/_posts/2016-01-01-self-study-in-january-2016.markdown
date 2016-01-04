@@ -62,3 +62,17 @@ Tags: kris-jenkins, functional-programming, input, output, function, complexity-
 
 [what-is-fp]: http://blog.jenkster.com/2015/12/what-is-functional-programming.html
 
+## Argument from the "Real World"
+
+I've read [this article][argument-real-world] by Ron Jeffries that dismantles the "real world", as an excuse to use good practices: as in "we could use that, but we live in the real world".
+
+>  [...] our job is to create the “real world” and not to imagine that our present situation is the only situation there is
+
+This is exactly our day to day task, to imagine a real world solution to present problems, maybe involving software in between.
+
+Can't we do this for product and team management?
+
+Tags: ron-jeffries, agile, scrum, tdd, bdd, incremental-iterative-development, product-management, team-management
+
+[argument-real-world]: http://ronjeffries.com/xprog/articles/argument-from-the-real-world/
+
