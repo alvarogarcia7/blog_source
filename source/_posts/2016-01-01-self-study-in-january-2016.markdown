@@ -21,6 +21,7 @@ Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/
 {% endcomment %}
 
 [^1]: ``What Is Functional Programming?``
+[^2]: many of these fragments are quotes or paraphrased quotes
 
 ## Test cases in inner classes with JUnit
 
@@ -108,9 +109,22 @@ Tags: big-bang-release, roman-stranghoner, self-contained-system, scs, microserv
 
 ## What Makes a Good Programmer Good?
 
-I've read [this article][what-makes-programmer-good] by Josh Symonds on the characteristics that differentiate a good programmer from the jobbing programmers.
+I've read [this article][what-makes-programmer-good] by Josh Symonds on the characteristics that differentiate a good programmer from the jobbing programmers, the list of skills to be a good programmer.
 
-Tags: jobbing-programmer, good-programmer, career, career-management, skill, josh-symonds
+Explains what factors are related and not related to being a good one[^2]:
+
+  * knowing that most programming problems have already been solved. You have to know where to look for the solution
+  * not to be afraid to dig deep into problems: detect a problem and be eager to solve it; figure out what is wrong
+  * go to the source: use the source as a fact, as analysis needs to be based on facts, not beliefs
+  * just do it: to be driven to act
+  * instinctively tackle problems head-on, grabbing the bull by the horns instead of waiting for it to be solved automagically; start solving the problem
+  * excited about grabbing problems, about facing the cutting edge
+  * taking the time to reflect and understand it before moving one to the next one
+  * communicate well: succintly and eloquently expressing your thoughts. The author thinks this might be the most important aspect of all.
+  * to be truly caring about what you do: not just a job, but a hobby, an interest, even a fascination; great programmers are always programming
+  * thinking of programming of a way to shape the world, not just a money-making activity
+
+Tags: jobbing-programmer, good-programmer, career, career-management, skill, josh-symonds, quote
 
 [what-makes-programmer-good]: http://joshsymonds.com/blog/2013/11/03/what-makes-a-good-programmer-good/
 
