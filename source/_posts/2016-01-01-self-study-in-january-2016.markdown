@@ -106,3 +106,11 @@ Tags: big-bang-release, roman-stranghoner, self-contained-system, scs, microserv
 
 [scs-slides]: https://speakerdeck.com/rstrangh/self-contained-systems-1
 
+## What Makes a Good Programmer Good?
+
+I've read [this article][what-makes-programmer-good] by Josh Symonds on the characteristics that differentiate a good programmer from the jobbing programmers.
+
+Tags: jobbing-programmer, good-programmer, career, career-management, skill, josh-symonds
+
+[what-makes-programmer-good]: http://joshsymonds.com/blog/2013/11/03/what-makes-a-good-programmer-good/
+
