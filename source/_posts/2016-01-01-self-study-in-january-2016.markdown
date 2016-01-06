@@ -128,3 +128,11 @@ Tags: jobbing-programmer, good-programmer, career, career-management, skill, jos
 
 [what-makes-programmer-good]: http://joshsymonds.com/blog/2013/11/03/what-makes-a-good-programmer-good/
 
+## The Best Programming Language (or How to Stop Worrying and Love the Code)
+
+I've read [this article][best-pro-lang] by Álvaro Castro-Castilla analysing different programming languages and what to choose each of them.
+
+Tags: alvaro-castro-castilla, programming-language, language, analysis, comparison
+
+[best-pro-lang]: http://blog.fourthbit.com/2014/03/01/the-best-programming-language-or-how-to-stop-worrying-and-love-the-code
+
