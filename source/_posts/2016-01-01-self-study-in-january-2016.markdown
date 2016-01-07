@@ -136,3 +136,11 @@ Tags: alvaro-castro-castilla, programming-language, language, analysis, comparis
 
 [best-pro-lang]: http://blog.fourthbit.com/2014/03/01/the-best-programming-language-or-how-to-stop-worrying-and-love-the-code
 
+## Tomates en el campo
+
+I've read [this article][tomates-en-campo] by Ángel Medinilla, about how to cultivate teams, instead of creating or building them. Talks about the mandatory conditions, necessary factors and how to enable it, not guaranteeing success.
+
+Tags: angel-medinilla, team-management, spanish, team, analogy
+
+[tomates-en-campo]: http://www.presionblogosferica.com/2011/02/20/tomates-en-el-campo/
+
