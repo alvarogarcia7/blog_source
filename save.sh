@@ -2,6 +2,12 @@
 
 set -e
 
+########################### config ##########################################
+
+filename="source/_posts/2016-01-01-self-study-in-january-2016.markdown"
+
+#############################################################################
+
 
 if test "$1" = "save"; then
 
@@ -32,7 +38,7 @@ elif test "$1" = "pop"; then
 		exit 1
 	fi
 	
-	filename="source/_posts/2016-01-01-self-study-in-january-2016.markdown"
+
 	diff_file=$(ls partial|sort|grep -v "/"|head -2|grep diff)
 	message_file=$(ls partial|sort|grep -v "/" | head -2|grep msg)
 	datestamp="$day $(date "+%H:%M:%S")"
