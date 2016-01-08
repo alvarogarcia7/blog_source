@@ -144,3 +144,11 @@ Tags: angel-medinilla, team-management, spanish, team, analogy
 
 [tomates-en-campo]: http://www.presionblogosferica.com/2011/02/20/tomates-en-el-campo/
 
+## Default constructors in Java
+
+I've read [this answer][java-private-constructor] in stackoverflow about extending a java class that has a private constructor.
+
+Tags: stackoverflow, answer, java, constructor, syntax
+
+[java-private-constructor]: http://stackoverflow.com/questions/17068389/default-constructors-in-java
+
