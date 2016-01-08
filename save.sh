@@ -24,15 +24,18 @@ if test "$1" = "save"; then
 elif test "$1" = "pop"; then
 
 	if [[ $# -eq 1 ]]; then
-		# save.sh $operation
-		filename="source/_posts/2016-01-01-self-study-in-january-2016.markdown"
-		diff_file=$(ls partial|sort|grep -v "/"|head -2|grep diff)
-		message_file=$(ls partial|sort|grep -v "/" | head -2|grep msg)
+		day=$(date "+%Y-%m-%d")
+	elif [[ $# -eq 2 ]]; then
+		day=$2
 	else
 		echo "did not understand the amount of arguments"
 		exit 1
 	fi
-
+	
+	filename="source/_posts/2016-01-01-self-study-in-january-2016.markdown"
+	diff_file=$(ls partial|sort|grep -v "/"|head -2|grep diff)
+	message_file=$(ls partial|sort|grep -v "/" | head -2|grep msg)
+	datestamp="$day $(date "+%H:%M:%S")"
 
 	if [ -z $diff_file -o -z $message_file  ]; then
 		echo "could not apply this partial file"
@@ -53,7 +56,7 @@ elif test "$1" = "pop"; then
 	git add --all -- partial
 
 
-	git commit -m "$commit_message"
+	git commit -m "$commit_message" --date="$datestamp"
 
 else
 
