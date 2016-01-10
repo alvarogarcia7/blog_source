@@ -152,3 +152,11 @@ Tags: stackoverflow, answer, java, constructor, syntax
 
 [java-private-constructor]: http://stackoverflow.com/questions/17068389/default-constructors-in-java
 
+## What's So Great About Reducers?
+
+I've read [this article][intro-reducers] by Guillermo Winkler explaining reducers, a type of divide and conquer strategy clojure.
+
+Tags: guillermo-winkler, reducer, clojure, parallelism, concurrency
+
+[intro-reducers]: http://blog.guillermowinkler.com/blog/2013/12/01/whats-so-great-about-reducers/
+
