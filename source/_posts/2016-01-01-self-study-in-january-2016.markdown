@@ -168,3 +168,23 @@ Tags: slack, christian-heilmann, accessibility, open-source, propietary-software
 
 [open-sw-slack]: https://medium.com/hacker-daily/don-t-use-slack-8e70452f3eed
 
+## Towards an understanding of technical debt
+
+I've read [this article][understanding-tech-debt] by Kellan Elliott-McCrea about some definitions of technical debt and why taking care of it matters for the future.
+
+Talks about the way of inheriting projects by other teams and the paradox of "investing more time to fix the problem than originally invested in coding it." Also about judgement.
+
+I find it related to the "theory building" by Naur.
+
+> There are at least 5 distinct things we mean we say “technical debt”.
+>
+>  1. Maintenance work: buying breathing room
+>  2. Features of the codebase that resist change
+>  3. Operability choices that resist change
+>  4. Code choices that suck the will to live
+>  5. Dependencies that resist upgrading
+
+Tags: kellan-elliott-mccrea, kellan, technical-debt, list, definition, quote
+
+[understanding-tech-debt]: https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553
+
