@@ -196,3 +196,11 @@ Tags: hash-function, valerie-aurora
 
 [crypto-hash]: http://valerieaurora.org/hash.html
 
+## Collisions for Hash Functions - MD4, MD5, HAVAL-128 and RIPEMD
+
+I've read [this paper][collisions-hash-functions] that explains some collisions found for MD4, MD5, HAVAL-128 and RIPEMD. By Xiaoyun Wang, Dengguo Feng, Xuejia Lai, Hongbo Yu.
+
+Tags: collision, hash-function, xiaoyun-wang, dengguo-feng, xuejia-lai, hongbo-yu, paper
+
+[collisions-hash-functions]: https://eprint.iacr.org/2004/199.pdf
+
