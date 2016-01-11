@@ -160,3 +160,11 @@ Tags: guillermo-winkler, reducer, clojure, parallelism, concurrency
 
 [intro-reducers]: http://blog.guillermowinkler.com/blog/2013/12/01/whats-so-great-about-reducers/
 
+## Don’t use Slack?
+
+I've read [this article][open-sw-slack] by Christian Heilmann about the relation between open / closed software and accessibility.
+
+Tags: slack, christian-heilmann, accessibility, open-source, propietary-software, closed-source
+
+[open-sw-slack]: https://medium.com/hacker-daily/don-t-use-slack-8e70452f3eed
+
