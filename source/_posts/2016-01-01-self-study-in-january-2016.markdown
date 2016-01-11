@@ -188,3 +188,11 @@ Tags: kellan-elliott-mccrea, kellan, technical-debt, list, definition, quote
 
 [understanding-tech-debt]: https://medium.com/@kellan/towards-an-understanding-of-technical-debt-ae0f97cc0553
 
+## Lifetimes of cryptographic hash functions
+
+I've read [this article][crypto-hash] by Valerie Aurora where she explains the lifetimes of cryptographic hash functions up to 2012.
+
+Tags: hash-function, valerie-aurora
+
+[crypto-hash]: http://valerieaurora.org/hash.html
+
