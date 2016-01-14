@@ -34,6 +34,7 @@ This post covers how to perform this search.
 Let ``T`` be a sequence of tests: ``i1, i2, ..., in, F, j1, j2, ..., jm``
 
 where:
+
   * ``i`` are green tests
   *  ``F`` is first failing test
     * when executed in isolation, is green
