@@ -270,3 +270,11 @@ Tags: kellan-elliott-mccrea, kellan, list, management, tip, exercise, pet-projec
 
 [surviving-senior-mgmnt]: https://medium.com/@kellan/surviving-being-senior-tech-management-aa6654efd027
 
+## You Don’t Need More Free Time
+
+I've read [this article][more-free-time] about the quality of life, work-life balance by Cristobal Young on why the time where we have more fun is spent together, in company.
+
+Tags: cristobal-young, time-management, work-life-balance
+
+[more-free-time]: http://www.nytimes.com/2016/01/10/opinion/sunday/you-dont-need-more-free-time.html
+
