@@ -256,3 +256,17 @@ Tags: representation, computation, catamorphism, list, associativity
 commutativity, idempotency, abstract-data-type, slide, operator, mapreduce, mindset, comparison, parallel, guy-steele,  linear-computing, parallel-computing
 
 [steele-parallel]: http://groups.csail.mit.edu/mac/users/gjs/6.945/readings/MITApril2009Steele.pdf
+
+## Surviving being senior (tech) management.
+
+I've read [this article][surviving-senior-mgmnt] by Kellan Elliott-McCrea about the basic things to do as management to retain the best performance:
+
+  * exercise
+  * someone to talk to
+  * discuss with peers, in petit commité
+  * personal mastery project
+
+Tags: kellan-elliott-mccrea, kellan, list, management, tip, exercise, pet-project
+
+[surviving-senior-mgmnt]: https://medium.com/@kellan/surviving-being-senior-tech-management-aa6654efd027
+
