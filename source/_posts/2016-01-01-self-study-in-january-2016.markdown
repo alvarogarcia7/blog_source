@@ -302,3 +302,13 @@ Tags: design-pattern, christopher-alexander, jen-carlile, comparison, example, p
 
 [design-patterns-flux-1]: https://medium.com/swlh/design-patterns-coming-full-circle-d8292e261dc6
 
+## React + Performance = ?
+
+I've read [this article][comparison-react-perf] by Paul Lewis comparing the performance and developer experience of react.js and vanilla js.
+
+Conclusion: under his measurements, react is too slow once the amount of elements is big on mobile devices
+
+Tags: paul-lewis, comparison, javascript, react, mobile, perfomance, jsperf, js-perf, vanilla-javascript
+
+[comparison-react-perf]: https://aerotwist.com/blog/react-plus-performance-equals-what/
+
