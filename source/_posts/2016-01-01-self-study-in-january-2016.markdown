@@ -278,3 +278,11 @@ Tags: cristobal-young, time-management, work-life-balance
 
 [more-free-time]: http://www.nytimes.com/2016/01/10/opinion/sunday/you-dont-need-more-free-time.html
 
+## Taking Longer to Reach the Top Has Its Benefits
+
+​I've read [this article][patience-career-benefits] that explains how having work life balance and preventing burn out syndrome, aided by a patient career, can help with reaching a higher destination on your career. By Karen Firestone
+
+Tags: career-management, patience, burnout, burn-out, ceo, karen-firestone, professional-career, improvement
+
+[patience-career-benefits]: https://hbr.org/2015/12/taking-longer-to-reach-the-top-has-its-benefits
+
