@@ -286,3 +286,11 @@ Tags: career-management, patience, burnout, burn-out, ceo, karen-firestone, prof
 
 [patience-career-benefits]: https://hbr.org/2015/12/taking-longer-to-reach-the-top-has-its-benefits
 
+## All bugs lead to Rome
+
+I've read [this article][all-bugs-to-rome] that explains how the author tracks down a bug present in mail communication, just for a handful of client. By Nick Baum
+
+Tags: track-down, bug, defect, mailgun, rot13, nick-baum
+
+[all-bugs-to-rome]: https://medium.com/@nickbaum/all-bugs-lead-to-rome-505a1205bb9
+
