@@ -1,0 +1,1 @@
+add article on design patterns at flux, 2
