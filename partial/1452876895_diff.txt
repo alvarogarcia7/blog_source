@@ -1,0 +1,8 @@
+## 10 design principles — for developers
+
+I've read [this article][design-pples-for-devs] that explains what are the 10 design principles for programmers, as outlined by Jakob Nielsen. The article itself is by Nir Benita
+
+Tags: design-principle, ux, jakob-nielsen, nir-benita, usability, testing, list
+
+[design-pples-for-devs]: https://medium.com/@nirbenita/the-10-design-heuristics-for-developers-1e70a9dc58a7
+
