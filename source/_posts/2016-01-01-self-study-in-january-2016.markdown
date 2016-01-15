@@ -294,3 +294,11 @@ Tags: track-down, bug, defect, mailgun, rot13, nick-baum
 
 [all-bugs-to-rome]: https://medium.com/@nickbaum/all-bugs-lead-to-rome-505a1205bb9
 
+## Design Patterns — Coming Full Circle
+
+I've read [this article][design-patterns-flux-1] that explains what a design pattern is, where does it come from, the figure of Christopher Alexander and the architecture design patterns. By Jen Carlile
+
+Tags: design-pattern, christopher-alexander, jen-carlile, comparison, example, proxy, command, observer
+
+[design-patterns-flux-1]: https://medium.com/swlh/design-patterns-coming-full-circle-d8292e261dc6
+
