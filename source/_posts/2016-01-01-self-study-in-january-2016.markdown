@@ -312,3 +312,13 @@ Tags: paul-lewis, comparison, javascript, react, mobile, perfomance, jsperf, js-
 
 [comparison-react-perf]: https://aerotwist.com/blog/react-plus-performance-equals-what/
 
+## Full speed, then stop, gracefully
+
+I've read [this article][full-speed-then-stop] about how to end professional relationships with an employer or a team.
+
+Makes an analogy to the hockey sport attitude: "full speed, then stop"
+
+Tags: seth-godin, professional, employer, team-management, team, analogy
+
+[full-speed-then-stop]: http://sethgodin.typepad.com/seths_blog/2015/12/full-speed-then-stop.html
+
