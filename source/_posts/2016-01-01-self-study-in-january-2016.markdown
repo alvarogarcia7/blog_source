@@ -322,3 +322,11 @@ Tags: seth-godin, professional, employer, team-management, team, analogy
 
 [full-speed-then-stop]: http://sethgodin.typepad.com/seths_blog/2015/12/full-speed-then-stop.html
 
+## Por qué tendrás que facturar 55.000€ para cobrar una nómina de 26.000€ 
+
+I've read [this bonilista][freelancer-vs-employee] by David Bonilla on why freelancers need to bill more to clients to achieve the same (economic) results as being hired by a company.
+
+Tags: david-bonilla, bonilista, freelancer, contractor, employee
+
+[freelancer-vs-employee]: http://us2.campaign-archive1.com/?u=374c664073e1a1fa3deca53b4&id=7e79a27689
+
