@@ -330,3 +330,82 @@ Tags: david-bonilla, bonilista, freelancer, contractor, employee
 
 [freelancer-vs-employee]: http://us2.campaign-archive1.com/?u=374c664073e1a1fa3deca53b4&id=7e79a27689
 
+## Principles Of Microservices
+
+I've watched [this talk][pples-mservices] by Sam Newman on microservices at the NDC 2015 at Oslo
+
+Describes a microservice as a small, autonomous services that work together, modelled around a business domain
+
+Microservices can mix technology, persistence stack, idioms, options
+
+reference to the twelve factors (by heroku).
+
+At a client:
+
+> Design and delivery practices:
+>
+>   * standard http/rest
+>   * encapsulate legacy
+>   * eliminate integration databases
+>   * consolidate and cleanse data
+>   * published integration model
+>   * small independent devices
+>   * continous deployment
+>   * minimal customization of COTS/SAAS
+>
+> Architectural principles:
+>
+>   * reduce inertia
+>   * eliminate accidential complexity
+>   * consistent interfaces and data flows
+>   * no silver bullets
+>
+> Strategic goals:
+>
+>   * enable scalable businesses
+>   * support entry into new markets
+>   * support innovation in existing markets
+
+
+Principles of microservices:
+
+  * modelled around a business domain
+  * culture of automation
+  * hide implementation details
+  * decentralise all the things
+  * deploy independently
+  * consumer first
+  * isolate failure
+  * highly observable
+
+### Notes
+
+the business domain changes more slowly. find these boundaries (reference to IDDD)
+
+bounded contexts is about concepts which are shared and others who are hidden
+
+consumer driven contracts as a way to express to consumer expectations, written as tests. this is a high-trust pattern (requires it). reduces end to end testing, considerably. Using tools as [pact][github.com/realestate]
+
+parallel change for endpoints (or APIs) for avoiding lock step release (expand contract pattern). high cost to change an API: apply upfront thought to it.
+
+explains about a case writing a strangler application:
+
+  * circuit breakers
+  * one thread pool per application
+  * bulkhead downstream connections
+
+references:
+
+  * the book "Release It!"
+  * the book "Implementing Domain-Driven Design (IDDD)"
+
+### Other
+
+correlation ids, parent and child ids
+extracting information from logs (e.g., kibana, splunk, new relic)
+see how services connect to each other based on logs instead of based on documentation
+
+Tags: lock-step-release, autonomy, sam-newman, consumer-driven-contract, team, zookeper, etcd, consul, service-discovery, distributed-consensus, talk, ndc, humane-registry, bulkhead-pattern, circuit-breaker
+
+[pples-mservices]: https://vimeo.com/131632250
+
