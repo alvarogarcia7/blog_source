@@ -409,3 +409,12 @@ Tags: lock-step-release, autonomy, sam-newman, consumer-driven-contract, team, z
 
 [pples-mservices]: https://vimeo.com/131632250
 
+## The Website Obesity Crisis
+
+I've read [this transcription][obesity-transcription] of [this presentation][obesity-presentation] about the increase of weight of websites and how this connects with new needs for automation and other services. How the solution is to keep the pages lightweight and open for everybody to use and learn; without invading our privacy. By Maciej Ceglowski
+
+Tags: obesity, fat-page, slide, transcription, slide-transcription, maciej-ceglowski, simplicity, speed
+
+[obesity-transcription]: http://idlewords.com/talks/website_obesity.htm
+[obesity-presentation]: http://www.webdirections.org/blog/the-website-obesity-crisis/
+
