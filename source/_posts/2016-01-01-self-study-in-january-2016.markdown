@@ -418,3 +418,11 @@ Tags: obesity, fat-page, slide, transcription, slide-transcription, maciej-ceglo
 [obesity-transcription]: http://idlewords.com/talks/website_obesity.htm
 [obesity-presentation]: http://www.webdirections.org/blog/the-website-obesity-crisis/
 
+## Command-line tools can be 235x faster than your Hadoop cluster
+
+I've read [this article][cli-vs-hadoop] on how using command-line based (``find``, ``grep``, ``awk``) can have a better performance as compared to Hadoop for a specific case, which is analyzing 2 million chess games. By Adam Drake
+
+Tags: adam-drake, chess, comparison, performance, cli-commands, unix, nix, hadoop, awk
+
+[cli-vs-hadoop]: http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
+
