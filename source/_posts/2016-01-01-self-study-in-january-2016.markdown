@@ -302,3 +302,31 @@ Tags: design-pattern, christopher-alexander, jen-carlile, comparison, example, p
 
 [design-patterns-flux-1]: https://medium.com/swlh/design-patterns-coming-full-circle-d8292e261dc6
 
+## React + Performance = ?
+
+I've read [this article][comparison-react-perf] by Paul Lewis comparing the performance and developer experience of react.js and vanilla js.
+
+Conclusion: under his measurements, react is too slow once the amount of elements is big on mobile devices
+
+Tags: paul-lewis, comparison, javascript, react, mobile, perfomance, jsperf, js-perf, vanilla-javascript
+
+[comparison-react-perf]: https://aerotwist.com/blog/react-plus-performance-equals-what/
+
+## Full speed, then stop, gracefully
+
+I've read [this article][full-speed-then-stop] about how to end professional relationships with an employer or a team.
+
+Makes an analogy to the hockey sport attitude: "full speed, then stop"
+
+Tags: seth-godin, professional, employer, team-management, team, analogy
+
+[full-speed-then-stop]: http://sethgodin.typepad.com/seths_blog/2015/12/full-speed-then-stop.html
+
+## Por qué tendrás que facturar 55.000€ para cobrar una nómina de 26.000€ 
+
+I've read [this bonilista][freelancer-vs-employee] by David Bonilla on why freelancers need to bill more to clients to achieve the same (economic) results as being hired by a company.
+
+Tags: david-bonilla, bonilista, freelancer, contractor, employee
+
+[freelancer-vs-employee]: http://us2.campaign-archive1.com/?u=374c664073e1a1fa3deca53b4&id=7e79a27689
+
