@@ -426,3 +426,11 @@ Tags: adam-drake, chess, comparison, performance, cli-commands, unix, nix, hadoo
 
 [cli-vs-hadoop]: http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
 
+## The Serializable Isolation Level
+
+I've read [this article][serializable-isolation-level] by Paul White about the serializable isolation level and how it is implemented in some databases.
+
+Tags: serializable, isolation level, Paul White, oracle, mssql, database, sql
+
+[serializable-isolation-level]: http://sqlperformance.com/2014/04/t-sql-queries/the-serializable-isolation-level
+
