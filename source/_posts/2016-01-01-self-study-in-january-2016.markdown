@@ -434,3 +434,12 @@ Tags: serializable, isolation level, Paul White, oracle, mssql, database, sql
 
 [serializable-isolation-level]: http://sqlperformance.com/2014/04/t-sql-queries/the-serializable-isolation-level
 
+## Academic Writing With Markdown, Pandoc and Emacs
+
+I've read [this article][academia-in-markdown] by Milinda Pathirage that explains an alternative way of writing LaTeX in a user-friendly manner, writing markdown then converting it to the output format (he provides [such a script][markdown2latex]).
+
+Tags: latex, milinda-pathirage, academia, research, paper, markdown, script
+
+[academia-in-markdown]: http://milinda.svbtle.com/academic-writing-with-markdown-pandoc-and-emacs
+[markdown2latex]: https://gist.github.com/milinda/d9272e67711d324f18ba
+
