@@ -453,10 +453,11 @@ I've watched [this talk][talk-umejug-adam-bien] by Adam Bien on topics related t
   * What do you think of the DDD strategic and tactical patterns?
   * Microservices vs right-sized services, is transactions over several services always a bad idea?
   * When use JSF? Is it still useful?
-  * Entity-Control-Boundary Pattern (ECB) (around [16:37][ecb-explanation])
+  * Entity-Control-Boundary Pattern (ECB) (around [16:37][ecb-explanation]). [More info][more-ecb-pattern] on the pattern
 
 Tags: hateoas, rest, microservice, pattern, architecture, umejug, hexagonal-architecture, ddd, adam-bien, ecb-pattern, mvc-pattern
 
 [talk-umejug-adam-bien]: http://www.adam-bien.com/roller/abien/entry/rest_ddd_layers_jsf_a
 [ecb-explanation]: https://youtu.be/VkcLpRs0i0g?t=995
+[more-ecb-pattern]: http://www.cs.sjsu.edu/~pearce/modules/patterns/enterprise/ecb/ecb.htm
 
