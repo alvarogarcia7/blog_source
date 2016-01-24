@@ -443,3 +443,20 @@ Tags: latex, milinda-pathirage, academia, research, paper, markdown, script
 [academia-in-markdown]: http://milinda.svbtle.com/academic-writing-with-markdown-pandoc-and-emacs
 [markdown2latex]: https://gist.github.com/milinda/d9272e67711d324f18ba
 
+## Rest, DDD, layers, JSF, microservices sizing a Umejug conversation
+
+I've watched [this talk][talk-umejug-adam-bien] by Adam Bien on topics related to microservices and architecture. Discusses:
+
+  * What do you think a typical web application should look like? How should it be built?
+  * When using REST, which level of REST is appropriate when, is HATEOAS something to strive for, how to implement it?
+  * Which patterns do you recommend, hexagonal architecture, layers, ...?
+  * What do you think of the DDD strategic and tactical patterns?
+  * Microservices vs right-sized services, is transactions over several services always a bad idea?
+  * When use JSF? Is it still useful?
+  * Entity-Control-Boundary Pattern (ECB) (around [16:37][ecb-explanation])
+
+Tags: hateoas, rest, microservice, pattern, architecture, umejug, hexagonal-architecture, ddd, adam-bien, ecb-pattern, mvc-pattern
+
+[talk-umejug-adam-bien]: http://www.adam-bien.com/roller/abien/entry/rest_ddd_layers_jsf_a
+[ecb-explanation]: https://youtu.be/VkcLpRs0i0g?t=995
+
