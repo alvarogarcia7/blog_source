@@ -520,3 +520,13 @@ Tags: charlotte-lieberman, paradox, quote, social-media, mindfulness, technology
 
 [hiding-from-yourself-on-media]: https://hbr.org/2016/01/what-youre-hiding-from-when-you-constantly-check-your-phone
 
+## Testing myth #1: Writing tests slows you down
+
+I've read [this article][test-slow-you-down] by Arho Huttunen on an excuse to not test: there is no time.
+
+In the article, he explains the false assumptions based on that reason and the gains (short term and long term) from doing it.
+
+Tags: arho-huttunen, test, excuse
+
+[test-slow-you-down]: http://arhohuttunen.fi/testing/testing-myth-1-writing-tests-slows-you-down/
+
