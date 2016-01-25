@@ -471,3 +471,15 @@ Tags: remote-work, sebastian-kade, remote, work, asynchronous-communication, com
 
 [how-to-go-remote]: http://workdifferent.com/how-to-remote/
 
+## Why Your Company Should Have a Creed
+
+I've read [this essay][automattic-creed] by Matt Mullenweg about the importance of having a company creed (a belief system, ethos), which ideally would be shared by the colleagues. These should be the values that help deciding, when in doubt, so everyone is aligned.
+
+At Automattic, this is theirs (as of September 19th, 2011):
+
+> I will never stop learning. I won’t just work on things that are assigned to me. I know there’s no such thing as a status quo. I will build our business sustainably through passionate and loyal customers. I will never pass up an opportunity to help out a colleague, and I’ll remember the days before I knew everything. I am more motivated by impact than money, and I know that Open Source is one of the most powerful ideas of our generation. I will communicate as much as possible, because it’s the oxygen of a distributed company. I am in a marathon, not a sprint, and no matter how far away the goal is, the only way to get there is by putting one foot in front of another every day. Given time, there is no problem that’s insurmountable.
+
+Tags: quote, matt-mullenweg, automattic, creed, ethos, learning, team-management, startup, communication, essay
+
+[automattic-creed]: http://ma.tt/2011/09/automattic-creed/
+
