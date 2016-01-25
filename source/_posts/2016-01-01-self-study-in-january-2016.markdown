@@ -483,3 +483,22 @@ Tags: quote, matt-mullenweg, automattic, creed, ethos, learning, team-management
 
 [automattic-creed]: http://ma.tt/2011/09/automattic-creed/
 
+## Mob Programming: The Unruly Experience
+
+I've read [this article][mob-pro-experience-report] by Rebecca Wirfs-Brock on mob programming and the experience report (+ [slides][slides-mob-unruly]) at the company called Unruly.
+
+She explains what works for them and what does not.
+
+Also, she makes a difference on complex vs complicated work:
+
+> complex work (where there is the potential for errors) over complicated work (where the solution is known, but is merely time consuming)
+
+Explains some characteristics of learning organizations:
+
+> Teams in learning organizations perform ongoing experiments. While they settle on a core set of practices, they also try to build upon them. They keep innovating, improving, and reflecting. And how they work continues to evolve.
+
+Tags: learning, learning-organization, xp, rebecca-wirfs-brock, mob-programming, pair-programming, complex-work, complicated-work, experience-report, unruly, team-management, team-building, team-dysfunction, comparison
+
+[mob-pro-experience-report]: http://wirfs-brock.com/blog/2015/06/05/mob-programming/
+[slides-mob-unruly]: http://www.xp2015.org/wp-content/uploads/2015/06/TH2.3_Wilson.pdf
+
