@@ -461,3 +461,13 @@ Tags: hateoas, rest, microservice, pattern, architecture, umejug, hexagonal-arch
 [ecb-explanation]: https://youtu.be/VkcLpRs0i0g?t=995
 [more-ecb-pattern]: http://www.cs.sjsu.edu/~pearce/modules/patterns/enterprise/ecb/ecb.htm
 
+## How To Go Remote
+
+I've read [this article][how-to-go-remote] by Sebastian Kade that explains how to go remote: where the possibility of working anywhere is a luxury, even if it is in an office.
+
+Explains the case of Automattic, some examples of communication, culture. Suggests using some tools to accomplish this cultural change.
+
+Tags: remote-work, sebastian-kade, remote, work, asynchronous-communication, communication, automattic, tool, culture, team-management
+
+[how-to-go-remote]: http://workdifferent.com/how-to-remote/
+
