@@ -502,3 +502,21 @@ Tags: learning, learning-organization, xp, rebecca-wirfs-brock, mob-programming,
 [mob-pro-experience-report]: http://wirfs-brock.com/blog/2015/06/05/mob-programming/
 [slides-mob-unruly]: http://www.xp2015.org/wp-content/uploads/2015/06/TH2.3_Wilson.pdf
 
+## What You’re Hiding from When You Constantly Check Your Phone
+
+I've read [this article][hiding-from-yourself-on-media] by Charlotte Lieberman where she explains the technology-stress paradox and the fact of replacing one addiction with another, as some addictions are more socially than others.
+
+Explains that the constant connection to social media allow us to avoid ourselves, and the connection to mindfulness.
+
+On the paradox:
+
+> technology-stress paradox: we share the desire for greater freedom from our devices, and yet that very freedom itself causes anxiety
+
+On the work-life balance:
+
+>  work-life balance [is]  [...] about noticing those moments in which you really don't want to deal with yourself
+
+Tags: charlotte-lieberman, paradox, quote, social-media, mindfulness, technology-stress-paradox, stress, addiction, time-management
+
+[hiding-from-yourself-on-media]: https://hbr.org/2016/01/what-youre-hiding-from-when-you-constantly-check-your-phone
+
