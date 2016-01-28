@@ -19,7 +19,7 @@ He tries to understand what programming is (page 227). I find a subtle reference
 
   > programming [...] must be the programmers' building up knowledge of a certain kind, knowledge taken to be the programmers' immediate possession, any documentation being an auxiliary, secondary product.
 
-This idea is repeated in Brandolini's Model Storming, in 2013, compared to the paper in 1985:
+This idea is repeated in Brandolini's Model Storming TODO find link TODO, in 2013, compared to the paper in 1985:
 
   > Software development is a learning process; Working code is a side effect
 
