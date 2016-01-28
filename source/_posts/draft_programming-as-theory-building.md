@@ -23,3 +23,22 @@ This idea is repeated in Brandolini's Model Storming, in 2013, compared to the p
 
   > Software development is a learning process; Working code is a side effect
 
+In Section "Programming and the Programmers' Knowledge", they study two cases. In case study 1, a compiler, it is exemplified that:
+
+  > [...] the full program text and additional documentation is insufficient in conveying to even the highly motivated group B the deeper insight into the design [...]
+
+About resisting the time:
+
+  > [...] the original powerful structure was still visible, but made entirely ineffective by amorphous additions of many different kinds.
+
+The original theory was not conveyed to the second group, who added patch over patch on the first code; without the original theory, it is difficult to amend the code.
+
+This can be seen as an analogy to [RSA] public / private keys:
+
+  > This format has a number of fields including the modulus and public exponent and thus is a strict superset of the information in an RSA public key.
+  > [source](http://stackoverflow.com/questions/5244129/use-rsa-private-key-to-generate-public-key/5246090#5246090), [RFC](http://tools.ietf.org/html/rfc3447#appendix-A.1.1)
+
+Within the private key, there is the public exponent and the private exponent, but the public key only contains the public exponent. This is what the ``strict superset`` refers to.
+
+One of the difficulties and safety guarantees in public / private key cryptography relies in the prime factoring. It would be as hard to try to understand a program by a brute-force attack, but this difficulty can be somewhat reduced by the use of patterns, descriptive names and ubiquitous language (i.e., reference to DDD).
+
