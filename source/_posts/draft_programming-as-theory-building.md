@@ -42,5 +42,9 @@ Within the private key, there is the public exponent and the private exponent, b
 
 One of the difficulties and safety guarantees in public / private key cryptography relies in the prime factoring. It would be as hard to try to understand a program by a brute-force attack, but this difficulty can be somewhat reduced by the use of patterns, descriptive names and ubiquitous language (i.e., reference to DDD).
 
+## Ryle's notion of theory
+
+> a person who has a theory [...] knows how to do certain things and [...] can support [...] [with] explanations, justifications and answers to queries.
+
 [brandolini-model-storming]: http://www.slideshare.net/ziobrando/model-storming
 
