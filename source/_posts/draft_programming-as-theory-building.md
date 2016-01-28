@@ -19,7 +19,7 @@ He tries to understand what programming is (page 227). I find a subtle reference
 
   > programming [...] must be the programmers' building up knowledge of a certain kind, knowledge taken to be the programmers' immediate possession, any documentation being an auxiliary, secondary product.
 
-This idea is repeated in Brandolini's Model Storming TODO find link TODO, in 2013, compared to the paper in 1985:
+This idea is repeated in Brandolini's [Model Storming][brandolini-model-storming], in 2013, compared to the paper in 1985:
 
   > Software development is a learning process; Working code is a side effect
 
@@ -41,4 +41,6 @@ This can be seen as an analogy to [RSA] public / private keys:
 Within the private key, there is the public exponent and the private exponent, but the public key only contains the public exponent. This is what the ``strict superset`` refers to.
 
 One of the difficulties and safety guarantees in public / private key cryptography relies in the prime factoring. It would be as hard to try to understand a program by a brute-force attack, but this difficulty can be somewhat reduced by the use of patterns, descriptive names and ubiquitous language (i.e., reference to DDD).
+
+[brandolini-model-storming]: http://en.slideshare.net/ziobrando/model-storming
 
