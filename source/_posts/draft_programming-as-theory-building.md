@@ -7,7 +7,7 @@ categories:
   - peter-naur
 ---
 
-In this paper TODO find link TODO, Peter Naur TODO find link TODO creates the analogy of programming as building theory.
+In this paper TODO find link TODO, Peter Naur TODO find link TODO creates the analogy of programming as building theory. One for the problem and one for the solution.
 
 He tries to understand what programming is (page 227). I find a subtle reference at the end of the 227.6 paragragraph to knowledge workers:
 
@@ -15,4 +15,11 @@ He tries to understand what programming is (page 227). I find a subtle reference
 
  This view suggests that programmers are not only text writers (i.e., typewriters) but need deeper insights into the problem at hand.
 
- 
+ In 228.3,
+
+  > programming [...] must be the programmers' building up knowledge of a certain kind, knowledge taken to be the programmers' immediate possession, any documentation being an auxiliary, secondary product.
+
+This idea is repeated in Brandolini's Model Storming, in 2013, compared to the paper in 1985:
+
+  > Software development is a learning process; Working code is a side effect
+
