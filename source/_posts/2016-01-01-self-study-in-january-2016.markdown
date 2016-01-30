@@ -530,3 +530,13 @@ Tags: arho-huttunen, test, excuse
 
 [test-slow-you-down]: http://arhohuttunen.fi/testing/testing-myth-1-writing-tests-slows-you-down/
 
+## BeCodeWeek by José Manuel Beas
+
+I've read [this category of posts][becodeweek-jmbeas] by José Manuel Beas about his BeCodeWeek, a desk-surfing experience at BeCode.
+
+Analyses facts and publishes one entry per day detailing his activities.
+
+Tags: becodeweek, jmbeas, jose-manuel-beas, desk-surfing, experience, experience-report, analysis
+
+[becodeweek-jmbeas]: http://blog.jmbeas.es/category/becodeweek/
+
