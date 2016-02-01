@@ -248,13 +248,6 @@ Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/
 
 {% endcomment %}
 
-{% comment %}
-	TODO - put FOOTNOTES at the end
-{% endcomment %}
-
-[^1]: ``What Is Functional Programming?``
-[^2]: many of these fragments are quotes or paraphrased quotes
-
 ## Test cases in inner classes with JUnit
 
 I've read [this answer][test-inner-class-junit] in stackoverflow about nested test runners in JUnit
@@ -771,4 +764,7 @@ Analyses facts and publishes one entry per day detailing his activities.
 Tags: becodeweek, jmbeas, jose-manuel-beas, desk-surfing, experience, experience-report, analysis
 
 [becodeweek-jmbeas]: http://blog.jmbeas.es/category/becodeweek/
+
+[^1]: ``What Is Functional Programming?``
+[^2]: many of these fragments are quotes or paraphrased quotes
 
