@@ -24,3 +24,13 @@ Tags: alberto-brandolini, software, slides, team-management, agile
 
 [software-and-what-comes]: http://lanyrd.com/2011/fromthefront/sgfgw/
 
+## Driving your DBA crazy in 3 easy steps
+
+I've read [these slides][ddd-in-the-db] about dealing with the knowledge that is present in the database, not expressed in ubiquitous language and cause of the low bus factor, by Alberto Brandolini
+
+Analogy between the movie The Shining and a model / entities / aggregates.
+
+Tags: ddd, model, entity, aggregate, team-management, dba, agile, ubiquitous-language, alberto-brandolini, bus-factor, slide
+
+[ddd-in-the-db]: http://lanyrd.com/2011/ddd-day-it/shzym
+
