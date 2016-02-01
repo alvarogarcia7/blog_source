@@ -4,7 +4,7 @@ set -e
 
 ########################### config ##########################################
 
-filename="source/_posts/2016-01-01-self-study-in-january-2016.markdown"
+filename="source/_posts/2016-02-01-self-study-in-february-2016.markdown"
 
 #############################################################################
 
