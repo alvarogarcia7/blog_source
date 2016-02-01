@@ -20,7 +20,7 @@ Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/
 
 I've read [these slides][software-and-what-comes] about creating software and asking questions to deliver value, by Alberto Brandolini
 
-Tags: alberto-brandolini, software, slides, team-management, agile
+Tags: alberto-brandolini, software, slide, team-management, agile
 
 [software-and-what-comes]: http://lanyrd.com/2011/fromthefront/sgfgw/
 
