@@ -242,12 +242,6 @@ categories:
   - zookeper
 ---
 
-{% comment %}  
-
-Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/README.markdown#authors-as-categories
-
-{% endcomment %}
-
 ## Test cases in inner classes with JUnit
 
 I've read [this answer][test-inner-class-junit] in stackoverflow about nested test runners in JUnit
