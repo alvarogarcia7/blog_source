@@ -113,6 +113,13 @@ $1-$2
 
 ### Get all the categories from a Self-Study aggregation
 
+(Note: in mac os x, the ``sed`` command works differently. You can start an ubuntu with this:
+
+```bash
+docker run -v $(pwd):/app -it ubuntu /bin/bash
+```
+)
+
 from all the markdown files:
 
 ```bash
