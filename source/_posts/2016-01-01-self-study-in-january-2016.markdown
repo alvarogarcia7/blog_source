@@ -430,7 +430,7 @@ Tags: adam-drake, chess, comparison, performance, cli-commands, unix, nix, hadoo
 
 I've read [this article][serializable-isolation-level] by Paul White about the serializable isolation level and how it is implemented in some databases.
 
-Tags: serializable, isolation level, Paul White, oracle, mssql, database, sql
+Tags: serializable, isolation level, paul-white, oracle, mssql, database, sql
 
 [serializable-isolation-level]: http://sqlperformance.com/2014/04/t-sql-queries/the-serializable-isolation-level
 
