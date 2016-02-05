@@ -34,3 +34,11 @@ Tags: ddd, model, entity, aggregate, team-management, dba, agile, ubiquitous-lan
 
 [ddd-in-the-db]: http://lanyrd.com/2011/ddd-day-it/shzym
 
+## Shorter Feedback is not Always Bett
+
+I've read [this note][feedback-loop-bett] from Kent Beck on why shorter feedback loops might not always be better. I.e., why some processes take time to set in and results are not observable until that time.
+
+Tags:  kent-beck, feedback-loops, open-question, analogy
+
+[feedback-loop-bett]: https://facebook.com/notes/kent-beck/shorter-feedback-is-not-always-bett/1097086386990891
+
