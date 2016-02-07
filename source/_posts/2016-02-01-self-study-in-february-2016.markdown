@@ -34,3 +34,11 @@ Tags: ddd, model, entity, aggregate, team-management, dba, agile, ubiquitous-lan
 
 [ddd-in-the-db]: http://lanyrd.com/2011/ddd-day-it/shzym
 
+## La Regla del Triple Check para ir a eventos
+
+I've read [this article][triple-check-rule] by David Bonilla about a rule to help you decide attendance to events, in Spanish
+
+Tags: rule, time-management, david-bonilla, event, spanish, triple-check
+
+[triple-check-rule]: http://www.bonillaware.com/regla-triple-check-para-ir-a-eventos
+
