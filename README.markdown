@@ -111,6 +111,16 @@ In this version the argument that changes all the time (the author or URL keywor
 $1-$2
 ```
 
+simplified:
+
+```
+([\w]) ()
+$1-
+```
+
+Note: the second set of parenthesis can be removed; they are left in-place for easing the copy-paste
+
+
 ### Get all the categories from a Self-Study aggregation
 
 (Note: in mac os x, the ``sed`` command works differently. You can start an ubuntu with this:
