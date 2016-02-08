@@ -68,3 +68,13 @@ Tags: charles-wetherell, alexander-demin, interview, book, etude, etudes-for-pro
 
 [interview-charles-wetherell]: http://demin.ws/blog/english/2012/08/25/interview-with-charles-wetherell/
 
+## How to fix Javascript… maybe
+
+I've read [this article][fixing-javascript] by Drew Hamlett about the lack of style guide for javascript and how this affects the adoption of the language and the sprout of similar libraries.
+
+Suggests the creation of a standard style guide for javascript.
+
+Tags: drew-hamlett, javascript, style-guide, analysis
+
+[fixing-javascript]: https://medium.com/@wob/how-to-fix-javascript-maybe-8857819bfa16
+
