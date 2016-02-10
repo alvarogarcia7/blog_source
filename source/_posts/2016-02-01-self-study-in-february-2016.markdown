@@ -78,3 +78,11 @@ Tags: drew-hamlett, javascript, style-guide, analysis
 
 [fixing-javascript]: https://medium.com/@wob/how-to-fix-javascript-maybe-8857819bfa16
 
+## Isomorphic JavaScript: #DevBeat Master Class
+
+I've read [these slides][isomorphic-js-brehm] by Spike Brehm on Isomorphic JavaScript and why it's important: initial pageload and speed, reducing effort and duplication, SEO (crawlability).
+
+Tags: isomorphic-javascript, isomorphism, javascript, seo, crawler, frontend, app, application, fat-client, fat-server, thin-client, thin-server, ria-spike-brehm, slide
+
+[isomorphic-js-brehm]: http://www.slideshare.net/spikebrehm/a-28174727
+
