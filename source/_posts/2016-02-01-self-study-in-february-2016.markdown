@@ -94,3 +94,13 @@ Tags: docker, brandon-annaday, open-ource, image, container, modulus
 
 [open-source-docker-images]: http://blog.modulus.io/open-sourcing-our-docker-images
 
+## growing up in an open source world
+
+I've read [this article][growing-up-based-on-style-guide] by Matt Hernandez where he explains that fixing the style guide can limit your creativity and how the software is written in enterprise and open-source environments.
+
+Also about how developers grow when exposed to different style guides.
+
+Tags: style-guide, matt-hernandez, creativity, dreyfus-model, enterprise, open-source, programming
+
+[growing-up-based-on-style-guide]: http://fiveisprime.me/2015/02/18/growing-up-in-open-source/
+
