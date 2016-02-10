@@ -104,3 +104,15 @@ Tags: style-guide, matt-hernandez, creativity, dreyfus-model, enterprise, open-s
 
 [growing-up-based-on-style-guide]: http://fiveisprime.me/2015/02/18/growing-up-in-open-source/
 
+## Hanlon's Razor and working with young engineers
+
+I've read [this article][hanlons-razor-and-understanding] by Matt Hernandez on the importance of understanding (and empathising) towards others' positions and worries.
+
+Cites the Hanlon Razor:
+
+ > Never attribute to malice that which is adequately explained by ignorance.
+
+ Tags:  hanlon-razor, empathy, team-management, ignorance, malice, matt-hernandez
+
+[hanlons-razor-and-understanding]: http://fiveisprime.me/2013/07/27/young-engineers/
+
