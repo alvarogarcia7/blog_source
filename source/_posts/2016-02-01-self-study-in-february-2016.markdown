@@ -124,3 +124,12 @@ Tags: sailsjs, ruby-on-rails, ror, framework, video, introduction, mvc, rest-api
 
 [intro-to-sails]: https://youtu.be/GK-tFvpIR7c
 
+## Node.js and hapi - creating a rest api
+
+I've read [this article][nodejs-and-hapi] about creating a REST API using [Hapi][hapijs], a nodejs framework. Written by Matt Hernandez
+
+Tags: matt-hernandez, rest-api, nodejs, hapi, framework
+
+[hapijs]: http://hapijs.com/
+[nodejs-and-hapi]: http://blog.modulus.io/nodejs-and-hapi-create-rest-api
+
