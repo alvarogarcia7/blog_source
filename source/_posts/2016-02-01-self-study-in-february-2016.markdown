@@ -116,3 +116,11 @@ Cites the Hanlon Razor:
 
 [hanlons-razor-and-understanding]: http://fiveisprime.me/2013/07/27/young-engineers/
 
+## Intro to sails.js
+
+I've watched [this video][intro-to-sails], an introduction to the sails.js framework: a realtime nodejs server for creating REST APIs, inspired by Ruby on Rails.
+
+Tags: sailsjs, ruby-on-rails, ror, framework, video, introduction, mvc, rest-api, realtime, nodejs, 
+
+[intro-to-sails]: https://youtu.be/GK-tFvpIR7c
+
