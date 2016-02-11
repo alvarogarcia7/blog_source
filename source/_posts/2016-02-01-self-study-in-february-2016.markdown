@@ -133,3 +133,13 @@ Tags: matt-hernandez, rest-api, nodejs, hapi, framework
 [hapijs]: http://hapijs.com/
 [nodejs-and-hapi]: http://blog.modulus.io/nodejs-and-hapi-create-rest-api
 
+## Introducing Pokedex.org: a progressive webapp for Pokémon fans
+
+I've read [this article][progressive-app-mobile] by Nolan Lawson about the challenge of having a 60 fps application on a mobile device, making it offline.
+
+Uses Angular 2, javascript 7, PouchDB as well as LocalForage for storage. All processing on WebWorkers, except for DOM manipulation.
+
+Tags: angular 2, javascript 7, angular, javascript, pouchdb, localforage, cloudant, 60fps, mobile, app, offline-first, offline, pokemon, api, nolan-lawson, web-worker, flip-technique, css, progressive, pokedex, svgomg, frontend
+
+[progressive-app-mobile]: http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
+
