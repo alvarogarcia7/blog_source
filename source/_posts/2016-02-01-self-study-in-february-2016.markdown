@@ -156,3 +156,13 @@ Tags: chris-allen, haskell, learning-to-learn, meta-learning, lambda-conf, talk
 [how-to-learn-haskell-allen]: https://www.youtube.com/watch?v=Bg9ccYzMbxc
 [treading-water]: https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750
 
+## Extreme Continuous Delivery - at Unruly
+
+I've read [these slides][ecd] about how the company Unruly does continuous delivery (CD), maximizing business value, minimizing time to market (TTM). Also describes how they do deployments and how to organize teams.
+
+References: Extreme Programming Explained (Beck), Continuous Delivery (Humble & Farley)
+
+Tags: silo, team-management, culture, continuous-delivery, tdd, nagdd, shared-infrastructure, acceptance-testing, module-testing, conway-law, cross-pollination, continuous-investment, slide
+
+[ecd]: http://www.xpdays.de/2014/downloads/002-extreme-continuous-delivery-at-unruly/cd_javaone.pdf
+
