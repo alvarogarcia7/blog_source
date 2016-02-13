@@ -143,3 +143,16 @@ Tags: angular 2, javascript 7, angular, javascript, pouchdb, localforage, clouda
 
 [progressive-app-mobile]: http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 
+## LambdaConf 2015 - How to Learn Haskell in Less Than 5 Years Chris Allen
+
+I've watched [this video][how-to-learn-haskell-allen] by Chris Allen on how to learn haskell, what are some common pitfalls while learning it and how learning and teaching (it) are different.
+
+Talks about his (with a coauthor) book, focused on not reducing the readers that make it to the end and, finally, increasing the amount of haskell users.
+
+References [this talk][treading-water] by Kmett.
+
+Tags: chris-allen, haskell, learning-to-learn, meta-learning, lambda-conf, talk
+
+[how-to-learn-haskell-allen]: https://www.youtube.com/watch?v=Bg9ccYzMbxc
+[treading-water]: https://yow.eventer.com/yow-2014-1222/stop-treading-water-learning-to-learn-by-edward-kmett-1750
+
