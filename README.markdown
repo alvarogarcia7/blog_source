@@ -40,7 +40,7 @@ THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 - Proudly display the 'Powered by Octopress' credit in the footer.
 - Add your site to the Wiki so we can watch the community grow.
 
-## Internal help
+## Internal help - [Flight Rules](https://github.com/k88hudson/git-flight-rules#what-are-flight-rules)
 
 ### Categories
 
