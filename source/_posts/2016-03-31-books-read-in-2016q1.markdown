@@ -31,6 +31,14 @@ Books that have entered the queue:
   * [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do) by Leonard Richardson, Mike Amundsen, Sam Ruby
   * [RESTful Web Services Cookbook](http://shop.oreilly.com/product/9780596801694.do) by Subbu Allamaraju
 
+Learning paths that have entered the queue:
+
+  * [Software Architecture Fundamentals](http://shop.oreilly.com/category/learning-path/software-architecture-fundamentals.do)
+  * [HTML5 Fundamentals](http://shop.oreilly.com/category/learning-path/html5-fundamentals.do)
+  * [Designing Web APIs](http://shop.oreilly.com/category/learning-path/designing-web-apis.do)
+  * [Dive Deeper into PHP Programming](http://shop.oreilly.com/category/learning-path/dive-deeper-php-programming.do)
+  * [Introduction to the Modern Front-End Web](http://shop.oreilly.com/category/learning-path/intro-modern-front-end-web.do)
+
 {% comment %}
 
 repository for WIP books:
