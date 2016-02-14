@@ -166,3 +166,11 @@ Tags: silo, team-management, culture, continuous-delivery, tdd, nagdd, shared-in
 
 [ecd]: http://www.xpdays.de/2014/downloads/002-extreme-continuous-delivery-at-unruly/cd_javaone.pdf
 
+## Building chat applications and robots for Skype
+
+I've read [this article][bots-for-skype] on building robots for skype. By Mikko Ohtamaa
+
+Tags: skype, robot, bot, mikko-ohtamaa, slack, integration, api
+
+[bots-for-skype]: https://opensourcehacker.com/2013/03/28/building-chat-applications-and-robots-for-skype/
+
