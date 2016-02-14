@@ -22,6 +22,7 @@ Books I've read this quarter[^1]:
 Books started, not yet finished (WIP):
 
   * Building microservices, by Sam Newman, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [building-microservices](/{{site.category_dir}}/building-microservices)
+  * [Why programmers work at night](https://leanpub.com/nightowls) by Swizec Teller
   
   
 Books I want to finish:
@@ -61,7 +62,6 @@ Books in the queue:
 
   * [Mature optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf), by Carlos Bueno
   * [XUnit Test Patterns](http://xunitpatterns.com/) by Gerard Meszaros
-  * [Why programmers work at night](https://leanpub.com/nightowls) by Swizec Teller
   * [Let Over Lambda](http://letoverlambda.com/) by Doug Hoyte
   * [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) by Kees Doets and Jan van Eijck
   * [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/) by Benjamin C. Pierce
