@@ -22,6 +22,7 @@ Books I've read this quarter[^1]:
 Books started, not yet finished (WIP):
 
   * Building microservices, by Sam Newman, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [building-microservices](/{{site.category_dir}}/building-microservices)
+  * [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do) by Leonard Richardson, Mike Amundsen, Sam Ruby
   
 Books I want to finish:
 
