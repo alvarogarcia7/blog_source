@@ -58,6 +58,22 @@ See an example in "Your first language":
 [here](../../../../2015/04/25/how-i-read-apprenticeship-patterns/) 
 ````
 
+### Upload
+
+the "uploads" folder is at 
+
+```
+/{{site.category_dir}}/../uploads/
+```
+
+The file ``source/blog/uploads/commit-with-two-persons.png`` is uploaded to:
+
+```
+/{{site.category_dir}}/../uploads/commit-with-two-persons.png
+```
+
+See an example at 2016-02-14-two-persons-involved-in-a-git-commit.markdown
+
 ### Footnotes
 
 See an example in "The purple wire"
