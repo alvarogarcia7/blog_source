@@ -174,3 +174,11 @@ Tags: skype, robot, bot, mikko-ohtamaa, slack, integration, api
 
 [bots-for-skype]: https://opensourcehacker.com/2013/03/28/building-chat-applications-and-robots-for-skype/
 
+## Why I never wrote down our company values
+
+I've read [this article][writing-down-company-values] by Mikael Cho on the subject of having company values, preaching or writing them down. Also, what happens when hard times come, regarding your values.
+
+Tags: mikael-cho, value, company-value, analogy
+
+[writing-down-company-values]: https://medium.com/swlh/why-i-never-wrote-down-our-company-values-8143520497e8
+
