@@ -182,3 +182,12 @@ Tags: mikael-cho, value, company-value, analogy
 
 [writing-down-company-values]: https://medium.com/swlh/why-i-never-wrote-down-our-company-values-8143520497e8
 
+## Interview with Jesper Louis Andersen about Erlang, Haskell, OCaml, Go, Idris, the JVM, software and protocol design 
+
+I've read this interview ([part 1][andersen-interview-1], [part 2][andersen-interview-2]) to Jesper Louis Andersen about a comparison of languages, what/why he uses them, and protocol design. Interviewed by Federico Carrone.
+
+Tags: Federico Carrone, erlang, interview, jesper andersen, Jesper Louis Andersen, Haskell, OCaml, Go, Idris, the JVM, protocol design , software design , language, functional programming, protocol, land of lisp, northern war
+
+[andersen-interview-1]: https://medium.com/this-is-not-a-monad-tutorial/interview-with-jesper-louis-andersen-about-erlang-haskell-ocaml-go-idris-the-jvm-software-and-b0de06440fbd
+[andersen-interview-2]: https://medium.com/this-is-not-a-monad-tutorial/interview-with-jesper-louis-andersen-about-erlang-haskell-ocaml-go-idris-the-jvm-software-and-5628fe591295
+
