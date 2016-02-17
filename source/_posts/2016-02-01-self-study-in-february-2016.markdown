@@ -184,7 +184,9 @@ Tags: mikael-cho, value, company-value, analogy
 
 ## Interview with Jesper Louis Andersen about Erlang, Haskell, OCaml, Go, Idris, the JVM, software and protocol design 
 
-I've read this interview ([part 1][andersen-interview-1], [part 2][andersen-interview-2]) to Jesper Louis Andersen about a comparison of languages, what/why he uses them, and protocol design. Interviewed by Federico Carrone.
+I've read this interview ([part 1][andersen-interview-1], [part 2][andersen-interview-2]) to Jesper Louis Andersen, interviewed by Federico Carrone. 
+
+The first part is about a comparison of languages, what/why he uses them, and protocol design. The second is more about the Erlang language, the BEAM VM, and some experiences.
 
 Tags: Federico Carrone, erlang, interview, jesper andersen, Jesper Louis Andersen, Haskell, OCaml, Go, Idris, the JVM, protocol design , software design , language, functional programming, protocol, land of lisp, northern war
 
