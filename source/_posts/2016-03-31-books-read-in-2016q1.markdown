@@ -31,6 +31,7 @@ Books that have entered the queue:
 
   * [RESTful Web APIs](http://shop.oreilly.com/product/0636920028468.do) by Leonard Richardson, Mike Amundsen, Sam Ruby
   * [RESTful Web Services Cookbook](http://shop.oreilly.com/product/9780596801694.do) by Subbu Allamaraju
+  * [Building Maintainable Software](https://www.sig.eu/en/building-maintainable-software) by Joost Visser
 
 Learning paths that have entered the queue:
 
