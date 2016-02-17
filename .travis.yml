@@ -7,7 +7,7 @@ branches:
   - source
 before_script:
 - git config --global user.name "alvarogarcia7 (via Travis CI)"
-- git config --global user.email "derecerca@gmail.com"
+- git config --global user.email "alvarogarcia7@users.noreply.github.com"
 - git remote set-url origin $REPO.git
 - if [ -z "$id_rsa_{1..23}" ]; then echo 'No $id_rsa_{1..23} found !' ; exit 1; fi
 - echo -n $id_rsa_{1..23} >> ~/.ssh/travis_rsa_64
