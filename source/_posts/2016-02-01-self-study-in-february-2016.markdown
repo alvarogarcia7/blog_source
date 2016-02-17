@@ -201,3 +201,11 @@ Tags: static site generator, hugo, go, octopress, ruby, jekyll, Nathan LeClaire,
 
 [migration-to-octopress]: http://nathanleclaire.com/blog/2014/12/22/migrating-to-hugo-from-octopress/
 
+## Dynamic Static Site Generators strategies
+
+I've read [this article][ssg-strategies] explaining what are static site generators, and an example with Jekyll. By Tim Nash
+
+Tags: tim-nash, static-site-generator, jekyll, strategy, explanation, comparison
+
+[ssg-strategies]: https://timnash.co.uk/dynamic-static-site-generators-strategies/
+
