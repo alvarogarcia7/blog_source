@@ -209,3 +209,11 @@ Tags: tim-nash, static-site-generator, jekyll, strategy, explanation, comparison
 
 [ssg-strategies]: https://timnash.co.uk/dynamic-static-site-generators-strategies/
 
+## Blog like a confused hacker
+
+I've read [this article][blog-confused-hacker] by Tim Nash on what tools he recomends for static site generation.
+
+Tags: tim-nash, static-site-generator, jekyll, hide, strategy, explanation, comparison, sublime, wordpress, amazon-s3, cdn
+
+[blog-confused-hacker]: https://timnash.co.uk/using-wordpress-static-site-generator/
+
