@@ -193,3 +193,11 @@ Tags: Federico Carrone, erlang, interview, jesper andersen, Jesper Louis Anderse
 [andersen-interview-1]: https://medium.com/this-is-not-a-monad-tutorial/interview-with-jesper-louis-andersen-about-erlang-haskell-ocaml-go-idris-the-jvm-software-and-b0de06440fbd
 [andersen-interview-2]: https://medium.com/this-is-not-a-monad-tutorial/interview-with-jesper-louis-andersen-about-erlang-haskell-ocaml-go-idris-the-jvm-software-and-5628fe591295
 
+## Migrating to Hugo From Octopress
+
+I've read [this guide][migration-to-octopress] by Nathan LeClaire on migrating the blog from Octopress to Hugo
+
+Tags: static site generator, hugo, go, octopress, ruby, jekyll, Nathan LeClaire, migration, blog, meta
+
+[migration-to-octopress]: http://nathanleclaire.com/blog/2014/12/22/migrating-to-hugo-from-octopress/
+
