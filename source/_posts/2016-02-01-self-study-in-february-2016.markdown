@@ -217,3 +217,11 @@ Tags: tim-nash, static-site-generator, jekyll, hide, strategy, explanation, comp
 
 [blog-confused-hacker]: https://timnash.co.uk/using-wordpress-static-site-generator/
 
+## Resolving the Frontend/Backend API Design Conflict
+
+I've read [this article][bff-1] that explains the "Backend for Frontend" (BFF) pattern, for solving the different needs of data depending on each device / client. By James Higginbotham 
+
+Tags: james-higginbotham, bff, pattern, backend-for-frontend, api, soa, microservice, frontend, backend, architecture
+
+[bff-1]: http://launchany.com/resolving-the-frontendbackend-api-design-conflict/
+
