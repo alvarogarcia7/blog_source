@@ -225,3 +225,11 @@ Tags: james-higginbotham, bff, pattern, backend-for-frontend, api, soa, microser
 
 [bff-1]: http://launchany.com/resolving-the-frontendbackend-api-design-conflict/
 
+## What If We Forget To Write The Tests?
+
+I've read [this article][forget-to-write-tests] by J. B. Rainsberger on the trust issues related to starting to use a new methodology (TDD in this case) and how to see what impacts it might have in your day to day.
+
+Tags: j-b rainsberger, j-brains, rainsberger, tdd, motivation, team-management
+
+[forget-to-write-tests]: http://us2.campaign-archive2.com/?u=80ca60ec48ef77dfaa1f38943&id=f70f14b644&e=4a925444f9
+
