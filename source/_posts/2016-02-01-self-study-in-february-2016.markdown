@@ -233,3 +233,11 @@ Tags: j-b rainsberger, j-brains, rainsberger, tdd, motivation, team-management
 
 [forget-to-write-tests]: http://us2.campaign-archive2.com/?u=80ca60ec48ef77dfaa1f38943&id=f70f14b644&e=4a925444f9
 
+## API microservices, the Unix philosophy, and the Richardson Maturity Model - a practical perspective
+
+I've read [this article][us-philosophy] by Chris Hart on why startups and companies alike should be careful when choosing th latest technology and how this applies to microservices.
+
+Tags: microservice, chris-hart, startup, analysis, company, technical-debt, bounded-context, ddd, rest-api
+
+[us-philosophy]: https://medium.com/@chrstphrhrt/microservices-the-unix-philosophy-and-the-richardson-maturity-model-425abed44826
+
