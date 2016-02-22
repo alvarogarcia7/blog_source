@@ -254,3 +254,11 @@ Tags: drucker, thing-right, right-thing, sebastian-ferrari, system-thinking, rus
 [effective-programming]: https://medium.com/@sebas5384/effective-programming-d7e5bb2f3b80
 [ackoff-systems-thinking]: https://youtu.be/OqEeIG8aPPk
 
+## Learning how to learn
+
+I've read [this article][learning-to-learn-kyle] by James Kyle about the "how to learn" as one important skill for programmers and how having the solution at a few keystrokes limits / handicaps this ability.
+
+Tags: programmer, learn-to-learn, james-kyle, stack-overflow, skill
+
+[learning-to-learn-kyle]: https://medium.com/@thejameskyle/learning-how-to-learn-7f04d6f42c1e
+
