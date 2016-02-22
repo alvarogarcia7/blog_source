@@ -241,3 +241,16 @@ Tags: microservice, chris-hart, startup, analysis, company, technical-debt, boun
 
 [us-philosophy]: https://medium.com/@chrstphrhrt/microservices-the-unix-philosophy-and-the-richardson-maturity-model-425abed44826
 
+## Effective programming
+
+I've read [this article][effective-programming] by Sebastian Ferrari on the importance of clean code, systems thinking and functional programming.
+
+Specifies the important difference between effectiveness and efficiency.
+
+Links to this talk by [Russ Ackoff][ackoff-systems-thinking]. States the difference between "the right thing" and "the thing right", by Drucker.
+
+Tags: drucker, thing-right, right-thing, sebastian-ferrari, system-thinking, russ-ackoff, video, ted, difference, clean-code, functional-programming
+
+[effective-programming]: https://medium.com/@sebas5384/effective-programming-d7e5bb2f3b80
+[ackoff-systems-thinking]: https://youtu.be/OqEeIG8aPPk
+
