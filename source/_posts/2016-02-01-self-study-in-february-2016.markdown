@@ -262,3 +262,11 @@ Tags: programmer, learn-to-learn, james-kyle, stack-overflow, skill
 
 [learning-to-learn-kyle]: https://medium.com/@thejameskyle/learning-how-to-learn-7f04d6f42c1e
 
+## Why do some functional programmers criticize design patterns in OOP languages as a sign of language deficiency, while Monad is also a design pattern?
+
+I've read [this answer][comparing-functional-to-oo-patterns] by Edward Kmett comparing the design patterns in OOP to the design patterns in functional languages.
+
+Tags: functional-language, object-oriented-language, edward-kmett, oop, pattern, monad, interface, quora, answer
+
+[comparing-functional-to-oo-patterns]: https://www.quora.com/Why-do-some-functional-programmers-criticize-design-patterns-in-OOP-languages-as-a-sign-of-language-deficiency-while-Monad-is-also-a-design-pattern/answer/Edward-Kmett?srid=hVnO&share=12410d1e
+
