@@ -270,3 +270,11 @@ Tags: functional-language, object-oriented-language, edward-kmett, oop, pattern,
 
 [comparing-functional-to-oo-patterns]: https://www.quora.com/Why-do-some-functional-programmers-criticize-design-patterns-in-OOP-languages-as-a-sign-of-language-deficiency-while-Monad-is-also-a-design-pattern/answer/Edward-Kmett?srid=hVnO&share=12410d1e
 
+## Should We Even Debate Refactoring With Stakeholders?
+
+I've read [this article][increase-decrease-trust] by J. B. Rainsberger on the power balance between stakeholders and programmers and how it can be inclined to a 'more trust' / 'less trust' by following some actions. The analogy is to a trade you cannot understand, therefore you have to hope that the taken decisions are in your best interest.
+
+Tags: j-b rainsberger, j-brains, rainsberger, refactor, business-need, communication, stakeholder
+
+[increase-decrease-trust]: http://us2.campaign-archive2.com/?u=80ca60ec48ef77dfaa1f38943&id=215f7f649b&e=4a925444f9
+
