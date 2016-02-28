@@ -290,3 +290,18 @@ Tags: j-b-rainsberger, j-brains, rainsberger, refactor, business-need, design, o
 
 [struggle-business-programmers]: http://blog.thecodewhisperer.com/permalink/the-eternal-struggle-between-business-and-programmers
 
+## Turning code to cash — How to make money as a Web Developer and live to tell the tale.
+
+I've read [this article][code-into-cash] by Kurt Rohlandt with a list of items to check while dealing with clients as a freelancer:
+
+  * Nothing is simple
+  * Know your skill set — and let your client know it
+  * Be clear about what they are buying
+  * Learn to use the best tool for the job
+  * To your client you’re more than just a developer
+  * Sign off your jobs
+
+Tags: freelancer, kurt-rohlandt, list, tip, client
+
+[code-into-cash]: https://medium.com/@kurtrohlandt/turning-code-to-cash-how-to-make-money-as-a-web-developer-and-live-to-tell-the-tale-f5eedc557b3e
+
