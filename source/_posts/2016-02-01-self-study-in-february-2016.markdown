@@ -278,3 +278,15 @@ Tags: j-b rainsberger, j-brains, rainsberger, refactor, business-need, communica
 
 [increase-decrease-trust]: http://us2.campaign-archive2.com/?u=80ca60ec48ef77dfaa1f38943&id=215f7f649b&e=4a925444f9
 
+## The Eternal Struggle Between Business and Programmers
+
+I've read [this article][struggle-business-programmers] by J. B. Rainsberger on the discussion between business ('we want more features, now') and the programmers ('we want more refactoring, now'). Concludes that both players need each other, in a symbiotic fashion, to keep their jobs at the company.
+
+He suggests that Scrum cannot work without the XP practices and that we need to refactor aggressively after having finished our initial design, to keep the costs down. In fact, agreeing with both parts in this discussion.
+
+References one of his own videos, at Oredev'13, "Fundamental Theorem of Agile Software Development", where he describes the relationship between accidental / essential complexity in the cost of a feature, attributing most of it to accidental ('we're not good at our jobs') and describing the need for more design / refactor after the initial design.
+
+Tags: j-b-rainsberger, j-brains, rainsberger, refactor, business-need, design, oredev, talk, agile, xp, scrum, software-development, accidental-complexity, essential-complexity, mythical-man-month
+
+[struggle-business-programmers]: http://blog.thecodewhisperer.com/permalink/the-eternal-struggle-between-business-and-programmers
+
