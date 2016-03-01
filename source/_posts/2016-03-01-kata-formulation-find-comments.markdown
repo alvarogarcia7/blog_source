@@ -20,5 +20,8 @@ Please do not read ahead, just read the current assignment, do it, then read the
 
 ## Samples
 
+The code (both project and samples) can be [found here](https://github.com/alvarogarcia7/kata-formulation-find-comments)
+
 ## Restrictions
 
+When the problem is finished (you can attack in your preferred order), there must be an executable jar with some parameters to process the current folder with the 'working modes' specified above.
