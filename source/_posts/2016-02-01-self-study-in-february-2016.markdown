@@ -9,13 +9,6 @@ categories:
   - 2016
   - read
   - 60fps
-  - FedericoCarrone
-  - Go
-  - Haskell
-  - Idris
-  - JesperLouisAndersen
-  - NathanLeClaire
-  - OCaml
   - ability
   - acceptance-testing
   - accidental-complexity
@@ -27,7 +20,7 @@ categories:
   - analogy
   - analysis
   - angular
-  - angular2
+  - angular-2
   - answer
   - api
   - app
@@ -84,6 +77,7 @@ categories:
   - explanation
   - fat-client
   - fat-server
+  - federico-carrone
   - feedback-loops
   - flip-technique
   - framework
@@ -91,13 +85,13 @@ categories:
   - frontend
   - functional-language
   - functional-programming
-  - functionalprogramming
   - go
   - hanlon-razor
   - hapi
   - haskell
   - hide
   - hugo
+  - idris
   - ignorance
   - image
   - integration
@@ -108,17 +102,17 @@ categories:
   - isomorphism
   - j-b-rainsberger
   - j-brains
-  - j-brainsberger
   - james-higginbotham
   - james-kyle
   - javascript
-  - javascript7
+  - javascript-7
   - jekyll
-  - jesperandersen
+  - jesper-andersen
+  - jesper-louis-andersen
   - kent-beck
   - kurt-rohlandt
   - lambda-conf
-  - landoflisp
+  - land-of-lisp
   - language
   - learn-to-learn
   - learning-to-learn
@@ -141,10 +135,12 @@ categories:
   - mvc
   - mythical-man-month
   - nagdd
+  - nathan-leclaire
   - nodejs
   - nolan-lawson
-  - northernwar
+  - northern-war
   - object-oriented-language
+  - ocaml
   - octopress
   - offline
   - offline-first
@@ -162,7 +158,7 @@ categories:
   - programming
   - progressive
   - protocol
-  - protocoldesign 
+  - protocol-design
   - quora
   - rainsberger
   - realtime
@@ -188,14 +184,13 @@ categories:
   - slide
   - soa
   - software
+  - software-design
   - software-development
-  - softwaredesign 
   - spanish
   - stack-overflow
   - stakeholder
   - startup
   - static-site-generator
-  - staticsitegenerator
   - strategy
   - style-guide
   - sublime
@@ -206,7 +201,7 @@ categories:
   - team-management
   - technical-debt
   - ted
-  - theJVM
+  - the-jvm
   - thin-client
   - thin-server
   - thing-right
@@ -220,7 +215,6 @@ categories:
   - web-worker
   - wordpress
   - xp
-
 ---
 
 ## Software and all that comes with it
