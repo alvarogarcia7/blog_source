@@ -14,8 +14,7 @@ categories:
 ## TortoiseGit part
 
   * Go to a repo
-  * right button
-  * Settings
+  * right button, Settings
   * Git -> Credential
   * Add a creadential
   * Config type: global
