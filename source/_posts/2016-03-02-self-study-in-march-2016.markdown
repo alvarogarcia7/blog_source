@@ -10,3 +10,11 @@ categories:
   - read
 ---
 
+## Learning Programming Isn’t That Hard, Deep Work Is Hard
+
+I've read [this article][deep-work-shallow-work] by Benedict Fritz on two types of work (i.e., deep and shallow) and how programming is of the deep type. He links the difficulty of learning to program to the difficulty of practicing deep work.
+
+Tags: analogy, benedict-fritz, deep-work, shallow-work, learn-to-program, psychology
+
+[deep-work-shallow-work]: https://medium.com/@benedictfritz/learning-programming-isn-t-that-hard-deep-work-is-hard-40a4cf3104f4
+
