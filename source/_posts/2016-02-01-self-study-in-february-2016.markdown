@@ -223,12 +223,6 @@ categories:
 
 ---
 
-{% comment %}  
-
-Authors as categories: https://github.com/alvarogarcia7/blog_source/blob/source/README.markdown#authors-as-categories
-
-{% endcomment %}
-
 ## Software and all that comes with it
 
 I've read [these slides][software-and-what-comes] about creating software and asking questions to deliver value, by Alberto Brandolini
