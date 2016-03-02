@@ -33,4 +33,4 @@ Open the ``$REPO/.git/config`` and add
 	helper = wincred
 ```
 
-Remote git operations should not ask for a credentials anymore
+Remote git operations should not ask for credentials anymore
