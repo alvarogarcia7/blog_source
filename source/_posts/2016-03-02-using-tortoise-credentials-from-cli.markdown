@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using tortoise credentials in git CLI"
+title: "Tip: using tortoise credentials in git CLI"
 date: 2016-03-02 12:41:28 +0100
 comments: true
 categories: 
