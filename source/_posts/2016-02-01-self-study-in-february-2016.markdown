@@ -346,7 +346,7 @@ I've read [this article][progressive-app-mobile] by Nolan Lawson about the chall
 
 Uses Angular 2, javascript 7, PouchDB as well as LocalForage for storage. All processing on WebWorkers, except for DOM manipulation.
 
-Tags: angular 2, javascript 7, angular, javascript, pouchdb, localforage, cloudant, 60fps, mobile, app, offline-first, offline, pokemon, api, nolan-lawson, web-worker, flip-technique, css, progressive, pokedex, svgomg, frontend
+Tags: angular-2, javascript-7, angular, javascript, pouchdb, localforage, cloudant, 60fps, mobile, app, offline-first, offline, pokemon, api, nolan-lawson, web-worker, flip-technique, css, progressive, pokedex, svgomg, frontend
 
 [progressive-app-mobile]: http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org
 
@@ -395,7 +395,7 @@ I've read this interview ([part 1][andersen-interview-1], [part 2][andersen-inte
 
 The first part is about a comparison of languages, what/why he uses them, and protocol design. The second is more about the Erlang language, the BEAM VM, and some experiences.
 
-Tags: Federico Carrone, erlang, interview, jesper andersen, Jesper Louis Andersen, Haskell, OCaml, Go, Idris, the JVM, protocol design , software design , language, functional programming, protocol, land of lisp, northern war
+Tags: federico-carrone, erlang, interview, jesper-andersen, jesper-louis-andersen, haskell, ocaml, go, idris, the-jvm, protocol-design, software-design, language, functional-programming, protocol, land-of-lisp, northern-war
 
 [andersen-interview-1]: https://medium.com/this-is-not-a-monad-tutorial/interview-with-jesper-louis-andersen-about-erlang-haskell-ocaml-go-idris-the-jvm-software-and-b0de06440fbd
 [andersen-interview-2]: https://medium.com/this-is-not-a-monad-tutorial/interview-with-jesper-louis-andersen-about-erlang-haskell-ocaml-go-idris-the-jvm-software-and-5628fe591295
@@ -404,7 +404,7 @@ Tags: Federico Carrone, erlang, interview, jesper andersen, Jesper Louis Anderse
 
 I've read [this guide][migration-to-octopress] by Nathan LeClaire on migrating the blog from Octopress to Hugo
 
-Tags: static site generator, hugo, go, octopress, ruby, jekyll, Nathan LeClaire, migration, blog, meta
+Tags: static-site-generator, hugo, go, octopress, ruby, jekyll, nathan-leclaire, migration, blog, meta
 
 [migration-to-octopress]: http://nathanleclaire.com/blog/2014/12/22/migrating-to-hugo-from-octopress/
 
