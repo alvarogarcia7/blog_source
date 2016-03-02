@@ -262,3 +262,46 @@ Tags: programmer, learn-to-learn, james-kyle, stack-overflow, skill
 
 [learning-to-learn-kyle]: https://medium.com/@thejameskyle/learning-how-to-learn-7f04d6f42c1e
 
+## Why do some functional programmers criticize design patterns in OOP languages as a sign of language deficiency, while Monad is also a design pattern?
+
+I've read [this answer][comparing-functional-to-oo-patterns] by Edward Kmett comparing the design patterns in OOP to the design patterns in functional languages.
+
+Tags: functional-language, object-oriented-language, edward-kmett, oop, pattern, monad, interface, quora, answer
+
+[comparing-functional-to-oo-patterns]: https://www.quora.com/Why-do-some-functional-programmers-criticize-design-patterns-in-OOP-languages-as-a-sign-of-language-deficiency-while-Monad-is-also-a-design-pattern/answer/Edward-Kmett?srid=hVnO&share=12410d1e
+
+## Should We Even Debate Refactoring With Stakeholders?
+
+I've read [this article][increase-decrease-trust] by J. B. Rainsberger on the power balance between stakeholders and programmers and how it can be inclined to a 'more trust' / 'less trust' by following some actions. The analogy is to a trade you cannot understand, therefore you have to hope that the taken decisions are in your best interest.
+
+Tags: j-b rainsberger, j-brains, rainsberger, refactor, business-need, communication, stakeholder
+
+[increase-decrease-trust]: http://us2.campaign-archive2.com/?u=80ca60ec48ef77dfaa1f38943&id=215f7f649b&e=4a925444f9
+
+## The Eternal Struggle Between Business and Programmers
+
+I've read [this article][struggle-business-programmers] by J. B. Rainsberger on the discussion between business ('we want more features, now') and the programmers ('we want more refactoring, now'). Concludes that both players need each other, in a symbiotic fashion, to keep their jobs at the company.
+
+He suggests that Scrum cannot work without the XP practices and that we need to refactor aggressively after having finished our initial design, to keep the costs down. In fact, agreeing with both parts in this discussion.
+
+References one of his own videos, at Oredev'13, "Fundamental Theorem of Agile Software Development", where he describes the relationship between accidental / essential complexity in the cost of a feature, attributing most of it to accidental ('we're not good at our jobs') and describing the need for more design / refactor after the initial design.
+
+Tags: j-b-rainsberger, j-brains, rainsberger, refactor, business-need, design, oredev, talk, agile, xp, scrum, software-development, accidental-complexity, essential-complexity, mythical-man-month
+
+[struggle-business-programmers]: http://blog.thecodewhisperer.com/permalink/the-eternal-struggle-between-business-and-programmers
+
+## Turning code to cash — How to make money as a Web Developer and live to tell the tale.
+
+I've read [this article][code-into-cash] by Kurt Rohlandt with a list of items to check while dealing with clients as a freelancer:
+
+  * Nothing is simple
+  * Know your skill set — and let your client know it
+  * Be clear about what they are buying
+  * Learn to use the best tool for the job
+  * To your client you’re more than just a developer
+  * Sign off your jobs
+
+Tags: freelancer, kurt-rohlandt, list, tip, client
+
+[code-into-cash]: https://medium.com/@kurtrohlandt/turning-code-to-cash-how-to-make-money-as-a-web-developer-and-live-to-tell-the-tale-f5eedc557b3e
+
