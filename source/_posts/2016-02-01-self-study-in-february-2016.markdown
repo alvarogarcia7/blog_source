@@ -8,6 +8,219 @@ categories:
   - February
   - 2016
   - read
+  - 60fps
+  - FedericoCarrone
+  - Go
+  - Haskell
+  - Idris
+  - JesperLouisAndersen
+  - NathanLeClaire
+  - OCaml
+  - ability
+  - acceptance-testing
+  - accidental-complexity
+  - aggregate
+  - agile
+  - alberto-brandolini
+  - alexander-demin
+  - amazon-s3
+  - analogy
+  - analysis
+  - angular
+  - angular2
+  - answer
+  - api
+  - app
+  - application
+  - architecture
+  - backend
+  - backend-for-frontend
+  - bff
+  - blog
+  - book
+  - bot
+  - bounded-context
+  - brandon-annaday
+  - bus-factor
+  - business-need
+  - cdn
+  - charles-wetherell
+  - chris-allen
+  - chris-hart
+  - clean-code
+  - client
+  - cloudant
+  - communication
+  - company
+  - company-value
+  - comparison
+  - container
+  - continuous-delivery
+  - continuous-investment
+  - conway-law
+  - crawler
+  - creativity
+  - cross-pollination
+  - css
+  - culture
+  - david-bonilla
+  - dba
+  - ddd
+  - design
+  - difference
+  - docker
+  - drew-hamlett
+  - dreyfus-model
+  - drucker
+  - edward-kmett
+  - empathy
+  - enterprise
+  - entity
+  - erlang
+  - essential-complexity
+  - etude
+  - etudes-for-programmers
+  - event
+  - explanation
+  - fat-client
+  - fat-server
+  - feedback-loops
+  - flip-technique
+  - framework
+  - freelancer
+  - frontend
+  - functional-language
+  - functional-programming
+  - functionalprogramming
+  - go
+  - hanlon-razor
+  - hapi
+  - haskell
+  - hide
+  - hugo
+  - ignorance
+  - image
+  - integration
+  - interface
+  - interview
+  - introduction
+  - isomorphic-javascript
+  - isomorphism
+  - j-b-rainsberger
+  - j-brains
+  - j-brainsberger
+  - james-higginbotham
+  - james-kyle
+  - javascript
+  - javascript7
+  - jekyll
+  - jesperandersen
+  - kent-beck
+  - kurt-rohlandt
+  - lambda-conf
+  - landoflisp
+  - language
+  - learn-to-learn
+  - learning-to-learn
+  - list
+  - localforage
+  - malice
+  - matt-hernandez
+  - meta
+  - meta-learning
+  - microservice
+  - migration
+  - mikael-cho
+  - mikko-ohtamaa
+  - mobile
+  - model
+  - module-testing
+  - modulus
+  - monad
+  - motivation
+  - mvc
+  - mythical-man-month
+  - nagdd
+  - nodejs
+  - nolan-lawson
+  - northernwar
+  - object-oriented-language
+  - octopress
+  - offline
+  - offline-first
+  - oop
+  - open-ource
+  - open-question
+  - open-source
+  - oredev
+  - pattern
+  - pokedex
+  - pokemon
+  - pouchdb
+  - practice
+  - programmer
+  - programming
+  - progressive
+  - protocol
+  - protocoldesign 
+  - quora
+  - rainsberger
+  - realtime
+  - refactor
+  - rest-api
+  - ria-spike-brehm
+  - right-thing
+  - robot
+  - ror
+  - ruby
+  - ruby-on-rails
+  - rule
+  - russ-ackoff
+  - sailsjs
+  - scrum
+  - sebastian-ferrari
+  - seo
+  - shared-infrastructure
+  - silo
+  - skill
+  - skype
+  - slack
+  - slide
+  - soa
+  - software
+  - software-development
+  - softwaredesign 
+  - spanish
+  - stack-overflow
+  - stakeholder
+  - startup
+  - static-site-generator
+  - staticsitegenerator
+  - strategy
+  - style-guide
+  - sublime
+  - svgomg
+  - system-thinking
+  - talk
+  - tdd
+  - team-management
+  - technical-debt
+  - ted
+  - theJVM
+  - thin-client
+  - thin-server
+  - thing-right
+  - tim-nash
+  - time-management
+  - tip
+  - triple-check
+  - ubiquitous-language
+  - value
+  - video
+  - web-worker
+  - wordpress
+  - xp
+
 ---
 
 {% comment %}  
@@ -229,7 +442,7 @@ Tags: james-higginbotham, bff, pattern, backend-for-frontend, api, soa, microser
 
 I've read [this article][forget-to-write-tests] by J. B. Rainsberger on the trust issues related to starting to use a new methodology (TDD in this case) and how to see what impacts it might have in your day to day.
 
-Tags: j-b rainsberger, j-brains, rainsberger, tdd, motivation, team-management
+Tags: j-b-rainsberger, j-brains, rainsberger, tdd, motivation, team-management
 
 [forget-to-write-tests]: http://us2.campaign-archive2.com/?u=80ca60ec48ef77dfaa1f38943&id=f70f14b644&e=4a925444f9
 
@@ -274,7 +487,7 @@ Tags: functional-language, object-oriented-language, edward-kmett, oop, pattern,
 
 I've read [this article][increase-decrease-trust] by J. B. Rainsberger on the power balance between stakeholders and programmers and how it can be inclined to a 'more trust' / 'less trust' by following some actions. The analogy is to a trade you cannot understand, therefore you have to hope that the taken decisions are in your best interest.
 
-Tags: j-b rainsberger, j-brains, rainsberger, refactor, business-need, communication, stakeholder
+Tags: j-b-rainsberger, j-brains, rainsberger, refactor, business-need, communication, stakeholder
 
 [increase-decrease-trust]: http://us2.campaign-archive2.com/?u=80ca60ec48ef77dfaa1f38943&id=215f7f649b&e=4a925444f9
 
