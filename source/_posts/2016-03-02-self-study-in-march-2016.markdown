@@ -18,3 +18,13 @@ Tags: analogy, benedict-fritz, deep-work, shallow-work, learn-to-program, psycho
 
 [deep-work-shallow-work]: https://medium.com/@benedictfritz/learning-programming-isn-t-that-hard-deep-work-is-hard-40a4cf3104f4
 
+## BeCodeWeek by Yeray Darias
+
+I've read [this category of posts][becodeweek-yeray] by Yeray Darias about his BeCodeWeek, a desk-surfing experience at BeCode.
+
+Publishes one entry per day detailing his activities: working for an open-source library, discussions, etc
+
+Tags: becodeweek, yeray-darias, desk-surfing, experience, experience-report, analysis
+
+[becodeweek-yeray]: http://developerscookbook.blogspot.com.es/search/label/desk-surfing
+
