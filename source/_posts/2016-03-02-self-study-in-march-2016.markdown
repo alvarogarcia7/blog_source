@@ -10,6 +10,8 @@ categories:
   - read
 ---
 
+[^1]: Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design by Yourdon and Constantine.
+
 ## Learning Programming Isn’t That Hard, Deep Work Is Hard
 
 I've read [this article][deep-work-shallow-work] by Benedict Fritz on two types of work (i.e., deep and shallow) and how programming is of the deep type. He links the difficulty of learning to program to the difficulty of practicing deep work.
@@ -47,4 +49,30 @@ Serves the purpose of adjusting the aim of the cannon to better reach the target
 Tags: analogy, metaphor, warfare, management
 
 [tracer-bullets]: http://c2.com/cgi/wiki?TracerBullets
+
+## Cohesion - the cornerstone of software design
+
+I've read [this article][cohesion-in-software-design] by Sandro Mancuso on the topic of cohesion. Describes the 7 types of cohesion, as described in Structured Design[^1], from worst to best:
+
+ * Coincidental cohesion
+ * Logical cohesion
+ * Temporal cohesion
+ * Procedural cohesion
+ * Communicational/informational cohesion
+ * Sequential cohesion
+ * Functional cohesion
+
+and about Design-Level Cohesion:
+
+  * Coincidental relation (R1)
+  * Conditional relation (R2)
+  * Iterative relation (R3)
+  * Communication relation (R4)
+  * Sequential relation (R5)
+  * Functional (R6)
+
+
+Tags: cohesion, codurance, edward-yourdon, larry-constantine, list, sandro-mancuso, software-design, design-level-cohesion, smc-cohesion, dlc-cohesion
+
+[cohesion-in-software-design]: http://codurance.com/2016/03/03/cohesion-cornerstone-software-design/
 
