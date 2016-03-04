@@ -28,3 +28,23 @@ Tags: becodeweek, yeray-darias, desk-surfing, experience, experience-report, ana
 
 [becodeweek-yeray]: http://developerscookbook.blogspot.com.es/search/label/desk-surfing
 
+## BeCodeWeek by Yeray Darias
+
+I've read [this category of posts][becodeweek-yeray] by Yeray Darias about his BeCodeWeek, a desk-surfing experience at BeCode.
+
+Publishes one entry per day detailing his activities: working for an open-source library, discussions, etc
+
+Tags: becodeweek, yeray-darias, desk-surfing, experience, experience-report, analysis
+
+[becodeweek-yeray]: http://developerscookbook.blogspot.com.es/search/label/desk-surfing
+
+## Tracer Bullets
+
+I've read [this page][tracer-bullets] about tracer bullets, an analogy from the military warfare to a software project.
+
+Serves the purpose of adjusting the aim of the cannon to better reach the target.
+
+Tags: analogy, metaphor, warfare, management
+
+[tracer-bullets]: http://c2.com/cgi/wiki?TracerBullets
+
