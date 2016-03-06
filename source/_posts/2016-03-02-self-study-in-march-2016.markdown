@@ -88,3 +88,11 @@ Tags: martin-fowler, automation, process, perfection, internalizing, technique, 
 
 [freq-reduces-complexity]: http://martinfowler.com/bliki/FrequencyReducesDifficulty.html
 
+## Lambdas are confusing
+
+I've watched this video where Coman Hamilton from JAXenter interviews Dr. Heinz Kabutz about Java's lambda syntax. Cites the problem with exceptions, generics, method overloading.
+
+Tags: java, lambda, coman-hamilton, jaxenter, heinz-kabutz, problem   
+
+https://www.youtube.com/watch?v=WcHom1eVhi4&feature=youtu.be
+
