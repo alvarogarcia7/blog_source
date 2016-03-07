@@ -76,3 +76,11 @@ Tags: cohesion, codurance, edward-yourdon, larry-constantine, list, sandro-mancu
 
 [cohesion-in-software-design]: http://codurance.com/2016/03/03/cohesion-cornerstone-software-design/
 
+## Etsy CTO Q&A: We Need Software Engineers, Not Developers
+
+I've read [this interview][engineers-vs-developers] with John Allspaw, where they explain the onboarding experience for new hires at Etsy, the DevOps philosophy and the need for engineering skills, more than developer skills. This can be exemplified in the need to know more, defining the boundaries of your job and finding the right tool for the job.
+
+Tags: devops, interview, q-and-a, john-allspaw, etsy, onboarding, hire, team-management, deploy
+
+[engineers-vs-developers]: http://thenewstack.io/etsy-cto-qa-need-software-engineers-not-developers/
+
