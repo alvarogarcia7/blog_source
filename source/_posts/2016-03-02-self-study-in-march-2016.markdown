@@ -84,3 +84,23 @@ Tags: devops, interview, q-and-a, john-allspaw, etsy, onboarding, hire, team-man
 
 [engineers-vs-developers]: http://thenewstack.io/etsy-cto-qa-need-software-engineers-not-developers/
 
+## Frequency Reduces Difficulty
+
+I've read [this article][freq-reduces-complexity] by Martin Fowler on why we should repeat things that are difficult for us: 
+
+  * Perfectioning the technique
+  * Internalizing the details
+  * Easing its automation
+
+Tags: martin-fowler, automation, process, perfection, internalizing, technique, detail, process-theory, agile
+
+[freq-reduces-complexity]: http://martinfowler.com/bliki/FrequencyReducesDifficulty.html
+
+## Lambdas are confusing
+
+I've watched this video where Coman Hamilton from JAXenter interviews Dr. Heinz Kabutz about Java's lambda syntax. Cites the problem with exceptions, generics, method overloading.
+
+Tags: java, lambda, coman-hamilton, jaxenter, heinz-kabutz, problem   
+
+https://www.youtube.com/watch?v=WcHom1eVhi4&feature=youtu.be
+
