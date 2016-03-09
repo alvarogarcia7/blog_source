@@ -104,3 +104,17 @@ Tags: java, lambda, coman-hamilton, jaxenter, heinz-kabutz, problem
 
 https://www.youtube.com/watch?v=WcHom1eVhi4&feature=youtu.be
 
+## El full-stack developer en 2016
+
+I've read [this article][fullstack-in-2016] by Jose Ignacio Andrés about the job descriptions of 2016.
+
+> El principal valor de un full-stack es poder simplificar el trabajo a los demás miembros del equipo.
+
+My translation:
+
+> The main value of a full-stack developer is to be able to simplify other teammates' work
+
+Tags: teamwork, teammate, fullstack, simplification, work, team-management, jose andres
+
+[fullstack-in-2016]: http://www.developerdepueblo.com/development/full-stack-developer-2016/
+
