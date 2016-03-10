@@ -118,3 +118,11 @@ Tags: teamwork, teammate, fullstack, simplification, work, team-management, jose
 
 [fullstack-in-2016]: http://www.developerdepueblo.com/development/full-stack-developer-2016/
 
+## I am a software craftsman
+
+I've read [this article][am-a-swcraft] by Daniel Irvine about calling yourself a craftsman or not. He says that if you adhere to their values, you should.
+
+Tags: craftsmanship, label, daniel-irvine, craftsman, group-belonging
+
+[am-a-swcraft]: http://www.dirv.me/i-am-a-software-craftsman/index.html
+
