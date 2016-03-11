@@ -126,3 +126,22 @@ Tags: craftsmanship, label, daniel-irvine, craftsman, group-belonging
 
 [am-a-swcraft]: http://www.dirv.me/i-am-a-software-craftsman/index.html
 
+##  Teaching Programming Languages in a Post-Linnaean Age
+
+I've read [this paper][teaching-pls-in-pl-age] by Shriram Krishnamurthi where he explains the need for books like [PLAI][plai]: 
+
+  * lack of paradigms in new languages, and its separation (or lack of)
+  * design of languages cheaper and cheaper these days
+  * rigor level in publications
+  * inductive and deductive learning
+  
+## Notes  
+
+``post-Linnaean`` refers to the [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus):
+ 
+  > He is known as the father of modern taxonomy
+  
+Tags: inductive-learning, deductive-learning, dsl, domain-specific-language, type-soundness, continuation-style, garbage-collection, reactive-programming, scheme, plai, teaching, programming-language, shriram-krishnamurthi
+
+[teaching-pls-in-pl-age]: http://cs.brown.edu/~sk/Publications/Papers/Published/sk-teach-pl-post-linnaean/paper.pdf 
+[plai]: http://www.plai.org/
