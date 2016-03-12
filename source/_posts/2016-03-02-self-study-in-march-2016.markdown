@@ -145,3 +145,11 @@ Tags: inductive-learning, deductive-learning, dsl, domain-specific-language, typ
 
 [teaching-pls-in-pl-age]: http://cs.brown.edu/~sk/Publications/Papers/Published/sk-teach-pl-post-linnaean/paper.pdf 
 [plai]: http://www.plai.org/
+## Lazy Ruby
+
+I've read [this article][lazy-ruby] by sonnym about using ruby's lazy (non-strict) features, detailing an example with Fibonacci's sequence.
+
+Tags: laziness, strictness, non-strictness, ruby, fibonacci, comparison
+
+[lazy-ruby]: http://sonnym.github.io/2014/04/05/lazy-ruby/
+
