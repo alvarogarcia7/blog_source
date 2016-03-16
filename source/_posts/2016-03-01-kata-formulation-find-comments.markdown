@@ -29,13 +29,14 @@ A comment (a subset of PHP comments) is defined as:
 
 The code (both project and samples) can be [found here](https://github.com/alvarogarcia7/kata-formulation-find-comments)
 
-## Optional task
-
-As an optional task, when the problem is finished (you can attack in your preferred order), there must be an executable jar with some parameters to process the current folder with the 'working modes' specified above.
-
 ## Requirements
 
 Please do not read ahead, just read the current assignment, do it, then read the next one:
 
   1. Can you help Little Johnny fetch all those comments?
   1. These messages have not been audited yet and we want to publish the code, so it is better to remove the comments. Can you do it?
+
+## Optional task
+
+As an optional task, when the problem is finished (you can attack in your preferred order), there must be an executable jar with some parameters to process the current folder with the 'working modes' specified above.
+
