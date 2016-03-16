@@ -25,9 +25,13 @@ A comment (a subset of PHP comments) is defined as:
   * There are no multi-line comments
 
 
-## Samples
+## How to start
 
-The code (both project and samples) can be [found here](https://github.com/alvarogarcia7/kata-formulation-find-comments)
+  * Clone/fork (any stars are welcome) [this repo][formulation]
+  * Run the tests. [See this][running-tests] for help
+  * They should be red.
+  * Go to production code and fix it
+  * Have fun (happy kata and happy koding!)
 
 ## Requirements
 
@@ -39,4 +43,8 @@ Please do not read ahead, just read the current assignment, do it, then read the
 ## Optional requirement
 
 As an optional task, when the problem is finished (you can attack in your preferred order), there must be an executable jar with some parameters to process the current folder with the 'working modes' specified above.
+
+
+[formulation]: https://github.com/alvarogarcia7/kata-formulation-find-comments
+[running-tests]: https://github.com/alvarogarcia7/cli-app-base-clojure/blob/master/README.md#tests
 
