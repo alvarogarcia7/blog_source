@@ -12,6 +12,19 @@ categories:
 
 Little Johnny is inspecting a PHP source code that contains comments. These comments contains words that he doesn't understand, as it written in another language.
 
+A comment (a subset of PHP comments) is defined as:
+
+  * A line containing C-style comment delimiter, except when it is within a string
+    * ``// hello C-style`` is a valid comment
+    * ``echo "//";`` is not a comment
+    * ``echo '//';`` is not a comment
+  * A line containing Perl-style comment delimiter, except when it is within a string
+    * ``# hello Perl-style`` is a valid comment
+    * ``echo "#";`` is not a comment
+    * ``echo '#';`` is not a comment
+  * There are no multi-line comments
+
+
 Please do not read ahead, just read the current assignment, do it, then read the next one:
 
   1. Can you help Little Johnny fetch all those comments?
