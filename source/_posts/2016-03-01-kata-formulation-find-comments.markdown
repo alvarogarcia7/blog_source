@@ -36,7 +36,7 @@ Please do not read ahead, just read the current assignment, do it, then read the
   1. Can you help Little Johnny fetch all those comments?
   1. These messages have not been audited yet and we want to publish the code, so it is better to remove the comments. Can you do it?
 
-## Optional task
+## Optional requirement
 
 As an optional task, when the problem is finished (you can attack in your preferred order), there must be an executable jar with some parameters to process the current folder with the 'working modes' specified above.
 
