@@ -28,6 +28,7 @@ A comment (a subset of PHP comments) is defined as:
     * ``echo "#";`` is not a comment
     * ``echo '#';`` is not a comment
   * There are no multi-line comments
+    * ``/* ... */`` is not a comment
 
 You can do this kata in any language you want. In any case it is not allowed to use a PHP parser. This task must be done manually.
 
