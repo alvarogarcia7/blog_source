@@ -15,7 +15,7 @@ Little Johnny is inspecting a PHP source code that contains comments. These comm
 Please do not read ahead, just read the current assignment, do it, then read the next one:
 
   1. Can you help Little Johnny fetch all those comments?
-  1. These messages have not been audited yet and we want to publish the code, so it is better to hide/remove the comments. Can you do it?
+  1. These messages have not been audited yet and we want to publish the code, so it is better to remove the comments. Can you do it?
 
 ## Samples
 
