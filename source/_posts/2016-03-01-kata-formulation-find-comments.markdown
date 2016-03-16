@@ -6,6 +6,9 @@ comments: true
 categories:
   - kata
   - formulation
+  - php
+  - comment
+  - exercise
 ---
 
 Little Johnny is inspecting a PHP source code that contains comments. These comments contains words that he doesn't understand, as it written in another language.
