@@ -12,6 +12,8 @@ Little Johnny is inspecting a PHP source code that contains comments. These comm
 
 ## Rules and constraints
 
+The source code in the PHP files does not need to be correct.
+
 A comment (a subset of PHP comments) is defined as:
 
   * A line containing C-style comment delimiter, except when it is within a string
