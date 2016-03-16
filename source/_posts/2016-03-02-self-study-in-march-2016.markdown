@@ -118,3 +118,61 @@ Tags: teamwork, teammate, fullstack, simplification, work, team-management, jose
 
 [fullstack-in-2016]: http://www.developerdepueblo.com/development/full-stack-developer-2016/
 
+## I am a software craftsman
+
+I've read [this article][am-a-swcraft] by Daniel Irvine about calling yourself a craftsman or not. He says that if you adhere to their values, you should.
+
+Tags: craftsmanship, label, daniel-irvine, craftsman, group-belonging
+
+[am-a-swcraft]: http://www.dirv.me/i-am-a-software-craftsman/index.html
+
+##  Teaching Programming Languages in a Post-Linnaean Age
+
+I've read [this paper][teaching-pls-in-pl-age] by Shriram Krishnamurthi where he explains the need for books like [PLAI][plai]: 
+
+  * lack of paradigms in new languages, and its separation (or lack of)
+  * design of languages cheaper and cheaper these days
+  * rigor level in publications
+  * inductive and deductive learning
+  
+## Notes  
+
+``post-Linnaean`` refers to the [Carl Linnaeus](https://en.wikipedia.org/wiki/Carl_Linnaeus):
+ 
+  > He is known as the father of modern taxonomy
+  
+Tags: inductive-learning, deductive-learning, dsl, domain-specific-language, type-soundness, continuation-style, garbage-collection, reactive-programming, scheme, plai, teaching, programming-language, shriram-krishnamurthi
+
+[teaching-pls-in-pl-age]: http://cs.brown.edu/~sk/Publications/Papers/Published/sk-teach-pl-post-linnaean/paper.pdf 
+[plai]: http://www.plai.org/
+## Lazy Ruby
+
+I've read [this article][lazy-ruby] by sonnym about using ruby's lazy (non-strict) features, detailing an example with Fibonacci's sequence.
+
+Tags: laziness, strictness, non-strictness, ruby, fibonacci, comparison
+
+[lazy-ruby]: http://sonnym.github.io/2014/04/05/lazy-ruby/
+
+
+## Jessica Livingston
+
+I've read [this essay][jessica-livingston] by Paul Graham about his co-founder at the Y-combinator: Jessica Livingston. She was considered the Social Radar at YC
+
+The essay also talks about the non-existent separation between working hours and not and about her implication and personality.
+
+Tags: jessica-livingston, paul-graham, y-combinator, feminism, yc, essay
+
+[jessica-livingston]: http://paulgraham.com/jessica.html
+
+
+
+## Four Laws Of Software Economics (Part 1)
+
+I've read [this article][sw-economics-1] by Rich Mironov on why the development team will never be big enough (because of economics, because there are more things to be done than time to do them, so we have to prioritize them) and about the communication problems between the dev team and the client(s).
+
+Also talks about the general personality of clients and devs and task prioritization
+
+Tags: exclusive-or, magical-thinking, tnstaafl, management, agile, team, capacity, death-march, estj, intp, software-economics, product-strategy, law-of-ruthless-prioritization, law, rich-mironov, slack, myers-briggs-type 
+
+[sw-economics-1]: https://medium.com/@RichMironov/four-laws-of-software-economics-part-1-e162aa0ea9e5
+
