@@ -8,9 +8,9 @@ categories:
   - formulation
 ---
 
-## Formulation
-
 Little Johnny is inspecting a PHP source code that contains comments. These comments contains words that he doesn't understand, as it written in another language.
+
+## Rules and constraints
 
 A comment (a subset of PHP comments) is defined as:
 
@@ -24,6 +24,8 @@ A comment (a subset of PHP comments) is defined as:
     * ``echo '#';`` is not a comment
   * There are no multi-line comments
 
+
+## Requirements
 
 Please do not read ahead, just read the current assignment, do it, then read the next one:
 
