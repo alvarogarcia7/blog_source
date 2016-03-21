@@ -176,3 +176,11 @@ Tags: exclusive-or, magical-thinking, tnstaafl, management, agile, team, capacit
 
 [sw-economics-1]: https://medium.com/@RichMironov/four-laws-of-software-economics-part-1-e162aa0ea9e5
 
+## You Should Take A Codecation
+
+I've read [this article][codecation] by Ben Orenstein explaining what is a codecation and what he's done in the two codecations he's taken.
+
+Tags: codecation, ben-orenstein, vacation, holiday, coding, shipping, in-company
+
+[codecation]: https://robots.thoughtbot.com/you-should-take-a-codecation
+
