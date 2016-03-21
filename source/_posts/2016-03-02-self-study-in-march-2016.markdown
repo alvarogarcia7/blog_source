@@ -186,6 +186,14 @@ Tags: codecation, ben-orenstein, vacation, holiday, coding, shipping, in-company
 
 ## Giving Up on TDD
 
+I've read [this article][giving-up-tdd] by Ian Sommerville about the problems he's found while doing TDD, mainly about design, but also about being conservative in the amount of tests you allow yourself to break while refactoring.
+
+Tags: tdd, ian-sommerville, refactoring, problem, design-problem, design, giving-up-tdd
+
+[giving-up-tdd]: http://iansommerville.com/systems-software-and-technology/giving-up-on-test-first-development/
+
+## Giving Up on TDD - answer
+
 I've read [this article][answer-giving-up-tdd] by Robert C. Martin on the common issues for people adopting TDD:
 
   * The Fragile Test Problem
