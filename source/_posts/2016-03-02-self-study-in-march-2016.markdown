@@ -184,3 +184,18 @@ Tags: codecation, ben-orenstein, vacation, holiday, coding, shipping, in-company
 
 [codecation]: https://robots.thoughtbot.com/you-should-take-a-codecation
 
+## Giving Up on TDD
+
+I've read [this article][answer-giving-up-tdd] by Robert C. Martin on the common issues for people adopting TDD:
+
+  * The Fragile Test Problem
+  * The Design Problem
+  * The Testable Design Problem
+  * The Magic Bullet Problem
+
+This article is an answer to another by Ian Sommerville.
+
+Tags: tdd, uncle-bob, robert-martin, adoption, ian-sommerville, fragile-test-problem, giving-up-tdd, design-problem, testable-design-problem, magic-bullet-problem
+
+[answer-giving-up-tdd]: http://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html
+
