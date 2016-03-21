@@ -207,3 +207,13 @@ Tags: tdd, uncle-bob, robert-martin, adoption, ian-sommerville, fragile-test-pro
 
 [answer-giving-up-tdd]: http://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html
 
+## Seek out jobs with fast learning cycles
+
+I've read [this article][fast-learning-cycles] by Sarah Tavel on learning on the job and how fast these learning cycles can happen at companies at different stages of maturity.
+
+> So if you’re thinking of changing jobs, or taking your first, my advice: find a place with a fast learning cycle, and a steep learning curve.
+
+Tags: learning, job, hypothesis, sarah-tavel, learning-cycle, maturity-level, learning-process, product-management
+
+[fast-learning-cycles]: https://medium.com/@sarahtavel/seek-out-jobs-with-fast-learning-cycles-f923c8d8a4be#.7bxx65a4x
+
