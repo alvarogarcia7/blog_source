@@ -217,3 +217,14 @@ Tags: learning, job, hypothesis, sarah-tavel, learning-cycle, maturity-level, le
 
 [fast-learning-cycles]: https://medium.com/@sarahtavel/seek-out-jobs-with-fast-learning-cycles-f923c8d8a4be#.7bxx65a4x
 
+## Clean Code Vs. Implementation Patterns
+
+I've read [this comparison][comparison-clean-vs-implementation] of Clean Code vs Implementation Pattern books, by Vincent Partington.
+
+In it, the author explains the differences in style in both books, and how they compare to others. 
+
+Tags: clean-code, implementation-patterns, comparison, book-review, book-comparison, vincent-partington
+
+[comparison-clean-vs-implementation]: http://blog.xebia.com/clean-code-vs-implementation-patterns/
+
+
