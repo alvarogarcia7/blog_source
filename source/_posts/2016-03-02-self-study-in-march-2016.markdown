@@ -227,4 +227,12 @@ Tags: clean-code, implementation-patterns, comparison, book-review, book-compari
 
 [comparison-clean-vs-implementation]: http://blog.xebia.com/clean-code-vs-implementation-patterns/
 
+## Stuck in Traffic vlog #103 - New Spammer Techniques
+
+I've seen [this vlog entry][new-spammer-techniques] on machines fighting machines (exemplified with the spam producing and filtering) and how some spammers are trying more direct techniques focusing on higher-value targets, sometimes even handcrafting messages and modifying them every few units.
+
+Tags: wolfgang-goerlich, spam, vlog, spammer, machine-learning
+
+[new-spammer-techniques]: https://www.peerlyst.com/posts/stuck-in-traffic-vlog-103-new-spammer-techniques-j-wolfgang-goerlich
+
 
