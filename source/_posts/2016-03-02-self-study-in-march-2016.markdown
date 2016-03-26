@@ -245,3 +245,11 @@ Tags: christopher-bui, pomodoro, time-management, productivity, motivation, ambi
 
 [becoming-a-finisher]: http://christopherdbui.com/becoming-a-finisher/
 
+## Hanging around with red-black tree implementations: the beginnings
+
+I've read [this article][red-black-implementation] by Ivan Fraixedes where he details the progress of implementing a red-black tree, and also his motivation for doing it.
+
+Tags: ivan-fraixedes, red-black-tree, abstract-data-structure, adt, deliberate-practice, pet-project
+
+[red-black-implementation]: http://blog.fraixed.es/post/hanging-around-red-black-trees-implementations/
+
