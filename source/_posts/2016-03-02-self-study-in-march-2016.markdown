@@ -253,3 +253,11 @@ Tags: ivan-fraixedes, red-black-tree, abstract-data-structure, adt, deliberate-p
 
 [red-black-implementation]: http://blog.fraixed.es/post/hanging-around-red-black-trees-implementations/
 
+## Some Tools for Faster Blogging in Octopress
+
+I've read [this article][faster-blogging-octopress] for tips and tricks on how to blog faster with octopress. Written by Duncan Stuart.
+
+Tags: duncan-stuart, blog, improvement, meta, octopress, tip-and-trick
+
+[faster-blogging-octopress]: http://dgmstuart.github.io/blog/2015/03/27/some-tools-for-faster-blogging-in-octopress/
+
