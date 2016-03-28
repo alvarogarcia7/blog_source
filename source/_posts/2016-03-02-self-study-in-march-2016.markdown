@@ -218,3 +218,12 @@ Tags: clean-code, implementation-patterns, comparison, book-review, book-compari
 [comparison-clean-vs-implementation]: http://blog.xebia.com/clean-code-vs-implementation-patterns/
 
 
+
+## Becoming A Finisher
+
+I've read [this article][becoming-a-finisher] by Christopher Bui where he explains that projects that are too ambitious stall your productivity and make you lose your focus.
+
+Tags: christopher-bui, pomodoro, time-management, productivity, motivation, ambition, paul-graham, quote 
+
+[becoming-a-finisher]: http://christopherdbui.com/becoming-a-finisher/
+
