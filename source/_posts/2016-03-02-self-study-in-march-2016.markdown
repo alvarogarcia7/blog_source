@@ -207,6 +207,16 @@ Tags: tdd, uncle-bob, robert-martin, adoption, ian-sommerville, fragile-test-pro
 
 [answer-giving-up-tdd]: http://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html
 
+## Seek out jobs with fast learning cycles
+
+I've read [this article][fast-learning-cycles] by Sarah Tavel on learning on the job and how fast these learning cycles can happen at companies at different stages of maturity.
+
+> So if you’re thinking of changing jobs, or taking your first, my advice: find a place with a fast learning cycle, and a steep learning curve.
+
+Tags: learning, job, hypothesis, sarah-tavel, learning-cycle, maturity-level, learning-process, product-management
+
+[fast-learning-cycles]: https://medium.com/@sarahtavel/seek-out-jobs-with-fast-learning-cycles-f923c8d8a4be#.7bxx65a4x
+
 ## Clean Code Vs. Implementation Patterns
 
 I've read [this comparison][comparison-clean-vs-implementation] of Clean Code vs Implementation Pattern books, by Vincent Partington.
@@ -216,6 +226,14 @@ In it, the author explains the differences in style in both books, and how they 
 Tags: clean-code, implementation-patterns, comparison, book-review, book-comparison, vincent-partington
 
 [comparison-clean-vs-implementation]: http://blog.xebia.com/clean-code-vs-implementation-patterns/
+
+## Stuck in Traffic vlog #103 - New Spammer Techniques
+
+I've seen [this vlog entry][new-spammer-techniques] on machines fighting machines (exemplified with the spam producing and filtering) and how some spammers are trying more direct techniques focusing on higher-value targets, sometimes even handcrafting messages and modifying them every few units.
+
+Tags: wolfgang-goerlich, spam, vlog, spammer, machine-learning
+
+[new-spammer-techniques]: https://www.peerlyst.com/posts/stuck-in-traffic-vlog-103-new-spammer-techniques-j-wolfgang-goerlich
 
 
 
