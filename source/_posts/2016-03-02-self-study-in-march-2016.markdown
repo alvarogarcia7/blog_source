@@ -245,3 +245,11 @@ Tags: christopher-bui, pomodoro, time-management, productivity, motivation, ambi
 
 [becoming-a-finisher]: http://christopherdbui.com/becoming-a-finisher/
 
+## The veil of ignorance
+
+I've read [this article][veil-of-ignorance] by Adam Morse on how not being on the top of the skills performance can affect your design and your user experience. Also, references the concept of "The Veil of Ignorance", a concept by John Rawls.
+
+Tags: john-rawls, veil-of-ignorance, user-experience, design
+
+[veil-of-ignorance]: http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/
+
