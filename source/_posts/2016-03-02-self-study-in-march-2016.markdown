@@ -245,6 +245,7 @@ Tags: christopher-bui, pomodoro, time-management, productivity, motivation, ambi
 
 [becoming-a-finisher]: http://christopherdbui.com/becoming-a-finisher/
 
+
 ## Hanging around with red-black tree implementations: the beginnings
 
 I've read [this article][red-black-implementation] by Ivan Fraixedes where he details the progress of implementing a red-black tree, and also his motivation for doing it.
@@ -260,4 +261,12 @@ I've read [this article][faster-blogging-octopress] for tips and tricks on how t
 Tags: duncan-stuart, blog, improvement, meta, octopress, tip-and-trick
 
 [faster-blogging-octopress]: http://dgmstuart.github.io/blog/2015/03/27/some-tools-for-faster-blogging-in-octopress/
+
+## The veil of ignorance
+
+I've read [this article][veil-of-ignorance] by Adam Morse on how not being on the top of the skills performance can affect your design and your user experience. Also, references the concept of "The Veil of Ignorance", a concept by John Rawls.
+
+Tags: john-rawls, veil-of-ignorance, user-experience, design
+
+[veil-of-ignorance]: http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/
 
