@@ -270,3 +270,11 @@ Tags: john-rawls, veil-of-ignorance, user-experience, design
 
 [veil-of-ignorance]: http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/
 
+## To Smile Again -- Recovering from the paralysis of burnout
+
+I've read [this article][to-smile-again] by Jamis Buck on his story of burnout, what symptoms had on him and how he got out of it.
+
+Tags: burnout, jamis-buck, psychology, productivity, personal, story, analogy
+
+[to-smile-again]: https://m.signalvnoise.com/to-smile-again-ae0ba9f2198c
+
