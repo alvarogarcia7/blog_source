@@ -294,3 +294,20 @@ Tags: iain-tait, response, slack, office-culture
 
 [slack-work-this-way]: https://medium.com/@iaintait/slack-work-this-way-9221284472dd
 
+## BEM 101
+
+I've read [this introduction][bem-101] to a CSS style called Block, Element, Modifier methodology (BEM).
+
+In it,
+
+> * a block is a top-level abstraction of a new component
+> * Child items, or elements, can be placed inside and these are denoted by two underscores following the name of the block [...].
+> modifiers can manipulate the block so that we can theme or style that particular component without inflicting changes on a completely unrelated module. This is done by appending two hyphens to the name of the block [...].
+
+
+By Joe Richardson, Robin Rendle et al.
+
+Tags: joe-richardson, robin-rendle, bem, css, css-methodology, introduction, css-architecture, sass
+
+[bem-101]: https://css-tricks.com/bem-101/
+
