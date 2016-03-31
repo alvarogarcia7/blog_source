@@ -22,6 +22,7 @@ Books started, not yet finished (WIP):
 
   * Building microservices, by Sam Newman, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [building-microservices](/{{site.category_dir}}/building-microservices)
   * [Why programmers work at night](https://leanpub.com/nightowls) by Swizec Teller
+  * [Readings in Database Systems, 5th Edition](http://www.redbook.io/) by Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors
   
   
 Books I want to finish:
