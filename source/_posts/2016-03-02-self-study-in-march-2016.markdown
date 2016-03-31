@@ -278,3 +278,11 @@ Tags: burnout, jamis-buck, psychology, productivity, personal, story, analogy
 
 [to-smile-again]: https://m.signalvnoise.com/to-smile-again-ae0ba9f2198c
 
+## Beyond email: could startup Slack change the way you work?
+
+I've read [this article][beyond-email] on Slack's office culture, with their diversity, policies and values after a high people growth in a short period of time. By Jemima Kiss
+
+Tags: culture, office-culture, slack, jemima-kiss
+
+[beyond-email]: http://www.theguardian.com/technology/2016/mar/25/slack-butterfield-emoji-chat-nasa-harvard-silicon-valley
+
