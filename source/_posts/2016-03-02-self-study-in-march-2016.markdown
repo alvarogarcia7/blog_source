@@ -286,3 +286,11 @@ Tags: culture, office-culture, slack, jemima-kiss
 
 [beyond-email]: http://www.theguardian.com/technology/2016/mar/25/slack-butterfield-emoji-chat-nasa-harvard-silicon-valley
 
+## Slack: Work This Way
+
+I've read [this article][slack-work-this-way], a response to my above read, about the office culture at Slack.
+
+Tags: iain-tait, response, slack, office-culture
+
+[slack-work-this-way]: https://medium.com/@iaintait/slack-work-this-way-9221284472dd
+
