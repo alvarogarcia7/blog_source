@@ -34,3 +34,13 @@ Tags: list, lukas-eder, kotlin, java, comparison, language, jooq
 
 [kotlin-vs-java]: http://blog.jooq.org/2016/03/31/10-features-i-wish-java-would-steal-from-the-kotlin-language/
 
+## How we built Uber engineering's highest query per second service using Go
+
+I've read [this post][uber-go-geofence] by Kai Wei on a microservice they've built using Go. 
+
+Explains the reasons for choosing that algorithm for geofencing, the performance they're achieving, and the architecture.
+
+Tags: uber, go, microservice, performance, geofence, geofencing, rps, go-memory-model, kai-wei
+
+[uber-go-geofence]: https://eng.uber.com/go-geofence/
+
