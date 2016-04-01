@@ -44,3 +44,13 @@ Tags: uber, go, microservice, performance, geofence, geofencing, rps, go-memory-
 
 [uber-go-geofence]: https://eng.uber.com/go-geofence/
 
+## Unwinding Uber's Most Efficient Service
+
+I've read [this article][comment-on-uber-geofencing] by Buck Heroux commenting on the decisions of Uber for building the geofencing microservice (above read).
+
+Explains the different alternatives for algorithms in this problem space and has implemented them in go. Provides a benchmark for comparing those, including a profiling session.
+
+Tags: s2, quadtree, rtree, brute-force, geofence, geofencing, uber, comment, buck-heroux, go, read-on-read, meta-read
+
+[comment-on-uber-geofencing]: https://medium.com/@buckhx/unwinding-uber-s-most-efficient-service-406413c5871d
+
