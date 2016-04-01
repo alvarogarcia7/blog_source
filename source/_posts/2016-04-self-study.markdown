@@ -62,3 +62,19 @@ Tags: bruce-schneier, apple, security, fbi, vulnerability, exploit, law, hacking
 
 [lawful-hacking]: https://www.schneier.com/blog/archives/2016/03/lawful_hacking_.html
 
+## A Side Project Helped Jumpstart My Career — Life Learning
+
+I've read [this article][side-project-why] by Dave Gerhardt on how making a side project happen affected his life and his skills.
+
+Some of the reasons for doing it include:
+
+  * It forces you to figure stuff out
+  * The only way to learn is by doing
+  * It gets your brain working on something other than your job
+  * You have to create your own network
+  * You are the CEO
+
+Tags: long-life-learning, continuous-learning, side-project, dave-gerhardt, drift, professional-development, personal-development, business, career
+
+[side-project-why]: https://medium.com/life-learning/a-side-project-helped-jumpstart-my-career-7cd6f8e9b07f
+
