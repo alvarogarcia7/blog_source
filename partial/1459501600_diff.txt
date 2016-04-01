@@ -4,7 +4,7 @@ I've read this article by [Martin Fowler][DiversityMediocrityIllusion] (on his b
 
 Explains how they do it in ThoughtWorks and how they have changed in the last decade.
 
-Tags: martin fowler, diversity, gender, workforce, conference, profession, bliki
+Tags: martin-fowler, diversity, gender, workforce, conference, profession, bliki
 
 [DiversityMediocrityIllusion]: http://martinfowler.com/bliki/DiversityMediocrityIllusion.html
 
