@@ -54,3 +54,11 @@ Tags: s2, quadtree, rtree, brute-force, geofence, geofencing, uber, comment, buc
 
 [comment-on-uber-geofencing]: https://medium.com/@buckhx/unwinding-uber-s-most-efficient-service-406413c5871d
 
+## Lawful Hacking and Continuing Vulnerabilities
+
+I've read [this article][lawful-hacking] by Bruce Schneier on the stance the FBI is taking in regards to vulnerabilities discovered in Apple's devices.
+
+Tags: bruce-schneier, apple, security, fbi, vulnerability, exploit, law, hacking
+
+[lawful-hacking]: https://www.schneier.com/blog/archives/2016/03/lawful_hacking_.html
+
