@@ -78,3 +78,11 @@ Tags: long-life-learning, continuous-learning, side-project, dave-gerhardt, drif
 
 [side-project-why]: https://medium.com/life-learning/a-side-project-helped-jumpstart-my-career-7cd6f8e9b07f
 
+## Fun Jekyll Tricks
+
+I've read [this article][blogging-with-jekyll] by Brian Knapp where he explains some tips and tricks of jekyll (in which octopress is based on): speed, deployment, subcategories inside the blog, _data, _includes.
+
+Tags: brian-knapp, jekyll, octopress, tip-and-trick, improvement, subcategory, meta, automation, deployment
+
+[blogging-with-jekyll]: http://www.madebymarket.com/blog/dev/fun-jekyll-tricks.html
+
