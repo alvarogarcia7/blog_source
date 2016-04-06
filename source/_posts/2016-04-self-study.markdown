@@ -94,3 +94,11 @@ Tags: bonilista, david-bonilla, contractor
 
 [bl-la-ola]: http://us2.campaign-archive2.com/?u=374c664073e1a1fa3deca53b4&id=f8a8ee92cc
 
+## 10 razones por las que este sábado deberías ir a un code retreat
+
+I've read [this list][attend-a-gdcr] of reasons for attending a code retreat, by Francho Joven, who I met in the Global Day Of Code Retreat (GDCR) '15 in Zaragoza
+
+Tags: francho-joven, list, zaragoza, code-retreat, gdcr
+
+[attend-a-gdcr]: http://francho.org/2015/11/10/10-razones-para-ir-a-un-coderetreat/
+
