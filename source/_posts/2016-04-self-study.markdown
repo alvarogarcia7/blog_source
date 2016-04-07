@@ -102,3 +102,11 @@ Tags: francho-joven, list, zaragoza, code-retreat, gdcr
 
 [attend-a-gdcr]: http://francho.org/2015/11/10/10-razones-para-ir-a-un-coderetreat/
 
+## Meaningful Work through Passion, not Genius
+
+I've watched [this talk][work-thru-passion] on the importance of hard work and how it can be mistaken as genious. By Malcolm Gladwell
+
+Tags: malcolm-gladwell, passion, genius, work, time-management, productivity, career, mastery-autonomy-purpose
+
+[work-thru-passion]: https://www.youtube.com/watch?v=pIYUMwxKFzo
+
