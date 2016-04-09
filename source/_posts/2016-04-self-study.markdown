@@ -118,3 +118,18 @@ Tags: startup, domain, stockphoto, jon-yau
 
 [start-stockphoto]: https://medium.com/@Stockphoto.com/how-to-ask-your-wife-for-permission-to-spend-250-000-on-a-domain-name-c27a3c2852e1
 
+## Sorry, developer bootcamps: I was wrong
+
+I've read [this article][dev-bootcamp-grads-personality] by Dillon Forrest on the topic of developer bootcamps. Explains why developers should not be threatened by recent graduates of these programs and describes how people pursuing these programs usually are:
+
+  * Intelligence
+  * Risk appetite
+  * Resilience
+  * Self-investment
+  * Entrepreneurship
+  * Growth trajectory
+
+Tags: bootcamp, developer-bootcamp, dev-bootcamp, dillon-forrest, intelligence, risk-appetite, resilience, self-investment, entrepreneurship, growth-trajectory
+
+[dev-bootcamp-grads-personality]: https://medium.com/@dillonforrest/sorry-developer-bootcamps-i-was-wrong-ea37fcc5572c
+
