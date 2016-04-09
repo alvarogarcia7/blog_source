@@ -110,3 +110,11 @@ Tags: malcolm-gladwell, passion, genius, work, time-management, productivity, ca
 
 [work-thru-passion]: https://www.youtube.com/watch?v=pIYUMwxKFzo
 
+## How to ask your wife for permission to spend $250,000 on a domain name
+
+I've read [this article][start-stockphoto] by Jon Yau on how they started StockPhoto.com, buying a $250,000 domain name.
+
+Tags: startup, domain, stockphoto, jon-yau
+
+[start-stockphoto]: https://medium.com/@Stockphoto.com/how-to-ask-your-wife-for-permission-to-spend-250-000-on-a-domain-name-c27a3c2852e1
+
