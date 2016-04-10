@@ -133,3 +133,11 @@ Tags: bootcamp, developer-bootcamp, dev-bootcamp, dillon-forrest, intelligence, 
 
 [dev-bootcamp-grads-personality]: https://medium.com/@dillonforrest/sorry-developer-bootcamps-i-was-wrong-ea37fcc5572c
 
+## The JVM and Java Garbage Collection
+
+I've watched [this webcast][java-gc-webcast] about how the JVM garbage collection works. By Michael W Williams
+
+Tags: michael-williams, oracle, webcast, jvm, garbage-collection, gc, 
+
+[java-gc-webcast]: https://www.youtube.com/watch?v=DoJr5QQYsl8
+
