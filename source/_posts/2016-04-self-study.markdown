@@ -141,3 +141,13 @@ Tags: michael-williams, oracle, webcast, jvm, garbage-collection, gc,
 
 [java-gc-webcast]: https://www.youtube.com/watch?v=DoJr5QQYsl8
 
+## Files Are Hard
+
+I've read [this article][files-are-hard] on why software that writes on files is difficult, based on the different filesystems that are below, and the operating system. Written by Dan Luu.
+
+Uses software product to find bugs in filesystems
+
+Tags: filesystem, file, dan luu, analysis
+
+[files-are-hard]: http://danluu.com/file-consistency/
+
