@@ -40,6 +40,15 @@ Your task is to create the system from scratch, with only a restriction: you mus
   * unmodifiable, if you do, a goblin in the corner who will insta-rage and one-shot you as he doesn't believe in shared code ownership. This prohibition applies to modifying it, deleting it, adding new methods, deleting methodts, changing visibility of stuff, etc
   * cannot be inherited, if you do, a goblin in the corner who will insta-rage and one-shot you as he doesn't believe in code inheritance
 
-The ``Item`` class can be found in many programming languages in [Emily Bache's repository](https://github.com/emilybache/GildedRose-Refactoring-Kata). You are looking for the class / type ``Item``
+The ``Item`` class can be found in many programming languages in [Emily Bache's repository][emilys-repo]. You are looking for the class / type ``Item``
 
 Happy katas and happy koding. Please be careful with the goblin!
+
+## How to start
+
+  * Create a new repo
+  * Find the class ``Item`` in [this repo][emilys-repo]
+  * Use TDD to develop the functionality. Remember, ``Item`` will stay as it is.
+  * Have fun
+
+[emilys-repo]: https://github.com/emilybache/GildedRose-Refactoring-Kata
