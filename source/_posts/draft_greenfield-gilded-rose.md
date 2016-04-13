@@ -41,4 +41,3 @@ Your task is to create the system from scratch, with only a restriction: you mus
 The class can be found in many programming languages in [Emily Bache's repository](https://github.com/emilybache/GildedRose-Refactoring-Kata). You are looking for the class / type ``Item``
 
 
-Just for clarification, 
