@@ -2,10 +2,12 @@
 published: false
 categories:
   - formulation
+  - kata-formulation
   - kata
   - gilded-rose
   - trikitrok
-  - sample
+  - greenfield
+  - legacy-code
 ---
 
 (This formulation has been copied and adapted from Bobby Johnson's [repository](https://github.com/NotMyself/GildedRose))
