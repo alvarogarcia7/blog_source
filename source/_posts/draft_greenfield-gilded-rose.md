@@ -12,7 +12,7 @@ categories:
 
 (This formulation has been copied and adapted from [Bobby Johnson](https://twitter.com/NotMyself) and [Terry Hughes](https://twitter.com/TerryHughes)'s [repository](https://github.com/NotMyself/GildedRose))
 
-##Gilded Rose Greenfield* Kata
+#Brownish Greenfield Gilded Rose Kata
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods. 
 
