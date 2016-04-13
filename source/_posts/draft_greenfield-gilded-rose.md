@@ -10,7 +10,7 @@ categories:
   - legacy-code
 ---
 
-(This formulation has been copied and adapted from Bobby Johnson's [repository](https://github.com/NotMyself/GildedRose))
+(This formulation has been copied and adapted from [Bobby Johnson](https://twitter.com/NotMyself) and [Terry Hughes](https://twitter.com/TerryHughes)'s [repository](https://github.com/NotMyself/GildedRose))
 
 ##Gilded Rose Greenfield* Kata
 
