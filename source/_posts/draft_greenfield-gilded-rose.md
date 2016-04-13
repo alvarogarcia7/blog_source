@@ -8,7 +8,7 @@ categories:
   - sample
 ---
 
-(This formulation has been copied from Bobby Johnson's [repository](https://github.com/NotMyself/GildedRose))
+(This formulation has been copied and adapted from Bobby Johnson's [repository](https://github.com/NotMyself/GildedRose))
 
 ##Gilded Rose Refactoring Kata
 
