@@ -196,4 +196,13 @@ Tags: Jacob Shriar, motivation, employee, infographic, mastery, autonomy, purpos
 
 [employee-motivation]: https://www.officevibe.com/blog/secret-employee-motivation-infographic
 
+## The puzzle of motivation
+
+I've watched [this TED talk][puzzle-of-motivation] by Dan Pink on what motivates us: intrinsic vs extrinsic motivation.
+
+Also about the gap that exists between what science knows and what businesses propose.
+
+Tags: ted, ted-talk, video, dan-pink, mastery, autonomy, purpose
+
+[puzzle-of-motivation]: https://www.ted.com/talks/dan_pink_on_motivation
 
