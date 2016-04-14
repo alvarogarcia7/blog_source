@@ -172,3 +172,11 @@ Tags: action, reaction, social-media, avdi-grimm, productivity
 
 [dont-react]: http://journal.avdi.org/2016/04/14/dont-react/
 
+## FTP is so 90's. Let's deploy via Git instead!
+
+I've read [this guide][deploy-using-git] on how to deploy using git. By Kerrick Long
+
+Tags: kerrick-long, git, deployment, webapp, application, devops
+
+[deploy-using-git]: https://coderwall.com/p/xczkaq/ftp-is-so-90-s-let-s-deploy-via-git-instead
+
