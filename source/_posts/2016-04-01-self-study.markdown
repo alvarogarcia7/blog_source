@@ -151,3 +151,18 @@ Tags: filesystem, file, dan luu, analysis
 
 [files-are-hard]: http://danluu.com/file-consistency/
 
+## Contrata a un fracasado con ilusión inquebrantable
+
+I've read [this article][developer-qualities] by Alberto Mena (in Spanish) on what are the qualities that define a good programmer:
+
+  * humility
+  * failure
+  * illusion
+  * hard work
+
+Tags: alberto-mena, spanish, team-management, success, developer, quality, developer-quality
+
+[developer-qualities]: http://www.contunegocio.es/tecnologia/contrata-a-un-fracasado-con-ilusion-inquebrantable/
+
+
+
