@@ -164,5 +164,11 @@ Tags: alberto-mena, spanish, team-management, success, developer, quality, devel
 
 [developer-qualities]: http://www.contunegocio.es/tecnologia/contrata-a-un-fracasado-con-ilusion-inquebrantable/
 
+## Don't react
 
+I've read [this article][dont-react] by Avdi Grimm on how the action vs reaction attitude. Why to prefer the former.
+
+Tags: action, reaction, social-media, avdi-grimm, productivity
+
+[dont-react]: http://journal.avdi.org/2016/04/14/dont-react/
 
