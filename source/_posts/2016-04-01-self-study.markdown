@@ -180,3 +180,11 @@ Tags: kerrick-long, git, deployment, webapp, application, devops
 
 [deploy-using-git]: https://coderwall.com/p/xczkaq/ftp-is-so-90-s-let-s-deploy-via-git-instead
 
+## Job vs Career: 10 Key Differences You Need To Understand
+
+I've read [the infographic and the article][job-vs-career] by Jacob Shriar on what differentiates a job from a career
+
+Tags: jacob-shriar, infographic, job-vs-career, comparison, job, career
+
+[job-vs-career]: https://www.officevibe.com/blog/job-vs-career
+
