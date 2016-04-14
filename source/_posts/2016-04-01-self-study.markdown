@@ -188,3 +188,12 @@ Tags: jacob-shriar, infographic, job-vs-career, comparison, job, career
 
 [job-vs-career]: https://www.officevibe.com/blog/job-vs-career
 
+## The Secret To Employee Motivation
+
+I've read [the infographic and the article][employee-motivation] by Jacob Shriar on what motivates employess: mastery, autonomy and purpose. A direct reference to Dan Pink's "The puzzle of motivation" TED talk.
+
+Tags: Jacob Shriar, motivation, employee, infographic, mastery, autonomy, purpose
+
+[employee-motivation]: https://www.officevibe.com/blog/secret-employee-motivation-infographic
+
+
