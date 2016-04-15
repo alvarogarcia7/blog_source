@@ -8,6 +8,182 @@ categories:
   - march
   - 2016
   - read
+  - abstract-data-structure
+  - adoption
+  - adt
+  - agile
+  - ambition
+  - analogy
+  - analysis
+  - automation
+  - becodeweek
+  - bem
+  - ben-orenstein
+  - benedict-fritz
+  - blog
+  - book-comparison
+  - book-review
+  - burnout
+  - capacity
+  - christopher-bui
+  - clean-code
+  - codecation
+  - coding
+  - codurance
+  - cohesion
+  - coman-hamilton
+  - comparison
+  - continuation-style
+  - craftsman
+  - craftsmanship
+  - css
+  - css-architecture
+  - css-methodology
+  - culture
+  - daniel-irvine
+  - death-march
+  - deductive-learning
+  - deep-work
+  - deliberate-practice
+  - deploy
+  - design
+  - design-level-cohesion
+  - design-problem
+  - desk-surfing
+  - detail
+  - devops
+  - dlc-cohesion
+  - domain-specific-language
+  - dsl
+  - duncan-stuart
+  - edward-yourdon
+  - essay
+  - estj
+  - etsy
+  - exclusive-or
+  - experience
+  - experience-report
+  - feminism
+  - fibonacci
+  - fragile-test-problem
+  - fullstack
+  - garbage-collection
+  - giving-up-tdd
+  - group-belonging
+  - heinz-kabutz
+  - hire
+  - holiday
+  - hypothesis
+  - iain-tait
+  - ian-sommerville
+  - implementation-patterns
+  - improvement
+  - in-company
+  - inductive-learning
+  - internalizing
+  - interview
+  - intp
+  - introduction
+  - ivan-fraixedes
+  - jamis-buck
+  - java
+  - jaxenter
+  - jemima-kiss
+  - jessica-livingston
+  - job
+  - joe-richardson
+  - john-allspaw
+  - john-rawls
+  - joseandres
+  - label
+  - lambda
+  - larry-constantine
+  - law
+  - law-of-ruthless-prioritization
+  - laziness
+  - learn-to-program
+  - learning
+  - learning-cycle
+  - learning-process
+  - list
+  - machine-learning
+  - magic-bullet-problem
+  - magical-thinking
+  - management
+  - martin-fowler
+  - maturity-level
+  - meta
+  - metaphor
+  - motivation
+  - myers-briggs-type
+  - non-strictness
+  - octopress
+  - office-culture
+  - onboarding
+  - paul-graham
+  - perfection
+  - personal
+  - pet-project
+  - plai
+  - pomodoro
+  - problem
+  - process
+  - process-theory
+  - product-management
+  - product-strategy
+  - productivity
+  - programming-language
+  - psychology
+  - q-and-a
+  - quote
+  - reactive-programming
+  - red-black-tree
+  - refactoring
+  - response
+  - rich-mironov
+  - robert-martin
+  - robin-rendle
+  - ruby
+  - sandro-mancuso
+  - sarah-tavel
+  - sass
+  - scheme
+  - shallow-work
+  - shipping
+  - shriram-krishnamurthi
+  - simplification
+  - slack
+  - smc-cohesion
+  - software-design
+  - software-economics
+  - spam
+  - spammer
+  - story
+  - strictness
+  - tdd
+  - teaching
+  - team
+  - team-management
+  - teammate
+  - teamwork
+  - technique
+  - testable-design-problem
+  - time-management
+  - tip-and-trick
+  - tnstaafl
+  - type-soundness
+  - uncle-bob
+  - user-experience
+  - vacation
+  - veil-of-ignorance
+  - vincent-partington
+  - vlog
+  - warfare
+  - wolfgang-goerlich
+  - work
+  - y-combinator
+  - yc
+  - yeray-darias
 ---
 
 [^1]: Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design by Yourdon and Constantine.
@@ -235,4 +411,78 @@ Tags: wolfgang-goerlich, spam, vlog, spammer, machine-learning
 
 [new-spammer-techniques]: https://www.peerlyst.com/posts/stuck-in-traffic-vlog-103-new-spammer-techniques-j-wolfgang-goerlich
 
+
+## Becoming A Finisher
+
+I've read [this article][becoming-a-finisher] by Christopher Bui where he explains that projects that are too ambitious stall your productivity and make you lose your focus.
+
+Tags: christopher-bui, pomodoro, time-management, productivity, motivation, ambition, paul-graham, quote 
+
+[becoming-a-finisher]: http://christopherdbui.com/becoming-a-finisher/
+
+
+## Hanging around with red-black tree implementations: the beginnings
+
+I've read [this article][red-black-implementation] by Ivan Fraixedes where he details the progress of implementing a red-black tree, and also his motivation for doing it.
+
+Tags: ivan-fraixedes, red-black-tree, abstract-data-structure, adt, deliberate-practice, pet-project
+
+[red-black-implementation]: http://blog.fraixed.es/post/hanging-around-red-black-trees-implementations/
+
+## Some Tools for Faster Blogging in Octopress
+
+I've read [this article][faster-blogging-octopress] for tips and tricks on how to blog faster with octopress. Written by Duncan Stuart.
+
+Tags: duncan-stuart, blog, improvement, meta, octopress, tip-and-trick
+
+[faster-blogging-octopress]: http://dgmstuart.github.io/blog/2015/03/27/some-tools-for-faster-blogging-in-octopress/
+
+## The veil of ignorance
+
+I've read [this article][veil-of-ignorance] by Adam Morse on how not being on the top of the skills performance can affect your design and your user experience. Also, references the concept of "The Veil of Ignorance", a concept by John Rawls.
+
+Tags: john-rawls, veil-of-ignorance, user-experience, design
+
+[veil-of-ignorance]: http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/
+
+## To Smile Again -- Recovering from the paralysis of burnout
+
+I've read [this article][to-smile-again] by Jamis Buck on his story of burnout, what symptoms had on him and how he got out of it.
+
+Tags: burnout, jamis-buck, psychology, productivity, personal, story, analogy
+
+[to-smile-again]: https://m.signalvnoise.com/to-smile-again-ae0ba9f2198c
+
+## Beyond email: could startup Slack change the way you work?
+
+I've read [this article][beyond-email] on Slack's office culture, with their diversity, policies and values after a high people growth in a short period of time. By Jemima Kiss
+
+Tags: culture, office-culture, slack, jemima-kiss
+
+[beyond-email]: http://www.theguardian.com/technology/2016/mar/25/slack-butterfield-emoji-chat-nasa-harvard-silicon-valley
+
+## Slack: Work This Way
+
+I've read [this article][slack-work-this-way], a response to my above read, about the office culture at Slack.
+
+Tags: iain-tait, response, slack, office-culture
+
+[slack-work-this-way]: https://medium.com/@iaintait/slack-work-this-way-9221284472dd
+
+## BEM 101
+
+I've read [this introduction][bem-101] to a CSS style called Block, Element, Modifier methodology (BEM).
+
+In it,
+
+> * a block is a top-level abstraction of a new component
+> * Child items, or elements, can be placed inside and these are denoted by two underscores following the name of the block [...].
+> modifiers can manipulate the block so that we can theme or style that particular component without inflicting changes on a completely unrelated module. This is done by appending two hyphens to the name of the block [...].
+
+
+By Joe Richardson, Robin Rendle et al.
+
+Tags: joe-richardson, robin-rendle, bem, css, css-methodology, introduction, css-architecture, sass
+
+[bem-101]: https://css-tricks.com/bem-101/
 

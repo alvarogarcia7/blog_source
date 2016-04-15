@@ -603,7 +603,7 @@ the business domain changes more slowly. find these boundaries (reference to IDD
 
 bounded contexts is about concepts which are shared and others who are hidden
 
-consumer driven contracts as a way to express to consumer expectations, written as tests. this is a high-trust pattern (requires it). reduces end to end testing, considerably. Using tools as [pact][github.com/realestate]
+consumer driven contracts as a way to express to consumer expectations, written as tests. this is a high-trust pattern (requires it). reduces end to end testing, considerably. Using tools as [pact](http://github.com/realestate)
 
 parallel change for endpoints (or APIs) for avoiding lock step release (expand contract pattern). high cost to change an API: apply upfront thought to it.
 

@@ -679,7 +679,7 @@ Tags: simon-peyton-jones, 2007, history-of-programming-languages-conference, has
 
 ## The Humble Programmer
 
-​I've read [this EWD][ewd-340]​ about the necessary humbleness for being a programmer and the slow expansion of the trade, as compared to hardware engineers.
+I've read [this EWD][ewd-340] about the necessary humbleness for being a programmer and the slow expansion of the trade, as compared to hardware engineers.
 
 He cites six reasons for preferring to be a humble programmer:
 
@@ -702,7 +702,7 @@ This idea also connects to the "lower bounds" and "upper bounds" of program corr
 
 Tags: edsger-dijkstra, ewd, dijkstra, humble-programmer, essay, comparison, absence-of-bugs, quote
 
-[​ewd-340]: ​http://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
+[ewd-340]: http://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html
 
 ## Building a Link Shortener with Snaplets
 
