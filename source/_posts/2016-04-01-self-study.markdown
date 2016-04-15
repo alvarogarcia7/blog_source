@@ -191,3 +191,11 @@ Tags: mark-maunder, security, breach, mossack-fonseca-breach, mossack-fonseca, h
 
 [mossack-fonseca-breach]: https://www.wordfence.com/blog/2016/04/mossack-fonseca-breach-vulnerable-slider-revolution/
 
+## Tim Urban: Inside the mind of a master procrastinator
+
+I've watched [this TED talk][master-procrastinator] from Tim Urban on how the procrastinator's mind works, exemplified by his own career.
+
+Tags: procrastinator, procrastination, mind, time-management, tim-urban
+
+[master-procrastinator]: https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator
+
