@@ -167,3 +167,11 @@ Tags: Juergen Hoeller, spring, reactive programming, release, announcement
 
 [spring-5-release]: https://spring.io/blog/2015/08/03/coming-up-in-2016-spring-framework-4-3-5-0
 
+## Why offices are where work goes to die
+
+I've read [this article][home-office-vs-local-office] by Swizec Teller explaining the downsides of working in an office as compared to working remotely.
+
+Tags: swizec-teller, remote, home-office, office, comparison, time-management
+
+[home-office-vs-local-office]: http://swizec.com/blog/why-offices-are-where-work-goes-to-die/swizec/6695
+
