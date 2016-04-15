@@ -175,3 +175,11 @@ Tags: swizec-teller, remote, home-office, office, comparison, time-management
 
 [home-office-vs-local-office]: http://swizec.com/blog/why-offices-are-where-work-goes-to-die/swizec/6695
 
+## The Myth of the Passionate Developer
+
+I've read [this article][myth-passionate-developer] by Michael Ibarra on what are the implications of being a passionate developer, how it affects your tasks and what are the factors to a job.
+
+Tags: michael-ibarra, passion, development, job, motivation, myth
+
+[myth-passionate-developer]: https://medium.com/@bm2yogi/the-myth-of-the-passionate-developer-76a41d457304
+
