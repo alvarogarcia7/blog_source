@@ -151,3 +151,11 @@ Tags: filesystem, file, dan luu, analysis
 
 [files-are-hard]: http://danluu.com/file-consistency/
 
+## Applying a ceiling to the bug count
+
+I've read [this interview][bug-count], written by Susanna Berg, on how King has reduced the amount of bugs in their backlog using an agile technique, measuring and setting a limit.
+
+Tags: susanna-berg, king, agile, bug, bug-count, defect, defect-count, per-malmen
+
+[bug-count]: https://techblog.king.com/applying-a-ceiling-to-the-bug-count/
+
