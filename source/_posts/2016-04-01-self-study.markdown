@@ -183,3 +183,11 @@ Tags: michael-ibarra, passion, development, job, motivation, myth
 
 [myth-passionate-developer]: https://medium.com/@bm2yogi/the-myth-of-the-passionate-developer-76a41d457304
 
+## Mossack Fonseca Breach – WordPress Revolution Slider Plugin Possible Cause
+
+I've read [this article][mossack-fonseca-breach] by Mark Maunder, which describes an hypothesis on how the Mossack Fonseca breach could have happened. Also describes and shows how to breach a Wordpress installation with a vulnerable Revolution Slider plugin.
+
+Tags: mark-maunder, security, breach, mossack-fonseca-breach, mossack-fonseca, hypothesis, attack, plugin, revolution-slider, wordpress
+
+[mossack-fonseca-breach]: https://www.wordfence.com/blog/2016/04/mossack-fonseca-breach-vulnerable-slider-revolution/
+
