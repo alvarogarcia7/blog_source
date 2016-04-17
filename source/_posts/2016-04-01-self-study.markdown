@@ -208,6 +208,3 @@ I've read [the PEP20][pep20], the zen of python, with special attention to this:
 [pep20]: https://www.python.org/dev/peps/pep-0020/
 
 
-
-
-
