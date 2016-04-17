@@ -240,3 +240,11 @@ Tags: roman-coedo, travis, hugo, github, github-pages, ssg, static-site-generato
 
 [hugo-s3-github-pages]: http://rcoedo.com/post/hugo-static-site-generator/
 
+## Improve Octopress with Advanced Tweaks & Tips
+
+I've read [this list][octopress-advanced-tips-tricks] of tips on how to improve the octopress (2) installation. By Nguyễn Đình Quân.
+
+Tags: nguyen-dinh-quan, octopress-2, tip, tweak
+
+[octopress-advanced-tips-tricks]: https://www.narga.net/improve-octopress-advanced-tweaks-tips/
+
