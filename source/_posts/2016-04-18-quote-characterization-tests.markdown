@@ -9,7 +9,7 @@ categories:
   - wewlc
 ---
 
-
+In Working effectively with legacy code, Michael Feathers talks a type of tests to define or characterize the current behavior of the legacy system:
 
 > In nearly every legacy system, what the system does is more important than what it is supposed to do.
 >
