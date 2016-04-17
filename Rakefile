@@ -233,7 +233,7 @@ task :deploy do
   Rake::Task["#{deploy_default}"].execute
   system "cd -"
   system "git status"
-  system "git push origin"
+  system "git push origin master -f"
 end
 
 desc "Default deploy task"
