@@ -35,7 +35,7 @@ repository for WIP books:
 
   * [The Well-Grounded Java Developer](http://www.manning.com/evans/) by Benjamin J. Evans and Martijn Verburg
   * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovača
-  * [Working Effectively with Legacy Code](http://www.amazon.co.uk/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) by Michael Feathers, again
+  * [Working Effectively with Legacy Code](http://www.amazon.co.uk/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) by Michael Feathers, again. Blog posts under the tag [wewlc](/{{site.category_dir}}/wewlc)
   * [Haskell Programming](http://haskellbook.com/), By Chris Allen and Julie Moronuki. This book is still in progress and I'm reviewing it
   * [Pragmatic Thinking and Learning: Refactor Your Wetware](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) by Andy Hunt  
   

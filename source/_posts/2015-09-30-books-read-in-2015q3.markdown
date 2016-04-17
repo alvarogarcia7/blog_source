@@ -43,7 +43,7 @@ repository for WIP books:
 
   * [The Well-Grounded Java Developer](http://www.manning.com/evans/) by Benjamin J. Evans and Martijn Verburg
   * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovača
-  * [Working Effectively with Legacy Code](http://www.amazon.co.uk/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) by Michael Feathers, again
+  * [Working Effectively with Legacy Code](http://www.amazon.co.uk/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) by Michael Feathers, again. Blog posts under the tag [wewlc](/{{site.category_dir}}/wewlc)
   * [Practical Object-Oriented Design in Ruby, An Agile Primer (POODR)](http://www.poodr.com/) by Sandi Metz, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [poodr](/{{site.category_dir}}/poodr).
   
   Books I want to finish:
