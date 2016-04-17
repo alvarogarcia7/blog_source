@@ -6,13 +6,15 @@ comments: true
 categories: 
   - meta
   - octopress-2
-  - octopress-3
   - octopress
   - native-octopress
   - rakefile
+  - reinventing-the-wheel
 ---
 
 Octopress 2 packs, out of the box, some tasks to speed up the site generation while you're writing articles:
+
+Isolate a post:
 
 ```ruby
 # usage rake isolate[my-post]
@@ -26,3 +28,26 @@ task :isolate, :filename do |t, args|
   end
 end
 ```
+
+Integrate with the rest of the posts:
+
+```ruby
+desc "Move all stashed posts back into the posts directory, ready for site generation."
+task :integrate do
+  posts_dir = "#{source_dir}/#{posts_dir}/"
+  Dir.glob("#{source_dir}/#{stash_dir}/*.*") do |post|
+    FileUtils.mv post, posts_dir
+    full_path = "#{posts_dir}/#{post.split("/").reverse.first}"
+    system "git update-index --no-assume-unchanged #{full_path}"
+  end
+end
+```
+
+## Conclusion
+
+When I created [a small tool for this same purpose][faster-site-generation], I didn't find any that did this job. It was so close to my nose that I could not find it. I was reinventing the wheel.
+
+It is better to switch to a tool that has been tested by more users, that has received the community's approval than a custom-made tool. 
+
+[faster-site-generation]: ../../../../2015/07/13/faster-site-generation-for-octopress-2/
+
