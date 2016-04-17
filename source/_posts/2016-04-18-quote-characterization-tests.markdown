@@ -7,6 +7,11 @@ comments: true
 categories:
   - quote
   - wewlc
+  - michael-feathers
+  - legacy-code
+  - characterization-test
+  - test
+  - legacy
 ---
 
 In Working effectively with legacy code, Michael Feathers talks a type of tests to define or characterize the current behavior of the legacy system:
