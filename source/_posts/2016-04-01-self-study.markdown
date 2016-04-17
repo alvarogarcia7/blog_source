@@ -232,3 +232,11 @@ Tags: alan-scherger, static-site-generator, ssg, travis, hugo, s3
 
 [hugo-s3-travis]: http://continuousfailure.com/post/s3_blog/
 
+## Deploy your blog to github pages automatically using Hugo and Travis
+
+I've read [this article][hugo-s3-github-pages] by Roman Coedo on how to deploy a hugo blog to github pages, using travis.
+
+Tags: roman-coedo, travis, hugo, github, github-pages, ssg, static-site-generator
+
+[hugo-s3-github-pages]: http://rcoedo.com/post/hugo-static-site-generator/
+
