@@ -9,7 +9,7 @@ categories:
   - wewlc
 ---
 
-In chapter 13, "I need to make a change, but I don't know what tests to write"
+
 
 > In nearly every legacy system, what the system does is more important than what it is supposed to do.
 >
@@ -20,4 +20,7 @@ In chapter 13, "I need to make a change, but I don't know what tests to write"
 >  * Let the failure tell you what the behavior is.
 >  * Change the test so that it expects the behavior that the code produces
 >  * Repeat
+>
+> M Feathers, in the chapter 13[^1], section "Characterization tests" of Working effectively with legacy code
 
+[^1]: Chapter 13, "I need to make a change, but I don't know what tests to write"
