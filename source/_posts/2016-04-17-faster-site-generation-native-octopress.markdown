@@ -14,6 +14,8 @@ categories:
 
 Note: this article is an answer to [a previous one][faster-site-generation], about the same topic: a tool for a faster site generation while developing / writing articles, using octopress 2.
 
+## Introduction
+
 Octopress 2 packs, out of the box, some tasks to speed up the site generation while you're writing articles:
 
 Isolate a post:
@@ -44,6 +46,28 @@ task :integrate do
   end
 end
 ```
+
+## Usage
+
+(at the folder where the Rakefile is located)
+
+  * isolate the selected file. Specify the pattern to keep.
+
+```bash
+rake isolate["draft"]
+```
+
+  * write the new content
+  * commit to git
+  * integrate with the rest of the files
+
+
+```bash
+rake integrate
+```
+
+  * git push
+
 
 ## Conclusion
 
