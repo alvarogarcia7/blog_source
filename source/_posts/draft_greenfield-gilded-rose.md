@@ -13,7 +13,7 @@ categories:
   - legacy-code
 ---
 
-(This formulation has been copied and adapted from [Bobby Johnson](https://twitter.com/NotMyself) and [Terry Hughes](https://twitter.com/TerryHughes)'s [repository](https://github.com/NotMyself/GildedRose))
+(This formulation has been copied and adapted from [Bobby Johnson][notmyself] and [Terry Hughes][terryhughes]'s [repository](https://github.com/NotMyself/GildedRose))
 
 # Brownish Greenfield Gilded Rose Kata
 
@@ -56,6 +56,10 @@ Happy katas and happy koding. Please be careful with the goblin!
 
 ## Acknowledgements
 
-Thanks to [@trikitrok](https://twitter.com/@trikitrok) for the idea, [Bobby Johnson](https://twitter.com/NotMyself) and [Terry Hughes](https://twitter.com/TerryHughes) for allowing me to copy and modify their kata.
+Thanks to [@trikitrok][trikitrok] for the idea, [Bobby Johnson][notmyself] and [Terry Hughes][terryhughes] for allowing me to copy and modify their kata.
 
 [emilys-repo]: https://github.com/emilybache/GildedRose-Refactoring-Kata
+[trikitrok]: https://twitter.com/@trikitrok
+[notmyself]: https://twitter.com/NotMyself
+[terryhughes]: https://twitter.com/TerryHughes
+
