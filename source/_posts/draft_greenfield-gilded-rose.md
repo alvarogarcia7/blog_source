@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: "Brownish Greenfield Gilded Rose Kata"
+date: 2016-04-18 00:44:19 +0300
+comments: true
 categories:
   - formulation
   - kata-formulation
