@@ -9,8 +9,11 @@ categories:
   - kata
   - gilded-rose
   - trikitrok
+  - manuel-rivero
   - greenfield
   - legacy-code
+  - bobby-johnson
+  - terry-hughes
 ---
 
 (This formulation has been copied and adapted from [Bobby Johnson][notmyself] and [Terry Hughes][terryhughes]'s [repository](https://github.com/NotMyself/GildedRose))
