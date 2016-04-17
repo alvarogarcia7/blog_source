@@ -224,3 +224,11 @@ Tags: tom-johnson, incremental-generation, speed, performance, octopress-2, octo
 
 [incremental-generation-jekyll-3]: http://idratherbewriting.com/2015/11/04/jekyll-30-released-incremental-regeneration-rocks/
 
+## Hugo, S3, Travis CI, oh boy!
+
+I've read [this guide][hugo-s3-travis] by Alan Scherger on how to set up a specific stack for developing and deploying a static site blog.
+
+Tags: alan-scherger, static-site-generator, ssg, travis, hugo, s3
+
+[hugo-s3-travis]: http://continuousfailure.com/post/s3_blog/
+
