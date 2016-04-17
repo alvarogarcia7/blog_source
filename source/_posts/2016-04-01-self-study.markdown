@@ -216,3 +216,11 @@ Tags: franklin-chen, comparison, ssg, static-site-generator, hakyll, octopress, 
 [octo2-to-hugo]: http://conscientiousprogrammer.com/blog/2015/05/31/why-i-switched-from-octopress-2-to-hugo/
 
 
+## Why incremental regeneration in Jekyll 3.0 is such a big deal
+
+I've read [this article][incremental-generation-jekyll-3] by Tom Johnson on one of the new features that jekyll 3.0 brings: incremental generation. How this can speed up the generation
+
+Tags: tom-johnson, incremental-generation, speed, performance, octopress-2, octopress-3, jekyll-3
+
+[incremental-generation-jekyll-3]: http://idratherbewriting.com/2015/11/04/jekyll-30-released-incremental-regeneration-rocks/
+
