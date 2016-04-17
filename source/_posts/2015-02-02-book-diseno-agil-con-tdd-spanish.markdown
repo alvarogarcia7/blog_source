@@ -8,6 +8,7 @@ categories:
   - tdd
   - book-review
   - spanish
+  - wewlc
 ---
 
 I've read this book [Diseño Ágil con TDD](http://www.carlosble.com/libro-tdd/) (Spanish) by

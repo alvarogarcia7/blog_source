@@ -15,6 +15,7 @@ categories:
   - unit-test
   - working-effectively-with-legacy-code
   - welc
+  - wewlc
 ---
 
 In his book [Working effectively with legacy code][book], [Michael Feathers][mfeathers] describes:

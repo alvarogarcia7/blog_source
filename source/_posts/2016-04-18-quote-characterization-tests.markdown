@@ -6,6 +6,7 @@ date: 2016-04-18 00:56:54 +0200
 comments: true
 categories:
   - quote
+  - wewlc
 ---
 
 In chapter 13, "I need to make a change, but I don't know what tests to write"
