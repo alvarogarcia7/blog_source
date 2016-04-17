@@ -12,7 +12,7 @@ categories:
   - reinventing-the-wheel
 ---
 
-Note: this article is an answer to [a previous one][faster-site-generation], about the same topic: a tool for a faster site generation while developing / writing articles, using octopress 2
+Note: this article is an answer to [a previous one][faster-site-generation], about the same topic: a tool for a faster site generation while developing / writing articles, using octopress 2.
 
 Octopress 2 packs, out of the box, some tasks to speed up the site generation while you're writing articles:
 
