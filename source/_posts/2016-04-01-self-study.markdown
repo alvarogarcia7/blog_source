@@ -147,7 +147,7 @@ I've read [this article][files-are-hard] on why software that writes on files is
 
 Uses software product to find bugs in filesystems
 
-Tags: filesystem, file, dan luu, analysis
+Tags: filesystem, file, dan-luu, analysis
 
 [files-are-hard]: http://danluu.com/file-consistency/
 
