@@ -8,7 +8,7 @@ categories:
   - quote
 ---
 
-I need to make a change, but I don't know what tests to write
+In chapter 13, "I need to make a change, but I don't know what tests to write"
 
 > In nearly every legacy system, what the system does is more important than what it is supposed to do.
 >
