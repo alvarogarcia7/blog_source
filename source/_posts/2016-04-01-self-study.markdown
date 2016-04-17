@@ -207,4 +207,12 @@ I've read [the PEP20][pep20], the zen of python, with special attention to this:
 
 [pep20]: https://www.python.org/dev/peps/pep-0020/
 
+## Why I switched from Octopress 2 to Hugo
+
+I've read [this article][octo2-to-hugo] by Franklin Chen on the change he made on the static site generator (SSG) he used. He considered hakyll, octopress, jekyll, hugo. Was decided between hakyll and hugo for their speed but, finally, decided to use hugo for their bigger community.
+
+Tags: franklin-chen, comparison, ssg, static-site-generator, hakyll, octopress, jekyll, hugo, change, speed, statically-typed, dynamically-typed, golang, performance
+
+[octo2-to-hugo]: http://conscientiousprogrammer.com/blog/2015/05/31/why-i-switched-from-octopress-2-to-hugo/
+
 
