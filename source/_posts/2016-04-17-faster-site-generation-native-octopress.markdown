@@ -71,7 +71,7 @@ rake integrate
 
 ## Conclusion
 
-When I created [a small tool for this same purpose][faster-site-generation], I didn't find any that did this job. It was so close to my nose that I could not find it. I was reinventing the wheel.
+When I needed this tool, to speed up my feedback cycle, I didn't find any that did this job, so I created [a small tool for this same purpose][faster-site-generation]. Unfortunately, there was one, so close to my nose that I could not find it. I was reinventing the wheel.
 
 It is better to switch to a tool that has been tested by more users, that has received the community's approval than a custom-made tool. 
 
