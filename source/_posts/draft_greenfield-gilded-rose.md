@@ -54,4 +54,8 @@ Happy katas and happy koding. Please be careful with the goblin!
   * Use TDD to develop the functionality. Remember, ``Item`` will stay as it is.
   * Have fun
 
+## Acknowledgements
+
+Thanks to [@trikitrok](https://twitter.com/@trikitrok) for the idea, [Bobby Johnson](https://twitter.com/NotMyself) and [Terry Hughes](https://twitter.com/TerryHughes) for allowing me to copy and modify their kata.
+
 [emilys-repo]: https://github.com/emilybache/GildedRose-Refactoring-Kata
