@@ -248,3 +248,11 @@ Tags: nguyen-dinh-quan, octopress-2, tip, tweak
 
 [octopress-advanced-tips-tricks]: https://www.narga.net/improve-octopress-advanced-tweaks-tips/
 
+## Laboratorios
+
+I've read [this article][labs-medinilla] by Ángel Medinilla, about laboratories to use a percentage of company time to investigate, innovate, learn and improve.
+
+Tags: angel-medinilla, team-management, time-management, innovation, strategy, improvement, kaizen, laboratory, craftsmanship, spanish
+
+[labs-medinilla]: http://www.presionblogosferica.com/2014/11/12/laboratorios/
+
