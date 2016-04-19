@@ -256,3 +256,13 @@ Tags: angel-medinilla, team-management, time-management, innovation, strategy, i
 
 [labs-medinilla]: http://www.presionblogosferica.com/2014/11/12/laboratorios/
 
+## What Refactoring is, and what it isn’t
+
+I've read [this article][what-is-refactoring-bird] by Jim Bird, where he splits some practices into refactoring and not refactoring. Draws the line between these two different activities.
+
+Also cites scratch refactoring.
+
+Tags: jim-bird, scratch-refactoring, refactoring, martin-fowler, kent-beck, definition, quote, design
+
+[what-is-refactoring-bird]: http://swreflections.blogspot.com/2012/04/what-refactoring-is-and-what-it-isnt.html
+
