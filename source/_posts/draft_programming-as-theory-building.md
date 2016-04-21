@@ -7,7 +7,7 @@ categories:
   - peter-naur
 ---
 
-In [this paper][paper-naur], Peter Naur TODO find link TODO creates the analogy of programming as building theory. One for the problem and one for the solution.
+In [this paper][paper-naur], (the late) Peter Naur TODO find link TODO creates the analogy of programming as building theory. One for the problem and one for the solution.
 
 He tries to understand what programming is (page 227). I find a subtle reference at the end of the 227.6 paragragraph to knowledge workers:
 
