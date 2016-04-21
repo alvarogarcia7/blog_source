@@ -266,3 +266,13 @@ Tags: jim-bird, scratch-refactoring, refactoring, martin-fowler, kent-beck, defi
 
 [what-is-refactoring-bird]: http://swreflections.blogspot.com/2012/04/what-refactoring-is-and-what-it-isnt.html
 
+## Pitfalls of Unlimited Vacations
+
+I've read [this article][unlimited-vacations] by Phil Haack on the github, travis and netflix policies about unlimited vacations and the effects they have on the employees.
+
+Also about minimum vacation periods, (paternity) paid leave.
+
+Tags: phil-haack, unlimited-vacation, holiday, vacation, team-management, burnout, github, travis, netflix, policy
+
+[unlimited-vacations]: http://haacked.com/archive/2016/02/18/unlimited-vaction-pitfalls/
+
