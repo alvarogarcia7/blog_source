@@ -7,7 +7,7 @@ categories:
   - peter-naur
 ---
 
-In this paper TODO find link TODO, Peter Naur TODO find link TODO creates the analogy of programming as building theory. One for the problem and one for the solution.
+In [this paper][paper-naur], Peter Naur TODO find link TODO creates the analogy of programming as building theory. One for the problem and one for the solution.
 
 He tries to understand what programming is (page 227). I find a subtle reference at the end of the 227.6 paragragraph to knowledge workers:
 
@@ -47,4 +47,4 @@ One of the difficulties and safety guarantees in public / private key cryptograp
 > a person who has a theory [...] knows how to do certain things and [...] can support [...] [with] explanations, justifications and answers to queries.
 
 [brandolini-model-storming]: http://www.slideshare.net/ziobrando/model-storming
-
+[paper-naur]: http://pages.cs.wisc.edu/~remzi/Naur.pdf
