@@ -276,3 +276,11 @@ Tags: phil-haack, unlimited-vacation, holiday, vacation, team-management, burnou
 
 [unlimited-vacations]: http://haacked.com/archive/2016/02/18/unlimited-vaction-pitfalls/
 
+## Cultura Corporativa
+
+I've read [this article][corp-cultre] by Ángel Medinilla about the corporate culture, and how "hanging a highly interchangeable sentence on a wall" does not represent it.
+
+Tags: angel-medinilla, corporate culture, spanish
+
+[corp-cultre]: http://www.presionblogosferica.com/2011/02/06/cultura-corporativa/
+
