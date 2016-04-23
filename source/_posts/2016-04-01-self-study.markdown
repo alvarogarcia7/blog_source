@@ -284,3 +284,11 @@ Tags: angel-medinilla, corporate culture, spanish
 
 [corp-cultre]: http://www.presionblogosferica.com/2011/02/06/cultura-corporativa/
 
+## What It’s Really Like to Learn to Code
+
+I've read [this article][learn-to-code-really-like] that explains firsthand how it is to learn programming for a novice student,even with a strong financial background and having completed a university degree. By Sandjar Kozubaev
+
+Tags: sandjar-kozubaev, learning, programming, student, firsthand, coding, story
+
+[learn-to-code-really-like]: https://medium.com/@sandjar/what-it-s-really-like-to-learn-to-code-53f6d9156a32
+
