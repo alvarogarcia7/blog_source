@@ -163,7 +163,7 @@ Tags: susanna-berg, king, agile, bug, bug-count, defect, defect-count, per-malme
 
 I've read [this announcement][spring-5-release] of Spring's new release, 5.0, which will require java 8 and will turn most of the features into the reactive programming paradigm. By Juergen Hoeller.
 
-Tags: Juergen Hoeller, spring, reactive programming, release, announcement
+Tags: juergen-hoeller, spring, reactive-programming, release, announcement
 
 [spring-5-release]: https://spring.io/blog/2015/08/03/coming-up-in-2016-spring-framework-4-3-5-0
 
