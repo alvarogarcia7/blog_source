@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Self-Study in April 2016"
-date: 2016-04-01 00:08:19 +0300
+date: 2016-04-01 00:08:19 +0000
 comments: true
 categories: 
   - self-study-aggregation
