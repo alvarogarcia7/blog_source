@@ -54,6 +54,8 @@ I've read [this article][firing-people] by Zach Holman on firing people at your 
 
 Also explains his personal experience of being fired from Github.
 
+> You’ll know the difference between doing far and away your best work, and doing work that is still good, but just nominally better than what you’ve been doing. Once you catch yourself adjusting to that incremental progression… maybe it’s time to leave, to change things up
+
 Tags: zach-holman, github, team-management, firing, coworker, employee, employer, job, relationship, next
 
 [firing-people]: https://zachholman.com/talk/firing-people
