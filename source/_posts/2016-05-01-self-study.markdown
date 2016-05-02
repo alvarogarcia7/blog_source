@@ -48,3 +48,13 @@ Tags: adrian-kosmaczewski, career, profession, age, galaxy, long-term, book
 
 [developer-after-40]: https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c
 
+## Firing people
+
+I've read [this article][firing-people] by Zach Holman on firing people at your current work, both from the perspective of the employee (fired), employer, coworker.
+
+Also explains his personal experience of being fired from Github.
+
+Tags: zach-holman, github, team-management, firing, coworker, employee, employer, job, relationship, next
+
+[firing-people]: https://zachholman.com/talk/firing-people
+
