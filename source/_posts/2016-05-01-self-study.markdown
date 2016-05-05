@@ -68,3 +68,11 @@ Tags: design-principle, ux, jakob-nielsen, nir-benita, usability, testing, list
 
 [design-pples-for-devs]: https://medium.com/@nirbenita/the-10-design-heuristics-for-developers-1e70a9dc58a7
 
+## Design Patterns — Coming Full Circle, Part Two
+
+I've read [this article][design-patterns-flux-2] that explains how design patterns can be observed and then discovered and shows a list of four patterns dot working with data, by flux.io. Article by Jen Carlile
+
+Tags: design-pattern, data, pattern, flux, flux-io, pattern-catalog, jen-carlile
+
+[design-patterns-flux-2]: https://medium.com/swlh/design-patterns-coming-full-circle-part-two-ced2c69e4724#.x8ud7eeqm
+
