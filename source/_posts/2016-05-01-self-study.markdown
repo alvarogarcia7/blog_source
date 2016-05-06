@@ -76,3 +76,13 @@ Tags: design-pattern, data, pattern, flux, flux-io, pattern-catalog, jen-carlile
 
 [design-patterns-flux-2]: https://medium.com/swlh/design-patterns-coming-full-circle-part-two-ced2c69e4724#.x8ud7eeqm
 
+## Why I’m Ending my Github Streak after 844 Days
+
+I've read [this article][ending-github-streak] by Karan Goel on the mechanics of following a pattern, of an activity sliced in small parts (1 problem a day or half an hour) and how this can be counterproductive sometimes.
+
+Discusses ROI of this type of activity at the beginning of your career and later.
+
+Tags: karan-goel, github, streak, python, code, everyday, practice, deliberate-practice, career, career-management
+
+[ending-github-streak]: https://medium.com/@karan/why-i-m-ending-my-github-streak-after-844-days-80fd014dc8df
+
