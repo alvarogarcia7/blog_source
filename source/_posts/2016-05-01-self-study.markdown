@@ -86,3 +86,11 @@ Tags: karan-goel, github, streak, python, code, everyday, practice, deliberate-p
 
 [ending-github-streak]: https://medium.com/@karan/why-i-m-ending-my-github-streak-after-844-days-80fd014dc8df
 
+## Good lessons learned from past jobs
+
+I've read [this article][lessons-learned-jobs] by Diego 'Kartones' on a synopsis of his work experience, job by job and what he has learned on each job.
+
+Tags: diego-kartones, job, professional-career, career
+
+[lessons-learned-jobs]: http://blog.kartones.net/post/good-lessons-learned-from-past-jobs/
+
