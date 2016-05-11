@@ -94,3 +94,11 @@ Tags: diego-kartones, job, professional-career, career
 
 [lessons-learned-jobs]: http://blog.kartones.net/post/good-lessons-learned-from-past-jobs/
 
+## Too Much Work In Progress
+
+I've read [this article][too-much-wip] by Samir Talwar on factors that indicate work in progress.
+
+Tags: wip, work-in-progress, list, samir-talwar
+
+[too-much-wip]: http://monospacedmonologues.com/post/144137568985/too-much-work-in-progress
+
