@@ -102,3 +102,11 @@ Tags: wip, work-in-progress, list, samir-talwar
 
 [too-much-wip]: http://monospacedmonologues.com/post/144137568985/too-much-work-in-progress
 
+## TestDouble
+
+I've read [this article][test-double] by Martin Fowler describing the test doubles that Gerard Meszaros describes in xUnit Test Patterns.
+
+Tags: test-double, martin-fowler, gerard-meszaros, stub, fake, mock, dummy, spy, xunit, junit, pattern, test-pattern
+
+[test-double]: http://www.martinfowler.com/bliki/TestDouble.html
+
