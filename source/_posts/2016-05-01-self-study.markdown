@@ -110,3 +110,11 @@ Tags: test-double, martin-fowler, gerard-meszaros, stub, fake, mock, dummy, spy,
 
 [test-double]: http://www.martinfowler.com/bliki/TestDouble.html
 
+## Scaling to 12 Million Concurrent Connections: How MigratoryData Did It
+
+I've read [this article][million-concurrent-connections] by Mihai Rotaru on how MigratoryData scaled to 12 million concurrent connections in a 1U server. They explain what optimizations they did in order to achieve this.
+
+Tags: migratorydata, mihai-rotaru, concurrent-connection, 1u-server, scalability, websocket
+
+[million-concurrent-connections]: https://mrotaru.wordpress.com/2013/10/10/scaling-to-12-million-concurrent-connections-how-migratorydata-did-it/
+
