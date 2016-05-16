@@ -1,8 +1,0 @@
-## JHipster - The best way to breed a new app
-
-I've read [these slides][jhipster-intro-slides] by Ola Petersson, where he describes the architecture and contents of the jHipster, its pros and cons.
-
-Tags: jhipster, ola petersson, java, code-generation, code-generator, microservice
-
-[jhipster-intro-slides]: https://speakerdeck.com/olbpetersson/jhipster-the-best-way-to-breed-a-new-app
-

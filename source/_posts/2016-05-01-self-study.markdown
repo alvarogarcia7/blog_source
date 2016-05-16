@@ -129,3 +129,11 @@ Tags: jorge-diaz, work, life, career, comfort-zone, scott-dinsmore, career-manag
 [do-what-you-love]: https://www.linkedin.com/pulse/do-what-you-love-jorge-diaz
 [find-work-you-love]: https://www.ted.com/talks/scott_dinsmore_how_to_find_work_you_love/transcript?language=en
 
+## JHipster - The best way to breed a new app
+
+I've read [these slides][jhipster-intro-slides] by Ola Petersson, where he describes the architecture and contents of the jHipster, its pros and cons.
+
+Tags: jhipster, ola petersson, java, code-generation, code-generator, microservice
+
+[jhipster-intro-slides]: https://speakerdeck.com/olbpetersson/jhipster-the-best-way-to-breed-a-new-app
+
