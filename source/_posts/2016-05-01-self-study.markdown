@@ -137,3 +137,11 @@ Tags: jhipster, ola petersson, java, code-generation, code-generator, microservi
 
 [jhipster-intro-slides]: https://speakerdeck.com/olbpetersson/jhipster-the-best-way-to-breed-a-new-app
 
+## How going to coding events helped me get an awesome job
+
+I've read [this article][events-awesome-job] by Gwendolyn Faraday on how to kickstart a career in web development, attending events, pairing and networking. That netted her some interviews to start programming for a living.
+
+Tags: networking, gwendolyn-faraday, event, job, learn-to-code
+
+[events-awesome-job]: https://medium.freecodecamp.com/networking-at-meet-ups-getting-hired-f0f7c4f4681a
+
