@@ -145,3 +145,25 @@ Tags: networking, gwendolyn-faraday, event, job, learn-to-code
 
 [events-awesome-job]: https://medium.freecodecamp.com/networking-at-meet-ups-getting-hired-f0f7c4f4681a
 
+## Maze Generation: Algorithm Recap
+
+I've read [this list][maze-generation] of maze-generation algorithms by Jamis Buck. Including:
+
+  * recursive backtracker
+  * Eller’s algorithm
+  * Kruskal’s algorithm
+  * Prim’s algorithm
+  * recursive division algorithm
+  * Aldous-Broder algorithm
+  * Wilson’s algorithm
+  * Hunt-and-Kill algorithm
+  * Growing Tree algorithm
+  * Binary Tree algorithm
+  * Sidewinder algorithm
+
+
+Tags: recursive-backtracker,eller-algorithm,kruskal-algorithm,prim-algorithm,recursive-division-algorithm,aldous-broder-algorithm,wilson-algorithm,hunt-and-kill-algorithm,growing-tree-algorithm,binary-tree-algorithm,sidewinder-algorithm, jamis-buck, maze, maze-generation, algorithm, list
+
+[maze-generation]: http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
+
+
