@@ -31,6 +31,8 @@ Books I want to finish. Usually come from another quarter:
 
 Books that have entered the queue:
 
+  * [Serverless - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)](https://leanpub.com/serverless) by Obie Fernandez 
+
 {% comment %}
 
 repository for WIP books:
