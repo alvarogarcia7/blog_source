@@ -20,6 +20,7 @@ Books I've read this quarter[^1]:
 Books started, not yet finished (WIP):
 
   * [Domain-Driven Design: Tackling Complexity in the Heart of Software](http://www.amazon.com/exec/obidos/ASIN/0321125215) by Eric Evans, again.
+  * [Amazon Web Services in Action](https://www.manning.com/books/amazon-web-services-in-action) by Michael Wittig and Andreas Wittig
 
   
 Books I want to finish. Usually come from another quarter:
