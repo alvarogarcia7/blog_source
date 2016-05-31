@@ -167,3 +167,14 @@ Tags: recursive-backtracker,eller-algorithm,kruskal-algorithm,prim-algorithm,rec
 [maze-generation]: http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
 
 
+## The Poverty of Constraints
+
+I've read [this article][poverty-of-constraints] by Jamis Buck on interpreting two Korean proverbs in the world of software:
+
+ * A dutiful son comes from a poor home
+ * A poor house has many children
+
+Tags: proverb, korea, philosophy, software, constraint, jamis-buck
+
+[poverty-of-constraints]: http://weblog.jamisbuck.org/2016/3/19/poverty-of-constraints.html
+
