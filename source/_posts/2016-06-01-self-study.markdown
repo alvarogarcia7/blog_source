@@ -19,3 +19,11 @@ Tags: martin-fowler, diversity, gender, workforce, conference, profession, bliki
 
 [DiversityMediocrityIllusion]: http://martinfowler.com/bliki/DiversityMediocrityIllusion.html
 
+## What do cryptic Github comments mean?
+
+I've read [this article][cryptic-github] by Alex Beregszaszi on the abbreviations used in Github comments and pull requests.
+
+Tags: github, pull-request, alex-beregszaszi, abbreviation
+
+[cryptic-github]: https://medium.freecodecamp.com/what-do-cryptic-github-comments-mean-9c1912bcc0a4
+
