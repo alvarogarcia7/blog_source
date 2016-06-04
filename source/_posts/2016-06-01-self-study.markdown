@@ -27,3 +27,11 @@ Tags: github, pull-request, alex-beregszaszi, abbreviation
 
 [cryptic-github]: https://medium.freecodecamp.com/what-do-cryptic-github-comments-mean-9c1912bcc0a4
 
+## 6 erreurs à éviter en tant que développeur freelance
+
+I've read [this article][erreurs-freelance] (in French) by Adrien Joly on the mistakes freelancers shouldn't do when working with clients.
+
+Tags: Adrien Joly, freelance, list, mistake, french,
+
+[erreurs-freelance]: https://medium.com/@adrienjoly/enseignements-apr%C3%A8s-1-an-d-erreurs-en-tant-que-d%C3%A9veloppeur-freelance-916f855efd9b
+
