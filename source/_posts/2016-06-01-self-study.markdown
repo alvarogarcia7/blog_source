@@ -35,3 +35,11 @@ Tags: Adrien Joly, freelance, list, mistake, french,
 
 [erreurs-freelance]: https://medium.com/@adrienjoly/enseignements-apr%C3%A8s-1-an-d-erreurs-en-tant-que-d%C3%A9veloppeur-freelance-916f855efd9b
 
+## Agile Methodology’s Promise Seems To Fall Short in the Face of Reality
+
+I've read [this article][agile-failing-promise] on an experience by Paul Galvin on some failing agile implementations.
+
+Tags: paul-galvin, agile, reality, agility, team-management
+
+[agile-failing-promise]: https://medium.com/@pagalvin/agile-methodology-s-promise-seems-to-fall-short-in-the-face-of-reality-b16d3e775dbe
+
