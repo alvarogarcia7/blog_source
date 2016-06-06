@@ -144,6 +144,13 @@ Note: the second set of parenthesis can be removed; they are left in-place for e
 ```bash
 docker run -v $(pwd):/app -it ubuntu /bin/bash
 ```
+
+The usual stacktrace is this:
+
+```bash
+sed: 1: "{s/,/\n/g}": bad flag in substitute command: '}'
+sed: 1: "{s/^/  - /}": bad flag in substitute command: '}'
+```
 )
 
 from all the markdown files:
