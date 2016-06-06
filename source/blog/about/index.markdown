@@ -10,7 +10,7 @@ Alvaro is a software developer who firmly believes in the eXtreme Programming me
 
 He enjoys reading and reviewing technology books, providing feedback to the author whenever possible, to create the best experience for the final reader
 
-Alvaro has been working in the IT industry for product companies, consulting firms and on his own since 2005 and occasionally blogs at [alvarogarcia7.github.io](http://alvarogarcia7.github.io)
+Alvaro has been working in the IT industry for product companies, consulting firms and on his own since 2005 and occasionally blogs at [alvarogarcia7.github.io](https://alvarogarcia7.github.io)
 
 ## Contact me
 
