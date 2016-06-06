@@ -6,7 +6,7 @@ footer: false
 
 {% img left https://pbs.twimg.com/profile_images/378800000810292601/936ad5646696ac29610f2c1ca304936a.jpeg 300 300 'image' 'images' %}
 
-Alvaro is a software developer who firmly believes in the eXtreme Programming methodology. He's embarked in a lifelong learning process and is now in a symbiotic exchange process with the [Barcelona Software Craftsmanship meetup](http://www.meetup.com/Barcelona-Software-Craftsmanship/), where he is a co-organizer.
+Alvaro is a software developer who firmly believes in the eXtreme Programming methodology. He's embarked on a lifelong learning process and is now in a symbiotic exchange process with the [Barcelona Software Craftsmanship meetup](http://www.meetup.com/Barcelona-Software-Craftsmanship/), where he is a co-organizer.
 
 He enjoys reading and reviewing technology books, providing feedback to the author whenever possible, to create the best experience for the final reader
 
