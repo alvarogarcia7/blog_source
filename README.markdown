@@ -179,6 +179,8 @@ e.g.:
 
 ## Workflow
 
+### Using the local environment
+
 ```dos
 λ cd blog_source
 λ rake new_post[my-new-post]
@@ -189,6 +191,15 @@ e.g.:
 ...
 λ rake integrate
 λ rake generate
+```
+
+### Using the remote environment
+
+```dos
+$ cd blog_source
+$ #write a new post
+$ t cc "..."
+$ t push
 ```
 
 ## Writing a new post in Windows with bash
