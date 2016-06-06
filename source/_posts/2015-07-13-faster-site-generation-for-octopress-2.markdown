@@ -10,6 +10,8 @@ categories:
   - octopress
 ---
 
+2016-04 update: I've discovered that the original Rakefile does a similar job. See [here][native-faster-generation]
+
 After a while, the generation of the static site using [Octopress 2][octopress-2] was starting to be slow (around 2 minutes for 85 posts) for the kind of fast feedback cycle I was expecting.
 
 Inspired by their new features in [Octopress 3][octopress-3], one of them being faster site generation, I decided to retrofit my installation with the same feature.
@@ -93,3 +95,4 @@ Regenerating: 1 file(s) changed at 2015-07-13 08:03:29 ...done in 0.617269045 se
 
 [octopress-2]: http://octopress.org/2011/07/23/octopress-20-surfaces/
 [octopress-3]: http://octopress.org/2015/01/15/octopress-3.0-is-coming/
+[native-faster-generation]: [here](../../../../2016/04/17/faster-site-generation-native-octopress/) 

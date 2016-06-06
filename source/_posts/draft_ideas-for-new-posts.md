@@ -55,3 +55,12 @@ categories:
 
   * the double objective when teaching: yours and your student's
   * the difference of deliberate practice and deliberate use 
+
+2016-04-27-1413 AGB
+
+a new kind of kata. the code is so clean, separated that reaches the overengineering level. the kata starts with that code and the purpose is to remove the overengineering. each pair will stop at a given point. the important part is the discussion between all the pairs, afterwards.
+  
+  another variation would be: from legacy reach a clean state, from overengineered reach a clean state. compare both paths: cost, easiness, ways of working, pleasantness, etc
+
+
+

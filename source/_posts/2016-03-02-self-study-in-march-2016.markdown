@@ -412,7 +412,6 @@ Tags: wolfgang-goerlich, spam, vlog, spammer, machine-learning
 [new-spammer-techniques]: https://www.peerlyst.com/posts/stuck-in-traffic-vlog-103-new-spammer-techniques-j-wolfgang-goerlich
 
 
-
 ## Becoming A Finisher
 
 I've read [this article][becoming-a-finisher] by Christopher Bui where he explains that projects that are too ambitious stall your productivity and make you lose your focus.

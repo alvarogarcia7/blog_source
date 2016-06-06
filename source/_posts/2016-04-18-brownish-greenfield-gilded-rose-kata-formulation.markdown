@@ -1,18 +1,24 @@
 ---
-published: false
+layout: post
+title: "Brownish Greenfield Gilded Rose Kata"
+date: 2016-04-18 00:44:19 +0300
+comments: true
 categories:
   - formulation
   - kata-formulation
   - kata
   - gilded-rose
   - trikitrok
+  - manuel-rivero
   - greenfield
   - legacy-code
+  - bobby-johnson
+  - terry-hughes
 ---
 
-(This formulation has been copied and adapted from [Bobby Johnson](https://twitter.com/NotMyself) and [Terry Hughes](https://twitter.com/TerryHughes)'s [repository](https://github.com/NotMyself/GildedRose))
+(This formulation has been copied and adapted from [Bobby Johnson][notmyself] and [Terry Hughes][terryhughes]'s [repository](https://github.com/NotMyself/GildedRose))
 
-#Brownish Greenfield Gilded Rose Kata
+## Formulation
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods. 
 
@@ -51,4 +57,12 @@ Happy katas and happy koding. Please be careful with the goblin!
   * Use TDD to develop the functionality. Remember, ``Item`` will stay as it is.
   * Have fun
 
+## Acknowledgements
+
+Thanks to [@trikitrok][trikitrok] for the idea, [Bobby Johnson][notmyself] and [Terry Hughes][terryhughes] for allowing me to copy and modify their kata.
+
 [emilys-repo]: https://github.com/emilybache/GildedRose-Refactoring-Kata
+[trikitrok]: https://twitter.com/@trikitrok
+[notmyself]: https://twitter.com/NotMyself
+[terryhughes]: https://twitter.com/TerryHughes
+

@@ -19,15 +19,21 @@ Books I've read this quarter[^1]:
 
 Books started, not yet finished (WIP):
 
+  * [Domain-Driven Design: Tackling Complexity in the Heart of Software](http://www.amazon.com/exec/obidos/ASIN/0321125215) by Eric Evans, again.
+  * [Amazon Web Services in Action](https://www.manning.com/books/amazon-web-services-in-action) by Michael Wittig and Andreas Wittig
+  * [Reinventing Organizations](http://www.reinventingorganizations.com/) by Frederic Laloux
+
   
 Books I want to finish. Usually come from another quarter:
 
   * [Why programmers work at night](https://leanpub.com/nightowls) by Swizec Teller
   * [Readings in Database Systems, 5th Edition](http://www.redbook.io/) by Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors
-  * [Building Microservices, Designing Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do), by Sam Newman, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [building-microservices](/{{site.category_dir}}/building-microservices)0
+  * [Building Microservices, Designing Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do), by Sam Newman, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [building-microservices](/{{site.category_dir}}/building-microservices)
 
 
 Books that have entered the queue:
+
+  * [Serverless - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)](https://leanpub.com/serverless) by Obie Fernandez 
 
 {% comment %}
 
@@ -35,7 +41,7 @@ repository for WIP books:
 
   * [The Well-Grounded Java Developer](http://www.manning.com/evans/) by Benjamin J. Evans and Martijn Verburg
   * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovača
-  * [Working Effectively with Legacy Code](http://www.amazon.co.uk/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) by Michael Feathers, again
+  * [Working Effectively with Legacy Code](http://www.amazon.co.uk/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) by Michael Feathers, again. Blog posts under the tag [wewlc](/{{site.category_dir}}/wewlc)
   * [Haskell Programming](http://haskellbook.com/), By Chris Allen and Julie Moronuki. This book is still in progress and I'm reviewing it
   * [Pragmatic Thinking and Learning: Refactor Your Wetware](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning) by Andy Hunt  
   
