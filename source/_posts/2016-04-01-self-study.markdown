@@ -8,15 +8,20 @@ categories:
   - april
   - 2016
   - read
+  - action
   - agile
   - alan-scherger
+  - alberto-mena
   - analysis
   - anders-ericsson
   - angel-medinilla
   - announcement
   - apple
+  - application
   - attack
   - automation
+  - autonomy
+  - avdi-grimm
   - bonilista
   - bootcamp
   - breach
@@ -40,6 +45,7 @@ categories:
   - corporateculture
   - craftsmanship
   - dan-luu
+  - dan-pink
   - dave-gerhardt
   - david-bonilla
   - defect
@@ -49,12 +55,16 @@ categories:
   - deployment
   - design
   - dev-bootcamp
+  - developer
   - developer-bootcamp
+  - developer-quality
   - development
+  - devops
   - dillon-forrest
   - domain
   - drift
   - dynamically-typed
+  - employee
   - entrepreneurship
   - expert
   - exploit
@@ -70,6 +80,7 @@ categories:
   - genius
   - geofence
   - geofencing
+  - git
   - github
   - github-pages
   - go
@@ -84,13 +95,16 @@ categories:
   - hypothesis
   - improvement
   - incremental-generation
+  - infographic
   - innovation
   - intelligence
+  - jacob-shriar
   - java
   - jekyll
   - jekyll-3
   - jim-bird
   - job
+  - job-vs-career
   - jon-yau
   - jooq
   - juergen-hoeller
@@ -98,6 +112,7 @@ categories:
   - kai-wei
   - kaizen
   - kent-beck
+  - kerrick-long
   - king
   - kotlin
   - laboratory
@@ -110,6 +125,7 @@ categories:
   - malcolm-gladwell
   - mark-maunder
   - martin-fowler
+  - mastery
   - mastery-autonomy-purpose
   - meta
   - meta-read
@@ -141,8 +157,11 @@ categories:
   - productivity
   - professional-development
   - programming
+  - purpose
   - quadtree
+  - quality
   - quote
+  - reaction
   - reactive-programming
   - read-on-read
   - refactoring
@@ -161,6 +180,7 @@ categories:
   - security
   - self-investment
   - side-project
+  - social-media
   - spanish
   - speed
   - spring
@@ -173,10 +193,13 @@ categories:
   - strategy
   - student
   - subcategory
+  - success
   - susanna-berg
   - swizec-teller
   - talent
   - team-management
+  - ted
+  - ted-talk
   - tim-urban
   - time-management
   - tip
@@ -187,7 +210,9 @@ categories:
   - uber
   - unlimited-vacation
   - vacation
+  - video
   - vulnerability
+  - webapp
   - webcast
   - wordpress
   - work
@@ -334,6 +359,61 @@ Uses software product to find bugs in filesystems
 Tags: filesystem, file, dan-luu, analysis
 
 [files-are-hard]: http://danluu.com/file-consistency/
+
+## Contrata a un fracasado con ilusión inquebrantable
+
+I've read [this article][developer-qualities] by Alberto Mena (in Spanish) on what are the qualities that define a good programmer:
+
+  * humility
+  * failure
+  * illusion
+  * hard work
+
+Tags: alberto-mena, spanish, team-management, success, developer, quality, developer-quality
+
+[developer-qualities]: http://www.contunegocio.es/tecnologia/contrata-a-un-fracasado-con-ilusion-inquebrantable/
+
+## Don't react
+
+I've read [this article][dont-react] by Avdi Grimm on how the action vs reaction attitude. Why to prefer the former.
+
+Tags: action, reaction, social-media, avdi-grimm, productivity
+
+[dont-react]: http://journal.avdi.org/2016/04/14/dont-react/
+
+## FTP is so 90's. Let's deploy via Git instead!
+
+I've read [this guide][deploy-using-git] on how to deploy using git. By Kerrick Long
+
+Tags: kerrick-long, git, deployment, webapp, application, devops
+
+[deploy-using-git]: https://coderwall.com/p/xczkaq/ftp-is-so-90-s-let-s-deploy-via-git-instead
+
+## Job vs Career: 10 Key Differences You Need To Understand
+
+I've read [the infographic and the article][job-vs-career] by Jacob Shriar on what differentiates a job from a career
+
+Tags: jacob-shriar, infographic, job-vs-career, comparison, job, career
+
+[job-vs-career]: https://www.officevibe.com/blog/job-vs-career
+
+## The Secret To Employee Motivation
+
+I've read [the infographic and the article][employee-motivation] by Jacob Shriar on what motivates employess: mastery, autonomy and purpose. A direct reference to Dan Pink's "The puzzle of motivation" TED talk.
+
+Tags: jacob-shriar, motivation, employee, infographic, mastery, autonomy, purpose
+
+[employee-motivation]: https://www.officevibe.com/blog/secret-employee-motivation-infographic
+
+## The puzzle of motivation
+
+I've watched [this TED talk][puzzle-of-motivation] by Dan Pink on what motivates us: intrinsic vs extrinsic motivation.
+
+Also about the gap that exists between what science knows and what businesses propose.
+
+Tags: ted, ted-talk, video, dan-pink, mastery, autonomy, purpose
+
+[puzzle-of-motivation]: https://www.ted.com/talks/dan_pink_on_motivation
 
 ## Applying a ceiling to the bug count
 
