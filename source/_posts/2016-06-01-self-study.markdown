@@ -43,3 +43,15 @@ Tags: paul-galvin, agile, reality, agility, team-management
 
 [agile-failing-promise]: https://medium.com/@pagalvin/agile-methodology-s-promise-seems-to-fall-short-in-the-face-of-reality-b16d3e775dbe
 
+## How sharing other people’s feelings can make you sick
+
+I've read [this article][sharing-feelings-empathy] by Emma Young on how being empathic to others can make you sick on their own illness. How illness can be socially transmitted, by loved ones or even by strangers.
+
+How algorithms (that display news) can affect your own well-being and how this is reduced by using compassion instead of empathy.
+
+Borders on the difference of empathy vs compassion.
+
+Tags: emma-young, empathy, compassion, feeling, team-management, vent-free-zone, sickness, illness
+
+[sharing-feelings-empathy]: https://www.newscientist.com/article/mg23030732-900-how-sharing-other-peoples-feelings-can-make-you-sick/
+
