@@ -146,6 +146,8 @@ categories:
   - oracle
   - passion
   - per-malmen
+  - pep
+  - pep-20
   - performance
   - personal-development
   - phil-haack
@@ -158,6 +160,7 @@ categories:
   - professional-development
   - programming
   - purpose
+  - python
   - quadtree
   - quality
   - quote
@@ -217,6 +220,7 @@ categories:
   - wordpress
   - work
   - zaragoza
+  - zen
 ---
 
 ## Deliberate Practice: What It Is and Why You Need It
@@ -468,6 +472,8 @@ Tags: procrastinator, procrastination, mind, time-management, tim-urban
 I've read [the PEP20][pep20], the zen of python, with special attention to this:
 
 > Explicit is better than implicit.
+
+Tags: pep-20, pep, python, zen
 
 [pep20]: https://www.python.org/dev/peps/pep-0020/
 
