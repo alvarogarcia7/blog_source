@@ -1,8 +1,0 @@
-## AWS Lambda for Beginners
-
-I've read [this article][aws-lambda-for-beginners] by Mashooq Badar on an introduction to AWS Lambdas, where the basics are covered until getting a Lambda service in production. Using Python or Java.
-
-Tags: mashooq-badar, serverless, aws, aws-lambda, lambda, python, java, devops, serverless-architecture
-
-[aws-lambda-for-beginners]: https://dzone.com/articles/aws-lambda-for-beginners
-

@@ -55,3 +55,11 @@ Tags: emma-young, empathy, compassion, feeling, team-management, vent-free-zone,
 
 [sharing-feelings-empathy]: https://www.newscientist.com/article/mg23030732-900-how-sharing-other-peoples-feelings-can-make-you-sick/
 
+## AWS Lambda for Beginners
+
+I've read [this article][aws-lambda-for-beginners] by Mashooq Badar on an introduction to AWS Lambdas, where the basics are covered until getting a Lambda service in production. Using Python or Java.
+
+Tags: mashooq-badar, serverless, aws, aws-lambda, lambda, python, java, devops, serverless-architecture
+
+[aws-lambda-for-beginners]: https://dzone.com/articles/aws-lambda-for-beginners
+
