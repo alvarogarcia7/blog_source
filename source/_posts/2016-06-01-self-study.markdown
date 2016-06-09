@@ -63,3 +63,34 @@ Tags: mashooq-badar, serverless, aws, aws-lambda, lambda, python, java, devops, 
 
 [aws-lambda-for-beginners]: https://dzone.com/articles/aws-lambda-for-beginners
 
+## Advanced Logging with the JavaScript Console
+
+I've watched [this course][js-console-for-power-users] by Mykola Bilokonsky at egghead.io.
+
+In it, he covers the following methods on the console:
+
+```javascript
+console.log
+console.warn
+console.error
+console.info
+console.debug
+```
+
+The amount of parameters does not matter, it will put a space in between. printing an object will print its values
+
+console.log with the C's printf syntax, as long as the first parameter is a string
+
+```javascript
+  %o for an object
+  %c for CSS
+```
+
+```javascript
+console.group / groupCollapsed / groupEnd
+```
+
+Tags: mykola-bilokonsky, logging, javascript, console, egghead, course
+
+[js-console-for-power-users]: https://egghead.io/series/js-console-for-power-users
+
