@@ -19,6 +19,7 @@ Self-management (structures), page 90:
 >  [In] Teal Organizations [...] people are not made to fit pre-defined jobs;
 >  their job emerge from a multitude of roles and responsibilities they pick
 >  up based on their interests, talents, and the needs of the organization.
+>  
 > - Frederic Laloux, Reinventing Organizations
 
 In my opinion, this is the role of the software consultant when working with a client:

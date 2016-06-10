@@ -29,6 +29,7 @@ Self-management (structures), page 70:
 >  * The starting point is always to look for enthusiasm, strengths, and
 > existing capabilities within the team. The coach projects trust that
 > the team has all it takes to solve the problems it faces. 
+> 
 > - Frederic Laloux, Reinventing Organizations
 
 [reinventing-organizations]: http://www.reinventingorganizations.com
