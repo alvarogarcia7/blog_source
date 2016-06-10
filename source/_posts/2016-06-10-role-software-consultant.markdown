@@ -24,7 +24,7 @@ Self-management (structures), page 90:
 In my opinion, this is the role of the software consultant when working with a client:
 even if the customer has asked for help in some parts of their activity, a senior-enough
 consultant can discover other areas where they can add value, even if that new
-work doesn't have much in common with the initlal request (this change should
+work doesn't have much in common with the initial request (this change should
 be approved by the people that will be affected).
 
 This is also a thought that [Mash][mash] and [Sandro][sandro] were discussing lately.
