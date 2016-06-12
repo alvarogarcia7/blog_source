@@ -102,3 +102,21 @@ Tags: kalyana-sundaram, after-work, career, career-management, learning, lifelon
 
 [after-work]: https://www.linkedin.com/pulse/after-work-what-determines-your-future-spend-one-hour-sundaram
 
+## Expert Resumé Driven Development
+
+I've read [this article][expert-rdd] by Tariq Ali, where he explains the Resume-Driven Development, as a subset of the Principal-Agent Problem:
+
+> The Principal (management) hires an Agent (a developer) to build a program and
+> allow the Agent to choose the tech stack. But the Agent's interest (making his resumé
+> more impressive) can be orthogonal to the Principal's interest (producing a great
+> product by using the "right tool" for the job). If the Principal allows the Agent to
+> do as he wish, then the Agent will do as he wishes, thereby leading to the Agent to
+> prosper and the Principal to suffer.
+
+References the [Gartner Hype Cycle][gartner-hype-cycle]
+
+Tags: tariq-ali, resume-driven-development, hype, cycle, hype-cycle, career, professional-career
+
+[expert-rdd]: https://dev.to/tra/expert-resum-driven-development
+[gartner-hype-cycle]: http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp
+
