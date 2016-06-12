@@ -9,6 +9,8 @@ categories:
   - 2016
   - Q2
   - self-study
+  - building-microservices
+  - release-it
 ---
 
 Books I've read this quarter[^1]:
