@@ -120,3 +120,16 @@ Tags: tariq-ali, resume-driven-development, hype, cycle, hype-cycle, career, pro
 [expert-rdd]: https://dev.to/tra/expert-resum-driven-development
 [gartner-hype-cycle]: http://www.gartner.com/technology/research/methodologies/hype-cycle.jsp
 
+## Resume Driven Development
+
+I've read [this article][rdd] by  Mike Loukides about the problem of finding a technical person based on CVs and the [Law of the instrument][law-instrument]:
+
+>  [...] the inability of a technical team to specify what they really want
+>  (a developer with good programming taste and instincts), and
+>  instead hiring someone who has a particular skill or credential [...]
+
+Tags: law-instrument, mike-loukides, cv, career, resume-driven-development
+
+[rdd]: http://radar.oreilly.com/2014/10/resume-driven-development.html
+[law-instrument]: https://en.wikipedia.org/wiki/Law_of_the_instrument
+
