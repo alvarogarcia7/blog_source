@@ -1,7 +1,7 @@
-baseurl = "http://example.com"
+baseurl = "http://example.com/blog"
 disablePathToLower = false
 languageCode = "en-us"
-title = "Parsia's Den"
+title = "The long way through Software Craftsmanship"
 theme = "hugo-octopress"
 
 # number of blog posts displayed in each page
@@ -90,7 +90,7 @@ post = "/blog/:year/:month/:day/:title"
 	truncate = true
 
 	# author's name (this will appear in metadata and under posts)
-	author = "Author's name"
+	author = "Alvaro Garcia"
 
 	# appears in the site header under website title
 	subtitle = "Subtitle appears under website title"
