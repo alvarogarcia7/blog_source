@@ -1,0 +1,64 @@
+---
+categories:
+- cas2k14
+- wrapup
+- conference
+- barcelona
+- agilebcn
+comments: true
+date: 2014-12-08T19:18:28Z
+title: CAS2014 Wrap up
+url: /2014/12/08/cas2014-wrap-up/
+---
+
+This year's edition of the CAS 2014 has been awesome. There were several tracks:
+
+ * Enterprise Agile
+ * Collaboration, Culture and Teams
+ * Delighting Products
+ * Agile+
+ * Development Practices and Craftsmanship
+
+The last one is where I spent most of the time.
+
+The schedule
+----------
+
+ The first day:
+
+ * [Sandro Mancuso][sandro]: talking about Software Craftsmanship
+ * [Jose Manuel Armesto][armesto]: talking about Unit Testing sucks (and it's our fault)
+ * [Rubén Martín Pozo][rmarpozo]: talking about Specification by example - Historia de un equipo que no odia documentar
+ * [Xavi Gost][xavigost]: talking about La economía del refactoring. Una visión desde la gestión económica del proyecto.
+ * [Pedro Gustavo Torres][pedro]: talking about Pair Programming
+
+ The second day:
+ 
+ * [Rafael de Castro][rafa]: talking about Generando tests
+ * [Ricardo Borillo][borillo]: talking about CQRS y los beneficios surgidos de la necesidad.
+ * [Manu Cupcic][manu] and [Adrian Perreau de Pinninck][adrian]: talking about Delivery at Scale.
+ * [Juan Gabardini][jgabardini]: talking about Testing en equipos infectados de test. This talk was also prepared by Juan Diego Vasco Moncada but he couldn't come.
+
+ Some thoughts
+ ----------
+
+ The conferences were awesome, but I'd preferred if most (if not all) were in English so this conference can attract more international speakers
+
+ There were 600+ people in the [CCCB](http://www.cccb.org/). That was only possible due to all the volunteers, organizers, caterers and the assistants.
+
+
+ More info
+ --------
+
+ You can find more information on the [official website](http://cas2014.agile-spain.org/) and on twitter using the hashtag [#cas2014](https://twitter.com/search?q=%23cas2k14&src=tyah)
+
+ [sandro]: https://twitter.com/sandromancuso
+ [rmarpozo]: https://twitter.com/rmarpozo
+ [armesto]: https://twitter.com/fiunchinho
+ [xavigost]: https://twitter.com/XaV1uzz
+ [pedro]: https://twitter.com/_pedro_torres
+ [rafa]: https://twitter.com/rafadc
+ [borillo]: https://twitter.com/borillo
+ [adrian]: https://twitter.com/eidrien
+ [jgabardini]: https://twitter.com/jgabardini
+ [manu]: https://twitter.com/cupcicm
