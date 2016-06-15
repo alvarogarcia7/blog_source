@@ -153,3 +153,11 @@ Tags: aaron-batalion, tech-interview, hiring, team
 
 [most-tech-interviews]: https://medium.com/lightspeed-venture-partners/most-tech-interviews-suck-the-only-4-questions-that-matter-1a71181ef4d4
 
+## Why Socrates UK is not just a conference for software craftsmen
+
+I've read [this article][design-at-socrates] by  Giulia Mantuano on the SoCraTes UK 2016 conference, where she gave a talk on the importance of design in our environment, where we craft beautiful interfaces in our programs.
+
+Tags: socrates, socrates-uk, socrates-uk-2016, giulia-mantuano, design
+
+[design-at-socrates]: http://codurance.com/2016/06/07/why-socrates-uk-is-not-just-a-conference-for-software-craftsmen/
+
