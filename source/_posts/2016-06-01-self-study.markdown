@@ -171,3 +171,11 @@ Tags: passwordless, lastpass, vault, password-vault, quincy-larson, hack, leak, 
 
 [destroy-all-passwords]: https://medium.freecodecamp.com/360-million-reasons-to-destroy-all-passwords-9a100b2b5001
 
+## A Brutally Honest Rejection Letter by an HR
+
+I've read [this parody letter][honest-rejection-letter] by Nish Rao, on the real reasons so HR uses these templates for rejecting candidates
+
+Tags: nish-rao, parody, rejection-letter, hr, human-resources
+
+[honest-rejection-letter]: https://medium.com/the-coffeelicious/a-brutally-honest-rejection-letter-by-an-hr-493164bc5205
+
