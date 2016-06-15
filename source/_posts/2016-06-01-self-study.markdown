@@ -187,3 +187,11 @@ Tags: passwordless, justin-balthrop, heartbleed, password
 
 [passwords-are-obsolete]: https://medium.com/@ninjudd/passwords-are-obsolete-9ed56d483eb
 
+## Server Side Swift vs. The Other Guys — 2: Speed
+
+I've read [this comparison][server-side-swift] of languages and frameworks (Vapor (Swift), Ruby on Rails (Ruby), Laravel (PHP), Lumen (PHP), Express (JavaScript), Django (Python), Flask (Python), Spring (Java), Nancy (C#), Go (Pure Go, no framework)) and to benchmark Plaintext, JSON, Random SQLite Fetch.
+
+Tags: comparison, qutheory, speed, swift
+
+[server-side-swift]: https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-2-speed-ca65b2f79505
+
