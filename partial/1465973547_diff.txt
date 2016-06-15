@@ -1,0 +1,10 @@
+## Craftsmanship, design, and code
+
+I've read [this article][craftsmanship-design-and-code] by Jonathan Z. White about the relation between design and code and what craftsmanship is about. 
+
+Suggests learning more about the counterpart (design vs code), to better understand the activity of creating software as a whole. For developers, suggests a few activities to improve (e.g., read better code, write unit tests, analyze code). Cites that the only way of measuring progress is comparing where you are today compared to some time ago.
+
+Tags: craftsmanship, jonathan-white, design, code, improving
+
+[craftsmanship-design-and-code]: https://medium.freecodecamp.com/craftsmanship-design-and-code-6d93eba3e7fe
+
