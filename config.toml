@@ -93,13 +93,13 @@ post = "/blog/:year/:month/:day/:title"
 	author = "Alvaro Garcia"
 
 	# appears in the site header under website title
-	subtitle = "Subtitle appears under website title"
+	#subtitle = "Subtitle appears under website title"
 
 	# used in the search engine
 	search_engine_url = "https://www.google.com/search"
 
 	# Text of the Continue Reading label. &rarr; == right arrow, but it gets messed up in the string so we will add it to index.html manually
-	continue_reading = "Would you like to know more?"
+	## continue_reading = "Would you like to know more?"
 
 	# Google analytics code
 	googleAnalytics = "google analytics"
@@ -109,15 +109,9 @@ post = "/blog/:year/:month/:day/:title"
 	disqusShortname = "Your Google Analytics tracking code"
 
 	# sidebar links
-	github = "https://github.com/parsiya/"
-	bitbucket = "https://bitbucket.org/parsiya/"
-	twitter = "https://twitter.com/cryptogangsta/"
-	keybase = "https://keybase.io/parsiya/"
-	stackoverflow = ""
+	github = "https://github.com/alvarobiz/"
+	twitter = "https://twitter.com/@alvarobiz/"
 	linkedin = ""
-	googleplus = ""
-	youtube = ""
-	facebook = ""
 
 	rss = true  # switch to true to enable RSS icon link
 
