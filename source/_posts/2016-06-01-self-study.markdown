@@ -145,3 +145,11 @@ Tags: joshua-chambers, ben-terrett, gds, webapp, mobile-app, native-app, product
 
 [gds-bans-mobile-apps]: https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/
 
+## Most Tech Interviews Suck — The Only 4 Questions That Matter
+
+I've read [this article][most-tech-interviews] on why the majority of technical interviews could be improved, asking four questions instead of following other practices. By Aaron Batalion
+
+Tags: aaron-batalion, tech-interview, hiring, team
+
+[most-tech-interviews]: https://medium.com/lightspeed-venture-partners/most-tech-interviews-suck-the-only-4-questions-that-matter-1a71181ef4d4
+
