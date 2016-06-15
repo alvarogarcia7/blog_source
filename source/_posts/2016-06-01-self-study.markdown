@@ -179,3 +179,11 @@ Tags: nish-rao, parody, rejection-letter, hr, human-resources
 
 [honest-rejection-letter]: https://medium.com/the-coffeelicious/a-brutally-honest-rejection-letter-by-an-hr-493164bc5205
 
+## Passwords are Obsolete
+
+I've read [this article][passwords-are-obsolete] by Justin Balthrop on how to set up a passwordless system and how is that related to the Heartbleed bug.
+
+Tags: passwordless, justin-balthrop, heartbleed, password
+
+[passwords-are-obsolete]: https://medium.com/@ninjudd/passwords-are-obsolete-9ed56d483eb
+
