@@ -125,7 +125,7 @@ post = "/blog/:year/:month/:day/:title"
 	# custom_css = ["css/custom.css","css/custom2.css"]
 
 	# 404.html header and text -both support markdown
-	notfound_header = "There's nothing here"
+	notfound_header = "These are not the posts you're looking for"
 
 	notfound_text = """Please either go back or use the navigation/sidebar menus.
 	"""
