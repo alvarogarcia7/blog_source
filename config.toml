@@ -111,7 +111,7 @@ post = "/blog/:year/:month/:day/:title"
 	# sidebar links
 	github = "https://github.com/alvarobiz/"
 	twitter = "https://twitter.com/@alvarobiz/"
-	linkedin = ""
+	linkedin = "https://es.linkedin.com/in/alvarogarcia7"
 
 	rss = true  # switch to true to enable RSS icon link
 
