@@ -161,3 +161,13 @@ Tags: socrates, socrates-uk, socrates-uk-2016, giulia-mantuano, design
 
 [design-at-socrates]: http://codurance.com/2016/06/07/why-socrates-uk-is-not-just-a-conference-for-software-craftsmen/
 
+## 360 million reasons to destroy all passwords
+
+I've read [this article][destroy-all-passwords] by Quincy Larson about the insecurity of passwords, both managed by vaults (like LastPass) or remembered ones. They all are susceptible to being discovered, leaked or shared to other sites / accounts.
+
+The author suggests to use passwordless login, which sends a link to your email account, which allows you to log in to the application
+
+Tags: passwordless, lastpass, vault, password-vault, quincy-larson, hack, leak, password
+
+[destroy-all-passwords]: https://medium.freecodecamp.com/360-million-reasons-to-destroy-all-passwords-9a100b2b5001
+
