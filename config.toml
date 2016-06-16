@@ -1,4 +1,4 @@
-baseurl = "http://example.com/blog"
+baseurl = "http://example.com/"
 disablePathToLower = false
 languageCode = "en-us"
 title = "The long way through Software Craftsmanship"
@@ -7,8 +7,8 @@ theme = "hugo-octopress"
 # number of blog posts displayed in each page
 paginate = 6
 
-pygmentsuseclasses = false
-pygmentsstyle = "solarized_dark"
+pygmentsuseclasses = true
+pygmentsstyle = "monokai"
 
 # you need to install Solarized from https://github.com/john2x/solarized-pygment.git
 # Octopress blog used Solarized_dark
@@ -21,8 +21,9 @@ pygmentscodefences = true
 # pygmentsoptions = "linenos=true"
 
 [permalinks]
-post = "/blog/:year/:month/:day/:title"
-
+blog     = "/:section/:year/:month/:day/:title/"
+articles = "/:section/:year/:month/:day/:title/"
+    
 # make tags and categories work
 [indexes]
 	tag = "tags"
@@ -54,14 +55,15 @@ post = "/blog/:year/:month/:day/:title"
 	weight = 0
 
 [[menu.sidebar]]
-	Name = "Hugo"
-	URL = "/categories/hugo/"
-	weight = 1
-
-[[menu.sidebar]]
 	Name = "Homepage"
 	URL = "/"
 	weight = 2
+
+[[menu.sidebar]]
+	Name = "Breadcrumbs"
+	URL = "/blog/"
+	weight = 2
+
 
 [params]
 
