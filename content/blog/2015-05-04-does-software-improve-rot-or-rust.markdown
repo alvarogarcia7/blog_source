@@ -12,7 +12,6 @@ comments: true
 date: 2015-05-04T00:09:54Z
 published: false
 title: Does software improve, rot or rust?
-url: /2015/05/04/does-software-improve-rot-or-rust/
 ---
 
 What effects does time produce on software, without any external interaction?

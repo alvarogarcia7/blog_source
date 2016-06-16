@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2015-04-30T20:22:16Z
 title: 'Internal training: Introduction to AngularJs'
-url: /2015/04/30/internal-training-introduction-to-angularjs/
 ---
 
 At a client, today I've done an internal training on [angular js][angular]: we've prepared some [slides][slides] and a live demo.

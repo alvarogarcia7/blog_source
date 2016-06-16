@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2015-02-24T20:57:43Z
 title: The purple wire
-url: /2015/02/24/the-purple-wire/
 ---
 
 A quote from the [Mythical Man-Month][mythical-man-month]:

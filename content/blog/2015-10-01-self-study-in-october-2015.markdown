@@ -103,7 +103,6 @@ categories:
 comments: true
 date: 2015-10-01T15:25:19Z
 title: Self-Study in October 2015
-url: /2015/10/01/self-study-in-october-2015/
 ---
 
 ## Blazing Fast HTML: Virtual DOM in Elm

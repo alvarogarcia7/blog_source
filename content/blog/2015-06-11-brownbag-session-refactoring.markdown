@@ -5,7 +5,6 @@ categories:
 comments: true
 date: 2015-06-11T20:22:16Z
 title: 'Brown-bag session: Refactoring'
-url: /2015/06/11/brownbag-session-refactoring/
 ---
 
 At a client, today we've done a brown-bag session on refactoring: we've gone through 

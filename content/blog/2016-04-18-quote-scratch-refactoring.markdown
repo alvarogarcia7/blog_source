@@ -8,7 +8,6 @@ comments: true
 date: 2016-04-18T01:20:54Z
 published: false
 title: 'Quote: Scratch Refactoring'
-url: /2016/04/18/quote-scratch-refactoring/
 ---
 
 In Working effectively with legacy code, Michael Feathers explains a technique for getting a better understanding of the code:

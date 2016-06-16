@@ -4,7 +4,6 @@ comments: true
 date: 2015-12-03T23:16:13Z
 published: false
 title: 'Desksurfing: Survival Tips'
-url: /2015/12/03/desksurfing-survival-tips/
 ---
 
 ## Suspend the judgment

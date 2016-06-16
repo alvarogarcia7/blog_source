@@ -8,7 +8,6 @@ categories:
 comments: true
 date: 2015-03-16T05:42:44Z
 title: TDD Meetup Retrospective
-url: /2015/03/16/tdd-meetup-retrospective/
 ---
 
 Yesterday we organized a TDD meetup at the [FIB - Barcelona School of Informatics UPC][upc], within [Barcelona Software Craftsmanship][BCNSCweb] sponsored by the [Junior Empresa d'Informàtica][jedi]. The meetup started at 9:00 until 18:00, with a one-hour pause in the middle.

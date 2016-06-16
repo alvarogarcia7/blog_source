@@ -184,7 +184,6 @@ categories:
 comments: true
 date: 2015-07-01T01:08:10Z
 title: Self-study in July 2015
-url: /2015/07/01/self-study-in-july-2015/
 ---
 
 I've grouped all small posts related to the self-study from July 2015 into a single post

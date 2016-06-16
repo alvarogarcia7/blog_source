@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2015-04-25T13:49:01Z
 title: How I read Apprenticeship Patterns
-url: /2015/04/25/how-i-read-apprenticeship-patterns/
 ---
 
 {% comment %}

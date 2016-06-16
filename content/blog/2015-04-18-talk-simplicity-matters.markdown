@@ -8,7 +8,6 @@ categories:
 comments: true
 date: 2015-04-18T14:44:06Z
 title: 'Talk: Simplicity matters'
-url: /2015/04/18/talk-simplicity-matters/
 ---
 
 I've seen this video by [Rich Hickey][rich-hickey-twitter]: "[Simplicity matters][simplicity-matters-video]", taken from [Manuel Rivero][trikitrok]'s google plus' [site][via-this]

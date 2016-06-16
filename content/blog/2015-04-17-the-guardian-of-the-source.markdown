@@ -15,7 +15,6 @@ categories:
 comments: true
 date: 2015-04-17T22:01:48Z
 title: The Guardian of the Source
-url: /2015/04/17/the-guardian-of-the-source/
 ---
 
 Overheard today at the office, while they were discussing the approval of a pull request: 

@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2015-12-02T19:10:40Z
 title: 'Tip: automate the blog publishing'
-url: /2015/12/02/tip-automate-the-blog-publishing/
 ---
 
 I've automated the generation of the blog using [Travis CI][travis-ci]. Using this new way, each commit generates a new version of the pages.

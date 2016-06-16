@@ -11,7 +11,6 @@ categories:
 comments: true
 date: 2015-10-02T08:53:29Z
 title: 'Tip: Propagate the failure in bash'
-url: /2015/10/02/tip-propagate-the-failure-in-bash/
 ---
 
 In bash, the usual behavior is to return the last status code:

@@ -10,7 +10,6 @@ categories:
 comments: true
 date: 2015-08-08T14:11:29Z
 title: Recognizing dependencies
-url: /2015/08/08/recognizing-dependencies/
 ---
 
 From the Chapter 3, Managing Dependencies, from the book Practical Object-Oriented Design in Ruby, by Sandi Metz:

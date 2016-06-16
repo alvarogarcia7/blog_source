@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2015-04-25T12:25:09Z
 title: Talks I have attended at the Craft Conf 2015
-url: /2015/04/25/talks-i-have-attended-at-the-craft-conf-2015/
 ---
 
 These are the talks I've attended at the Craft Conf 2015:

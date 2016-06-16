@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2015-12-08T17:37:28Z
 title: Clojure and the macro and
-url: /2015/12/08/clojure-and-the-macro-and/
 ---
 
 While on the REPL, I tried this:

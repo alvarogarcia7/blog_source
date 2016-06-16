@@ -8,7 +8,6 @@ categories:
 - library
 date: 2015-07-30T13:42:44Z
 title: Tool to Find Duplicate values in Constants
-url: /2015/07/30/tool-to-find-duplicate-values-in-constants/
 ---
 
 Imagine having this java class:

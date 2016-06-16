@@ -4,7 +4,6 @@ comments: true - environment - protip - java - python - haskell - clojure-test -
   - antipattern
 date: 2015-09-08T07:46:56Z
 title: A basic working environment
-url: /2015/09/08/a-basic-working-environment/
 ---
 
 Sometimes, when working out of somebody's else computer, I won't have my preferred IDE installed. 

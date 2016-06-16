@@ -12,7 +12,6 @@ categories:
 comments: true
 date: 2015-05-05T23:00:17Z
 title: 'Internal training: Testing is hard - just do it'
-url: /2015/05/05/internal-training-testing-is-hard-just-do-it/
 ---
 
 At a client, last week I've organized an internal training, in the form of a discussion about this article: [Testing is hard - just do it][article]

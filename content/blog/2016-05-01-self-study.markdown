@@ -103,7 +103,6 @@ categories:
 comments: true
 date: 2016-05-01T00:08:19Z
 title: Self-Study in May 2016
-url: /2016/05/01/self-study/
 ---
 
 ## Being A Developer After 40

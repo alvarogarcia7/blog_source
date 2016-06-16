@@ -10,7 +10,6 @@ categories:
 comments: true
 date: 2015-05-10T21:00:52Z
 title: 'Talk: Software is eating the world'
-url: /2015/05/10/talk-software-is-eating-the-world/
 ---
 
 I've watched [this talk](http://reaktor.com/blog/erik-meijer-software-eating-world/) by Erik Meijer

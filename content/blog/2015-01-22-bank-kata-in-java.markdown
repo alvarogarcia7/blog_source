@@ -8,7 +8,6 @@ categories:
 comments: true
 date: 2015-01-22T22:52:01Z
 title: Bank kata in java
-url: /2015/01/22/bank-kata-in-java/
 ---
 
 [Manuel Rivero][trikitrok] and I did a subset of the [bank kata](https://github.com/sandromancuso/Bank-kata), proposed by [Sandro Mancuso][sandro].

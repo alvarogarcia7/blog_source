@@ -8,7 +8,6 @@ categories:
 comments: true
 date: 2015-02-07T18:54:54Z
 title: 'Open discussion: On code reviews'
-url: /2015/02/07/open-discussion-on-code-reviews/
 ---
 
 At a client, I organized an open discussion on code reviews. We had a great conversation.

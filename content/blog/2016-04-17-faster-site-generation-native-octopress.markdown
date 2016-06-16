@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2016-04-17T23:39:23Z
 title: Faster site generation with a native Octopress 2
-url: /2016/04/17/faster-site-generation-native-octopress/
 ---
 
 Note: this article is an answer to [a previous one][faster-site-generation], about the same topic: a tool for a faster site generation while developing / writing articles, using octopress 2.

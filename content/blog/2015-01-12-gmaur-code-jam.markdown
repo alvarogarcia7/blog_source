@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2015-01-12T04:25:22Z
 title: 'GMaur code jam 2015: 01 - Mini-Power Swapper'
-url: /2015/01/12/gmaur-code-jam/
 ---
 
 Last year we started the program 12 months, 12 katas (as inspired by this [repository](https://github.com/12meses12katas)). This year we want to propose something different: an asynchronous code jam

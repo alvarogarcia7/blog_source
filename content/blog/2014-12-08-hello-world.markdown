@@ -5,7 +5,6 @@ categories:
 comments: true
 date: 2014-12-08T17:20:59Z
 title: Hello World!
-url: /2014/12/08/hello-world/
 ---
 
 This is the obligatory "Hello World!" post 

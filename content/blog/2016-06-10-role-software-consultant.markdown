@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2016-06-10T10:50:50Z
 title: The role of a software consultant
-url: /2016/06/10/role-software-consultant/
 ---
 
 A quote from [Reinventing Organizations][reinventing-organizations],

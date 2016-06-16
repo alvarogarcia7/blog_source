@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2015-06-02T22:20:09Z
 title: 'Internal training: BPM: Process and tools for developers'
-url: /2015/06/02/internal-training-bpm-tool-and-process/
 ---
 
 At a client, I've presented today an internal training on "BPM: Process and tools for developers"

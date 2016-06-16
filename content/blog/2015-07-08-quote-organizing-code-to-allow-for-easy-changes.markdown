@@ -18,7 +18,6 @@ categories:
 comments: true
 date: 2015-07-08T02:41:54Z
 title: 'Quote: Organizing Code to Allow for Easy Changes'
-url: /2015/07/08/quote-organizing-code-to-allow-for-easy-changes/
 ---
 
 ## Organizing Code to Allow for Easy Changes

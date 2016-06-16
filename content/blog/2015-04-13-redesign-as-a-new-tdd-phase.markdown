@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2015-04-13T22:00:45Z
 title: Redesign as a new TDD phase
-url: /2015/04/13/redesign-as-a-new-tdd-phase/
 ---
 
 In the last TDD workshop (experience report [here](../../../../2015/04/12/jason-gorman-tdd-intensive-workshop)), a conversation with [Gary McLean Hall][gary] introduced to me this new concept of "Redesign" as a TDD phase.

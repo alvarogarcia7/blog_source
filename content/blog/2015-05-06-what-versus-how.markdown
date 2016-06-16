@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2015-05-06T07:15:08Z
 title: What versus How
-url: /2015/05/06/what-versus-how/
 ---
 
 After reading the GOOS[^1], the more and more I get this feeling of what vs how:

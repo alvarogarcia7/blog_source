@@ -8,7 +8,6 @@ categories:
 comments: true
 date: 2015-04-01T07:09:43Z
 title: 'Category: Flow'
-url: /2015/04/01/category-flow/
 ---
 
 This category is mainly dedicated to anything related or included in the book '[Flow: The Psychology of Optimal Experience][book]', written by Mihaly Csikszentmihalyi

@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2015-04-14T23:48:27Z
 title: Inserting clojure code in octopress
-url: /2015/04/14/inserting-clojure-code-in-octopress/
 ---
 
 Inserting this code in the blog:

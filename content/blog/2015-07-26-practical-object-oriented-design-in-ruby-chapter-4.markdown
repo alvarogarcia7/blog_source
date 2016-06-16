@@ -13,7 +13,6 @@ categories:
 comments: true
 date: 2015-07-26T22:40:29Z
 title: 'Practical Object-Oriented Design in Ruby: Chapter 4'
-url: /2015/07/26/practical-object-oriented-design-in-ruby-chapter-4/
 ---
 
 We've read the fourth chapter from the Practical Object-Oriented Design in Ruby, by Sandi Metz.

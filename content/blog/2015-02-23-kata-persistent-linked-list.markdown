@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2015-02-23T23:19:57Z
 title: 'kata: persistent linked list'
-url: /2015/02/23/kata-persistent-linked-list/
 ---
 
 I've just written a new kata, about a persistent linked list.

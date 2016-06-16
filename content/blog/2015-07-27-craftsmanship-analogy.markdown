@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2015-07-27T00:41:26Z
 title: Craftsmanship analogy
-url: /2015/07/27/craftsmanship-analogy/
 ---
 
 I've found this set of tweets about the craftsmanship analogy by Sarah Mei:

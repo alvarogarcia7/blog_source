@@ -15,7 +15,6 @@ categories:
 comments: true
 date: 2015-06-29T00:07:29Z
 title: 'Practical Object-Oriented Design in Ruby: Chapter 1'
-url: /2015/06/29/practical-object-oriented-design-in-ruby-chapter-1/
 ---
 
 We've read the first chapter from the Practical Object-Oriented Design in Ruby, by Sandi Metz.

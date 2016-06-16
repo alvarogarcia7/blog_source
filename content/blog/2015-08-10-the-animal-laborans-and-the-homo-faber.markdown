@@ -10,7 +10,6 @@ categories:
 comments: true
 date: 2015-08-10T01:19:58Z
 title: The Animal Laborans and the Homo Faber
-url: /2015/08/10/the-animal-laborans-and-the-homo-faber/
 ---
 
 I've found this quote very interesting from the book "The Craftsman", by Richard Sennett:

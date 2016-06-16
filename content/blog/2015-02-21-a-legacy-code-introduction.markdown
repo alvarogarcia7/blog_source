@@ -10,7 +10,6 @@ categories:
 comments: true
 date: 2015-02-21T20:05:46Z
 title: A legacy code introduction
-url: /2015/02/21/a-legacy-code-introduction/
 ---
 
 This is one of the best legacy code introductions I've seen:

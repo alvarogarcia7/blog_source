@@ -15,7 +15,6 @@ categories:
 comments: true
 date: 2015-04-21T22:09:54Z
 title: What legacy code is about
-url: /2015/04/21/what-legacy-code-is-about/
 ---
 
 In his book [Working effectively with legacy code][book], [Michael Feathers][mfeathers] describes:

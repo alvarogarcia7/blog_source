@@ -13,7 +13,6 @@ categories:
 comments: true
 date: 2015-12-15T11:52:28Z
 title: Validating CSV data in clojure
-url: /2015/12/15/validating-data-clojure/
 ---
 
 At a client, we have CSVs of data that can be simplified to this [^1]:

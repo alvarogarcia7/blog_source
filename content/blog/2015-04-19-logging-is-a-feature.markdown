@@ -10,7 +10,6 @@ categories:
 comments: true
 date: 2015-04-19T23:43:10Z
 title: Logging is a feature
-url: /2015/04/19/logging-is-a-feature/
 ---
 
 At a client, we're facing this challenge: we cannot access production logs, as we don't have access to production environments. The solution we've chose is to implement the logging component as a layer on top of [Splunk](http://www.splunk.com/).

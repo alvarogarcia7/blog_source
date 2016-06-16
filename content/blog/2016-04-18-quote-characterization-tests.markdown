@@ -10,7 +10,6 @@ categories:
 comments: true
 date: 2016-04-18T00:56:54Z
 title: 'Quote: Characterization tests'
-url: /2016/04/18/quote-characterization-tests/
 ---
 
 In Working effectively with legacy code, Michael Feathers talks a type of tests to define or characterize the current behavior of the legacy system:

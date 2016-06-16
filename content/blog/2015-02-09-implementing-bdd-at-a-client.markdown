@@ -10,7 +10,6 @@ categories:
 comments: true
 date: 2015-02-09T22:23:44Z
 title: Implementing BDD at a client
-url: /2015/02/09/implementing-bdd-at-a-client/
 ---
 
 This was a low-hanging fruit as a team member who specialises in QA complained about testing in the last moment during the last sprint's retrospective.

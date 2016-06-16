@@ -10,7 +10,6 @@ categories:
 comments: true
 date: 2015-06-23T19:19:28Z
 title: 'Brown-bag session: Refactoring legacy code'
-url: /2015/06/23/brown-bag-session-refactoring-legacy-code/
 ---
 
 Today I have facilitated a brown bag session about refactoring legacy code applications, as this is the case with one of the applications we maintain and add new features to.

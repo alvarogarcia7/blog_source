@@ -10,7 +10,6 @@ categories:
 comments: true
 date: 2015-01-12T03:56:58Z
 title: 'Kata: Reverse Polish Notation in java'
-url: /2015/01/12/kata-reverse-polish-notation-in-java/
 ---
 
 I've written a [RPN](http://en.wikipedia.org/wiki/Reverse_Polish_notation) string calculator in java, using TDD with these: mockito, hamcrest, junit

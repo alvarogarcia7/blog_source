@@ -10,7 +10,6 @@ categories:
 comments: true
 date: 2015-02-03T23:40:21Z
 title: Pairing with junior developers
-url: /2015/02/03/pairing-with-junior-developers/
 ---
 
 After reading [this blog post](https://devmynd.com/blog/2015-1-pairing-with-junior-developers), here are my thoughts:

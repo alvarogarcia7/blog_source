@@ -183,7 +183,6 @@ categories:
 comments: true
 date: 2016-03-02T12:58:19Z
 title: Self-Study in March 2016
-url: /2016/03/02/self-study-in-march-2016/
 ---
 
 [^1]: Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design by Yourdon and Constantine.

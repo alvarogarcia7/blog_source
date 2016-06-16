@@ -11,7 +11,6 @@ categories:
 comments: true
 date: 2015-03-16T22:44:42Z
 title: 'Open Space: Code reviews'
-url: /2015/03/16/open-space-code-reviews/
 ---
 
 Today we've discussed about code reviews on [this open space][eventpage]

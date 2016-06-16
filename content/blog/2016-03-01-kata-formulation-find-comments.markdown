@@ -8,7 +8,6 @@ categories:
 comments: true
 date: 2016-03-01T08:57:28Z
 title: 'Kata formulation: Find the comments'
-url: /2016/03/01/kata-formulation-find-comments/
 ---
 
 Little Johnny is inspecting a PHP source code that contains comments. These comments contains words that he doesn't understand, as it written in another language.

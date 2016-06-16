@@ -11,7 +11,6 @@ categories:
 comments: true
 date: 2015-08-17T23:37:16Z
 title: 'Coding dojo: Goldbach Conjecture'
-url: /2015/08/17/coding-dojo-goldbach-conjecture/
 ---
 
 At the [Barcelona Software Craftsmanship meetup](http://www.meetup.com/Barcelona-Software-Craftsmanship/), today I've facilitated a coding dojo on the [Goldbach Conjecture](https://en.wikipedia.org/wiki/Goldbach%27s_conjecture). The problem was prepared by [Manuel Rivero](https://twitter.com/trikitrok).

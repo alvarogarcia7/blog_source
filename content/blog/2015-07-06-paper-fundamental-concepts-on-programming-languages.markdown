@@ -11,7 +11,6 @@ categories:
 comments: true
 date: 2015-07-06T07:48:35Z
 title: 'Paper: Fundamental concepts on programming languages'
-url: /2015/07/06/paper-fundamental-concepts-on-programming-languages/
 ---
 
 Note: all quotes on this post come from [this paper](http://www.cs.cmu.edu/~crary/819-f09/Strachey67.pdf): Strachey, C. Fundamental Concepts in Programming Languages. Published in Higher-Order and Symbolic Computation, 13, 11–49, 2000.

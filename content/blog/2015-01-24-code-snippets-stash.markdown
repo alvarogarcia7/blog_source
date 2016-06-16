@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2015-01-24T20:49:55Z
 title: Code Snippets Stash
-url: /2015/01/24/code-snippets-stash/
 ---
 
 Following a team member's recommendation, I recently started a repository to save all my useful snippets.

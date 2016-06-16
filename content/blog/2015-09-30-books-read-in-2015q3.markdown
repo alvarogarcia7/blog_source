@@ -8,7 +8,6 @@ categories:
 comments: true
 date: 2015-09-30T12:49:50Z
 title: Books read in 2015Q3
-url: /2015/09/30/books-read-in-2015q3/
 ---
 
 Books I've read this quarter[^1]:

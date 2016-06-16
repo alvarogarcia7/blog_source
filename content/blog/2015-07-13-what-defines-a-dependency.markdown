@@ -12,7 +12,6 @@ categories:
 comments: true
 date: 2015-07-13T07:48:28Z
 title: What defines a dependency
-url: /2015/07/13/what-defines-a-dependency/
 ---
 
 A friend and I were arguing about this code ([fragment][fragment-registry-1]):

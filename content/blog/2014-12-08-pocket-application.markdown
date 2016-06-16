@@ -4,7 +4,6 @@ categories:
 comments: true
 date: 2014-12-08T23:40:13Z
 title: '''Pocket'' application'
-url: /2014/12/08/pocket-application/
 ---
 
 This is a free application I use quite often: [pocket](http://getpocket.com/)

@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2015-08-19T11:37:16Z
 title: 'Coding dojo: Palindromes'
-url: /2015/08/19/coding-dojo-palindromes/
 ---
 
 At a client, today I've facilitated a coding dojo on palindrome searching.

@@ -12,7 +12,6 @@ categories:
 comments: true
 date: 2015-06-14T16:16:51Z
 title: Types of defects
-url: /2015/06/14/types-of-defects/
 ---
 
 Some time ago, while researching types of defects and the cost of fixing them[^1], I stumbled upon this:

@@ -5,7 +5,6 @@ categories:
 comments: true
 date: 2014-12-15T22:46:50Z
 title: The Joys of the Craft
-url: /2014/12/15/the-joys-of-the-craft/
 ---
 
 Quoting the book,

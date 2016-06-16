@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2015-02-02T21:25:37Z
 title: Your First Language
-url: /2015/02/02/your-first-language/
 ---
 
 After reading (in a specific order - below) part of the patterns in [Apprenticeship Patterns](http://shop.oreilly.com/product/9780596518387.do),
