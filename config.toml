@@ -43,7 +43,7 @@ articles = "/:section/:year/:month/:day/:title/"
 
 [[menu.main]]
 	Name = "Talks / Events"
-	URL = "/articles/"
+	URL = "/blog/talks"
 	weight = 10
 
 [[menu.main]]
