@@ -34,12 +34,35 @@ articles = "/:section/:year/:month/:day/:title/"
 [[menu.main]]
 	Name = "Breadcrumbs"
 	URL = "/blog/"
-	weight = -5
+	weight = -10
 
 [[menu.main]]
 	Name = "Articles"
 	URL = "/articles/"
-	weight = -5
+	weight = 0
+
+[[menu.main]]
+	Name = "Talks / Events"
+	URL = "/articles/"
+	weight = 10
+
+[[menu.main]]
+	Name = "Categories"
+	URL = "/blog/categories/"
+	weight = 20
+
+[[menu.main]]
+	Name = "Archives"
+	URL = "/blog/archives/"
+	weight = 30
+
+[[menu.main]]
+	Name = "About"
+	URL = "/blog/about/"
+	weight = 40
+
+
+
 
 
 [params.truncated]
