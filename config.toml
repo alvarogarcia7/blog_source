@@ -28,7 +28,6 @@ articles = "/:section/:year/:month/:day/:title/"
 [taxonomies]
 	tag = "tags"
 	category = "categories"
-    site = "sites"
 
 # menu
 # links will open in a new window except links to "/" - links are added to navigation in hugo-octopress/layouts/partials/navigation.html
