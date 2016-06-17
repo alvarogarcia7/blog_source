@@ -1,7 +1,7 @@
 ---
-layout: page
+type: page
 title: Talks / Events
-footer: false
+url: /blog/talks/
 ---
 
 <!-- based on http://ecomba.pro/talks/ -->
