@@ -5,7 +5,7 @@ title: About Alvaro Garcia
 url: /blog/about/
 ---
 
-{{< figclass src="https://pbs.twimg.com/profile_images/378800000810292601/936ad5646696ac29610f2c1ca304936a.jpeg" class="left">}}
+{{< imgclass src="https://pbs.twimg.com/profile_images/378800000810292601/936ad5646696ac29610f2c1ca304936a.jpeg" class="left">}}
 
 Alvaro is a software developer who firmly believes in the eXtreme Programming methodology. He's embarked on a lifelong learning process and is now in a symbiotic exchange process with the [Barcelona Software Craftsmanship meetup](http://www.meetup.com/Barcelona-Software-Craftsmanship/), where he is a co-organizer.
 
