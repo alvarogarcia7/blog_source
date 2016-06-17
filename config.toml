@@ -25,45 +25,22 @@ blog     = "/:section/:year/:month/:day/:title/"
 articles = "/:section/:year/:month/:day/:title/"
     
 # make tags and categories work
-[indexes]
+[taxonomies]
 	tag = "tags"
 	category = "categories"
+    site = "sites"
 
 # menu
 # links will open in a new window except links to "/" - links are added to navigation in hugo-octopress/layouts/partials/navigation.html
 [[menu.main]]
-	Name = "Blog"
-	URL = "/"
-	weight = -5
-
-[[menu.main]]
-	Name = "Google"
-	URL = "https://www.google.com/"
-	weight = -5
-
-[[menu.main]]
-	Name = "This theme on Github"
-	URL = "https://www.github.com/parsiya/hugo-octopress"
-
-
-# sidebar menus
-# enable with "sidebar_menu_enabled = true" in [oarams]
-# header text is "sidebar_menu_header" in [params]
-[[menu.sidebar]]
-	Name = "Google"
-	URL = "https://www.google.com"
-	weight = 0
-
-[[menu.sidebar]]
-	Name = "Homepage"
-	URL = "/"
-	weight = 2
-
-[[menu.sidebar]]
 	Name = "Breadcrumbs"
 	URL = "/blog/"
-	weight = 2
+	weight = -5
 
+[[menu.main]]
+	Name = "Articles"
+	URL = "/articles/"
+	weight = -5
 
 [params]
 
@@ -85,7 +62,7 @@ articles = "/:section/:year/:month/:day/:title/"
 
 	# sidebar menu
 	# if true will add a sidebar menu between sidebar text and recent posts
-	sidebar_menu_enabled = true
+	sidebar_menu_enabled = false
 	sidebar_menu_header = "Sidebar Links"
 
 	# if false, all of the post will appear on front page (and in pagination)
