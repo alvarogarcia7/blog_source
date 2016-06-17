@@ -42,6 +42,11 @@ articles = "/:section/:year/:month/:day/:title/"
 	URL = "/articles/"
 	weight = -5
 
+
+[params.truncated]
+        blog = false
+        articles = true 
+
 [params]
 
 	# number of recent posts that will be shown in the sidebar - set to 0 or remove to hide this section
