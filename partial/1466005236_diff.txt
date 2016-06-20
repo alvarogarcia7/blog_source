@@ -1,8 +1,0 @@
-## Until the End of the Internet
-
-I've read [this article][until-end-internet] by Jason Zimdars explaining the "end of the internet" policy at Basecamp: they will make everything possible to keep the services running for existing customer until the end or until the last customer uses it.
-
-Tags: policy, end-of-the-internet, jason-zimdars, basecamp, product
-
-[until-end-internet]: https://m.signalvnoise.com/until-the-end-of-the-internet-405d55fde60f
-

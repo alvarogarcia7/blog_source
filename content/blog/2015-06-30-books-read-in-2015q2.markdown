@@ -1,0 +1,51 @@
+---
+categories:
+- book
+- reading
+- 2015
+- Q2
+- self-study
+comments: true
+date: 2015-06-30T12:49:50Z
+title: Books read in 2015Q2
+---
+
+Books I've read this quarter Q2 on 2015:
+
+  * [Flow](http://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202) by Mihaly Csikszentmihalyi. Blog posts under the tag [flow](/{{site.category_dir}}/flow)
+  * [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/) by Steve Freeman and Nat Pryce. Blog posts under the tag [goos](/{{site.category_dir}}/goos). Read in the '[@deAprendices][deaprendices]'s reading club'.
+  * TDD in Java, by Viktor Farcic and Alex García. I've reviewed this book.
+
+  
+Books started, not yet finished (WIP):
+
+  * [The Well-Grounded Java Developer](http://www.manning.com/evans/) by Benjamin J. Evans and Martijn Verburg
+  * [Lisp Hackers](https://leanpub.com/lisphackers) by Vsevolod Dyomkin
+  * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovača
+  * [Working Effectively with Legacy Code](http://www.amazon.co.uk/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) by Michael Feathers, again. Blog posts under the tag [wewlc](/{{site.category_dir}}/wewlc)
+  * [Practical Object-Oriented Design in Ruby, An Agile Primer (POODR)](http://www.poodr.com/) by Sandi Metz, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [poodr](/{{site.category_dir}}/poodr).
+  
+Books I want to finish:
+
+  * [Refactoring](http://martinfowler.com/books/refactoring.html) by Martin Fowler, with Kent Beck, John Brant, William Opdyke, and Don Roberts
+  * [Java Performance: The Definitive Guide](http://shop.oreilly.com/product/0636920028499.do) by Scott Oaks
+  * [Scrum and XP from the trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches) by Henrik Kniberg
+
+Books that have entered the queue:
+
+  * [Mature optimization](http://carlos.bueno.org/optimization/mature-optimization.pdf), by Carlos Bueno
+  * [The Leprechauns of Software Engineering](https://leanpub.com/leprechauns) by Laurent Bossavit, again. [Gift](https://twitter.com/alvarobiz/status/611799849911103488)
+  * [XUnit Test Patterns](http://xunitpatterns.com/) by Gerard Meszaros
+  * [Why programmers work at night](https://leanpub.com/nightowls) by Swizec Teller
+  * [Let Over Lambda](http://letoverlambda.com/) by Doug Hoyte
+  * [The Haskell Road to Logic, Math and Programming](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) by Kees Doets and Jan van Eijck
+  * [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/) by Abelson, Sussman, and Sussman
+  * [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/) by Benjamin C. Pierce
+  * [The Craftsman](http://www.amazon.co.uk/Craftsman-Richard-Sennett/dp/0141022094) by Richard Sennett
+  * [Software Craftsmanship: The New Imperative](http://www.amazon.co.uk/Software-Craftsmanship-Imperative-McBreen-Aug-2001/dp/B00L6JZAT0) by Pete McBreen
+  * [Fundamentals of Object-oriented Design in UML](http://www.amazon.co.uk/dp/020169946X/ref=pe_385721_37038051_TE_3p_dp_1) by Meilir Page-Jones
+
+
+Starting in 2015-Q2, I'm also writing here the list of books that I want to read.
+
+[deaprendices]: https://twitter.com/@deaprendices

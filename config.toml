@@ -1,0 +1,143 @@
+baseurl = "https://alvarogarcia7.github.io/"
+disablePathToLower = false
+languageCode = "en-us"
+title = "The long way through Software Craftsmanship"
+theme = "hugo-octopress"
+
+# number of blog posts displayed in each page
+paginate = 6
+
+pygmentsuseclasses = true
+pygmentsstyle = "monokai"
+
+# you need to install Solarized from https://github.com/john2x/solarized-pygment.git
+# Octopress blog used Solarized_dark
+# options are solarized_dark (octopress), solarized_dark256 and default (solarized light)
+
+# will make the highlight shortcode and ``` do the same thing - otherwise they are treated differently and we do not want that
+pygmentscodefences = true
+
+# can pass in pygments options here, it can also be added in the highlight shortcode
+# pygmentsoptions = "linenos=true"
+
+[permalinks]
+blog     = "/:section/:year/:month/:day/:title/"
+articles = "/:section/:year/:month/:day/:title/"
+    
+# make tags and categories work
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+
+# menu
+# links will open in a new window except links to "/" - links are added to navigation in hugo-octopress/layouts/partials/navigation.html
+[[menu.main]]
+	Name = "Breadcrumbs"
+	URL = "/blog/"
+	weight = -10
+
+[[menu.main]]
+	Name = "Articles"
+	URL = "/articles/"
+	weight = 0
+
+[[menu.main]]
+	Name = "Talks / Events"
+	URL = "/blog/talks"
+	weight = 10
+
+[[menu.main]]
+	Name = "Categories"
+	URL = "/categories/"
+	weight = 20
+
+[[menu.main]]
+	Name = "Archives"
+	URL = "/blog/archives/"
+	weight = 30
+
+[[menu.main]]
+	Name = "About"
+	URL = "/blog/about/"
+	weight = 40
+
+
+
+
+
+[params.truncated]
+        blog = false
+        articles = true 
+
+[params]
+
+	# number of recent posts that will be shown in the sidebar - set to 0 or remove to hide this section
+	sidebarRecentLimit = 10
+
+	# sidebar customization - passed to markdownify
+	sidebar_header = "About this blog"
+
+	# sidebar text supports markdown
+	# new lines can be added with </br> or normal markdown (two spaces at the end of line or two new lines).
+	# when adding two new lines, remember to remove the indentation otherwise the new line will be treated as a codeblock
+	sidebar_text = """This blog contains two sections: [breadcrumbs](/breadcrumbs/) (my learnings) and [articles](/articles/) (might be useful for others).
+        <br>
+        <br>
+         You can find me on:""" 
+
+	# sidebar menu
+	# if true will add a sidebar menu between sidebar text and recent posts
+	sidebar_menu_enabled = false
+	sidebar_menu_header = "Sidebar Links"
+
+	# if false, all of the post will appear on front page (and in pagination)
+	truncate = true
+
+	# author's name (this will appear in metadata and under posts)
+	author = "Alvaro Garcia"
+
+	# appears in the site header under website title
+	#subtitle = "Subtitle appears under website title"
+
+	# used in the search engine
+	search_engine_url = "https://www.google.com/search"
+
+	# Text of the Continue Reading label. &rarr; == right arrow, but it gets messed up in the string so we will add it to index.html manually
+	## continue_reading = "Would you like to know more?"
+
+	# Google analytics code
+	googleAnalytics = "UA-41008374-3"
+
+	# disqus shortcode
+	# disable comments for a specific post by adding "comments: false" in its frontmatter
+	disqusShortname = "thelongwaythroughsoftwarecraftsmanship"
+
+	# sidebar links
+	github = "https://github.com/alvarobiz/"
+	twitter = "https://twitter.com/@alvarobiz/"
+	linkedin = "https://es.linkedin.com/in/alvarogarcia7"
+
+	rss = true  # switch to true to enable RSS icon link
+
+	defaultDescription = ""
+
+	# populate this with your own keywords
+	# defaultKeywords = ["keyword1" , "keyword2" , "keyword3" , "keyword4"]
+
+	# css override files
+	# paths should be relative to the `static` directory (either the website static directory or the theme one)
+	# custom_css = ["css/custom.css","css/custom2.css"]
+
+	# 404.html header and text -both support markdown
+	notfound_header = "These are not the posts you're looking for"
+
+	notfound_text = """Please either go back or use the navigation/sidebar menus.
+	"""
+
+        # Set to true to hide ReadingTime on posts
+        disableReadingTime = false
+
+# blackfriday is Hugo's markdown engine. Options are at: https://gohugo.io/overview/configuration/ (scroll down to "Configure Blackfriday rendering")
+[blackfriday]
+	hrefTargetBlank = true # open the external links in a new window
+	fractions = false
