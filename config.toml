@@ -75,17 +75,15 @@ articles = "/:section/:year/:month/:day/:title/"
 	sidebarRecentLimit = 10
 
 	# sidebar customization - passed to markdownify
-	sidebar_header = "Sidebar Header"
+	sidebar_header = "About this blog"
 
 	# sidebar text supports markdown
 	# new lines can be added with </br> or normal markdown (two spaces at the end of line or two new lines).
 	# when adding two new lines, remember to remove the indentation otherwise the new line will be treated as a codeblock
-	sidebar_text = """Sidebar text is passed to *markdownify* so it supports markdown. Here's a [link to google](https://www.google.com)
-	</br>
-	Second line
-	</br>
-	Third line
-	"""
+	sidebar_text = """This blog contains two sections: [breadcrumbs](/breadcrumbs/) (my learnings) and [articles](/articles/) (might be useful for others).
+        <br>
+        <br>
+         You can find me on:""" 
 
 	# sidebar menu
 	# if true will add a sidebar menu between sidebar text and recent posts
