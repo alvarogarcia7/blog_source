@@ -239,6 +239,7 @@ categories:
 comments: true
 date: 2016-01-01T16:55:19Z
 title: Self-Study in January 2016
+url: /blog/2016/01/01/self-study-in-january-2016/
 ---
 
 ## Test cases in inner classes with JUnit

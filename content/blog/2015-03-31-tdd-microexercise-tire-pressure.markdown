@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-03-31T23:13:45Z
 title: 'TDD microexercise: Tire pressure'
+url: /blog/2015/03/31/tdd-microexercise-tire-pressure/
 ---
 
 Yesterday, [Manuel Rivero][trikitrok] and I facilitated a [workshop][meetup] using the [tire pressure][tire-pressure] TDD microexercise. (More microexercises can be found in [this category][microexercises], also [here][luka-exercises])

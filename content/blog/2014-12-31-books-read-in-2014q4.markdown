@@ -8,6 +8,7 @@ categories:
 comments: true
 date: 2014-12-31T12:49:50Z
 title: Books read in 2014Q4
+url: /blog/2014/12/31/books-read-in-2014q4/
 ---
 
 Books I've read this quarter Q4 on 2014, as inspired by Manuel, on this [post](http://garajeando.blogspot.com.es/2015/04/books-i-read-january-april-2015.html):

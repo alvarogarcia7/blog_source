@@ -10,6 +10,7 @@ categories:
 comments: true
 date: 2015-07-08T02:40:24Z
 title: 'Tip: massively reverting local changes'
+url: /blog/2015/07/08/tip-massively-reverting-local-changes/
 ---
 
 I was changing a massive amount of files (>1000) for a repeated code. The search and replace query was not too exact and it broke many tests in the system. For that, I preferred reverting those tests.

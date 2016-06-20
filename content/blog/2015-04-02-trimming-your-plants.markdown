@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2015-04-02T23:13:45Z
 title: Trimming your plants
+url: /blog/2015/04/02/trimming-your-plants/
 ---
 
 This post belongs to the [growing-software series](/{{site.category_dir}}/growing-software)

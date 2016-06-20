@@ -69,6 +69,7 @@ categories:
 comments: true
 date: 2015-05-09T16:41:10Z
 title: Self-study in May 2015
+url: /blog/2015/05/09/self-study-in-may-2015/
 ---
 
 Update: I've grouped all small posts related to the self-study from May 2015

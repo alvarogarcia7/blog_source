@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2015-02-18T23:25:25Z
 title: The use of power tools
+url: /blog/2015/02/18/the-use-of-power-tools/
 ---
 
 I'm currently reading the Apprenticeship patterns book, out of order (explained here: TODO).

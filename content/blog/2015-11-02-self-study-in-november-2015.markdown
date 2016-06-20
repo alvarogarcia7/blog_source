@@ -121,6 +121,7 @@ categories:
 comments: true
 date: 2015-11-02T15:25:19Z
 title: Self-Study in November 2015
+url: /blog/2015/11/02/self-study-in-november-2015/
 ---
 
 ## Call me maybe: RabbitMQ

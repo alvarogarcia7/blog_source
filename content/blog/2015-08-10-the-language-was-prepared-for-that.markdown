@@ -10,6 +10,7 @@ categories:
 comments: true
 date: 2015-08-10T00:58:33Z
 title: The language was prepared for that
+url: /blog/2015/08/10/the-language-was-prepared-for-that/
 ---
 
 Many times I've written this function:

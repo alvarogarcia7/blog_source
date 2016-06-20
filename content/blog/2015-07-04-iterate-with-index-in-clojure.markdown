@@ -9,6 +9,7 @@ categories:
 comments: true
 date: 2015-07-04T14:34:37Z
 title: Iterate with index in clojure
+url: /blog/2015/07/04/iterate-with-index-in-clojure/
 ---
 
 Scenario: iterate a sequence (``seq``) with its index

@@ -8,6 +8,7 @@ categories:
 comments: true
 date: 2015-03-25T23:50:23Z
 title: Meetup cross-pollination
+url: /blog/2015/03/25/meetup-cross-pollination/
 ---
 
 [Adrian Bolboaca][adibolb] has written a very interesting post on being a community bumble-bee. (Source can be found [here][original-post])

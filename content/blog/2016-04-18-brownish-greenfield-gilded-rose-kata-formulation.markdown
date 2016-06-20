@@ -13,6 +13,7 @@ categories:
 comments: true
 date: 2016-04-18T00:44:19Z
 title: Brownish Greenfield Gilded Rose Kata
+url: /blog/2016/04/18/brownish-greenfield-gilded-rose-kata-formulation/
 ---
 
 (This formulation has been copied and adapted from [Bobby Johnson][notmyself] and [Terry Hughes][terryhughes]'s [repository](https://github.com/NotMyself/GildedRose))

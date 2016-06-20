@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-04-14T23:36:23Z
 title: Destructuring as a refactor in Clojure
+url: /blog/2015/04/14/destructuring-as-a-refactor-in-clojure/
 ---
 
 [Manuel][trikitrok] has taught us today about the default value while destructuring:

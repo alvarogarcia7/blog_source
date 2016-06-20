@@ -8,6 +8,7 @@ categories:
 comments: true
 date: 2015-02-02T21:32:21Z
 title: 'Book: Diseño Ágil con TDD (Spanish)'
+url: /blog/2015/02/02/book-diseno-agil-con-tdd-spanish/
 ---
 
 I've read this book [Diseño Ágil con TDD](http://www.carlosble.com/libro-tdd/) (Spanish) by

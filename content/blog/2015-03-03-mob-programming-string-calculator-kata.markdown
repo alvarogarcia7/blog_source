@@ -9,6 +9,7 @@ categories:
 comments: true
 date: 2015-03-03T04:46:48Z
 title: Mob programming String calculator kata
+url: /blog/2015/03/03/mob-programming-string-calculator-kata/
 ---
 
 Last Friday we did a kata[^1] using a projector the string calculator [^2] using pair programming, TDD and some mob-programming for the last refactoring.

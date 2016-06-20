@@ -13,6 +13,7 @@ categories:
 comments: true
 date: 2015-09-23T21:24:58Z
 title: 'Brown Bag Session: Clojure''s Data and Code'
+url: /blog/2015/09/23/brown-bag-session-clojures-data-and-code/
 ---
 
 Today, at a client, I've facilitated the brown-bag session on Clojure, introducing Lisp's [homoiconicity][wiki-homoiconocity].

@@ -8,6 +8,7 @@ categories:
 comments: true
 date: 2014-12-29T20:30:01Z
 title: Should we start the TDD cycle on refactor?
+url: /blog/2014/12/29/should-we-start-the-tdd-cycle-on-refactor/
 ---
 
 In this lexical scope, TDD by example is referring to this book[^tddbyexample], available [on Amazon][amazontddbyexample]

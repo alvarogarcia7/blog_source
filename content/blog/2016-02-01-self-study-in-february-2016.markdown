@@ -214,6 +214,7 @@ categories:
 comments: true
 date: 2016-02-01T02:55:19Z
 title: Self-Study in February 2016
+url: /blog/2016/02/01/self-study-in-february-2016/
 ---
 
 ## Software and all that comes with it

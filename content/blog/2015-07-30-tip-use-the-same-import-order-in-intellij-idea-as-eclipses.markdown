@@ -9,6 +9,7 @@ categories:
 - import
 date: 2015-07-30T13:22:44Z
 title: 'Tip: Use the same Import Order in IntelliJ IDEA as Eclipse''s'
+url: /blog/2015/07/30/tip-use-the-same-import-order-in-intellij-idea-as-eclipses/
 ---
 
 Organize IntelliJ IDEA's import as Eclipse ones:

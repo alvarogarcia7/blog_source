@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2016-06-01T21:47:19Z
 title: Self-Study in June 2016
+url: /blog/2016/06/01/self-study/
 ---
 
 ## DiversityMediocrityIllusion

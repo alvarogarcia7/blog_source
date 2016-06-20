@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2015-07-01T13:18:28Z
 title: 'Brown-bag session: refactoring legacy code'
+url: /blog/2015/07/01/brownbag-session-refactoring-legacy-code/
 ---
 
 Today I have done a brown bag session about refactoring legacy code. It includes:

@@ -10,6 +10,7 @@ categories:
 comments: true
 date: 2015-04-25T13:28:20Z
 title: Demand for TDD and Refactor
+url: /blog/2015/04/25/demand-for-tdd-and-refactor/
 ---
 
 When I went to the Jason Gorman's TDD workshop (experience report [here](../../../../2015/04/12/jason-gorman-tdd-intensive-workshop)), he said something interesting regarding refactor and TDD:

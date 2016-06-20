@@ -6,6 +6,7 @@ categories:
 comments: true
 date: 2015-07-30T23:21:18Z
 title: Packing your own maven dependencies
+url: /blog/2015/07/30/packing-your-own-maven-dependencies/
 ---
 
 Lately, I've found myself repeating always the same dependencies for my pet projects and katas. Usually, I prefer maven to hold my java dependencies, organized in a java project.

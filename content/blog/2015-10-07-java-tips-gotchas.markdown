@@ -10,6 +10,7 @@ categories:
 comments: true
 date: 2015-10-07T11:06:58Z
 title: Java Tips & Gotchas
+url: /blog/2015/10/07/java-tips-gotchas/
 ---
 
 ## JVM default encoding as UTF-8

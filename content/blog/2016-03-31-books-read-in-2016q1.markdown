@@ -8,6 +8,7 @@ categories:
 comments: true
 date: 2016-03-31T12:49:50Z
 title: Books read in 2016Q1
+url: /blog/2016/03/31/books-read-in-2016q1/
 ---
 
 Books I've read this quarter[^1]:

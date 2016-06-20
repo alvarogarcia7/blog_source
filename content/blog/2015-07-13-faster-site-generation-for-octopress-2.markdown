@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-07-13T07:49:23Z
 title: Faster site generation for Octopress 2
+url: /blog/2015/07/13/faster-site-generation-for-octopress-2/
 ---
 
 2016-04 update: I've discovered that the original Rakefile does a similar job. See [here][native-faster-generation]

@@ -3,6 +3,7 @@ categories: null
 comments: true
 date: 2015-11-02T21:26:13Z
 title: Functional Implementation Patterns
+url: /blog/2015/11/02/functional-implementation-patterns/
 ---
 
 <!--

@@ -6,6 +6,7 @@ categories:
 comments: true
 date: 2015-08-12T10:44:16Z
 title: 'Brown-bag session: Spring Boot'
+url: /blog/2015/08/12/brownbag-session-spring-boot/
 ---
 
 At a client, today we've done a brown-bag session on [Spring Boot][spring-boot-home]: we've gone through the basics with a [sample maven project][sample-maven-project] and its [pom file][sample-pom].

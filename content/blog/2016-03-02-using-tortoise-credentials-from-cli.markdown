@@ -8,6 +8,7 @@ categories:
 comments: true
 date: 2016-03-02T12:41:28Z
 title: 'Tip: using tortoise credentials in git CLI'
+url: /blog/2016/03/02/using-tortoise-credentials-from-cli/
 ---
 
 ## TortoiseGit part

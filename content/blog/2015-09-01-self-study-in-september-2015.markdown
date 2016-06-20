@@ -202,6 +202,7 @@ categories:
 comments: true
 date: 2015-09-01T15:25:19Z
 title: Self-Study in September 2015
+url: /blog/2015/09/01/self-study-in-september-2015/
 ---
 
 ## The 30 second habit with a lifelong impact

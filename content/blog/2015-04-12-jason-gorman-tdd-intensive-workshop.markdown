@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2015-04-12T20:13:45Z
 title: 'Experience report: Test-driven development intensive, by Jason Gorman'
+url: /blog/2015/04/12/jason-gorman-tdd-intensive-workshop/
 ---
 
 This is an experience report on [Jason Gorman][jason-gorman]'s "[Test-driven development intensive workshop][workshop-link]" on the April 11th, 2015

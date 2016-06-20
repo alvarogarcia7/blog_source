@@ -308,6 +308,7 @@ categories:
 comments: true
 date: 2015-12-02T09:50:19Z
 title: Self-Study in December 2015
+url: /blog/2015/12/02/self-study-in-december-2015/
 ---
 
 ## Ruby Equality And Object Comparison

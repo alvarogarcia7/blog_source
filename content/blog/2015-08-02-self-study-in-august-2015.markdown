@@ -223,6 +223,7 @@ categories:
 comments: true
 date: 2015-08-02T21:45:19Z
 title: Self-Study in August 2015
+url: /blog/2015/08/02/self-study-in-august-2015/
 ---
 
 ## Humble Object

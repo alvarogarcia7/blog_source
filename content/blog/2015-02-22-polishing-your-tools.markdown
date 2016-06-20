@@ -14,6 +14,7 @@ categories:
 comments: true
 date: 2015-02-22T09:30:20Z
 title: Polishing your tools
+url: /blog/2015/02/22/polishing-your-tools/
 ---
 
 ## The toolsmith

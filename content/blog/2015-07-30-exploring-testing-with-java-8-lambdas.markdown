@@ -8,6 +8,7 @@ categories:
 comments: true
 date: 2015-07-30T13:04:10Z
 title: Exploring Testing with Java 8 Lambdas
+url: /blog/2015/07/30/exploring-testing-with-java-8-lambdas/
 ---
 
 At a client, we were testing a simple feature, but the resulting tests had much subtle repetition:

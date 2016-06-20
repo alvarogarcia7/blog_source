@@ -8,6 +8,7 @@ categories:
 comments: true
 date: 2015-07-13T07:36:14Z
 title: Object Peer Stereotypes
+url: /blog/2015/07/13/object-peer-stereotypes/
 ---
 
 >We categorize an object's peers (loosely) into three types of relationship. An object might have:
