@@ -104,6 +104,8 @@ comments: true
 date: 2016-05-01T00:08:19Z
 title: Self-Study in May 2016
 url: /blog/2016/05/01/self-study/
+aliases:
+- /blog/2016/04/30/self-study/
 ---
 
 ## Being A Developer After 40
