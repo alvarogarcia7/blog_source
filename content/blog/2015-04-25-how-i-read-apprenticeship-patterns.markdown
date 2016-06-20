@@ -8,9 +8,9 @@ date: 2015-04-25T13:49:01Z
 title: How I read Apprenticeship Patterns
 ---
 
-{% comment %}
+<!--
 TODO add link to the craft page in my blog
-{% endcomment %}
+-->
 
 At the Craft Conf 2015 I saw someone with the book [Apprenticeship Patterns][apprenticeship-patterns-book] by [Dave Hoover][davehoover] and [Adewale Oshineye][ade_oshineye] and asked them about the book. After praising the contents, they asked me how to approach the book.
 

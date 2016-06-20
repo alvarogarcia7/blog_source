@@ -34,9 +34,9 @@ It is difficult to introduce new features in software, without breaking old ones
 
 Some references on the return of investment in software:
 
-{% comment %}
+<!--
 > Knowledge is the most common return on investment expected from a job [^4]
-{% endcomment %}
+-->
 
 
 > Stretching the lifespan of an application means maximizing the return on investment of our clients [^1].

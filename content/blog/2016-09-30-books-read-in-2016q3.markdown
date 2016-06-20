@@ -32,7 +32,7 @@ Books I want to finish. Usually come from another quarter:
 Books that have entered the queue:
 
 
-{% comment %}
+<!--
 
 repository for WIP books:
 
@@ -88,6 +88,6 @@ Learning paths that have entered the queue:
   * [Introduction to the Modern Front-End Web](http://shop.oreilly.com/category/learning-path/intro-modern-front-end-web.do)
 
 
-{% endcomment %}
+-->
 
 [deaprendices]: https://twitter.com/@deaprendices

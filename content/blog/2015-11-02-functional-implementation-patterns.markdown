@@ -5,7 +5,7 @@ date: 2015-11-02T21:26:13Z
 title: Functional Implementation Patterns
 ---
 
-{% comment %}
+<!--
 # Template
 
 ## Name
@@ -21,11 +21,11 @@ title: Functional Implementation Patterns
 #### Points to
 #### Points here
 
-{% endcomment %}
+-->
 
 # Collection of HOFs
 
-{% comment %}
+<!--
 
 ## Map
 
@@ -37,7 +37,7 @@ title: Functional Implementation Patterns
 
 ## Flatten
 
-{% endcomment %}
+-->
 
 ## Select Attribute
 

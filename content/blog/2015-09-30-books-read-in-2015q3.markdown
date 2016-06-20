@@ -36,7 +36,7 @@ Books that have entered the queue:
   * [Understanding Computation: From Simple Machines to Impossible Programs](http://computationbook.com/) by Tom Stuart
   * [Programming in Haskell](http://www.cambridge.org/wm-ecommerce-web/academic/landingPage/PIHMOOC) by Graham Hutton
 
-{% comment %}
+<!--
 
 repository for WIP books:
 
@@ -63,6 +63,6 @@ Books that have entered the queue:
   * [Types and Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/) by Benjamin C. Pierce
   * [Fundamentals of Object-oriented Design in UML](http://www.amazon.co.uk/dp/020169946X/ref=pe_385721_37038051_TE_3p_dp_1) by Meilir Page-Jones
 
-{% endcomment %}
+-->
 
 [deaprendices]: https://twitter.com/@deaprendices

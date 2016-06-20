@@ -42,7 +42,7 @@ Books that have entered the queue:
   * [Object Design: Roles, Responsibilities, and Collaborations ](http://www.amazon.com/Object-Design-Roles-Responsibilities-Collaborations/dp/0201379430) by Rebecca Wirfs-Brock and Alan McKean
   * [Readings in Database Systems, 5th Edition](http://www.redbook.io/) by Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors
 
-{% comment %}
+<!--
 
 repository for WIP books:
 
@@ -72,6 +72,6 @@ Books in the queue:
   * [Programming in Haskell](http://www.cambridge.org/wm-ecommerce-web/academic/landingPage/PIHMOOC) by Graham Hutton
 
 
-{% endcomment %}
+-->
 
 [deaprendices]: https://twitter.com/@deaprendices

@@ -293,9 +293,9 @@ I've read [this article][what-languages-are-functional] by Kris Jenkins where th
 
 Describes how functional languages deal with side effects and side causes, and to identify them (was also explained in part one[^1]).
 
-{% comment %}
+<!--
 	FOOTNOTES are at the beginning
-{% endcomment %}
+-->
 
 Tags: kris-jenkins, functional-programming, side-effect, side-cause, comparison, haskell, clojure, python, perl, javascript, java, map, reduce, hof, scala, moc
 

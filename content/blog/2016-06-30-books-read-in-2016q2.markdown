@@ -38,7 +38,7 @@ Books that have entered the queue:
 
   * [Serverless - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)](https://leanpub.com/serverless) by Obie Fernandez 
 
-{% comment %}
+<!--
 
 repository for WIP books:
 
@@ -93,6 +93,6 @@ Learning paths that have entered the queue:
   * [Introduction to the Modern Front-End Web](http://shop.oreilly.com/category/learning-path/intro-modern-front-end-web.do)
 
 
-{% endcomment %}
+-->
 
 [deaprendices]: https://twitter.com/@deaprendices

@@ -52,9 +52,9 @@ The only downside is you have to invest ~5h (for a full time position) per week 
 
 Nowadays that IDEs are configurable, this time might be invested on learning more advanced features as other shortcuts, refactoring techniques, other design patterns, etc. I like having my own live templates (see [description][live-templates]), especially for tests, as I saw on the [Crafting Code workshop][crafting-code] by [Sandro Mancuso][mancuso]
 
-{% comment %}
+<!--
 TODO: Add link to Sandro Mancuso's experience report, when I write it
-{% endcomment %}
+-->
 
 It may also include other activities as setting up your bash alias, cleaning your desk, trying a new UML diagram modeler, etc. Anything that improves the productivity of your main task.
 

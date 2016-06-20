@@ -73,9 +73,9 @@ private String selectFirstValidLine(List<String> elements){
   * Tests iff (i.e., if and only if) working code
   * Tests do not guarantee lack of defects
   * Bijectiveness between tests and features (production code)
-  {% comment %}
+  <!--
   Expand on this bijectiveness
-  {% endcomment %}
+  -->
 
 
 [article]: http://davidsouther.com/#/posts/2013/10/30/testing-its-hard-just-do-it/
