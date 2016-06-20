@@ -14,6 +14,8 @@ comments: true
 date: 2015-05-12T00:02:44Z
 title: 'Paper: TDD in industrial teams'
 url: /blog/2015/05/12/paper-tdd-in-industrial-teams/
+aliases:
+- /blog/2015/05/11/paper-tdd-in-industrial-teams/
 ---
 
 I've read [this paper][nagappan-tdd] by Nagappan, Maximilien, Bhat and Williams on the cost, advantages, pitfalls of doing TDD in industrial teams (private companies who create software).
