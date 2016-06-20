@@ -10,7 +10,7 @@ generate:
 	git pull origin
 	git push origin
 	cd -
-	hugo --destination alvarogarcia7.github.io --cleanDestinationDir
+	hugo --destination alvarogarcia7.github.io
 	cd alvarogarcia7.github.io
 	git add --all
 	git commit --all -m "rebuilding site `date`"
