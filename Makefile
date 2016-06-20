@@ -7,6 +7,7 @@ generate:
 	git pull origin
 	git push origin
 	#git submodule update
+	cd alvarogarcia7.github.io; git pull
 	hugo --destination alvarogarcia7.github.io
 	cd alvarogarcia7.github.io
 	cd alvarogarcia7.github.io; git add --all
