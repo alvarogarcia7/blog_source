@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+
+<div id="main">
+ <div id="content">
+  <div class="blog-index">
+     <section id="main">
+      <div>
+        <h1 id="title">Items in {{ .Title }}</h1>
+
+        <ul>
+        {{ $data := .Data }}
+        {{ range $key, $value := .Data.Pages }}
+        <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+        {{ end }}
+       </ul>
+      </div>
+    </section> 
+  </div>
+
+  {{ partial "sidebar.html" . }}    <!-- sidebar -->
+ </div>
+</div>
+
+{{ partial "footer.html" . }}   <!-- footer -->
+

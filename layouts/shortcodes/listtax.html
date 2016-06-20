@@ -1,7 +1,5 @@
 {{ $tax := .Get "taxonomy" }}
 
-{{ $tax }}
-
 <ul>
 	<!-- loop all tags that you've used -->
 	{{ range $name, $taxonomy := (index .Site.Taxonomies $tax) }}
