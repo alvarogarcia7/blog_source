@@ -1373,7 +1373,6 @@ html .gist .gist-file .gist-meta a[href*=raw] {
     top: .4em
 }
 pre {
-    background: #002b36 top left;
     -webkit-border-radius: 0.0em;
     -moz-border-radius: 0.0em;
     -ms-border-radius: 0.0em;
