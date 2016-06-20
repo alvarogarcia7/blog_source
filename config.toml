@@ -1,4 +1,4 @@
-baseurl = "http://example.com/"
+baseurl = "https://alvarogarcia7.github.io/"
 disablePathToLower = false
 languageCode = "en-us"
 title = "The long way through Software Craftsmanship"
