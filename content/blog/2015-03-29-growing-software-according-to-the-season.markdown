@@ -11,6 +11,7 @@ categories:
 comments: true
 date: 2015-03-29T18:13:45Z
 title: Growing software according to the season
+url: /blog/2015/03/29/growing-software-according-to-the-season/
 ---
 
 This is the first post is of the [growing-software series](/{{site.category_dir}}/growing-software)

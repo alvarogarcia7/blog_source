@@ -9,6 +9,7 @@ categories:
 comments: true
 date: 2015-09-08T07:54:15Z
 title: Navigating the GitHub repositories
+url: /blog/2015/09/08/navigating-the-github-repositories/
 ---
 
 I've reorganized my github repositories, especially the katas and the ``simple sessions``. 

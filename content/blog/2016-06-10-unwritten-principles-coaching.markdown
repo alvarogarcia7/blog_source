@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2016-06-10T10:49:50Z
 title: Unwritten principles for coaching, a quote
+url: /blog/2016/06/10/unwritten-principles-coaching/
 ---
 
 A quote from [Reinventing Organizations][reinventing-organizations],

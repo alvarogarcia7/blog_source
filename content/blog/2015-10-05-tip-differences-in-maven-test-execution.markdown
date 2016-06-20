@@ -9,6 +9,7 @@ categories:
 comments: true
 date: 2015-10-05T17:18:55Z
 title: 'Tip: Differences in maven test execution'
+url: /blog/2015/10/05/tip-differences-in-maven-test-execution/
 ---
 
 There are times when you only want to have the production code:

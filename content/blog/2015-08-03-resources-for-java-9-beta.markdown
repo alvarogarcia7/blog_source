@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-08-03T01:49:30Z
 title: Resources for Java 9 (beta)
+url: /blog/2015/08/03/resources-for-java-9-beta/
 ---
 
 I've found this list of links for Java 9, while in beta, useful:

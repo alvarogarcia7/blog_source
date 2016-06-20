@@ -8,6 +8,7 @@ categories:
 comments: true
 date: 2015-03-31T12:49:49Z
 title: Books read in 2015Q1
+url: /blog/2015/03/31/books-read-in-2015q1/
 ---
 
 Books I've read this quarter Q1 on 2015, as inspired by Manuel, on this [post](http://garajeando.blogspot.com.es/2015/04/books-i-read-january-april-2015.html):

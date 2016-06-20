@@ -14,6 +14,7 @@ categories:
 comments: true
 date: 2015-08-13T16:45:19Z
 title: Searching on a suite of failing tests
+url: /blog/2015/08/13/searching-on-a-suite-of-failing-tests/
 ---
 
 ## Motivation

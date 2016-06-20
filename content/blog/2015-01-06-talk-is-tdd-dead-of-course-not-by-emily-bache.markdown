@@ -12,6 +12,7 @@ date: 2015-01-06T15:47:47Z
 external-url: null
 title: 'Talk: ''Is TDD Dead? Of course not! But what´s all the fuzz about then?''
   by Emily Bache'
+url: /blog/2015/01/06/talk-is-tdd-dead-of-course-not-by-emily-bache/
 ---
 
 I've just seen this talk: [Is TDD dead? Of course not! But what´s all the fuzz about then?](https://www.youtube.com/watch?v=PCEHRFHKZSk) by [Emily Bache](https://twitter.com/emilybache)

@@ -6,13 +6,13 @@ run:
 generate:
 	git pull origin
 	git push origin
+	#git submodule update
+	cd alvarogarcia7.github.io; git pull
+	hugo --destination alvarogarcia7.github.io
 	cd alvarogarcia7.github.io
-	git pull origin
-	git push origin
-	cd -
-	hugo --destination alvarogarcia7.github.io --cleanDestinationDir
-	cd alvarogarcia7.github.io
-	git add --all
-	git commit --all -m "rebuilding site `date`"
-	git push origin master
-	cd -
+	cd alvarogarcia7.github.io; git add --all
+	cd alvarogarcia7.github.io; git commit --all -m "rebuilding site `date`"
+	cd alvarogarcia7.github.io; git push origin master
+
+generateonly:
+	hugo --destination alvarogarcia7.github.io

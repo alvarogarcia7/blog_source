@@ -9,6 +9,7 @@ categories:
 comments: true
 date: 2015-05-18T22:20:09Z
 title: 'Internal training: QA &amp; how to test'
+url: /blog/2015/05/18/internal-training-qa-and-how-to-test/
 ---
 
 At a client, we've done today an internal training on "QA & how to test". In it, the most skilled person with the QA role in the dev team has explained to us some techniques and concepts for testing

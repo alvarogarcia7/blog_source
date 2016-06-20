@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-10-12T11:55:17Z
 title: 'Tip: calling all methods in an Object in Ruby'
+url: /blog/2015/10/12/calling-all-methods-in-a-ruby-object/
 ---
 
 In Ruby, you can query the methods an object accepts:

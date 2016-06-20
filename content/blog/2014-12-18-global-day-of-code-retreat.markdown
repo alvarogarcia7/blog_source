@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2014-12-18T07:33:59Z
 title: Global Day of Code Retreat 2014
+url: /blog/2014/12/18/global-day-of-code-retreat/
 ---
 
 One month ago (on November 15th) I facilitated my first [Global Day of Code Retreat](http://globalday.coderetreat.org/) at [eBay Enterprise International](http://www.ebayenterprise.com/contact/locations.php) and had such a blast. [Link to the event (Spanish)](http://www.meetup.com/Agile-Barcelona-Meetup/events/218211672/)

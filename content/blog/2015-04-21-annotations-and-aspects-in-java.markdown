@@ -9,6 +9,7 @@ categories:
 comments: true
 date: 2015-04-21T07:23:23Z
 title: Annotations and Aspects in Java
+url: /blog/2015/04/21/annotations-and-aspects-in-java/
 ---
 
 I've written a sample project with an annotation and an aspect to intercept it and decorate it.

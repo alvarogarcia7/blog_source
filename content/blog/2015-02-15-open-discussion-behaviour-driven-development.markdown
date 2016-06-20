@@ -8,6 +8,7 @@ categories:
 comments: true
 date: 2015-02-15T02:30:38Z
 title: 'Open discussion: Behaviour-Driven Development'
+url: /blog/2015/02/15/open-discussion-behaviour-driven-development/
 ---
 
 This week we had a great discussion about Behavior Driven Development (BDD). We have explained it as a way of developing software based on requirements, via automatically tested specifications. For more information, see the [wikipedia's article on the subject](http://en.wikipedia.org/wiki/Behavior-driven_development)

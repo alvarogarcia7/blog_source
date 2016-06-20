@@ -9,6 +9,7 @@ categories:
 comments: true
 date: 2015-03-06T22:18:28Z
 title: 'Brown-bag session: maven'
+url: /blog/2015/03/06/brown-bag-session-maven/
 ---
 
 Yesterday we did a training about the maven tool. One of the team members explained to us some topics including:

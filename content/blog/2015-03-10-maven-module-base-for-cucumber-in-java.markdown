@@ -10,6 +10,7 @@ categories:
 comments: true
 date: 2015-03-10T07:24:38Z
 title: Maven module Base for cucumber in java
+url: /blog/2015/03/10/maven-module-base-for-cucumber-in-java/
 ---
 
 I've built a small maven module, to be used directly with cucumber. You can fork the repository [here](https://github.com/alvarogarcia7/base-bdd-cucumber)

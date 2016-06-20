@@ -6,6 +6,7 @@ categories:
 comments: true
 date: 2015-05-17T12:41:18Z
 title: Software gardening manifesto
+url: /blog/2015/05/17/software-gardening-manifesto/
 ---
 
 A friend sent this [Software Gardening Manifesto][manifesto] to me.

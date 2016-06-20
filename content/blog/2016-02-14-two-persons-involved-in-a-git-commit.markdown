@@ -10,6 +10,7 @@ categories:
 comments: true
 date: 2016-02-14T17:12:28Z
 title: Two persons involved in a git commit, in github
+url: /blog/2016/02/14/two-persons-involved-in-a-git-commit/
 ---
 
 ## On git

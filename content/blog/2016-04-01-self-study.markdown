@@ -220,6 +220,7 @@ categories:
 comments: true
 date: 2016-04-01T00:08:19Z
 title: Self-Study in April 2016
+url: /blog/2016/04/01/self-study/
 ---
 
 ## Deliberate Practice: What It Is and Why You Need It

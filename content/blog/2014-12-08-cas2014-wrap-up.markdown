@@ -8,6 +8,7 @@ categories:
 comments: true
 date: 2014-12-08T19:18:28Z
 title: CAS2014 Wrap up
+url: /blog/2014/12/08/cas2014-wrap-up/
 ---
 
 This year's edition of the CAS 2014 has been awesome. There were several tracks:

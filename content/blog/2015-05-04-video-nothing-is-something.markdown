@@ -10,6 +10,7 @@ categories:
 comments: true
 date: 2015-05-04T07:43:14Z
 title: 'Video: Nothing is something'
+url: /blog/2015/05/04/video-nothing-is-something/
 ---
 
 I have seen this video: [Nothing is something][video] by [Sandi Metz][sandimetz], as I saw it recommended [here][recommendation]

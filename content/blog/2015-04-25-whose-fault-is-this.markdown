@@ -10,6 +10,7 @@ categories:
 comments: true
 date: 2015-04-25T14:10:31Z
 title: Whose fault is this?
+url: /blog/2015/04/25/whose-fault-is-this/
 ---
 
 In the prologue of the book, while thanking everyone that has made the book possible:

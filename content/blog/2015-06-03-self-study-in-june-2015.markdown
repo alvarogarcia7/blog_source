@@ -110,6 +110,7 @@ categories:
 comments: true
 date: 2015-06-03T13:13:10Z
 title: Self-study in June 2015
+url: /blog/2015/06/03/self-study-in-june-2015/
 ---
 
 Update: I've grouped all small posts related to the self-study from June 2015

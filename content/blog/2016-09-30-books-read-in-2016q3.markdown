@@ -9,6 +9,7 @@ comments: true
 date: 2016-09-30T12:49:50Z
 published: false
 title: Books read in 2016Q3
+url: /blog/2016/09/30/books-read-in-2016q3/
 ---
 
 Books I've read this quarter[^1]:

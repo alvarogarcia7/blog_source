@@ -9,6 +9,7 @@ categories:
 comments: true
 date: 2015-07-08T02:37:08Z
 title: 'Tip: committing to the repo file by file'
+url: /blog/2015/07/08/tip-committing-to-the-repo-file-by-file/
 ---
 
 I was prefer committing to the repo with commits that are as small as possible as long as it makes sense. It makes it much easier to rever the changes.

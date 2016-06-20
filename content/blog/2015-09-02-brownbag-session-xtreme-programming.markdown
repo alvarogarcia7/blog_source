@@ -7,6 +7,7 @@ categories:
 comments: true
 date: 2015-09-02T10:41:16Z
 title: 'Brown-bag session: eXtreme Programming'
+url: /blog/2015/09/02/brownbag-session-xtreme-programming/
 ---
 
 At a client, today I've introduced the eXtreme Programmig methodology, with its values, principles, practices in a brown-bag session.

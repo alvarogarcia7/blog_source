@@ -13,6 +13,7 @@ categories:
 comments: true
 date: 2015-08-05T01:14:14Z
 title: 'Brown-bag session and Dojo: Beginning Clojure'
+url: /blog/2015/08/05/brown-bag-session-and-dojo-beginning-clojure/
 ---
 
 At a client, today I've facilitated a brown-bag session introducing the Clojure language to a group of java programmers.
