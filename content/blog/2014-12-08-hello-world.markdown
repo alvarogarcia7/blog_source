@@ -23,9 +23,9 @@ instructions below:
   template (CSS) with your blog name, the author, etcetera
 * Create your first post. 
 
- ````cmd
+```
 rake new_post["Hello World!"]
-````
+```
 
 * Refresh the browser and see the new post appear
 * Edit the .markdown file in "source\\_posts" using a markup editor
