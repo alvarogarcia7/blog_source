@@ -4,7 +4,7 @@
  <div id="content">
   <div class="blog-index">
     {{ $paginator := .Paginate .Data.Pages }}
-    {{ range $paginator.Pages }}
+    {{ range (where $paginator.Pages "Section" "!=" "pages") }}
     <article>
 
         {{ .Scratch.Set "isHome" true }}
