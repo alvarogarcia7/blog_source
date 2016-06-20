@@ -1,0 +1,10 @@
+{{ $tax := .Get "taxonomy" }}
+
+{{ $tax }}
+
+<ul>
+	<!-- loop all tags that you've used -->
+	{{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+		<li><a href="/categories/{{ $name | urlize }}">{{ $name }}</a></li>
+	{{end}}
+</ul>
