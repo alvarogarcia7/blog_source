@@ -8,5 +8,5 @@ generate:
 	cd alvarogarcia7.github.io
 	git add --all
 	git commit --all -m "rebuilding site `date`"
-	#git push origin master
-	#cd -
+	git push origin master
+	cd -
