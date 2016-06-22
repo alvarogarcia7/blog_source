@@ -134,3 +134,75 @@ Tags: law-instrument, mike-loukides, cv, career, resume-driven-development
 [rdd]: http://radar.oreilly.com/2014/10/resume-driven-development.html
 [law-instrument]: https://en.wikipedia.org/wiki/Law_of_the_instrument
 
+## Why Britain banned mobile apps
+
+I've read [this interview][gds-bans-mobile-apps] with Ben Terrett, former design chief at the UK Government Digital Services (GDS), that explains why they prefer webapps rather than native (mobile) apps: it's a matter of cost, having to maintain and update so many mobile versions, versus a single one for the webapp.
+
+Also talks about user research and productagile teams inside the GDS.
+
+The interview is written by Joshua Chambers.
+
+Tags: joshua-chambers, ben-terrett, gds, webapp, mobile-app, native-app, product-team, agile, government, uk
+
+[gds-bans-mobile-apps]: https://govinsider.asia/smart-gov/why-britain-banned-mobile-apps/
+
+## Most Tech Interviews Suck — The Only 4 Questions That Matter
+
+I've read [this article][most-tech-interviews] on why the majority of technical interviews could be improved, asking four questions instead of following other practices. By Aaron Batalion
+
+Tags: aaron-batalion, tech-interview, hiring, team
+
+[most-tech-interviews]: https://medium.com/lightspeed-venture-partners/most-tech-interviews-suck-the-only-4-questions-that-matter-1a71181ef4d4
+
+## Why Socrates UK is not just a conference for software craftsmen
+
+I've read [this article][design-at-socrates] by  Giulia Mantuano on the SoCraTes UK 2016 conference, where she gave a talk on the importance of design in our environment, where we craft beautiful interfaces in our programs.
+
+Tags: socrates, socrates-uk, socrates-uk-2016, giulia-mantuano, design
+
+[design-at-socrates]: http://codurance.com/2016/06/07/why-socrates-uk-is-not-just-a-conference-for-software-craftsmen/
+
+## 360 million reasons to destroy all passwords
+
+I've read [this article][destroy-all-passwords] by Quincy Larson about the insecurity of passwords, both managed by vaults (like LastPass) or remembered ones. They all are susceptible to being discovered, leaked or shared to other sites / accounts.
+
+The author suggests to use passwordless login, which sends a link to your email account, which allows you to log in to the application
+
+Tags: passwordless, lastpass, vault, password-vault, quincy-larson, hack, leak, password
+
+[destroy-all-passwords]: https://medium.freecodecamp.com/360-million-reasons-to-destroy-all-passwords-9a100b2b5001
+
+## A Brutally Honest Rejection Letter by an HR
+
+I've read [this parody letter][honest-rejection-letter] by Nish Rao, on the real reasons so HR uses these templates for rejecting candidates
+
+Tags: nish-rao, parody, rejection-letter, hr, human-resources
+
+[honest-rejection-letter]: https://medium.com/the-coffeelicious/a-brutally-honest-rejection-letter-by-an-hr-493164bc5205
+
+## Passwords are Obsolete
+
+I've read [this article][passwords-are-obsolete] by Justin Balthrop on how to set up a passwordless system and how is that related to the Heartbleed bug.
+
+Tags: passwordless, justin-balthrop, heartbleed, password
+
+[passwords-are-obsolete]: https://medium.com/@ninjudd/passwords-are-obsolete-9ed56d483eb
+
+## Server Side Swift vs. The Other Guys — 2: Speed
+
+I've read [this comparison][server-side-swift] of languages and frameworks (Vapor (Swift), Ruby on Rails (Ruby), Laravel (PHP), Lumen (PHP), Express (JavaScript), Django (Python), Flask (Python), Spring (Java), Nancy (C#), Go (Pure Go, no framework)) and to benchmark Plaintext, JSON, Random SQLite Fetch.
+
+Tags: comparison, qutheory, speed, swift
+
+[server-side-swift]: https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-2-speed-ca65b2f79505
+
+## Compilers as Assistants
+
+I've read [this article][compilers-assistant] by Evan Czaplicki on seeing the compiler as an assistant to your work, instead of an adversary. Of how the compiler should give the most useful errors and warnings.
+
+He also explains what features have been removed from the Elm language in 0.16.
+
+Tags: compiler, assistant, adversary, enemy, elm, elm-compiler, evan-czaplicki
+
+[compilers-assistant]: http://elm-lang.org/blog/compilers-as-assistants
+
