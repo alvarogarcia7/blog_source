@@ -216,3 +216,11 @@ Tags: craftsmanship, jonathan-white, design, code, improving
 
 [craftsmanship-design-and-code]: https://medium.freecodecamp.com/craftsmanship-design-and-code-6d93eba3e7fe
 
+## The Programmer's Oath
+
+I've read [this oath][programmers-oath] by Robert C Martin.
+
+Tags: oath, programmer, craft, manifesto, robert-martin, uncle-bob
+
+[programmers-oath]: http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
+
