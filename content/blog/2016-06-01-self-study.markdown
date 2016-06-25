@@ -224,3 +224,13 @@ Tags: oath, programmer, craft, manifesto, robert-martin, uncle-bob
 
 [programmers-oath]: http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html
 
+## Intel x86s hide another CPU that can take over your machine (you can't audit it)
+
+I've read [this article][intel-chipset-inside-chipset] by Damien Zammit on the Intel Management Engine (ME), a hardware system that is embedded in the newer Intel chipsets. Its function is to provide low-level management services. ME (like Active Management Technology [AMT] in the past), provides great services, but has access to any memory location and to the TCP/IP stack, without any control from the operating system.
+
+The firmware is currently checked before booting, but it is highly-valuable as a security risk, as it has full access to the physical hardware.
+
+Tags: security, damien-zammit, intel-management-engine, active-management-technology, me, amt, tcp-ip, backdoor
+
+[intel-chipset-inside-chipset]: http://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html
+
