@@ -19,7 +19,7 @@ In [**Release It!**][release-it], terms related to stability:
   * impulse: is a rapid shock to the system.
   * a material changes shape when stress is applied. This change in shape is called the strain.
   * The original trigger and the way the crack spreads to the rest of the system, together with the result of the damage, failure mode.
-  * crumple zones—areas designed to protect passengers by failing first. called crackstoppers
+  * crumple zones: areas designed to protect passengers by failing first. called crackstoppers
 
 [release-it]: https://pragprog.com/book/mnee/release-it
 
