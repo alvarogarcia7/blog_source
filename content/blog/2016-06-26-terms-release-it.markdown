@@ -12,9 +12,9 @@ title: Stability terms from "Release it!", a quote
 In [**Release It!**][release-it], terms related to stability:
 
   * transaction: is an abstract unit of work processed by the system
-  * mixed workload: is a combination of different transac- tion types processed by a system.
+  * mixed workload: is a combination of different transaction types processed by a system.
   * system: the complete, interdependent set of hardware, applications, and services required to process transactions for users
-  * stability: resilient system keeps processing transactions, even when there are transient impulses, persistent stresses, or component failures disrupt- ing normal processing
+  * stability: resilient system keeps processing transactions, even when there are transient impulses, persistent stresses, or component failures disrupting normal processing
   * stress (to the system): is a force applied to the system over an extended period.
   * impulse: is a rapid shock to the system.
   * a material changes shape when stress is applied. This change in shape is called the strain.
