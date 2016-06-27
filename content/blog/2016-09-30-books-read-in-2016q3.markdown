@@ -14,12 +14,13 @@ url: /blog/2016/09/30/books-read-in-2016q3/
 
 Books I've read this quarter[^1]:
 
+  * [Reinventing Organizations](http://www.reinventingorganizations.com/) by Frederic Laloux. Blog posts under the tag [reinventing-organizations](/{{site.category_dir}}/reinventing-organizations)
+
 
 [^1]:  The ending date of the quarter is the same as the publication date
 
 Books started, not yet finished (WIP):
 
-  * [Reinventing Organizations](http://www.reinventingorganizations.com/) by Frederic Laloux. Blog posts under the tag [reinventing-organizations](/{{site.category_dir}}/reinventing-organizations)
   * [Clojure Programming - Practical Lisp for the Java World](http://shop.oreilly.com/product/0636920013754.do) by Chas Emerick, Brian Carper, Christophe Grand
 
 
