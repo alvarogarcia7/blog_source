@@ -8,7 +8,7 @@ categories:
 - clojure
 comments: true
 date: 2015-02-26T06:54:13Z
-published: false
+draft: true
 title: Detecting the expert beginner
 url: /blog/2015/02/26/detecting-the-expert-beginner/
 ---

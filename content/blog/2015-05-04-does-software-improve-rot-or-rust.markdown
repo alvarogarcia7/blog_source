@@ -10,7 +10,7 @@ categories:
 - TODO
 comments: true
 date: 2015-05-04T00:09:54Z
-published: false
+draft: true
 title: Does software improve, rot or rust?
 url: /blog/2015/05/04/does-software-improve-rot-or-rust/
 aliases:
