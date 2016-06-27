@@ -6,7 +6,7 @@ categories:
 - legacy-code
 comments: true
 date: 2016-04-18T01:20:54Z
-published: false
+draft: true
 title: 'Quote: Scratch Refactoring'
 url: /blog/2016/04/18/quote-scratch-refactoring/
 aliases:
