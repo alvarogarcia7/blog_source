@@ -27,7 +27,8 @@ Books I want to finish. Usually come from another quarter:
   * [Readings in Database Systems, 5th Edition](http://www.redbook.io/) by Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors
   * [Domain-Driven Design: Tackling Complexity in the Heart of Software](http://www.amazon.com/exec/obidos/ASIN/0321125215) by Eric Evans, again.
   * [Amazon Web Services in Action](https://www.manning.com/books/amazon-web-services-in-action) by Michael Wittig and Andreas Wittig
-
+  * [Release It! - Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it), by Michael T. Nygard, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [release-it](/{{site.category_dir}}/release-it)
+  * [Clojure Programming - Practical Lisp for the Java World](http://shop.oreilly.com/product/0636920013754.do) by Chas Emerick, Brian Carper, Christophe Grand
 
 
 Books that have entered the queue:
