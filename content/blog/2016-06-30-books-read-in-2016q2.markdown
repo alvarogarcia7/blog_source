@@ -17,6 +17,7 @@ Books I've read this quarter[^1]:
 
   * [Extreme Programming Explained: Embrace Change, 2nd Edition](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) by Kent Beck and Cynthia Andres, again.
   * [Building Microservices, Designing Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do), by Sam Newman, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [building-microservices](/{{site.category_dir}}/building-microservices)
+  * [Reinventing Organizations](http://www.reinventingorganizations.com/) by Frederic Laloux. Blog posts under the tag [reinventing-organizations](/{{site.category_dir}}/reinventing-organizations)
 
 
 [^1]:  The ending date of the quarter is the same as the publication date
@@ -25,7 +26,6 @@ Books started, not yet finished (WIP):
 
   * [Domain-Driven Design: Tackling Complexity in the Heart of Software](http://www.amazon.com/exec/obidos/ASIN/0321125215) by Eric Evans, again.
   * [Amazon Web Services in Action](https://www.manning.com/books/amazon-web-services-in-action) by Michael Wittig and Andreas Wittig
-  * [Reinventing Organizations](http://www.reinventingorganizations.com/) by Frederic Laloux. Blog posts under the tag [reinventing-organizations](/{{site.category_dir}}/reinventing-organizations)
   * [Release It! - Design and Deploy Production-Ready Software](https://pragprog.com/book/mnee/release-it), by Michael T. Nygard, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [release-it](/{{site.category_dir}}/release-it)
 
   
