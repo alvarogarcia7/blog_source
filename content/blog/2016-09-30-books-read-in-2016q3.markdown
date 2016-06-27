@@ -21,7 +21,6 @@ Books I've read this quarter[^1]:
 
 Books started, not yet finished (WIP):
 
-  * [Clojure Programming - Practical Lisp for the Java World](http://shop.oreilly.com/product/0636920013754.do) by Chas Emerick, Brian Carper, Christophe Grand
 
 
 Books I want to finish. Usually come from another quarter:
