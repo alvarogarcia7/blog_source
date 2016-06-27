@@ -19,6 +19,8 @@ Books I've read this quarter[^1]:
 
 Books started, not yet finished (WIP):
 
+  * [Reinventing Organizations](http://www.reinventingorganizations.com/) by Frederic Laloux. Blog posts under the tag [reinventing-organizations](/{{site.category_dir}}/reinventing-organizations)
+
 
 Books I want to finish. Usually come from another quarter:
 
@@ -26,7 +28,6 @@ Books I want to finish. Usually come from another quarter:
   * [Readings in Database Systems, 5th Edition](http://www.redbook.io/) by Peter Bailis, Joseph M. Hellerstein, Michael Stonebraker, editors
   * [Domain-Driven Design: Tackling Complexity in the Heart of Software](http://www.amazon.com/exec/obidos/ASIN/0321125215) by Eric Evans, again.
   * [Amazon Web Services in Action](https://www.manning.com/books/amazon-web-services-in-action) by Michael Wittig and Andreas Wittig
-  * [Reinventing Organizations](http://www.reinventingorganizations.com/) by Frederic Laloux. Blog posts under the tag [reinventing-organizations](/{{site.category_dir}}/reinventing-organizations)
 
 
 
