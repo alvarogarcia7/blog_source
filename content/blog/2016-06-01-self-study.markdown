@@ -234,3 +234,12 @@ Tags: security, damien-zammit, intel-management-engine, active-management-techno
 
 [intel-chipset-inside-chipset]: http://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html
 
+## Programming Doesn’t Require Talent or Even Passion
+
+I've read [this list][programming-not-require-talent] of examples of why programming doesn't require talent or passion, by Tony You
+
+Tags: talent, passion, list, programming, tony-you
+
+[programming-not-require-talent]: https://medium.com/@WordcorpGlobal/programming-doesnt-require-talent-or-even-passion-11422270e1e4
+
+
