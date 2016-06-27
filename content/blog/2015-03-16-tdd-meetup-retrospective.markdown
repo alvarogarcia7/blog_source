@@ -52,7 +52,7 @@ Yesterday we organized a TDD meetup at the [FIB - Barcelona School of Informatic
     * No one complained about the lack of beamer. So don't worry too much if your host doesn't have one, as long as everybody can get close to the (big) screen.
 
 * About the LinkedList kata:
-    * This, as a first TDD example was too complex. Getting into TDD with classes, and serveral functions at the same time might be difficult.
+    * This, as a first TDD example was too complex. Getting into TDD with classes, and several functions at the same time might be difficult.
     * Too academic. This is an example you will usually never implement yourself, as there are libraries who provide it. Therefore, not applicable.
 
 * About the Password kata:
