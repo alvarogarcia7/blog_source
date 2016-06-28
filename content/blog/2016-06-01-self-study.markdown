@@ -243,3 +243,11 @@ Tags: talent, passion, list, programming, tony-you
 [programming-not-require-talent]: https://medium.com/@WordcorpGlobal/programming-doesnt-require-talent-or-even-passion-11422270e1e4
 
 
+## Getting from ⭐️⭐️ to ⭐️⭐️⭐️⭐️⭐️
+
+I've read [this article][increasing-ratings] on how Basecamp increased their ratings at the App Store: notify the user about new features and, in that modal, ask them to review the app or dismiss. By Dylan Ginsburg
+
+Tags: review, user-engagement, rating, basecamp, dylan-ginsburg, app-store, app
+
+[increasing-ratings]: https://m.signalvnoise.com/getting-from-%EF%B8%8F-%EF%B8%8F-to-%EF%B8%8F-%EF%B8%8F-%EF%B8%8F-%EF%B8%8F-%EF%B8%8F-c65cc3bb7cb1
+
