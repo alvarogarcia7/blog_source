@@ -1,0 +1,10 @@
+## Copy. Paste. Code?
+
+I've read [this article][copy-paste-code] by Bill Sourour on the different point of view of solving questions in coding many years ago compared to nowadays.
+
+Also explores the concept of copy pasting code without understanding it, explaining that the endgame is writing good code that works and is easy to change.
+
+Tags: copy-paste, bill-sourour, clean-code, comparison
+
+[copy-paste-code]: https://blog.devmastery.com/copy-paste-code-6ed9bb841cd4
+
