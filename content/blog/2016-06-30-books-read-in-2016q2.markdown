@@ -16,7 +16,7 @@ url: /blog/2016/06/30/books-read-in-2016q2/
 Books I've read this quarter[^1]:
 
   * [Extreme Programming Explained: Embrace Change, 2nd Edition](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) by Kent Beck and Cynthia Andres, again.
-  * [Building Microservices, Designing Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do), by Sam Newman, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [building-microservices](/{{site.category_dir}}/building-microservices)
+  * [Building Microservices, Designing Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do), by Sam Newman, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [building-microservices](/categories/building-microservices)
   * [Reinventing Organizations](http://www.reinventingorganizations.com/) by Frederic Laloux. Blog posts under the tag [reinventing-organizations](/{{site.category_dir}}/reinventing-organizations)
 
 Non-technical:
