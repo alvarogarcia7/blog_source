@@ -200,23 +200,3 @@ identical public/stylesheets/screen.css
 
  Auto-regeneration: enabled for 'source'
 ```
-
-## Updating the blog in Windows with bash
-
-* Execute in cmd (not bash)
-* Execute in source folder (not factory)
-
-```dos
-λ cd source
-λ rake generate
-## Set the codepage to 65001 for Windows machines
-## Generating Site with Jekyll
-identical source/stylesheets/screen.css
-Configuration file: C:/sandbox/blog_source/_config.yml
-            Source: source
-       Destination: public
-      Generating...
-
-(Wait around 20 minutes)
-λ rake deploy
-```
