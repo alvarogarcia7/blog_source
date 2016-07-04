@@ -22,18 +22,16 @@ See an example in "Your first language":
 
 ### Upload
 
-%TODO: needs update%
-
 the "uploads" folder is at 
 
 ```
-/{{site.category_dir}}/../uploads/
+{{< upload "file.pdf" >} 
 ```
 
 The file ``source/blog/uploads/commit-with-two-persons.png`` is uploaded to:
 
 ```
-/{{site.category_dir}}/../uploads/commit-with-two-persons.png
+{{< upload "commit-with-two-persons.png" >} 
 ```
 
 See an example at 2016-02-14-two-persons-involved-in-a-git-commit.markdown
