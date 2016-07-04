@@ -14,7 +14,7 @@ title: Trimming your plants
 url: /blog/2015/04/02/trimming-your-plants/
 ---
 
-This post belongs to the [growing-software series](/{{site.category_dir}}/growing-software)
+This post belongs to the [growing-software series](/{{< category "growing-software" >}}/)
 
 Imagine this situation: the code works. You are at [this stage][initial-phase]
 

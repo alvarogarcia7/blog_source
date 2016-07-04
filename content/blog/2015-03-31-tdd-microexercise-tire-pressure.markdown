@@ -48,6 +48,6 @@ Many thanks to all the attendees and to Manuel: I learnt a lot from the session 
 [trikitrok]: http://twitter.com/@trikitrok
 [tire-pressure]: https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises/Java/TirePressureMonitoringSystem
 [lukadotnet]: https://twitter.com/lukadotnet
-[microexercises]: /{{site.category_dir}}/microexercise
+[microexercises]: /{{< category "microexercise" >}}/
 [luka-exercises]: https://github.com/lucaminudel/TDDwithMockObjectsAndDesignPrinciples/tree/master/TDDMicroExercises
 [meetup]: http://www.meetup.com/Barcelona-Software-Craftsmanship/events/221463037/

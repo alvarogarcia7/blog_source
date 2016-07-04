@@ -13,8 +13,8 @@ url: /blog/2015/06/30/books-read-in-2015q2/
 
 Books I've read this quarter Q2 on 2015:
 
-  * [Flow](http://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202) by Mihaly Csikszentmihalyi. Blog posts under the tag [flow](/{{site.category_dir}}/flow)
-  * [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/) by Steve Freeman and Nat Pryce. Blog posts under the tag [goos](/{{site.category_dir}}/goos). Read in the '[@deAprendices][deaprendices]'s reading club'.
+  * [Flow](http://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202) by Mihaly Csikszentmihalyi. Blog posts under the tag [flow](/{{< category "flow" >}}/)
+  * [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/) by Steve Freeman and Nat Pryce. Blog posts under the tag [goos](/{{< category "goos" >}}/). Read in the '[@deAprendices][deaprendices]'s reading club'.
   * TDD in Java, by Viktor Farcic and Alex García. I've reviewed this book.
 
   
@@ -23,8 +23,8 @@ Books started, not yet finished (WIP):
   * [The Well-Grounded Java Developer](http://www.manning.com/evans/) by Benjamin J. Evans and Martijn Verburg
   * [Lisp Hackers](https://leanpub.com/lisphackers) by Vsevolod Dyomkin
   * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovača
-  * [Working Effectively with Legacy Code](http://www.amazon.co.uk/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) by Michael Feathers, again. Blog posts under the tag [wewlc](/{{site.category_dir}}/wewlc)
-  * [Practical Object-Oriented Design in Ruby, An Agile Primer (POODR)](http://www.poodr.com/) by Sandi Metz, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [poodr](/{{site.category_dir}}/poodr).
+  * [Working Effectively with Legacy Code](http://www.amazon.co.uk/Working-Effectively-Legacy-Robert-Martin/dp/0131177052) by Michael Feathers, again. Blog posts under the tag [wewlc](/{{< category "wewlc" >}}/)
+  * [Practical Object-Oriented Design in Ruby, An Agile Primer (POODR)](http://www.poodr.com/) by Sandi Metz, with the '[@deAprendices][deaprendices]'s reading club'. Blog posts under the tag [poodr](/{{< category "poodr" >}}/).
   
 Books I want to finish:
 

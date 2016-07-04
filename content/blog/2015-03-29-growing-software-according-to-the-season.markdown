@@ -14,7 +14,7 @@ title: Growing software according to the season
 url: /blog/2015/03/29/growing-software-according-to-the-season/
 ---
 
-This is the first post is of the [growing-software series](/{{site.category_dir}}/growing-software)
+This is the first post is of the [growing-software series](/{{< category "growing-software" >}}/)
 
 A few weeks ago, while reading the book [Growing Object-Oriented Software Guided by Tests][goos-book] by [Nat Pryce][natpryce] and [Steve Freeman][sf105], I finally understood why the software needs to be grown and not built:
 

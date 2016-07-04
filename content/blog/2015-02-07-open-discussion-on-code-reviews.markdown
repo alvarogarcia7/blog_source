@@ -31,7 +31,7 @@ These are the main benefits we saw in it:
 
 ## Pair programming
 
-Then we discussed about the topic of [code reviews](/{{site.category_dir}}/code-review) and [pair programming](/{{site.category_dir}}/pair-programming/):
+Then we discussed about the topic of [code reviews](/{{< category "code-review" >}}/) and [pair programming](/{{< category "pair-programming" >}}/):
 
   * How do they mix
     * Is the need for code review reduced when doing pair programming?
