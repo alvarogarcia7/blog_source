@@ -8,10 +8,8 @@ Written using Hugo
 
 See an example in "Open discussion: on code reviews"
 
-%TODO: needs update%
-
 ````
-[code reviews](/{{site.category_dir}}/code-review)
+[code reviews](/{{< category "code-review" >}})
 ````
 
 ### Direct link to another post
