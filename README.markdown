@@ -8,6 +8,8 @@ Written using Hugo
 
 See an example in "Open discussion: on code reviews"
 
+%TODO: needs update%
+
 ````
 [code reviews](/{{site.category_dir}}/code-review)
 ````
@@ -21,6 +23,8 @@ See an example in "Your first language":
 ````
 
 ### Upload
+
+%TODO: needs update%
 
 the "uploads" folder is at 
 
@@ -55,6 +59,8 @@ when a more stable fix is found.
 ### Comments
 
 See an example in tdd intensive workshop:
+
+%TODO: needs update%
 
 ````
 {% comment %}
