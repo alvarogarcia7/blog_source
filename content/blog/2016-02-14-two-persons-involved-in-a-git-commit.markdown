@@ -35,7 +35,7 @@ change
 
 This is represented in github with this format:
 
-![two persons involved](/{{site.category_dir}}/../uploads/commit-with-two-persons.png)
+![two persons involved]({{< upload "commit-with-two-persons.png" >}})
 
 One of them is "sharplet" and the other one is "gfontenot". Both are github users that match a github-registered mail.
 
