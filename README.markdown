@@ -152,21 +152,11 @@ e.g.:
 
 ```dos
 λ cd blog_source
-λ rake new_post[my-new-post]
-λ rake isolate[my-new-post]
-λ rake preview
+λ hugo new post/name
+λ make run
 ...
-λ g cc "..."
+λ t cc "..."
 ...
-λ rake integrate
-λ rake generate
+λ make generate
 ```
 
-### Using the remote environment
-
-```dos
-$ cd blog_source
-$ #write a new post
-$ t cc "..."
-$ t push
-```
