@@ -170,33 +170,3 @@ $ #write a new post
 $ t cc "..."
 $ t push
 ```
-
-## Writing a new post in Windows with bash
-
-* Execute in cmd (not bash)
-* Execute in factory folder (not source)
-
-```dos
-λ cd blog_factory
-λ rake clean && rake preview
-## Set the codepage to 65001 for Windows machines
-rm -rf .pygments-cache/bash-8812c36aa5ae336c2a77bf63211d899a.htm...
-## Set the codepage to 65001 for Windows machines
-Starting to watch source with Jekyll and Compass. Starting Rack on port 4000
-   create source/stylesheets/screen.css
-Configuration file: C:/sandbox/blog_factory/_config.yml
->>> Change detected at 13:43:13 to: screen.scss
-[2015-10-12 13:43:14] INFO  WEBrick 1.3.1
-[2015-10-12 13:43:14] INFO  ruby 1.9.3 (2014-11-13) [i386-mingw32]
-[2015-10-12 13:43:14] INFO  WEBrick::HTTPServer#start: pid=916 port=4000
-            Source: source
-       Destination: public
-      Generating...
-identical public/stylesheets/screen.css
->>> Compass is polling for changes. Press Ctrl-C to Stop.
-                    done.
-  Please add the following to your Gemfile to avoid polling for changes:
-    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-
- Auto-regeneration: enabled for 'source'
-```
