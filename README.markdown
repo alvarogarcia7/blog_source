@@ -58,14 +58,12 @@ when a more stable fix is found.
 
 ### Comments
 
-See an example in tdd intensive workshop:
+Warning: these comments are available in the generated html page
 
-%TODO: needs update%
-
-````
-{% comment %}
+````html
+<!-- 
 (See more on this topic [here][tdd-is-not-a-good-name])
-{% endcomment %}
+-->
 ````
 
 ### Authors as categories
