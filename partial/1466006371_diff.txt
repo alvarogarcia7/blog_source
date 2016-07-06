@@ -1,8 +1,0 @@
-## How I fell in love with a programming language
-
-I've read [this article][love-with-a-language] by Dan Kim on the feelings of love and comfort he feels when he's programming in Kotlin, for Android. Tells the story of DHH and the love of Ruby as a similar one.
-
-Tags: dan-kim, dhh, ruby, love-of-language, kotlin, android
-
-[love-with-a-language]: https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language-8933d5e749ed
-
