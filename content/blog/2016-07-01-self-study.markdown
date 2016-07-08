@@ -35,3 +35,11 @@ Tags: dan-kim, dhh, ruby, love-of-language, kotlin, android
 
 [love-with-a-language]: https://m.signalvnoise.com/how-i-fell-in-love-with-a-programming-language-8933d5e749ed
 
+## Book writing for the busy programmer
+
+I've read [this article][book-writing-tools] by Carin Meier on what tools she found useful for writing, editing and publishing a science fiction book she was writing for her daughter.
+
+Tags: tool, pandoc, carin-meier, book, book-writing, book-editing, book-publishing
+
+[book-writing-tools]: http://gigasquidsoftware.com/blog/2016/06/19/book-writing-for-the-busy-programmer/
+
