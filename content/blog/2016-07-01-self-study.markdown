@@ -43,3 +43,11 @@ Tags: tool, pandoc, carin-meier, book, book-writing, book-editing, book-publishi
 
 [book-writing-tools]: http://gigasquidsoftware.com/blog/2016/06/19/book-writing-for-the-busy-programmer/
 
+## one-, two-, and three-factor authentication
+
+I've read [this article][mfa-explanation] by Jeff Hall, that explains the factors in multi-factor authentication.
+
+Tags: jeff-hall, ofa, 2fa, mfa, one-factor-authentication, two-factor-authentication, multi-factor-authentication, pci-guru, security, authentication
+
+[mfa-explanation]: https://pciguru.wordpress.com/2010/05/01/one-two-and-three-factor-authentication/
+
