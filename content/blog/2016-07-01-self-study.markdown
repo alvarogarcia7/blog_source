@@ -51,3 +51,21 @@ Tags: jeff-hall, ofa, 2fa, mfa, one-factor-authentication, two-factor-authentica
 
 [mfa-explanation]: https://pciguru.wordpress.com/2010/05/01/one-two-and-three-factor-authentication/
 
+## Scaling Agile: A Law And Two Paradoxes
+
+I've read [this article][scaling-agile-paradoxes] by Giovanni Asproni about agile.
+
+>Fundamental law of scaling: Scaling up amplifies the bad and makes the good more difficult.
+>
+>First paradox of scaling: Most projects are scaled up because they don’t fulfill the prerequisites for scaling.
+>
+>Second paradox of scaling: Projects fulfilling the prerequisites for scaling have a lesser need to scale.
+> 
+><quote>Giovanni Asproni</quote>
+
+Also goes on to explain ten prerequisites for scaling.
+
+Tags: scaled-agile, agile, giovanni-asproni, paradox, law
+
+[scaling-agile-paradoxes]: http://asprotunity.com/blog/scaling-agile-a-law-and-two-paradoxes/
+
