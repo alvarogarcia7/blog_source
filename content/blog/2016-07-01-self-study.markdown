@@ -77,3 +77,13 @@ Tags: ignacio-segura, analogy, job-offer, job, job-market, economy, spanish
 
 [no-encuentra-talento]: https://medium.com/espanol/carta-abierta-a-ese-empresario-que-no-encuentra-talento-669e28e4a89b
 
+## David Dill: Why Online Voting Is a Danger to Democracy
+
+I've read [this interview][online-voting-danger] to David Dill on why the online voting is not a good idea and we should stick to paper as the golden rule for voting processes. 
+
+Explains how difficult is to convince people of the technical limitations and the massive incentive it would be to hack into election systems / services.
+
+Tags: interview, david-dill, online-voting, limitation
+
+[online-voting-danger]: https://engineering.stanford.edu/news/david-dill-why-online-voting-danger-democracy
+
