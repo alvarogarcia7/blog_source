@@ -69,3 +69,11 @@ Tags: scaled-agile, agile, giovanni-asproni, paradox, law
 
 [scaling-agile-paradoxes]: http://asprotunity.com/blog/scaling-agile-a-law-and-two-paradoxes/
 
+## Carta abierta a ese empresario que no encuentra talento
+
+I've read [this article][no-encuentra-talento] by Ignacio Segura reacting to a previous article about job offer and demand. Ignacio explains how the job market can be modeled and how workers have found ways of selling their time to the best price.
+
+Tags: ignacio-segura, analogy, job-offer, job, job-market, economy, spanish
+
+[no-encuentra-talento]: https://medium.com/espanol/carta-abierta-a-ese-empresario-que-no-encuentra-talento-669e28e4a89b
+
