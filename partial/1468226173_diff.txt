@@ -1,0 +1,8 @@
+## Debuggers are a wasteful Timesink
+
+I've read [this article][debugger-wasteful] by Robert C. Martin on why we shouldn't use debuggers
+
+Tags: uncle-bob, robert-martin, debugger, tdd
+
+[debugger-wasteful]: http://www.artima.com/weblogs/viewpost.jsp?thread=23476
+
