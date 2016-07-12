@@ -1,0 +1,8 @@
+## Blue. No! Yellow!
+
+I've read [this interview][comparing-languages] with Robert C. Martin on the productivity increases that different languages provide to the programmer. He says that no language can provide an effect as big as binary to assembler and that we're currently searching the Holy Grail.
+
+Tags: robert-martin, uncle-bob, language, comparison, assembler, binary, clojure
+
+[comparing-languages]: http://blog.cleancoder.com/uncle-bob/2016/05/21/BlueNoYellow.html
+
