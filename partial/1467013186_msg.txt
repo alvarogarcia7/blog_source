@@ -1,1 +1,0 @@
-add interview on clojure on android

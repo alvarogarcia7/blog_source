@@ -87,3 +87,11 @@ Tags: interview, david-dill, online-voting, limitation
 
 [online-voting-danger]: https://engineering.stanford.edu/news/david-dill-why-online-voting-danger-democracy
 
+## Clojure Gazette - TDD in Clojure on Android
+
+I've read [this interview][interview-yakushev] to Alexander Yakushev, about his Google Summer of Code and the project he is currently working on: Clojure-android
+
+Tags: interview, clojure-gazette, alexander-yakushev, google-summer-of-code, gsoc, clojure, tdd, android
+
+[interview-yakushev]: http://us4.campaign-archive2.com/?u=a33b5228d1b5bf2e0c68a83f4&id=7023cf0a33
+
