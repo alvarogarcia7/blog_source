@@ -95,3 +95,11 @@ Tags: interview, clojure-gazette, alexander-yakushev, google-summer-of-code, gso
 
 [interview-yakushev]: http://us4.campaign-archive2.com/?u=a33b5228d1b5bf2e0c68a83f4&id=7023cf0a33
 
+## What Will GitHub Be in 5 years?
+
+I've read [this article][github-5-years] that describes the current state of Github business and the possible solutions in the upcoming five years. By Ben Halpern
+
+Tags: ben-halpern, github, economy, startup, investment
+
+[github-5-years]: https://dev.to/ben/what-will-github-be-in-5-years
+
