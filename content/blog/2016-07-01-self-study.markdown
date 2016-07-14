@@ -133,3 +133,11 @@ Tags: copy-paste, bill-sourour, clean-code, comparison
 
 [copy-paste-code]: https://blog.devmastery.com/copy-paste-code-6ed9bb841cd4
 
+## Why so many developers hate recruiters
+
+I've read [this article][developers-and-recruiters] by Quincy Larson on how recruiters for the IT sector work and how to work with them for your best possible outcome.
+
+Tags: career, professional-career, recruitment, recruiter, agent, hiring, quincy-larson
+
+[developers-and-recruiters]: https://medium.freecodecamp.com/the-tech-recruiter-red-pill-967dd492560c
+
