@@ -141,3 +141,11 @@ Tags: career, professional-career, recruitment, recruiter, agent, hiring, quincy
 
 [developers-and-recruiters]: https://medium.freecodecamp.com/the-tech-recruiter-red-pill-967dd492560c
 
+## Every time someone posts one of these “coding is over” essays on Medium, they undo a good chunk of…
+
+I've read [this article][no-coding-is-over] by Quincy Larson on why we should not tell others about their choosing of learning programming, and every time we do, some doors close.
+
+Tags: answer, learn-coding, related-to-article, quincy-larson
+
+[no-coding-is-over]: https://medium.com/@quincylarson/every-time-someone-posts-one-of-these-coding-is-over-essay-on-medium-they-undo-a-good-chunk-of-b7989849390b
+
