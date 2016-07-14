@@ -1,0 +1,38 @@
+## 29 Behaviors That Will Make You An Unstoppable Programmer
+
+I've read [this list][list-unbeateable-programmer] of tricks to become a be a better programmer. By Ken Mazaika
+
+> 1. Use Google very aggressively.
+> 2. Maintain an obnoxious amount of stick-to-itiveness.
+> 3. Acknowledge that micro-decisions matter.
+> 4. Acknowledge that most major decisions don’t matter that much.
+> 5. Always use the right tool for the job.
+> 6. Understand that code is cheap.
+> 7. Evaluate technologies based on all their merits.
+> 8. Say “I don’t know.”
+> 9. Always analyze the clues found in error messages.
+> 10. Know the difference between a premature optimization and a show-stopping optimization that NEEDS to happen.
+> 11. Take responsibility for your mistakes.
+> 12. Become a power-user of your development tools.
+> 13. Know how to use Vim (at least a little bit).
+> 14. Never accept freelance work in an unfamiliar technology.
+> 15. Don’t count the number of hours.
+> 16. Absorb massive criticism with ease.
+> 17. Pair program with people with more experience.
+> 18. Always code review your own work first.
+> 19. Recognize that the hard part of freelancing isn’t writing the code. It’s everything else.
+> 20. Identify and resolve bigger issues.
+> 21. Dive into large open source projects to bring your features to life.
+> 22. Skip a lot of meetings.
+> 23. Know when it’s time to give back.
+> 24. Be capable of writing bad code.
+> 25. Let other people know that you’re working late without being a jerk.
+> 26. Act as a leader, not a boss.
+> 27. Go play foosball.
+> 28. Learn under pressure.
+> 29. “Move fast and break things.”
+
+Tags: ken-mazaika, list, unbeateable-programmer, efficiency, 10x, tip-and-trick
+
+[list-unbeateable-programmer]: https://medium.com/@kenmazaika/29-behaviors-that-will-make-you-an-unstoppable-programmer-8778941d80f7
+
