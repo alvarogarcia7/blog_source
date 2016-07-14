@@ -2,6 +2,12 @@
 
 set -e
 
+########################### help ############################################
+
+# to pop a specific partial: go where the ``msg_file`` and ``diff_file` are calculated and overwrite it manually. then, ./save.sh pop and git checkout save.sh
+
+#############################################################################
+
 ########################### config ##########################################
 
 filename="content/blog/2016-07-01-self-study.markdown"
