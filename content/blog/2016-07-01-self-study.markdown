@@ -113,3 +113,13 @@ Tags: faas, baas, mbass, function-as-a-service, backend-as-a-service, mobile-bac
 
 [serverless-architectures]: http://martinfowler.com/articles/serverless.html
 
+## Big co. vs small co. & job vs. career stability
+
+I've read [this article][job-vs-career-stability] by Cate Huston on the career and job stability that big companies and small companies can offer:
+
+> Job security means that you know you will keep getting a paycheck from $company. Career security means that you know you can get another job, and develop yourself and your career in the way that is meaningful to you.
+
+Tags: job-security, cate-huston, big-company, small-company, career-security, career, professional-career
+
+[job-vs-career-stability]: http://www.catehuston.com/blog/2016/06/02/job-vs-career-stability/
+
