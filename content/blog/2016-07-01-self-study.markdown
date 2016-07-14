@@ -103,3 +103,13 @@ Tags: ben-halpern, github, economy, startup, investment
 
 [github-5-years]: https://dev.to/ben/what-will-github-be-in-5-years
 
+## Serverless Architectures
+
+I've read [this evolving article][serverless-architectures] by Mike Roberts on what is and is not Serverless: [mobile] backend as a service or function as a service.
+
+Converts some n-tier applications into serverless ones, expliciting that this is only a way of doing it, not necessarily the way he would do it
+
+Tags: faas, baas, mbass, function-as-a-service, backend-as-a-service, mobile-backend-as-a-service, serverless, evolving-article, mike-roberts, lambda
+
+[serverless-architectures]: http://martinfowler.com/articles/serverless.html
+
