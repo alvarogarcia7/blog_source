@@ -187,3 +187,11 @@ Tags: ken-mazaika, list, unbeateable-programmer, unstoppable-programmer, efficie
 
 [list-unbeateable-programmer]: https://medium.com/@kenmazaika/29-behaviors-that-will-make-you-an-unstoppable-programmer-8778941d80f7
 
+## Como melhorar seus códigos usando Object Calisthenics (Portuguese)
+
+I've read [this article][object-calisthenics-php] about object calisthenics, with an example in PHP. By Elton Minetto
+
+Tags: object-calisthenics, elton-minetto, php, portuguese
+
+[object-calisthenics-php]: https://medium.com/coderockr-way/como-melhorar-seus-c%C3%B3digos-usando-object-calisthenics-444daf3e2e06
+
