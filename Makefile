@@ -1,7 +1,9 @@
 .PHONY: run generate
 
+IP := $(shell ifconfig enp0s3|grep "inet addr"|cut -d: -f2 | cut -d" " -f1)
+
 run:
-	hugo serve --bind "192.168.1.133" --baseURL="192.168.1.133"
+	hugo serve --bind "${IP}" --baseURL="${IP}"
 
 generate:
 	git pull origin
