@@ -183,7 +183,7 @@ I've read [this list][list-unbeateable-programmer] of tricks to become a be a be
 > 28. Learn under pressure.
 > 29. “Move fast and break things.”
 
-Tags: ken-mazaika, list, unbeateable-programmer, efficiency, 10x, tip-and-trick
+Tags: ken-mazaika, list, unbeateable-programmer, unstoppable-programmer, efficiency, 10x, tip-and-trick
 
 [list-unbeateable-programmer]: https://medium.com/@kenmazaika/29-behaviors-that-will-make-you-an-unstoppable-programmer-8778941d80f7
 
