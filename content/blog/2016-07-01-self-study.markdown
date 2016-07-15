@@ -195,3 +195,13 @@ Tags: object-calisthenics, elton-minetto, php, portuguese
 
 [object-calisthenics-php]: https://medium.com/coderockr-way/como-melhorar-seus-c%C3%B3digos-usando-object-calisthenics-444daf3e2e06
 
+## Read This Story Without Distraction (Can You?)
+
+I've read [this article][story-without-distraction] by Verena von Pfetten on the effects on multitasking in our daily lives. Also comments on the movement of monotasking or unitasking, which is the opposite of multitasking: doing one thing at a time.
+
+Underlines the benefits of monotasking and how this is related to mindfulness and psychological benefits.
+
+Tags: multitasking, monotasking, unitasking, verena-von-pfetten, time-management
+
+[story-without-distraction]: http://www.nytimes.com/2016/05/01/fashion/monotasking-drop-everything-and-read-this-story.html?action=click&contentCollection=Fashion%20%26%20Style&module=RelatedCoverage&region=Marginalia&pgtype=article
+
