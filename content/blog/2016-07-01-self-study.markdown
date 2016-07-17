@@ -205,3 +205,11 @@ Tags: multitasking, monotasking, unitasking, verena-von-pfetten, time-management
 
 [story-without-distraction]: http://www.nytimes.com/2016/05/01/fashion/monotasking-drop-everything-and-read-this-story.html?action=click&contentCollection=Fashion%20%26%20Style&module=RelatedCoverage&region=Marginalia&pgtype=article
 
+## Debuggers are a wasteful Timesink
+
+I've read [this article][debugger-wasteful] by Robert C. Martin on why we shouldn't use debuggers
+
+Tags: uncle-bob, robert-martin, debugger, tdd
+
+[debugger-wasteful]: http://www.artima.com/weblogs/viewpost.jsp?thread=23476
+
