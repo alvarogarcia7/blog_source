@@ -237,3 +237,11 @@ Tags: office, working-environment, jason-gorman
 
 [choose-working-environment]: http://codemanship.co.uk/parlezuml/blog/?postid=1383
 
+## Building My $1,200 Hackintosh
+
+I've read [this guide][building-hackintosh] on how to build a powerful hackintosh. By Mike Rundle
+
+Tags: mike-rundle, hackintosh, macintosh, mac, computer
+
+[building-hackintosh]: https://medium.com/swlh/building-my-1-200-hackintosh-49a1a186241e
+
