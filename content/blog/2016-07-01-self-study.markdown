@@ -221,3 +221,11 @@ Tags: molly-wilson, english, communication, native, non-native, guideline
 
 [english-for-nonnatives]: https://medium.com/@mollyclare/taming-the-steamroller-how-to-communicate-compassionately-with-non-native-english-speakers-d95d8d1845a0
 
+## Blue. No! Yellow!
+
+I've read [this interview][comparing-languages] with Robert C. Martin on the productivity increases that different languages provide to the programmer. He says that no language can provide an effect as big as binary to assembler and that we're currently searching the Holy Grail.
+
+Tags: robert-martin, uncle-bob, language, comparison, assembler, binary, clojure
+
+[comparing-languages]: http://blog.cleancoder.com/uncle-bob/2016/05/21/BlueNoYellow.html
+
