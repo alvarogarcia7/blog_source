@@ -229,3 +229,11 @@ Tags: robert-martin, uncle-bob, language, comparison, assembler, binary, clojure
 
 [comparing-languages]: http://blog.cleancoder.com/uncle-bob/2016/05/21/BlueNoYellow.html
 
+## It's Time Development Teams Chose Their Own Working Environments
+
+I've read [this article][choose-working-environment] by Jason Gorman on how takes the decision of working environments and why having other options are financially available. How developers should be in charge of their own working environments.
+
+Tags: office, working-environment, jason-gorman
+
+[choose-working-environment]: http://codemanship.co.uk/parlezuml/blog/?postid=1383
+
