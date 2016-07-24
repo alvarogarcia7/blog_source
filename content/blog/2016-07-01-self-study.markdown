@@ -245,3 +245,11 @@ Tags: mike-rundle, hackintosh, macintosh, mac, computer
 
 [building-hackintosh]: https://medium.com/swlh/building-my-1-200-hackintosh-49a1a186241e
 
+## The Practical Guide to Becoming a Professional Web Developer
+
+I've read [this article][becoming-web-developer] by Bill Sourour on how to become a web developer. Explains all kind of resources, from learning javascript, deciding on being a frontend of backend developer, which language to choose, how to find a job, getting experience.
+
+Tags: bill-sourour, guide, career, beginner, developer, web, professional-career
+
+[becoming-web-developer]: https://medium.freecodecamp.com/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90
+
