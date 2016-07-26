@@ -253,3 +253,11 @@ Tags: bill-sourour, guide, career, beginner, developer, web, professional-career
 
 [becoming-web-developer]: https://medium.freecodecamp.com/the-practical-guide-to-becoming-a-professional-web-developer-2f255bc25c90
 
+## Why Hiring is So Hard in Tech
+
+I've read [this article][hiring-so-hard] by Eric Elliot on how to tackle job interviews, both from the side of the employer and the employee.
+
+Tags: eric-elliot, job-interview, employee, employer, cv, career, professional-career
+
+[hiring-so-hard]: https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017
+
