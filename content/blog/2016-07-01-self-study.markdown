@@ -16,7 +16,7 @@ Tags: policy, end-of-the-internet, jason-zimdars, basecamp, product
 
 [until-end-internet]: https://m.signalvnoise.com/until-the-end-of-the-internet-405d55fde60f
 
- ## How Agile Principles Can Fund Your Start-Up
+## How Agile Principles Can Fund Your Start-Up
 
  I've read [this article][agile-funding-startup] by Jurgen Appelo explaining how the agile values can help you negotiate funding for your startup: instead of negotiating with each investor, agree on a formula and invest in many small rounds, instead of a big one. This works both ways: for buying and for selling.
 
