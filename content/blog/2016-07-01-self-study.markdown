@@ -261,3 +261,11 @@ Tags: eric-elliot, job-interview, employee, employer, cv, career, professional-c
 
 [hiring-so-hard]: https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017
 
+## Learn Node.js with Brigadier Fluffykins Part II: Events, EventEmitter and the Event Loop
+
+I've read [this article][learn-nodejs-events] by Masha Diminsky on the architecture of javascript and nodejs. Explains the event-driven architecture, the events and the event loop.
+
+Tags: masha-diminsky, bus, nodejs, javascript, bus, event-loop, event
+
+[learn-nodejs-events]: https://medium.freecodecamp.com/learn-node-js-with-brigadier-fluffykins-part-ii-events-eventemitter-the-event-loop-6d4c139694fb
+
