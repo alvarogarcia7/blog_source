@@ -277,3 +277,13 @@ Tags: Quincy Larson, cv, resume, career, professional career, ats
 
 [art-01]: https://medium.freecodecamp.com/you-in-6-seconds-how-to-write-a-r%C3%A9sum%C3%A9-that-employers-will-actually-read-fd7757740802
 
+## Starbucks Does Not Use Two-Phase Commit
+
+I've read [this article][starbucks-twophase-commit] by Gregor Hohpe explaining how Starbucks is modeled in terms of asynchronous interactions and the actions for exception handling: write-off, retry, compensating action.
+
+Also mentions Conversation pattern and Correlation ID.
+
+Tags: gregor-hohpe, conversation-pattern, correlation-id, analogy, asynchronous, exception-handling, write-off, retry, compensating-action
+
+[starbucks-twophase-commit]: http://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html
+
