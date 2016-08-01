@@ -128,7 +128,7 @@ cat $file |grep Tags|cut -d":" -f2 > tags.txt
 
 then process tags and delete the temporary file:
 ```bash
-cat tags.txt |tr -d " " | sed '{s/,/\n/g}'|sort|uniq| sed '{s/^/  - /}' > tags2.txt
+cat tags.txt |tr -d " " | sed '{s/,/\n/g}'|sort|uniq| sed '{s/^/- /}' > tags2.txt
 rm -f tags.txt tags2.txt
 ```
 
