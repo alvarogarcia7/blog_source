@@ -16,3 +16,11 @@ Tags: maryam-labib, pivotal, career, professional-career, tdd, pair-programming,
 
 [six-months-pivotal-labib]: https://medium.com/built-to-adapt/lessons-in-agile-six-months-at-pivotal-66b4c57386a4
 
+## Hacking verbal communication systems
+
+I've watched [this talk][comm-systems] by Ryan Alexander on what kind of systems humans use to communicate and how to improve them. Explains the hand signals at Occupy movement (called (Occupy movement hand signals)[https://en.wikipedia.org/wiki/Occupy_movement_hand_signals]) 
+
+Tags: conference, ryan-alexander, lead-dev, conf, hand-signals, occupy-movement
+
+[comm-systems]: https://vimeo.com/album/4045988/video/173255458
+
