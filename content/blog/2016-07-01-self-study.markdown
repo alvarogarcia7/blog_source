@@ -13,6 +13,7 @@ categories:
 - android
 - answer
 - assembler
+- asynchronous
 - ats
 - authentication
 - baas
@@ -37,8 +38,11 @@ categories:
 - clojure-gazette
 - communication
 - comparison
+- compensating-action
 - computer
+- conversation-pattern
 - copy-paste
+- correlation-id
 - cv
 - dan-kim
 - david-dill
@@ -56,11 +60,13 @@ categories:
 - event
 - event-loop
 - evolving-article
+- exception-handling
 - faas
 - function-as-a-service
 - giovanni-asproni
 - github
 - google-summer-of-code
+- gregor-hohpe
 - gsoc
 - guide
 - guideline
@@ -121,6 +127,7 @@ categories:
 - recruitment
 - related-to-article
 - resume
+- retry
 - robert-martin
 - ruby
 - scaled-agile
@@ -141,6 +148,7 @@ categories:
 - verena-von-pfetten
 - web
 - working-environment
+- write-off
 comments: true
 date: 2016-07-04T10:47:19Z
 title: Self-Study in July 2016
