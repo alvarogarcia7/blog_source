@@ -24,3 +24,11 @@ Tags: conference, ryan-alexander, lead-dev, conf, hand-signals, occupy-movement
 
 [comm-systems]: https://vimeo.com/album/4045988/video/173255458
 
+## Ni titulitis, ni cuñadismo (Spanish)
+
+ I've read [this article][titulitis] about the regulation or no regulation of the programmer trade, by Juan María Hernández
+
+ Tags: regulation, opinion, title, degree, university, juan-hernandez, spanish
+
+[titulitis]: http://blog.koalite.com/2016/06/ni-titulitis-ni-cunadismo
+
