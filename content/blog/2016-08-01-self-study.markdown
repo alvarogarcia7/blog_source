@@ -32,3 +32,11 @@ Tags: conference, ryan-alexander, lead-dev, conf, hand-signals, occupy-movement
 
 [titulitis]: http://blog.koalite.com/2016/06/ni-titulitis-ni-cunadismo
 
+## Are Semicolons Necessary in JavaScript?
+
+I've watched [this video][semicolons-in-js] by Kyle Robinson Young on whether semicolons are necessary in javascript and why he purposely does not use them, to teach people how to do it. Suggests going for a month with the opposite way (write / don't write) to see how it feels and take an informed decision.
+
+Tags: javascript, semicolon, style, syntax, kyle-young
+
+[semicolons-in-js]: https://www.youtube.com/watch?v=gsfbh17Ax9I
+
