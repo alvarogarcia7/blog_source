@@ -40,3 +40,11 @@ Tags: javascript, semicolon, style, syntax, kyle-young
 
 [semicolons-in-js]: https://www.youtube.com/watch?v=gsfbh17Ax9I
 
+## Race conditions on the web
+
+I've read [this article][race-condition-web] by Josip Franjković on the race conditions that can happen using REST APIs, related to eventual consistency matters.
+
+Tags: eventual-consistency, josip-franjkovic, race-condition, rest-api, rest, web
+
+[race-condition-web]: https://www.josipfranjkovic.com/blog/race-conditions-on-web
+
