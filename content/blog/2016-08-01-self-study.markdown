@@ -48,3 +48,11 @@ Tags: eventual-consistency, josip-franjkovic, race-condition, rest-api, rest, we
 
 [race-condition-web]: https://www.josipfranjkovic.com/blog/race-conditions-on-web
 
+## NIST declares the age of SMS-based 2-factor authentication over
+
+ I've read [this article][changes-in-2fa] by Devin Coldewey, where he explains that the US NIST has published a draft that suggests using SMS for two-factor authentication in a different way: check that they are real phones and not VoIP to reduce the tampering with.
+
+ Tags:  devin-coldewey, 2fa, sms, nist, us-nist, security
+
+[changes-in-2fa]: https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/
+

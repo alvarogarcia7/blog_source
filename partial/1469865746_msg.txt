@@ -1,1 +1,0 @@
-add article on 2fa with SMS
