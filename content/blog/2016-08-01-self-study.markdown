@@ -56,3 +56,11 @@ Tags: eventual-consistency, josip-franjkovic, race-condition, rest-api, rest, we
 
 [changes-in-2fa]: https://techcrunch.com/2016/07/25/nist-declares-the-age-of-sms-based-2-factor-authentication-over/
 
+## My Interviews with Amazon
+
+I've read [this article][interview-at-amazon] by Aaron Krauss, where he explains his experience interviewing with Amazon at Seattle. Explains the whole process and insights from some phases.
+
+Tags: aaron-krauss, amazon, interview-process
+
+[interview-at-amazon]: https://thesocietea.org/2016/07/my-interviews-with-amazon/
+
