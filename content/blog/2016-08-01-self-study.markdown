@@ -64,3 +64,11 @@ Tags: aaron-krauss, amazon, interview-process
 
 [interview-at-amazon]: https://thesocietea.org/2016/07/my-interviews-with-amazon/
 
+## DevOps Students Learn the Value of Uptime With 3 a.m. Calls
+
+I've read [this article][devops-at-holberton] about the practices related to "on call" at Holberton School and their students.
+
+Tags: sylvain-kalache, holberton-school, on-call, full-stack-developer, devops, agile
+
+[devops-at-holberton]: https://www.linux.com/news/devops-students-learn-value-uptime-3-am-calls
+
