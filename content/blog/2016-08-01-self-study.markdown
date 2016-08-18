@@ -72,3 +72,17 @@ Tags: sylvain-kalache, holberton-school, on-call, full-stack-developer, devops, 
 
 [devops-at-holberton]: https://www.linux.com/news/devops-students-learn-value-uptime-3-am-calls
 
+## Constant confusion: why I still use JavaScript function statements
+
+I've read [this article][constant-confusion] that explains the comparison of declaring functions in javascript (ES2015 and above), with the short notation for a function. By Bill Sourour.
+
+Cites the temporal dead zone (TDZ):
+
+> [...] JavaScript binds the declaration of “sayHelloTo” — reads it first, puts it at the top, and creates a space in memory to hold its value — but it doesn’t set “sayHelloTo” to anything until it reaches it during execution.
+>
+>The time between “sayHelloTo” being bound and “sayHelloTo” being initialized is called the temporal dead zone (TDZ).
+
+Tags: tdz, temporal-dead-zone, bill-sourour, javascript, es2015, function, const, var, binding, lifecycle
+
+[constant-confusion]: https://medium.freecodecamp.com/constant-confusion-why-i-still-use-javascript-function-statements-984ece0b72fd
+
