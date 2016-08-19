@@ -113,7 +113,7 @@ articles = "/:section/:year/:month/:day/:title/"
 	disqusShortname = "thelongwaythroughsoftwarecraftsmanship"
 
 	# sidebar links
-	github = "https://github.com/alvarobiz/"
+	github = "https://github.com/alvarogarcia7/"
 	twitter = "https://twitter.com/@alvarobiz/"
 	linkedin = "https://es.linkedin.com/in/alvarogarcia7"
 
