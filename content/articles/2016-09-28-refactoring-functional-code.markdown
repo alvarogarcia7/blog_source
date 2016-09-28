@@ -15,3 +15,29 @@ function filterTokens (rawTokens) {
   return cleanedTokens.filter(token => token !== '' && stopWordsArray.indexOf(token) === -1)
 }
 ```
+
+Refactored code:
+
+```javascript
+function filterTokens (rawTokens) {
+  const cleanedTokens = rawTokens.map(token => startsWithADash(token) ? removeDashFrom(token) : token)
+  const processedTokens = cleanedTokens.filter(token => isNotEmpty(token) && isNotAStopWord(token))
+  return processedTokens
+
+  function startsWithADash (token) {
+    return (token.length && token[ 0 ] === '-')
+  }
+
+  function removeDashFrom (token) {
+    return token.substring(1)
+  }
+
+  function isNotAStopWord (token) {
+    return stopWordsArray.indexOf(token) === -1
+  }
+
+  function isNotEmpty (token) {
+    return token !== ''
+  }
+ }
+ ```
