@@ -3,6 +3,13 @@ published: false
 site:
 - breadcrumbs
 comments: true
+categories:
+- clean-code
+- functional-code
+- refactoring
+- refactor
+- code-snippet
+- snippet
 date: 2016-09-28T20:36:50Z
 title: Refactoring functional code
 ---
