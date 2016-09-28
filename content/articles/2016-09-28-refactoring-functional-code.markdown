@@ -51,7 +51,7 @@ function filterTokens (rawTokens) {
  }
  ```
 
-These two codes do the same, but the second reads better, given that each small concept or operation has a name. Even the returned value, usually ``result``, has an appropiate name. The machine will optimize that assignment to a variable but the human reader will dig deeper only if required.
+These two codes do the same, but the second reads better, given that each small concept or operation has a name. Even the returned value, usually ``result``, has an appropiate name. The machine will optimize that variable assignment to a variable but the human reader will dig deeper only if required.
 
 Writing functional code should not be an excuse to forget about clean code. The two are independent variables.
 
