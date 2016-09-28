@@ -41,3 +41,5 @@ function filterTokens (rawTokens) {
   }
  }
  ```
+
+These two codes do the same, but the second reads better, given that each small concept or operation has a name.
