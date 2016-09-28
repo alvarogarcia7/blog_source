@@ -43,3 +43,5 @@ function filterTokens (rawTokens) {
  ```
 
 These two codes do the same, but the second reads better, given that each small concept or operation has a name.
+
+Writing functional code should not be an excuse to forget about clean code. The two are independent variables.
