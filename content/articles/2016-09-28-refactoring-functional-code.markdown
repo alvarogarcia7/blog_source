@@ -14,6 +14,8 @@ date: 2016-09-28T20:36:50Z
 title: Refactoring functional code
 ---
 
+With my pairing mate we have refactored this piece of functional code.
+
 Original code:
 
 ```javascript
@@ -49,6 +51,8 @@ function filterTokens (rawTokens) {
  }
  ```
 
-These two codes do the same, but the second reads better, given that each small concept or operation has a name.
+These two codes do the same, but the second reads better, given that each small concept or operation has a name. Even the returned value, usually ``result`` has an appropiate name. The machine will optimize that assignment to a variable but the human reader will dig deeper only if required.
 
 Writing functional code should not be an excuse to forget about clean code. The two are independent variables.
+
+We have found that the second reads better than the first one, but we have reached this conclusion because we have similar values and practices. 
