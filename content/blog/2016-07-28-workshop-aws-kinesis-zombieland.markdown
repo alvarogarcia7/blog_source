@@ -11,7 +11,7 @@ date: 2016-07-28T19:28:19Z
 title: AWS Kinesis Zombieland
 ---
 
-I attended a workshop on AWS Kinesis, called [AWS Kinesis Zombieland][workshop] by Javi Moreno.
+I attended a workshop on AWS Kinesis, called [AWS Kinesis Zombieland][workshop] by [Javi Moreno][ciberado].
 
 Here my notes:
 
@@ -35,4 +35,4 @@ Preguntas:
   * ¿cómo se calcula el id del shard?
    
 [workshop]: http://capside.com/event/aws-kinesis-zombieland/
-
+[ciberado]: https://twitter.com/ciberado
