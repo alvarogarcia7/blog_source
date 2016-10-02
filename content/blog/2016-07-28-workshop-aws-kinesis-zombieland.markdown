@@ -11,7 +11,7 @@ date: 2016-07-28T19:28:19Z
 title: AWS Kinesis Zombieland
 ---
 
-I attended a workshop on AWS Kinesis, called [AWS Kinesis Zombieland][workshop] by [Javi Moreno][ciberado].
+I attended a workshop on AWS Kinesis, called [AWS Kinesis Zombieland][workshop] by [Javi Moreno][ciberado] at [capside][capside].
 
 Here my notes:
 
@@ -36,3 +36,4 @@ Preguntas:
    
 [workshop]: http://capside.com/event/aws-kinesis-zombieland/
 [ciberado]: https://twitter.com/ciberado
+[capside]: http://capside.com/
