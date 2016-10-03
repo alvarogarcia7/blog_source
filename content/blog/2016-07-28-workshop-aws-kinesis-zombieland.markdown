@@ -13,7 +13,7 @@ title: AWS Kinesis Zombieland
 
 I attended a workshop on AWS Kinesis, called [AWS Kinesis Zombieland][workshop] by [Javi Moreno][ciberado] at [capside][capside].
 
-Here my notes:
+## Notes
 
 AWS Kinesis Zombieland
 
