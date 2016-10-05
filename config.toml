@@ -80,7 +80,7 @@ articles = "/:section/:year/:month/:day/:title/"
 	# sidebar text supports markdown
 	# new lines can be added with </br> or normal markdown (two spaces at the end of line or two new lines).
 	# when adding two new lines, remember to remove the indentation otherwise the new line will be treated as a codeblock
-	sidebar_text = """This blog contains two sections: [breadcrumbs](/breadcrumbs/) (my learnings) and [articles](/articles/) (might be useful for others).
+	sidebar_text = """This blog contains two sections: [breadcrumbs](/blog/) (my learnings) and [articles](/articles/) (might be useful for others).
         <br>
         <br>
          You can find me on:""" 
