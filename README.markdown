@@ -152,13 +152,13 @@ e.g.:
 
 ### Using the local environment
 
-```dos
-λ cd blog_source
-λ hugo new post/name
-λ make run
+```bash
+> cd blog_source
+> hugo new post/name
+> make run
 ...
-λ t cc "..."
+> t cc "..."
 ...
-λ make generate
+> make generate
 ```
 
