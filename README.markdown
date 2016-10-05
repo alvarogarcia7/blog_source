@@ -123,13 +123,15 @@ find -iname "*markdown"|xargs grep Tags|cut -d":" -f3 > tags.txt
 
 from a single file:
 ```bash
-cat $file |grep Tags|cut -d":" -f2 > tags.txt
+export file=2016.....
+cat $TAGS_file |grep Tags|cut -d":" -f2 > tags.txt
 ```
 
-then process tags and delete the temporary file:
+then process tags and delete the temporary file(s):
 ```bash
-cat tags.txt |tr -d " " | sed '{s/,/\n/g}'|sort|uniq| sed '{s/^/- /}' > tags2.txt
-rm -f tags.txt tags2.txt
+cat tags.txt |tr -d " " | sed '{s/,/\n/g}'|sort|uniq| sed '{s/^/- /}' >> $TAGS_file
+rm -f tags.txt
+unset TAGS_file
 ```
 
 e.g.:
