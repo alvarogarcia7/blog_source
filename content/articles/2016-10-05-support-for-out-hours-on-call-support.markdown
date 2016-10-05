@@ -1,8 +1,12 @@
 ---
 site:
 - articles
+categories:
+- on-call
+- support
+- readme
 comments: true
-date: 2016-09-25T11:02:50Z
+date: 2016-10-05T17:58:50Z
 title: Support for out of hours on-call support
 ---
 
