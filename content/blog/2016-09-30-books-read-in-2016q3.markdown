@@ -27,7 +27,7 @@ Non-technical:
 
 Books started, not yet finished (WIP):
 
-
+  * [Talking with Tech Leads: From Novices to Practitioners](https://leanpub.com/talking-with-tech-leads) by Patrick Kua
 
 Books I want to finish. Usually come from another quarter:
 
