@@ -123,7 +123,7 @@ find -iname "*markdown"|xargs grep Tags|cut -d":" -f3 > tags.txt
 
 from a single file:
 ```bash
-export file=2016.....
+export TAGS_file=2016.....
 cat $TAGS_file |grep Tags|cut -d":" -f2 > tags.txt
 ```
 
