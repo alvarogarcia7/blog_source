@@ -7,7 +7,6 @@ categories:
 - self-study
 comments: true
 date: 2016-09-30T12:49:50Z
-draft: true
 title: Books read in 2016Q3
 url: /blog/2016/09/30/books-read-in-2016q3/
 ---
