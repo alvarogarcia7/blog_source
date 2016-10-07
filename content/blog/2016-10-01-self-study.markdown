@@ -25,3 +25,11 @@ Tags: cap-watkins, sliding-scale, decision-making, discussion, argument, convinc
 
 [the-scale-giving-fuck]: http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck
 
+## 10 Lessons I Learned from Doing My First Real Startup
+
+I've read [this article][precog-lessons-learned], a post-mortem analysis of his company, precog, with 10 items that he learned from it.
+
+Tags: john-deo-goes, precog, post-mortem, startup, lessons-learned
+
+[precog-lessons-learned]: http://degoes.net/articles/precog-lessons-learned
+
