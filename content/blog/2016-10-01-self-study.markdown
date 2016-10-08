@@ -25,3 +25,11 @@ Tags: cap-watkins, sliding-scale, decision-making, discussion, argument, convinc
 
 [the-scale-giving-fuck]: http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck
 
+## Destructuring assignment
+
+I've read the [destructuring assignment page][destructuring] at MDN
+
+Tags: javascript, destructuring, mdn
+
+[destructuring]: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
