@@ -33,3 +33,11 @@ Tags: john-deo-goes, precog, post-mortem, startup, lessons-learned
 
 [precog-lessons-learned]: http://degoes.net/articles/precog-lessons-learned
 
+## Stop Being "Nice" and Just Tell the Fucking Truth Already
+
+I've read [this article][being-nice] about giving honest feedback vs being a nice guy. The author concludes that the former is, in fact, the latter.
+
+Tags: feedback, honesty, comparison, john-de-goes
+
+[being-nice]: http://degoes.net/articles/be-nice-not-nice
+
