@@ -41,3 +41,11 @@ Tags: feedback, honesty, comparison, john-de-goes
 
 [being-nice]: http://degoes.net/articles/be-nice-not-nice
 
+## Haskell's Type Classes: We Can Do Better
+
+I've read [this article][typeclasses] about the abuse of newtype classes in haskell to overcome some language limitations.
+
+Tags: inheritance, liskov, lsp, solid, john-de-goes, functional-programming, haskell, type-classes,  newtype-clases, monoid, law
+
+[typeclasses]: http://degoes.net/articles/principled-typeclasses
+
