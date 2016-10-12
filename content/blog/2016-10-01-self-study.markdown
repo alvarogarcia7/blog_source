@@ -45,6 +45,10 @@ Tags: feedback, honesty, comparison, john-de-goes
 
 I've read [this article][typeclasses] about the abuse of newtype classes in haskell to overcome some language limitations.
 
+This article has helped me understand better inheritance, in the sections orphans and laws.
+
+Also suggests that the compiler could check at compile time that the children impose more restrictive (more specific) laws than the parent, given that any children must comply with the inherited rules (liskov substitution principle)
+
 Tags: inheritance, liskov, lsp, solid, john-de-goes, functional-programming, haskell, type-classes,  newtype-clases, monoid, law
 
 [typeclasses]: http://degoes.net/articles/principled-typeclasses
