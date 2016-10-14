@@ -21,7 +21,7 @@ branches:
   only:
   - source
 script:
-  - make generate
+  - make generate-ci
 sudo: false
 notifications:
     email:
