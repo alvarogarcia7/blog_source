@@ -82,6 +82,30 @@ Taken from [this StackOverflow answer][how-to-use-it]
 
 This can be useful for a pairing session or for some kinds of git history rewrite.
 
+Update 2016-10: We have this script to make it easier to change.
+
+Use ``pair_with`` to pair with someone and ``solo`` to work on your own.
+
+Place this on your ``~/.bashrc`` or ``~/.zshrc`` or similar.
+
+```bash
+function solo {
+  unset GIT_COMMITTER_NAME
+  unset GIT_COMMITTER_EMAIL
+}
+
+function pair_with_ {
+  export GIT_COMMITTER_NAME=$1
+  export GIT_COMMITTER_EMAIL=$2
+}
+
+function pair_with_john {
+    pair_with_ "John Doe" "jd@example.com"
+}
+
+...
+```
+
 [explanation-roles]: https://groups.google.com/forum/#!topic/repo-discuss/6aH9rH8nUdo
 [^1]: also explained in [this StackOverflow post](http://stackoverflow.com/questions/6755824/what-is-the-difference-between-author-and-committer-in-git)
 [^2]: this list has been generated from the available arguments at the ["pretty formats" at the git-log page](https://git-scm.com/docs/git-log)
