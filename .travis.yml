@@ -6,7 +6,11 @@ git:
 before_install:
     - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
     - git submodule update --init --recursive
-install: go get -v github.com/spf13/hugo
+install:
+    - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17_Linux-64bit.tar.gz
+    - tar xzf hugo_0.17_Linux-64bit.tar.gz
+    - chmod +x hugo_0.17_linux_amd64/hugo_0.17_linux_amd64
+    - mv hugo_0.17_linux_amd64/hugo_0.17_linux_amd64 hugo
 before_script:
 - git config --global user.name "alvarogarcia7 (via Travis CI)"
 - git config --global user.email "alvarogarcia7@users.noreply.github.com"
