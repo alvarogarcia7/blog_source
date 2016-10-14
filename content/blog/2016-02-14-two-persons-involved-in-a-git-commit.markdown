@@ -106,7 +106,11 @@ function pair_with_john {
 ...
 ```
 
+Update 2, 2016-10: This script also helps with managing the variables: [git-duet][git-duet]. Thanks [David Hatanian][dhatanian] for the tip
+
 [explanation-roles]: https://groups.google.com/forum/#!topic/repo-discuss/6aH9rH8nUdo
 [^1]: also explained in [this StackOverflow post](http://stackoverflow.com/questions/6755824/what-is-the-difference-between-author-and-committer-in-git)
 [^2]: this list has been generated from the available arguments at the ["pretty formats" at the git-log page](https://git-scm.com/docs/git-log)
 [how-to-use-it]: http://stackoverflow.com/a/23108169/1181094
+[git-duet]: https://github.com/git-duet/git-duet
+[dhatanian]: https://twitter.com/dhatanian
