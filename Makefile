@@ -18,7 +18,7 @@ generate:
 
 generate-ci:
 	hugo version
-	hugo --destination alvarogarcia7.github.io
+	hugo --destination alvarogarcia7.github.io -v
 	cd alvarogarcia7.github.io; git add --all
 	cd alvarogarcia7.github.io; git commit --all -m "rebuilding site `date`"
 	cd alvarogarcia7.github.io; git push origin master
