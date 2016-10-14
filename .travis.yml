@@ -1,4 +1,5 @@
 language: go
+sudo: required
 # Handle git submodules yourself
 git:
     submodules: false
