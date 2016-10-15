@@ -25,3 +25,11 @@ Tags: cap-watkins, sliding-scale, decision-making, discussion, argument, convinc
 
 [the-scale-giving-fuck]: http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck
 
+## Nuevos retos
+
+I've read [this article][msj-nuevos-retos] by Modesto San Juan about him leaving Codesai and joining a new adventure. In Spanish.
+
+Tags: career-change, modesto-san-juan, codesai, carlos-ble, .net
+
+[msj-nuevos-retos]: http://www.modestosanjuan.com/nuevos-retos/
+
