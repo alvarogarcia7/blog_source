@@ -33,3 +33,11 @@ Tags: career-change, modesto-san-juan, codesai, carlos-ble, .net
 
 [msj-nuevos-retos]: http://www.modestosanjuan.com/nuevos-retos/
 
+## Muchas gracias Modesto
+
+I've read [this article][codesai-gracias-modesto], by Carlos Blé and the rest of the Codesai team, saying goodbye to Modesto San Juan, commenting on their experiences working with him.
+
+Tags: career-change, modesto-san-juan, codesai, carlos-ble, .net
+
+[codesai-gracias-modesto]: http://www.codesai.com/2016/10/muchas-gracias-modesto/
+
