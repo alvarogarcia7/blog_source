@@ -41,3 +41,11 @@ Tags: career-change, modesto-san-juan, codesai, carlos-ble, .net
 
 [codesai-gracias-modesto]: http://www.codesai.com/2016/10/muchas-gracias-modesto/
 
+## Introducing…Ticket Magpie
+
+I've read [this article][ticket-magpie-db] by Dan Billing about the a honeypot application he has to teach about security and attacks.
+
+Tags: david-hatanian, dan-billing, ticket-magpie, honeypot, security, attack
+
+[ticket-magpie-db]: https://thetestdoctor.wordpress.com/2016/10/11/introducing-ticket-magpie/
+
