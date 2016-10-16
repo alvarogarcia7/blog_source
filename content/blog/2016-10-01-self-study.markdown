@@ -49,3 +49,11 @@ Tags: david-hatanian, dan-billing, ticket-magpie, honeypot, security, attack
 
 [ticket-magpie-db]: https://thetestdoctor.wordpress.com/2016/10/11/introducing-ticket-magpie/
 
+## Destructuring assignment
+
+I've read the [destructuring assignment page][destructuring] at MDN
+
+Tags: javascript, destructuring, mdn
+
+[destructuring]: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
