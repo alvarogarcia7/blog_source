@@ -57,3 +57,31 @@ Tags: javascript, destructuring, mdn
 
 [destructuring]: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
 
+## 10 Lessons I Learned from Doing My First Real Startup
+
+I've read [this article][precog-lessons-learned], a post-mortem analysis of his company, precog, with 10 items that he learned from it.
+
+Tags: john-deo-goes, precog, post-mortem, startup, lessons-learned
+
+[precog-lessons-learned]: http://degoes.net/articles/precog-lessons-learned
+
+## Stop Being "Nice" and Just Tell the Fucking Truth Already
+
+I've read [this article][being-nice] about giving honest feedback vs being a nice guy. The author concludes that the former is, in fact, the latter.
+
+Tags: feedback, honesty, comparison, john-de-goes
+
+[being-nice]: http://degoes.net/articles/be-nice-not-nice
+
+## Haskell's Type Classes: We Can Do Better
+
+I've read [this article][typeclasses] about the abuse of newtype classes in haskell to overcome some language limitations.
+
+This article has helped me understand better inheritance, in the sections orphans and laws.
+
+Also suggests that the compiler could check at compile time that the children impose more restrictive (more specific) laws than the parent, given that any children must comply with the inherited rules (liskov substitution principle)
+
+Tags: inheritance, liskov, lsp, solid, john-de-goes, functional-programming, haskell, type-classes,  newtype-clases, monoid, law
+
+[typeclasses]: http://degoes.net/articles/principled-typeclasses
+
