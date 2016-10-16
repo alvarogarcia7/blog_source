@@ -65,6 +65,7 @@ comments: true
 date: 2016-08-01T19:56:19Z
 title: Self-Study in August 2016
 ---
+
 ## Lessons in Agile: Six Months at Pivotal
 
 I've read [this article][six-months-pivotal-labib] by Maryam Labib where she explains what she has learned in the last 6 months at Pivotal: how to pair program, how to TDD and some good practices to be a better developer.
