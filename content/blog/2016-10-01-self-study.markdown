@@ -85,3 +85,11 @@ Tags: inheritance, liskov, lsp, solid, john-de-goes, functional-programming, has
 
 [typeclasses]: http://degoes.net/articles/principled-typeclasses
 
+## Introducing the Three Amigos
+
+I've read [this article][three-amigod] by Ryan Thomas Hewitt about the Three Amigos meeting, to better define a feature
+
+Tags: ryan-hewitt, three-amigos, agile, meeting, process, scrum
+
+[three-amigod]: https://www.scrumalliance.org/community/articles/2013/2013-april/introducing-the-three-amigos
+
