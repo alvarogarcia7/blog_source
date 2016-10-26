@@ -15,4 +15,9 @@ You can also unearth this yourself when you code at your cleverness possibilitie
 
 source: talk by Pedro M. Santos at a Codurance catch-up
 
-TODO: Ask him if he wants to be an author on this
+## TODOs
+
+  * Ask him if he wants to be an author on this
+  * Add his twitter account
+  * Add codurance twitter account
+
