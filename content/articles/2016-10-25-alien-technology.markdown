@@ -9,7 +9,7 @@ title: Alien technology
 
 Main concept:
 
-> What the client has but cannot understand
+> What the client has but the client team cannot understand / maintain
 
 You can also unearth this yourself when you code at your cleverness possibilities
 
