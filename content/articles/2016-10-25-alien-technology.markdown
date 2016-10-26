@@ -9,3 +9,4 @@ title: Alien technology
 
 source: talk by Pedro M. Santos at a Codurance catch-up
 
+TODO: Ask him if he wants to be an author on this
