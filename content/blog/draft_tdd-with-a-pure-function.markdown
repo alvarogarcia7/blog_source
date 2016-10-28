@@ -25,6 +25,7 @@ But these characteristics also difficult test driving it, as opposed to writing 
   - Is this difficulty of driving affected by the paradigm of the language (e.g., functional vs object oriented)?
   - How does this affect triangulation?
     - In case this pure function is an algorithm, TODO see test driving algorithm TODO, does the refactor 'replace algorithm' happen often? Is the difficulty related to driving algorithms or to driving pure functions?
+    - Do not mix test driving an algorithm with test driving a pure function TODO
 
 
 
