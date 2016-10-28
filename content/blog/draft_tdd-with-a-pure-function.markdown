@@ -13,7 +13,10 @@ comments: true
 
 It is easy when you are starting with TDD, as the inputs and outputs are fixed, and there are no side effects. The only difference is in the implementation, and this can help with the baby steps. 
 
-The current example that I have in mind is the Powersets TODO add link
+The current example that I have in mind is the Powersets 
+
+  - This is a pure function that is also an algorithm
+  - The implementation can be found here TODO add link 
 
 But these characteristics also difficult driving it, as opposed to writing tests first:
 
