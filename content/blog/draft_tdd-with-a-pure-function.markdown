@@ -18,7 +18,7 @@ The current example that I have in mind is the Powersets
   - This is a pure function that is also an algorithm
   - The implementation can be found here TODO add link 
 
-But these characteristics also difficult driving it, as opposed to writing tests first:
+But these characteristics also difficult test driving it, as opposed to writing tests first:
 
   - Is there much API discovery when you have fixed the inputs and outputs from the beginning?
   - How does testing from the outside, influence the process: triangulation, test cases, implementation?
