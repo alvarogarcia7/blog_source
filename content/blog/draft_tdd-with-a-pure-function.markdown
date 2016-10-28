@@ -18,6 +18,11 @@ The current example that I have in mind is the Powersets
   - This is a pure function that is also an algorithm
   - The implementation can be found here TODO add link 
 
+
+What has happened in this case:
+
+  - In this specific case, I've developed on paper an idea, on the REPL a correct solution (based on the paper one) and then tried test driving a solution. Tried baby steps, but the triangulation was only driving me to write scaffolds and particular cases. Could not find patterns to generalize the solution.
+
 But these characteristics also difficult test driving it, as opposed to writing tests first:
 
   - Is there much API discovery when you have fixed the inputs and outputs from the beginning?
