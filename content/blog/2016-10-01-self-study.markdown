@@ -93,3 +93,11 @@ Tags: ryan-hewitt, three-amigos, agile, meeting, process, scrum
 
 [three-amigod]: https://www.scrumalliance.org/community/articles/2013/2013-april/introducing-the-three-amigos
 
+## Apple just told the world it has no idea who the Mac is for
+
+I've read [this article][apple-mac] by Owen Williams on the latest presentation by Apple.
+
+Tags: Owen Williams, mac, apple, strategy
+
+[apple-mac]: https://medium.com/charged-tech/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b
+
