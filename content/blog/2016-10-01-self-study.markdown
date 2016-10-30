@@ -101,3 +101,11 @@ Tags: Owen Williams, mac, apple, strategy
 
 [apple-mac]: https://medium.com/charged-tech/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b
 
+## Sigil
+
+I've read this page for the [sigil], or the symbol attached to the variable. An example is the `$` in Perl or the earmuffs in Clojure (`*out*`).
+
+Tags: sigil, wikipedia, example, computer-science
+
+[sigil]: https://en.wikipedia.org/wiki/Sigil_(computer_programming)
+
