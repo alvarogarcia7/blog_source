@@ -109,3 +109,11 @@ Tags: sigil, wikipedia, example, computer-science
 
 [sigil]: https://en.wikipedia.org/wiki/Sigil_(computer_programming)
 
+## List of languages that compile to JS
+
+I've read [this list][compile-to-js] of programming languages that compile to JS. By Jeremy Ashkenas and the community
+
+Tags: jeremy-ashkenas, compilation, compiled-language, compiled-to-javascript, compiled-javascript, javascript
+
+[compile-to-js]: https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS
+
