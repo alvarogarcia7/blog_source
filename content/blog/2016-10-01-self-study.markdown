@@ -97,7 +97,7 @@ Tags: ryan-hewitt, three-amigos, agile, meeting, process, scrum
 
 I've read [this article][apple-mac] by Owen Williams on the latest presentation by Apple.
 
-Tags: Owen Williams, mac, apple, strategy
+Tags: owen-williams, mac, apple, strategy
 
 [apple-mac]: https://medium.com/charged-tech/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b
 
