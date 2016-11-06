@@ -24,3 +24,14 @@ I've read [this article][adv-white-men] by Cate Huston about how advice affects 
 Tags: cate-huston, management, advice, psychology
 
 [adv-white-men]: http://www.catehuston.com/blog/2016/01/28/advice-for-white-men/
+
+## On 1:1s
+
+I've read [this article][on-one-on-ones] by Cate Huston about one-on-ones (1:1s), that includes how she handles and the purpose of them.
+
+> For me, 1:1s were about active relationship building, with a focus on the important-but-not urgent. But having built a relationships where we talked regularly and I listened, that created space for conversations to happen outside of the 1:1
+
+Tags: cate-huston, management, psychology, one-on-one
+
+[on-one-on-ones]: http://www.catehuston.com/blog/2016/11/05/on-11s/
+
