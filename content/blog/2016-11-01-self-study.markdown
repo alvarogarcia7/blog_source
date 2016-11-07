@@ -35,3 +35,11 @@ Tags: cate-huston, management, psychology, one-on-one
 
 [on-one-on-ones]: http://www.catehuston.com/blog/2016/11/05/on-11s/
 
+## Microsoft, I forgive you!
+
+I've read [this article][msft-forgive-you] by David Heinemeier Hansson (DHH) on why Microsoft has changed and why the author has forgiven past beefs.
+
+Tags: dhh, david-heinemeier-hansson, microsoft
+
+[msft-forgive-you]: https://m.signalvnoise.com/microsoft-i-forgive-you-2fb6d6061a2c
+
