@@ -24,6 +24,16 @@ Books I want to finish. Usually come from another quarter:
 
 Books that have entered the queue:
 
+Non-technical that have entered the queue:
+
+  - La psicología del dinero, Hammond
+  - Invirtiendo a largo plazo, García Paramés
+  - Quién domina el mundo, Chomsky
+  - Homenaje a Cataluña, Orwell
+  - El camino al 18J, Payne
+  - Cartas desde la revolución bolchevique, Sadoul
+  - Shogun: The Life of Tokugawa Ieyasu, Sadler
+
 <!--
 
 repository for WIP books:
