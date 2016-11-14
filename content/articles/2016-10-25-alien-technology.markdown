@@ -19,6 +19,7 @@ but can be rephrased as
 
 Note: both the creator and team can be a single person, a team, a company or, in general, any group of people.
 
+A bit of this can help the user advance in their learning process. But too much makes them lose trust in the creator.
 
 Two main kinds: 
 
