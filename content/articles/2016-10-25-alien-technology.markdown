@@ -44,9 +44,10 @@ The topic here is the same as before, but can it be attributed to different pool
 
 Can it be attributed to 'debugging code is much more difficult that writing code'? TODO find reference TODO. 
 
-It can also be attributed to Naur's idea.
-
 You can also unearth this yourself when you code at your cleverness possibilities (based on the theory that writing code is easier than reading code)
+
+
+It can also be attributed to Naur's idea.
 
 This could be caused by the different mental theories necessary to build the tool. Especially when the alien tool is not created by the user. This does not explain the creation and use by the same person, some time apart. TODO add reference to Naur - Theory building TODO .
 
