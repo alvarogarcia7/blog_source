@@ -21,7 +21,7 @@ Note: both the creator and team can be a single person, a team, a company or, in
 
 Note: this only applies when the user needs to understand or maintain a solution. Does not apply when the creator performs these tasks. But then the user is in a dependency relationship with the creator.
 
-A bit of this can help the user advance in their learning process. But too much makes them lose trust in the creator.
+A bit of this 'alien technology' can help the user advance in their learning process. But too much makes them lose trust in the creator.
 
 Two main kinds: 
 
