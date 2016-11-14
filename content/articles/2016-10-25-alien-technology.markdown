@@ -12,8 +12,14 @@ Main concept:
 > What the client has but the client team cannot understand / maintain
 
 Two main kinds: 
-  - the creator is the user
-  - the creator is not the user
+
+  1. the creator is not the user
+  1. the creator is the user
+
+Examples (For 1):
+
+  * Someone in your team creates a tool that you do not understand
+  * Someone in your team uses a tool that you do not understand
 
 You can also unearth this yourself when you code at your cleverness possibilities (based on the theory that writing code is easier than reading code)
 
