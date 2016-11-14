@@ -2,6 +2,10 @@
 published: false
 site:
 - breadcrumbs
+- alien-technology
+- pedro-santos
+- codurance
+- lightning-talk
 comments: true
 date: 2016-10-25T20:21:01Z
 title: Alien technology
