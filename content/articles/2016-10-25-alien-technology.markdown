@@ -10,6 +10,15 @@ title: Alien technology
 Main concept:
 
 > What the client has but the client team cannot understand / maintain
+> 
+> Pedro M. Santos
+
+but can be rephrased as
+
+> What the creator originally created has but the user cannot understand / maintain
+
+Note: both the creator and team can be a single person, a team, a company or, in general, any group of people.
+
 
 Two main kinds: 
 
