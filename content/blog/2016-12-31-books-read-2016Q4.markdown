@@ -19,6 +19,7 @@ Books I've read this quarter[^1]:
 Books started, not yet finished (WIP):
 
   * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala), by Chiusano and Bjarnason. Doing the exercises with the [codurance][codurance] team
+  * Gödel, Escher, Bach: An Eternal Golden Braid, Hofstadter
 
 Books I want to finish. Usually come from another quarter:
 
@@ -36,7 +37,6 @@ Non-technical that have entered the queue:
   - Els jueus i Catalunya, Villatoro
   - Russell en 90 minutos, Strathern
   - El problema de los tres cuerpos, Liu
-  - Gödel, Escher, Bach: An Eternal Golden Braid, Hofstadter
 
 <!--
 
