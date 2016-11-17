@@ -98,6 +98,12 @@ $1-
 
 Note: the second set of parenthesis can be removed; they are left in-place for easing the copy-paste
 
+On vim:
+
+```
+.s/\(\w\) /\1-/g
+```
+
 
 ### Get all the categories from a Self-Study aggregation
 
