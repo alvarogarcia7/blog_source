@@ -51,4 +51,12 @@ Tags: rant, commit-message, tim-pope, commit
 
 [rant-commit]: http://stopwritingramblingcommitmessages.com/
 
+## A Note About Git Commit Messages
+
+I've read [this article][note-git-commit] by Tim Pope on git commits and tools to normalize the text and apply the rules he describes
+
+Tags: commit-message, tim-pope, commit, tool
+
+[note-git-commit]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+
 
