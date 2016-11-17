@@ -43,3 +43,12 @@ Tags: dhh, david-heinemeier-hansson, microsoft
 
 [msft-forgive-you]: https://m.signalvnoise.com/microsoft-i-forgive-you-2fb6d6061a2c
 
+## Stop writing rambling commit messages
+
+I've read [this rant][rant-commit] by Tim Pope on commit messages
+
+Tags: rant, commit-message, tim-pope, commit
+
+[rant-commit]: http://stopwritingramblingcommitmessages.com/
+
+
