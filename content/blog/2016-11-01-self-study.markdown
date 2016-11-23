@@ -59,4 +59,11 @@ Tags: commit-message, tim-pope, commit, tool
 
 [note-git-commit]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 
+## Purely Functional I/O
+
+I've watched [this talk][functional-io] by Runar Bjarnason on purely functional IO. In the first part, he introduces functional programming, referential transparency and functional IO. In the second part, he explains the types for IO and both the implementation in haskell and in scala.
+
+Tags: runar-bjarnason, haskell, scala, talk, video, functional-programming, functional-io, io
+
+[functional-io]: https://www.infoq.com/presentations/io-functional-side-effects
 
