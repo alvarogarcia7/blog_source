@@ -67,3 +67,12 @@ Tags: runar-bjarnason, haskell, scala, talk, video, functional-programming, func
 
 [functional-io]: https://www.infoq.com/presentations/io-functional-side-effects
 
+## 12 Signs You’re Working in a Feature Factory
+
+I've read [this listicle][feature-factory] by John Cutler on signs that a company is very centered in features rather than value.
+
+Tags: john-cutler, feature, value, product-management, product-development
+
+[feature-factory]: https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2
+
+
