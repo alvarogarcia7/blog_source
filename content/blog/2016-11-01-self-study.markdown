@@ -75,4 +75,13 @@ Tags: john-cutler, feature, value, product-management, product-development
 
 [feature-factory]: https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2
 
+## 3.a The Tao of Monad
+
+I've read [this article][tao-of-monad] by Bartosz Milewski explaining the Monad under another lens.
+
+He draws some inspiration from Lao Tzu, in Tao Te Ching: TE as virtue, laziness.
+
+Tags: bartosz-milewski, monad, haskell, school-of-haskell, tao-te-ching, tao
+
+[tao-of-monad]: https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/the-tao-of-monad
 
