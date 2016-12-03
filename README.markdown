@@ -78,6 +78,8 @@ In this version the argument that changes all the time (the author or URL keywor
 
 #### using an internal service
 
+##### Using Sublime Text
+
 1. lowercase:
 
   select, control+k, l (lowercase)
@@ -98,7 +100,7 @@ $1-
 
 Note: the second set of parenthesis can be removed; they are left in-place for easing the copy-paste
 
-On vim:
+##### Using vim
 
 ```
 .s/\(\w\) /\1-/g
