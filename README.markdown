@@ -102,6 +102,11 @@ Note: the second set of parenthesis can be removed; they are left in-place for e
 
 ##### Using vim
 
+To make it lowercase:
+
+  * Select in visual mode
+  * Hit `u` for lowercase
+
 ```
 .s/\(\w\) /\1-/g
 ```
