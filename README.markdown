@@ -84,7 +84,7 @@ In this version the argument that changes all the time (the author or URL keywor
 
   select, control+k, l (lowercase)
 
-2. replace spaces
+2. replace spaces in the `Tags`
 
 ```
 ([a-z]) ([a-z])
