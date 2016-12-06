@@ -107,6 +107,8 @@ To make it lowercase:
   * Select in visual mode
   * Hit `u` for lowercase
 
+Replace the `Tags`:
+
 ```
 .s/\(\w\) /\1-/g
 ```
