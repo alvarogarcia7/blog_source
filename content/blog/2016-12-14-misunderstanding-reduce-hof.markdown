@@ -32,7 +32,7 @@ undefined
 
 Note: this is a special case, where the elements are not altered by the `reduce`. Can be seen as the identity element for `reduce`.
 
-This same behaviour can be reproduce with a `map`:
+This same behaviour can be reproduced with a `map`:
 
 ```javascript
 > let identity = function (x) { return x; };
