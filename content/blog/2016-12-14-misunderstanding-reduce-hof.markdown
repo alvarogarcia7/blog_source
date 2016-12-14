@@ -8,6 +8,15 @@ title: A common misunderstanding about `reduce`
 
 I've read in several places that [`reduce`][mdn-reduce] reduces an array\* of values to a single one.
 
+This is a simple example of such function:
+
+```javascript
+> let sum = function (a, b) { return a + b; };
+undefined
+> [1,2,3].reduce(sum)
+6
+```
+
 TODO: missing explanation that the reduce function can also be used on other elements belonging to the same category as the array
 
 This is, in fact, not true. Let's see a counterexample in the Node REPL
