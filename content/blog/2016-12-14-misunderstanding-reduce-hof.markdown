@@ -16,7 +16,7 @@ I've read in several places that [`reduce`][mdn-reduce] reduces an array\* of va
 
 ### Examples
 
-Note: the examples in this article are in Javascript because it is one language that uses `reduce` for this higher-order function
+Note: the examples in this article are in Javascript.
 
 This is a simple example of such function:
 
