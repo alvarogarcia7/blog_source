@@ -8,6 +8,8 @@ title: A common misunderstanding about `reduce`
 
 I've read in several places that [`reduce`][mdn-reduce] reduces an array\* of values to a single one.
 
+Note: the examples in this article are in Javascript because it is one language that uses `reduce` for this higher-order function. Some functions will be typed using Haskell syntax.
+
 This is a simple example of such function:
 
 ```javascript
