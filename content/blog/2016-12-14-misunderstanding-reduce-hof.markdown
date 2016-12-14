@@ -19,7 +19,7 @@ undefined
 
 TODO: missing explanation that the reduce function can also be used on other elements belonging to the same category as the array
 
-This is, in fact, not true. Let's see a counterexample in the Node REPL
+`reduce` can reduce a collection of elements to a single one. But this is not its defining charactertic. Let's see another example:
 
 ```javascript
 > let append = function (element, accumulator) { accumulator.push(element); return accumulator };
