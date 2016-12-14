@@ -41,7 +41,32 @@ undefined
 [ 1, 2, 3 ]
 ```
 
+An example that requires a `reduce` (and not a map) is [`frequencies`][cljdoc-frequencies]. This function calculates the frequency of the elements in the collection:
+
+```javascript
+> frequencies([3,3,2,1,-1])
+{ '1': 1, '2': 1, '3': 2, '-1': 1 }
+```
+
+Why not a map? Because you need to cumulate the results.
+
+```javascript
+> let frequency = function (accumulator, element) { 
+  if (!accumulator[element]) {
+    accumulator[element] = 0;
+  } 
+  accumulator[element]++;
+  return accumulator; 
+} 
+undefined
+> let frequencies = function (arr) {
+  return arr.reduce(frequency, {});
+}
+undefined
+```
+
 [mdn-reduce]: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+[cljdoc-frequencies]: https://clojuredocs.org/clojure.core/frequencies
 
 Identity element: https://en.wikipedia.org/wiki/Identity_element
 
