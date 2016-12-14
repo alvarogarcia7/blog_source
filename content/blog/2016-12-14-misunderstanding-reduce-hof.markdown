@@ -10,6 +10,8 @@ title: A common misunderstanding about `reduce`
 
 I've read in several places that [`reduce`][mdn-reduce] reduces an array\* of values to a single one. The main characteristic of this function is not to reduce to a 'smaller element' / 'single element', but to have access to the accumulated results and the elements, one by one. Quoting Mozilla Developer Network's (MDN) Javascript reference:
 
+TODO: missing explanation that the reduce function can also be used on other elements belonging to the same category as the array
+
 > The reduce() method applies a function against an accumulator and each value of the array (from left-to-right) to reduce it to a single value.
 >
 > [Array.prototype.reduce()][mdn-reduce] at MDN
@@ -26,8 +28,6 @@ undefined
 > [1,2,3].reduce(sum)
 6
 ```
-
-TODO: missing explanation that the reduce function can also be used on other elements belonging to the same category as the array
 
 `reduce` can reduce a collection of elements to a single one. But this is not its defining characteristic. Let's see another example:
 
