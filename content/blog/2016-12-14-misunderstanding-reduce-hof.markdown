@@ -30,6 +30,15 @@ undefined
 
 Note: this is a special case, where the elements are not altered by the `reduce`. Can be seen as the identity element for `reduce`.
 
+This same behaviour can be reproduce with a `map`:
+
+```javascript
+> let identity = function (x) { return x; };
+undefined
+> [1,2,3].map(identity)
+[ 1, 2, 3 ]
+```
+
 [mdn-reduce]: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
 
 Identity element: https://en.wikipedia.org/wiki/Identity_element
