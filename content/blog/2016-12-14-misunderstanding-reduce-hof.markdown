@@ -8,6 +8,8 @@ title: A common misunderstanding about `reduce`
 
 I've read in several places that [`reduce`][mdn-reduce] reduces an array\* of values to a single one.
 
+TODO: missing explanation that the reduce function can also be used on other elements belonging to the same category as the array
+
 This is, in fact, not true. Let's see a counterexample in the Node REPL
 
 ```javascript
