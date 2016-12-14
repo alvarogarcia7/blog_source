@@ -6,11 +6,15 @@ date: 2016-12-14T18:48:28Z
 title: A common misunderstanding about `reduce`
 ---
 
+### Misconception
+
 I've read in several places that [`reduce`][mdn-reduce] reduces an array\* of values to a single one. The main characteristic of this function is not to reduce to a 'smaller element' / 'single element', but to have access to the accumulated results and the elements, one by one. Quoting Mozilla Developer Network's (MDN) Javascript reference:
 
 > The reduce() method applies a function against an accumulator and each value of the array (from left-to-right) to reduce it to a single value.
 >
 > [Array.prototype.reduce()][mdn-reduce] at MDN
+
+### Examples
 
 Note: the examples in this article are in Javascript because it is one language that uses `reduce` for this higher-order function
 
