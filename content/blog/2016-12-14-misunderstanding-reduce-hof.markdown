@@ -17,5 +17,9 @@ undefined
 [ 1, 2, 3 ]
 ```
 
+Note: this is a special case, where the elements are not altered by the `reduce`. Can be seen as the identity element for `reduce`.
+
 [mdn-reduce]: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+
+Identity element: https://en.wikipedia.org/wiki/Identity_element
 
