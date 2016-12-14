@@ -41,14 +41,14 @@ undefined
 [ 1, 2, 3 ]
 ```
 
-An example that requires a `reduce` (and not a map) is [`frequencies`][cljdoc-frequencies]. This function calculates the frequency of the elements in the collection:
+An example that requires a `reduce` (and not a `map`) is [`frequencies`][cljdoc-frequencies]. This function calculates the frequency of the elements in the collection:
 
 ```javascript
 > frequencies([3,3,2,1,-1])
 { '1': 1, '2': 1, '3': 2, '-1': 1 }
 ```
 
-Why not a map? Because you need to cumulate the results.
+Why not a `map`? Because you need to cumulate the results.
 
 ```javascript
 > let frequency = function (accumulator, element) { 
