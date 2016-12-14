@@ -12,7 +12,7 @@ I've read in several places that [`reduce`][mdn-reduce] reduces an array\* of va
 >
 > [Array.prototype.reduce()][mdn-reduce] at MDN
 
-Note: the examples in this article are in Javascript because it is one language that uses `reduce` for this higher-order function. Some functions will be typed using Haskell syntax.
+Note: the examples in this article are in Javascript because it is one language that uses `reduce` for this higher-order function
 
 This is a simple example of such function:
 
