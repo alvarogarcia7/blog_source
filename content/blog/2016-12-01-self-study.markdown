@@ -27,3 +27,11 @@ Tags: ode, bob-wise, devops, tool, request, kubernetes, docker-swarm
 
 [boring-container-world]: https://medium.com/@bob_48171/an-ode-to-boring-creating-open-and-stable-container-world-4a7a39971443
 
+## How to use 'npm link'
+
+I've read [this article][npm-link] by Toby Retallick about using npm link.
+
+Tags: npm, tool, npm-link, toby-retallick
+
+[npm-link]: http://tobyret.github.io/NPM-Link/
+
