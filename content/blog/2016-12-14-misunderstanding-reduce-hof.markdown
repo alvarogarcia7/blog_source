@@ -1,6 +1,15 @@
 ---
 categories:
-- functional-programming
+  - functional-programming
+  - clojure
+  - haskell
+  - javascript
+  - misunderstanding
+  - reduce
+  - fold
+  - higher-order-function
+  - quote
+  - mozilla-developer-network
 comments: true
 date: 2016-12-14T18:48:28Z
 title: A common misunderstanding about `reduce`
