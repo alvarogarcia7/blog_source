@@ -8,9 +8,9 @@ title: A common misunderstanding about `reduce`
 
 ### Misconception
 
-I've read in several places that [`reduce`][mdn-reduce] reduces an array\* of values to a single one. The main characteristic of this function is not to reduce to a 'smaller element' / 'single element', but to have access to the accumulated results and the elements, one by one. Quoting Mozilla Developer Network's (MDN) Javascript reference:
+I've read in several places that [`reduce`][mdn-reduce] reduces an array[^1] of values to a single one. The main characteristic of this function is not to reduce to a 'smaller element' / 'single element', but to have access to the accumulated results and the elements, one by one. Quoting Mozilla Developer Network's (MDN) Javascript reference:
 
-TODO: missing explanation that the reduce function can also be used on other elements belonging to the same category as the array
+[^1]: In fact, any type in the `Foldable` class in Haskell. The `reduce` function in Javascript is in the `Array` prototype (only). In Clojure, a set, a map, an array, a list can be `reduce`d.
 
 > The reduce() method applies a function against an accumulator and each value of the array (from left-to-right) to reduce it to a single value.
 >
