@@ -35,3 +35,12 @@ Tags: npm, tool, npm-link, toby-retallick
 
 [npm-link]: http://tobyret.github.io/NPM-Link/
 
+## Valve's flat management structure 'like high school'
+
+I've read [this article][flat-management] by Philippa Warr on the flat management hierarchy at Valve (a company cited as having some Teal practices) and its shortcomings.
+
+Tags:  philippa-warr, teal, teal-organization, valve, management, flat-hierarchy
+
+[flat-management]: http://www.wired.co.uk/article/valve-management-jeri-ellsworth
+
+
