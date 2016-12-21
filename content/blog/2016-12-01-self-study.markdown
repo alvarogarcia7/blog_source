@@ -43,4 +43,13 @@ Tags:  philippa-warr, teal, teal-organization, valve, management, flat-hierarchy
 
 [flat-management]: http://www.wired.co.uk/article/valve-management-jeri-ellsworth
 
+## The hazards of going on autopilot
+
+i've read [this article][danger-autopilot] by Maria Konnikova on how pilots get distracted (their minds drift off) when not stimulated.
+
+The article introduces the idea of human-centric automation and letting the computer check what the human is doing (to tell when it is wrong), rather than the human what the computer is doing wrong.
+
+Tags: maria-konnikova, automation, autopilot, complacency
+
+[danger-autopilot]: http://www.newyorker.com/science/maria-konnikova/hazards-automation
 
