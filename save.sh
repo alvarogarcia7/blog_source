@@ -18,7 +18,6 @@ filename=$(ls -rt content/blog/*self*study*|tail -1)
 
 
 if test "$1" = "save"; then
-
 	echo "there were $(ls -lah partial|wc -l) files"
 
 	timestamp=partial/$(date +%s)
@@ -45,7 +44,6 @@ elif test "$1" = "pop"; then
 		echo "did not understand the amount of arguments"
 		exit 1
 	fi
-	
 
 	diff_file=$(ls partial|sort|grep -v "/"|head -2|grep diff)
 	message_file=$(ls partial|sort|grep -v "/" | head -2|grep msg)
@@ -69,11 +67,7 @@ elif test "$1" = "pop"; then
 	rm -f $message_file
 	git add --all -- partial
 
-
 	git commit -m "$commit_message" --date="$datestamp"
-
 else
-
     echo "did not understand command $@"
-
 fi
