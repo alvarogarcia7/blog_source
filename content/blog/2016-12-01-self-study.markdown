@@ -53,3 +53,11 @@ Tags: maria-konnikova, automation, autopilot, complacency
 
 [danger-autopilot]: http://www.newyorker.com/science/maria-konnikova/hazards-automation
 
+## The “Cobra Effect” that is disabling paste on password fields
+
+I've read [this article][cobra-on-password-paste] on disabling paste on password fields, how that forces using a weaker password. Also names the 'Cobra Effect'. By Troy Hunt
+
+Tags: troy-hunt, copy-paste, paste, password-field, cobra-effect, disable-paste, usability, ux
+
+[cobra-on-password-paste]: https://www.troyhunt.com/the-cobra-effect-that-is-disabling/
+
