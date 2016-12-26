@@ -152,13 +152,13 @@ Same concept, same concept, in another language
 
 ```haskell
 Prelude> let numbers = [1..3]
-[1, 2, 3]
+[1, 2, 3] -- each element collection is of size 1
 Prelude> map (\n -> (n, even n)) numbers 
-[(1,False),(2,True),(3,False)]
+[(1,False),(2,True),(3,False)] -- each collection is now of size 2
 Prelude> filter (\(n,even) -> even) $map (\n -> (n, even n)) numbers
-[(2,True)]
+[(2,True)] -- still size 2
 Prelude> map fst $ filter (\(n,even) -> even) $map (\n -> (n, even n)) numbers
-[2]
+[2] -- size 1 again
 ```
 
 ## Compact HOF
