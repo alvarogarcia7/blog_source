@@ -113,11 +113,6 @@ In the latter, you are expressing the how, not the what.
 
 You have a HOF that you want to split in several ones
 
-### Alternative names
-
-  * Accordion: the collection suffers the same expansion and contraction than the accordion instrument
-
-
 ### Example
 
 Original:
@@ -146,7 +141,11 @@ Then select all that match:
 => [2]
 ```
 
-### Another example
+## Data accordion
+  
+The collection suffers the same expansion and contraction than the accordion instrument
+
+### Example
 
 Same concept, same business domain, in another language
 
