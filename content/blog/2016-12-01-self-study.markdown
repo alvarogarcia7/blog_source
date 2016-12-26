@@ -61,3 +61,11 @@ Tags: troy-hunt, copy-paste, paste, password-field, cobra-effect, disable-paste,
 
 [cobra-on-password-paste]: https://www.troyhunt.com/the-cobra-effect-that-is-disabling/
 
+## Of course smart homes are targets for hackers
+
+I've read [this article][smart-homes-hackers] by Matthew Garrett on how the security of Internet of Things devices is as important as traditional devices and what rules should a consumer follow to decide whether a device is secure or not.
+
+Tags: matthew-garrett, security, internet-of-things, iot, hacker
+
+[smart-homes-hackers]: http://mjg59.dreamwidth.org/45483.html
+
