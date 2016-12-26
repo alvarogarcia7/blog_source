@@ -168,6 +168,8 @@ Prelude> filter (\(_, even) -> even) [(1, False), (2, True), (3, False)]
 [(2,True)]
 ```
 
+Note: Remember that based on the result of the predicate, the element is kept or discarded.
+
 ## Compact HOF
 
 ### Introduction
