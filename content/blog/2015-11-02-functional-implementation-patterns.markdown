@@ -58,7 +58,7 @@ usage:
     {:element => 1, :even? => false},
     {:element => 2, :even? => true},
     {:element => 3, :even? => false}]
-                                   .select_attribute :even?
+      .select_attribute :even?
 => [false, true, false]
 ```
 
@@ -80,9 +80,9 @@ You want to materialize properties from a collection
 
 ```ruby
 [62] pry(main)> [1,2,3]
-                       .map { |x| 
-                         {:element => x, :even? => x.even? } 
-                       }
+   .map { |x| 
+     {:element => x, :even? => x.even? } 
+   }
 => [{:element=>1, :even?=>false}, {:element=>2, :even?=>true}, {:element=>3, :even?=>false}]
 ```
 
@@ -92,9 +92,9 @@ Naming the decoration
 
 ```ruby
 [62] pry(main)> [1,2,3]
-                       .map { |x| 
-                         {:element => x, :even? => x.even? } 
-                       }
+   .map { |x| 
+     {:element => x, :even? => x.even? } 
+   }
 => [{:element=>1, :even?=>false}, {:element=>2, :even?=>true}, {:element=>3, :even?=>false}]
 ```
 
@@ -102,7 +102,7 @@ compare to
 
 ```ruby
 [63] pry(main)> [1,2,3]
-                       .map { |x| [x, x.even?] }
+   .map { |x| [x, x.even?] }
 => [[1, false], [2, true], [3, false]]
 ```
 
@@ -124,7 +124,7 @@ Original:
 
 ```ruby
 [5] pry(main)> [1,2,3]
-                      .select {|x| x.even?}
+      .select {|x| x.even?}
 => [2]
 ```
 
@@ -132,7 +132,7 @@ Introduce an intermediary:
 
 ```ruby
 [2] pry(main)> [1,2,3]
-                      .map { |x| [x, x.even?] }
+      .map { |x| [x, x.even?] }
 => [[1, false], [2, true], [3, false]]
 ```
 
@@ -140,9 +140,9 @@ Then select all that match:
 
 ```ruby
 [67] pry(main)> [1,2,3]
-                       .map    { |x| [x, x.even?] }
-                       .select { |x| x[1] }
-                       .map    { |x| x.first }
+       .map    { |x| [x, x.even?] }
+       .select { |x| x[1] }
+       .map    { |x| x.first }
 => [2]
 ```
 
@@ -189,9 +189,9 @@ You have several HOFs in a row: you decorate the collection, act on the decorate
 
 ```ruby
 [48] pry(main)> [0, -2, 90, 1, 2, 0]
-                                    .map     { |x| [x, -x] }
-                                    .sort_by { |x| x[1] }
-                                    .map     { |x| x[0] }
+       .map     { |x| [x, -x] }
+       .sort_by { |x| x[1] }
+       .map     { |x| x[0] }
 => [90, 2, 1, 0, 0, -2]
 ```
 
@@ -199,7 +199,7 @@ replace it by:
 
 ```ruby
 [49] pry(main)> [0, -2, 90, 1, 2, 0]
-                                    .sort_by { |x| -x }
+       .sort_by { |x| -x }
 => [90, 2, 1, 0, 0, -2]
 ```
 
@@ -211,7 +211,7 @@ Example:
    
 ```ruby
 [50] pry(main)> [0, -2, 90, 1, 2, 0]
-                                    .map     { |x| [x, -x] }
-                                    .sort_by { |x| x[1] }
+       .map     { |x| [x, -x] }
+       .sort_by { |x| x[1] }
 => [[90, -90], [2, -2], [1, -1], [0, 0], [0, 0], [-2, 2]]
 ```
