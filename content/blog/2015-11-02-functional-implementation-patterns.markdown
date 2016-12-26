@@ -146,6 +146,21 @@ Then select all that match:
 => [2]
 ```
 
+### Another example
+
+Same concept, same concept, in another language
+
+```haskell
+Prelude> let numbers = [1..3]
+[1, 2, 3]
+Prelude> map (\n -> (n, even n)) [1..3]
+[(1,False),(2,True),(3,False)]
+Prelude> filter (\(n,even) -> even) $map (\n -> (n, even n)) [1..3]
+[(2,True)]
+Prelude> map fst $ filter (\(n,even) -> even) $map (\n -> (n, even n)) [1..3]
+[2]
+```
+
 ## Compact HOF
 
 ### Introduction
