@@ -161,6 +161,13 @@ Prelude> map fst $ filter (\(n,even) -> even) $ map (\n -> (n, even n)) numbers
 [2] -- size 1 again
 ```
 
+When selecting attributes, the destructuring (Clojure naming system) can be useful:
+
+```haskell
+Prelude> filter (\(_, even) -> even) [(1, False), (2, True), (3, False)]
+[(2,True)]
+```
+
 ## Compact HOF
 
 ### Introduction
