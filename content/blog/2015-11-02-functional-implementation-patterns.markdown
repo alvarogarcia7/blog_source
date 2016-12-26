@@ -145,7 +145,7 @@ Then select all that match:
   
 ### Introduction
 
-The collection suffers the same expansion and contraction than the accordion instrument
+The collection suffers the same expansion and contraction than the accordion instrument. In each movement, an action is performed, like a note being played.
 
 ### Example
 
