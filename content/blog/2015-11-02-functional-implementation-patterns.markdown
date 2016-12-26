@@ -147,6 +147,8 @@ Then select all that match:
 
 The collection suffers the same expansion and contraction than the accordion instrument. In each movement, an action is performed, like a note being played.
 
+Some movements make the collection bigger, decorating it. Others, on the other hand, make it thinner, removing information from it.
+
 ### Example
 
 Same concept, same business domain, in another language
