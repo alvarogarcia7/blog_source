@@ -151,8 +151,6 @@ Some movements make the collection bigger, decorating it. Others, on the other h
 
 ### Example
 
-Same concept, same business domain, in another language
-
 ```haskell
 Prelude> let numbers = [1..3]
 [1, 2, 3] -- each element collection is of size 1
