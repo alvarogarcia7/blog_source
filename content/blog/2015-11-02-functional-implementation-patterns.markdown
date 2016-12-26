@@ -161,6 +161,13 @@ Prelude> map fst $ filter (\(n,even) -> even) $ map (\n -> (n, even n)) numbers
 [2] -- size 1 again
 ```
 
+If we focus on the size of each element:
+
+  * 1
+  * 2
+  * 2
+  * 1
+
 When selecting attributes, the destructuring (Clojure naming system) can be useful:
 
 ```haskell
