@@ -143,6 +143,8 @@ Then select all that match:
 
 ## Data accordion
   
+### Introduction
+
 The collection suffers the same expansion and contraction than the accordion instrument
 
 ### Example
