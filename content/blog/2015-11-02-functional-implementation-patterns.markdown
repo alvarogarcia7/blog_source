@@ -148,7 +148,7 @@ Then select all that match:
 
 ### Another example
 
-Same concept, same concept, in another language
+Same concept, same business domain, in another language
 
 ```haskell
 Prelude> let numbers = [1..3]
