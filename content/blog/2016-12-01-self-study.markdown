@@ -69,3 +69,15 @@ Tags: matthew-garrett, security, internet-of-things, iot, hacker
 
 [smart-homes-hackers]: http://mjg59.dreamwidth.org/45483.html
 
+## Open Salaries: Outcomes
+
+I've read [this article][lunar-open-salaries] by Paweł Brodziński on how the open salaries has affected them in their company (Lunar Logic): 
+
+  * removing the bottleneck for salary reviews
+  * making more often and better the feedback process
+  * people more involved in running the company
+
+Tags: teal, company, salary, teal-organization, company-practice, open-salary, pawel-brodzinski
+
+[lunar-open-salaries]: http://blog.lunarlogic.io/2016/open-salaries-outcomes
+
