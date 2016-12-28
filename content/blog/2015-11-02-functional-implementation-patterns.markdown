@@ -58,7 +58,7 @@ usage:
     {:element => 1, :even? => false},
     {:element => 2, :even? => true},
     {:element => 3, :even? => false}]
-                                   .select_attribute :even?
+      .select_attribute :even?
 => [false, true, false]
 ```
 
@@ -80,9 +80,9 @@ You want to materialize properties from a collection
 
 ```ruby
 [62] pry(main)> [1,2,3]
-                       .map { |x| 
-                         {:element => x, :even? => x.even? } 
-                       }
+   .map { |x| 
+     {:element => x, :even? => x.even? } 
+   }
 => [{:element=>1, :even?=>false}, {:element=>2, :even?=>true}, {:element=>3, :even?=>false}]
 ```
 
@@ -92,9 +92,9 @@ Naming the decoration
 
 ```ruby
 [62] pry(main)> [1,2,3]
-                       .map { |x| 
-                         {:element => x, :even? => x.even? } 
-                       }
+   .map { |x| 
+     {:element => x, :even? => x.even? } 
+   }
 => [{:element=>1, :even?=>false}, {:element=>2, :even?=>true}, {:element=>3, :even?=>false}]
 ```
 
@@ -102,7 +102,7 @@ compare to
 
 ```ruby
 [63] pry(main)> [1,2,3]
-                       .map { |x| [x, x.even?] }
+   .map { |x| [x, x.even?] }
 => [[1, false], [2, true], [3, false]]
 ```
 
@@ -119,7 +119,7 @@ Original:
 
 ```ruby
 [5] pry(main)> [1,2,3]
-                      .select {|x| x.even?}
+      .select {|x| x.even?}
 => [2]
 ```
 
@@ -127,7 +127,7 @@ Introduce an intermediary:
 
 ```ruby
 [2] pry(main)> [1,2,3]
-                      .map { |x| [x, x.even?] }
+      .map { |x| [x, x.even?] }
 => [[1, false], [2, true], [3, false]]
 ```
 
@@ -135,11 +135,48 @@ Then select all that match:
 
 ```ruby
 [67] pry(main)> [1,2,3]
-                       .map    { |x| [x, x.even?] }
-                       .select { |x| x[1] }
-                       .map    { |x| x.first }
+       .map    { |x| [x, x.even?] }
+       .select { |x| x[1] }
+       .map    { |x| x.first }
 => [2]
 ```
+
+## Data accordion
+  
+### Introduction
+
+The collection suffers the same expansion and contraction than the accordion instrument. In each movement, an action is performed, like a note being played.
+
+Some movements make the collection bigger, decorating it. Others, on the other hand, make it thinner, removing information from it.
+
+### Example
+
+```haskell
+Prelude> let numbers = [1..3]
+[1, 2, 3] -- each element collection is of size 1
+Prelude> map (\n -> (n, even n)) numbers 
+[(1,False),(2,True),(3,False)] -- each collection is now of size 2
+Prelude> filter (\(n,even) -> even) $ map (\n -> (n, even n)) numbers
+[(2,True)] -- still size 2
+Prelude> map fst $ filter (\(n,even) -> even) $ map (\n -> (n, even n)) numbers
+[2] -- size 1 again
+```
+
+If we focus on the size of each element:
+
+  * 1
+  * 2
+  * 2
+  * 1
+
+When selecting attributes, the destructuring (Clojure naming system) can be useful:
+
+```haskell
+Prelude> filter (\(_, even) -> even) [(1, False), (2, True), (3, False)]
+[(2,True)]
+```
+
+Note: Remember that with `filter` the elements are kept or discarded, based on the result of the predicate.
 
 ## Compact HOF
 
@@ -160,9 +197,9 @@ You have several HOFs in a row: you decorate the collection, act on the decorate
 
 ```ruby
 [48] pry(main)> [0, -2, 90, 1, 2, 0]
-                                    .map     { |x| [x, -x] }
-                                    .sort_by { |x| x[1] }
-                                    .map     { |x| x[0] }
+       .map     { |x| [x, -x] }
+       .sort_by { |x| x[1] }
+       .map     { |x| x[0] }
 => [90, 2, 1, 0, 0, -2]
 ```
 
@@ -170,7 +207,7 @@ replace it by:
 
 ```ruby
 [49] pry(main)> [0, -2, 90, 1, 2, 0]
-                                    .sort_by { |x| -x }
+       .sort_by { |x| -x }
 => [90, 2, 1, 0, 0, -2]
 ```
 
@@ -182,7 +219,7 @@ Example:
    
 ```ruby
 [50] pry(main)> [0, -2, 90, 1, 2, 0]
-                                    .map     { |x| [x, -x] }
-                                    .sort_by { |x| x[1] }
+       .map     { |x| [x, -x] }
+       .sort_by { |x| x[1] }
 => [[90, -90], [2, -2], [1, -1], [0, 0], [0, 0], [-2, 2]]
 ```
