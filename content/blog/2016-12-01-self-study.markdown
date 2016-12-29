@@ -81,3 +81,11 @@ Tags: teal, company, salary, teal-organization, company-practice, open-salary, p
 
 [lunar-open-salaries]: http://blog.lunarlogic.io/2016/open-salaries-outcomes
 
+## One more vote for functional languages
+
+I've read [this article][watch-expressions] by Simeon Simeonov in which he describes how setting a watch expression can cause a side effect (e.g. VBA, Ruby).
+
+Tags: immutability, simeon-simeonov, watch-expression
+
+[watch-expressions]: https://blog.simeonov.com/2013/03/04/one-more-vote-for-functional-languages/
+
