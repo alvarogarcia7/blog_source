@@ -110,3 +110,13 @@ Tags: simon-simeonov, metaprogramming, ruby, decorator, python, bytecode-generat
 
 [learning-new-pl]: https://blog.simeonov.com/2013/02/11/the-fastest-way-to-learn-a-new-programming-language/
 
+## The marvellously mysterious javascript Maybe monad
+
+I've read [this article][js-maybe-monad] by James Sinclair in which he tries to explain monads in javascript, explaining how promises work, then establishing the parallellism between a promise and a type of monad.
+
+Tags: monad, javascript, promise, james-sinclair, analogy, functional-programming, monad-explanation
+
+[js-maybe-monad]: http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/
+
+
+
