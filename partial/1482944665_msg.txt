@@ -1,1 +1,0 @@
-add article about monads, translated from haskell to js
