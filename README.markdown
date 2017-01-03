@@ -174,7 +174,7 @@ Then move the categories after the existing ones
 > hugo new post/name
 > make run
 ...
-> t cc "..."
+> f cc "..."
 ...
 > make generate
 ```
