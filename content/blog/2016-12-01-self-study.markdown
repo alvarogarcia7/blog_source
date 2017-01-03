@@ -67,7 +67,6 @@ categories:
 - salary
 - security
 - simeon-simeonov
-- simon-simeonov
 - singing-in-the-rain
 - source-code
 - teal
@@ -181,7 +180,7 @@ He also describes several (advanced) techniques that helped him better understan
 > * In Python [...] stateful decorators [...]
 > * In Ruby, metaprogramming  [...]
 
-Tags: simon-simeonov, metaprogramming, ruby, decorator, python, bytecode-generation, java, cpp, learning-programming-language, programming-language, curious-georde, mario-bros, bull-in-a-china-shop, singing-in-the-rain, obi-wan-kenobi, eureka, learning
+Tags: simeon-simeonov, metaprogramming, ruby, decorator, python, bytecode-generation, java, cpp, learning-programming-language, programming-language, curious-georde, mario-bros, bull-in-a-china-shop, singing-in-the-rain, obi-wan-kenobi, eureka, learning
 
 [learning-new-pl]: https://blog.simeonov.com/2013/02/11/the-fastest-way-to-learn-a-new-programming-language/
 
