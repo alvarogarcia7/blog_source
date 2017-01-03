@@ -163,6 +163,8 @@ e.g.:
   - time-lapse
 ```
 
+Then move the categories after the existing ones
+
 ## Workflow
 
 ### Using the local environment
