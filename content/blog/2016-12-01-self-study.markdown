@@ -119,7 +119,7 @@ Tags:  philippa-warr, teal, teal-organization, valve, management, flat-hierarchy
 
 ## The hazards of going on autopilot
 
-i've read [this article][danger-autopilot] by Maria Konnikova on how pilots get distracted (their minds drift off) when not stimulated.
+I've read [this article][danger-autopilot] by Maria Konnikova on how pilots get distracted (their minds drift off) when not stimulated.
 
 The article introduces the idea of human-centric automation and letting the computer check what the human is doing (to tell when it is wrong), rather than the human what the computer is doing wrong.
 
@@ -192,8 +192,6 @@ Tags: monad, javascript, promise, james-sinclair, analogy, functional-programmin
 
 [js-maybe-monad]: http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/
 
-
-
 ## Debug.Trace
 
 I've read both [the documentation][debug-trace-haskell] and the source code for `Debug.Trace`, a haskell module that contains functions to trace a program execution. It is interesting to see how a function performs side effects and its signature seems to be pure.
@@ -203,5 +201,4 @@ The main trick is to use `unsafePerformIO`, which points to `unsafeDupablePerfor
 Tags: haskell, debug, monitoring, source-code, real-world
 
 [debug-trace-haskell]: https://hackage.haskell.org/package/base-4.9.0.0/docs/Debug-Trace.html
-
 
