@@ -122,6 +122,12 @@ Replace the `Tags`:
 docker run -v $(pwd):/app -it ubuntu /bin/bash
 ```
 
+Or you can also try the debian image (in case you have it already installed)
+
+```bash
+docker run -v $(pwd):/app -it debian /bin/bash
+```
+
 The usual stacktrace is this:
 
 ```bash
