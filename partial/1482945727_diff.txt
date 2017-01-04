@@ -1,9 +1,0 @@
-## You Could Have Invented Monads! (And Maybe You Already Have.)
-
-I've read [this tutorial][haskell-monad-tutorial] by Dan Piponi, in which he slowly introduces monads, using examples from everyday life.
-
-Tags: dan-piponi, monad, monad-explanation, haskell
-
-[haskell-monad-tutorial]: http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
-
-
