@@ -51,3 +51,11 @@ Tags: dan-piponi, monad, monad-explanation, haskell
 [haskell-monad-tutorial]: http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html
 
 
+## Monads, part one
+
+I've read [this article][monad-1-lippert] by Eric Lippert, in which he describes monads as a design pattern that "can sneak up on you"
+
+Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
+
+[monad-1-lippert]: https://ericlippert.com/2013/02/21/monads-part-one/
+
