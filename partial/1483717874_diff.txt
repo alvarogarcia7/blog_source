@@ -1,0 +1,8 @@
+## Preparing for a Software Interview
+
+I've read [this article][preparing-software-interview] by Alvaro Videla on interviewing technical people.
+
+Tags: recruitement, interviewing, interview, alvaro-videla
+
+[preparing-software-interview]: https://42hire.com/preparing-for-a-software-interview-6d0392a3d72c
+
