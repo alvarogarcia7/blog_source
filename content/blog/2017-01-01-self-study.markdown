@@ -59,3 +59,13 @@ Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
 
 [monad-1-lippert]: https://ericlippert.com/2013/02/21/monads-part-one/
 
+## Monads, part two
+
+I've read [this article][monad-2-lippert] by Eric Lippert, in which he describes monad examples in the C# code. Also describes what an 'amplifier' is. I relate it to composing behavior.
+
+> An "amplifier" is something that increases the representational power of their "underlying" type.
+
+Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming, amplifier
+
+[monad-2-lippert]: https://ericlippert.com/2013/02/25/monads-part-two/ 
+
