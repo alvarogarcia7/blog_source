@@ -69,3 +69,11 @@ Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming, a
 
 [monad-2-lippert]: https://ericlippert.com/2013/02/25/monads-part-two/ 
 
+## Monads, part three
+
+I've read [this article][monad-3-lippert] by Eric Lippert, in which he describes how to wrap a value in a monadic wrapper (`unit`) 
+
+Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
+
+[monad-3-lippert]: https://ericlippert.com/2013/02/28/monads-part-three/ 
+
