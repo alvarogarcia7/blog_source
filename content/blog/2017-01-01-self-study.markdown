@@ -77,3 +77,11 @@ Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
 
 [monad-3-lippert]: https://ericlippert.com/2013/02/28/monads-part-three/ 
 
+## Monads, part four
+
+I've read [this article][monad-4-lippert] by Eric Lippert, in which he explains the second function (`bind`) 
+
+Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
+
+[monad-4-lippert]: https://ericlippert.com/2013/03/04/monads-part-four/ 
+
