@@ -85,3 +85,11 @@ Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
 
 [monad-4-lippert]: https://ericlippert.com/2013/03/04/monads-part-four/ 
 
+## Monads, part five
+
+I've read [this article][monad-5-lippert] by Eric Lippert, in which he explains the three laws, which are later compressed into two (`unit` and `bind`)
+
+Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
+
+[monad-5-lippert]: https://ericlippert.com/2013/03/07/monads-part-five/
+
