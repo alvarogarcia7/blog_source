@@ -93,3 +93,11 @@ Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
 
 [monad-5-lippert]: https://ericlippert.com/2013/03/07/monads-part-five/
 
+## Monads, part six
+
+I've read [this article][monad-6-lippert] by Eric Lippert, in which he explains the logical identity of applying the function inside a monad and outside a monad.
+
+Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
+
+[monad-6-lippert]: https://ericlippert.com/2013/03/11/monads-part-six/
+
