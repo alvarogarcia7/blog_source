@@ -113,3 +113,11 @@ Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
 
 [monad-7-lippert]: https://ericlippert.com/2013/03/14/monads-part-seven/
 
+## Monads, part eight
+
+I've read [this article][monad-8-lippert] by Eric Lippert, in which he describes the monad terms he was using other, more common names (`unit` and `bind`).
+
+Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
+
+[monad-8-lippert]: https://ericlippert.com/2013/03/18/monads-part-eight/ 
+
