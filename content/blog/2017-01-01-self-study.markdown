@@ -121,3 +121,11 @@ Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
 
 [monad-8-lippert]: https://ericlippert.com/2013/03/18/monads-part-eight/ 
 
+## Monads, part nine
+
+I've read [this article][monad-9-lippert] by Eric Lippert, in which he creates a `Tainted` monad, which is basically a `Nullable` or `Maybe` monad
+
+Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
+
+[monad-9-lippert]: https://ericlippert.com/2013/03/21/monads-part-nine/
+
