@@ -151,3 +151,11 @@ Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming, a
 
 [monad-11-lippert]: https://ericlippert.com/2013/03/28/monads-part-eleven/
 
+## Monads, part twelve
+
+I've read [this article][monad-12-lippert] by Eric Lippert, in which he explains how the `SelectMany` could be implemented (but it is not implemented in practice)
+
+Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
+
+[monad-12-lippert]: https://ericlippert.com/2013/04/02/monads-part-twelve/
+
