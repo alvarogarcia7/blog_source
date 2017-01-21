@@ -159,3 +159,11 @@ Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
 
 [monad-12-lippert]: https://ericlippert.com/2013/04/02/monads-part-twelve/
 
+## Monads, part thirteen
+
+I've read [this article][monad-13-lippert] by Eric Lippert, in which he suggests reading a similar article on the Task comonad
+
+Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming, comonad
+
+[monad-13-lippert]: https://ericlippert.com/2013/04/03/monads-part-thirteen/
+
