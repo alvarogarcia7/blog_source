@@ -167,3 +167,15 @@ Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming, c
 
 [monad-13-lippert]: https://ericlippert.com/2013/04/03/monads-part-thirteen/
 
+## Tasks, Monads, and LINQ
+
+I've read [this article][task-comonad] by Stephen Toub in which he explains the comonad `Task`.
+
+A comonad:
+
+>  [...] dual of a monad, a triple consisting of the type and two operators: `Extract` (the flip of `Unit`/`Return`) and `Extend` (the flip of `Bind`)
+
+Tags: comonad, monad, monad-explanation, stephen-toub, c-sharp, functional-programming
+
+[task-comonad]: https://blogs.msdn.microsoft.com/pfxteam/2013/04/03/tasks-monads-and-linq/
+
