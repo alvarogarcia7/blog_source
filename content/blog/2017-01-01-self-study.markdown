@@ -193,3 +193,33 @@ Tags: eric-elliott, javascript, unit-test, test
 
 [questions-ut]: https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d
 
+## Why You Should be Planning for 2018, Not 2017.
+
+I've read [this article][planning-long-term] by Benjamin P. Hardy on motivation, planning and designing your life.
+
+Some quotes:
+
+> [...] having the power to make choices:
+> 
+> * The right to choice
+> * The responsibility to choose
+> * The results of choice
+
+
+> [...] hope reflects your perceptions regarding your capacity to:
+> 
+> * clearly conceptualize goals
+> * develop the specific strategies to reach those goals (i.e., pathways thinking)
+> * initiate and sustain the motivation for using those strategies (i.e., agency thinking).
+
+
+> [...] motivation involves three components:
+> 
+> * the value you place on your goal
+> * your belief that specific behaviors will actually facilitate the outcomes you desire
+> * your belief in your own ability to successfully execute the behaviors requisite to achieving your goals
+
+Tags: benjamin-hardy, motivation, life, planning, long-term-plans
+
+[planning-long-term]: https://medium.com/the-mission/why-you-should-be-planning-for-2018-not-2017-7c8fea3e2e52
+
