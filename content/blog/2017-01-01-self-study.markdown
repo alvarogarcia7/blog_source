@@ -223,3 +223,11 @@ Tags: benjamin-hardy, motivation, life, planning, long-term-plans
 
 [planning-long-term]: https://medium.com/the-mission/why-you-should-be-planning-for-2018-not-2017-7c8fea3e2e52
 
+## Get 5% Better
+
+I've read [this article][get-5-better], in which the author explains how compound interest does not only apply to investing and saving but also personal improvement.
+
+Tags: kaizen, personal-improvement, compound-interest
+
+[get-5-better]: https://www.farnamstreetblog.com/2016/03/five-percent-better/
+
