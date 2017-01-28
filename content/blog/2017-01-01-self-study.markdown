@@ -239,3 +239,11 @@ Tags: hunter-thompson, hume-logan, advice, psychology, life
 
 [finding-purpose-meaningful-life]: https://www.farnamstreetblog.com/2014/05/hunter-s-thompson-to-hume-logan/
 
+## The Japanese philosophy of Kaizen offers an effective, manageable way to achieve long-term goals
+
+I've read [this article][kaizen-qz-oppong] by Thomas Oppong on kaizen, or continuous improvement, and how it applies like compound interest to your life.
+
+Tags: kaizen, continous-improvement, thomas-oppong, compound-interest, life, psychology
+
+[kaizen-qz-oppong]: https://qz.com/867711/the-japanese-philosophy-of-kaizen-offers-an-effective-manageable-way-to-achieve-long-term-goals/
+

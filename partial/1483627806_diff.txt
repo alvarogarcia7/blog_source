@@ -1,8 +1,0 @@
-## The Japanese philosophy of Kaizen offers an effective, manageable way to achieve long-term goals
-
-I've read [this article][kaizen-qz-oppong] by Thomas Oppong on kaizen, or continuous improvement, and how it applies like compound interest to your life.
-
-Tags: kaizen, continous-improvement, thomas-oppong, compound-interest, life, psychology
-
-[kaizen-qz-oppong]: https://qz.com/867711/the-japanese-philosophy-of-kaizen-offers-an-effective-manageable-way-to-achieve-long-term-goals/
-
