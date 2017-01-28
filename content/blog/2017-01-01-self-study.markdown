@@ -247,3 +247,11 @@ Tags: kaizen, continous-improvement, thomas-oppong, compound-interest, life, psy
 
 [kaizen-qz-oppong]: https://qz.com/867711/the-japanese-philosophy-of-kaizen-offers-an-effective-manageable-way-to-achieve-long-term-goals/
 
+## Preparing for a Software Interview
+
+I've read [this article][preparing-software-interview] by Alvaro Videla on interviewing technical people.
+
+Tags: recruitement, interviewing, interview, alvaro-videla
+
+[preparing-software-interview]: https://42hire.com/preparing-for-a-software-interview-6d0392a3d72c
+
