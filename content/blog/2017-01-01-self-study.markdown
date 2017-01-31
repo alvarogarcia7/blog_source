@@ -288,3 +288,13 @@ Tags: leadership, discipline, nasa, code-complete, coding-horror, jeff-atwood
 
 [discipline-developers]: https://blog.codinghorror.com/discipline-makes-strong-developers/ 
 
+## Effectively Integrating Into Software Development Teams
+
+I've read [this article][integrating-software-teams] by Dennis Forbes about authority and discipline in a team.
+
+> One organization’s Enterprise solution is another organization’s short sighted mistake.
+
+Tags: shiny, dennis-forbes, discipline, authority, psychology, politics
+
+[integrating-software-teams]: https://dennisforbes.ca/index.php/2006/01/29/effectively-integrating-into-software-development-teams/
+
