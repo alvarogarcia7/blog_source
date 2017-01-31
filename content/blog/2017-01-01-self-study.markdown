@@ -278,3 +278,13 @@ Tags: leadership, team-lead, leading-by-example, jeff-atwood, gerald-weinberg
 
 [leading-by-example]: https://blog.codinghorror.com/leading-by-example/
 
+## Discipline Makes Strong Developers
+
+I've read [this article][discipline-developers] by Jeff Atwood on a project sucess should not be attributed to a language or framework, but to the team's and individuals' discipline. 
+
+Also explains how small projects require different levels of discipline than large projects.
+
+Tags: leadership, discipline, nasa, code-complete, coding-horror, jeff-atwood
+
+[discipline-developers]: https://blog.codinghorror.com/discipline-makes-strong-developers/ 
+
