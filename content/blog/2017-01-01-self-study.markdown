@@ -268,3 +268,13 @@ Tags: reginald-braithwaite, recursive-data-structure, quadtree, javascript, func
 
 [recursive-ds]: http://raganwald.com/2016/12/27/recursive-data-structures.html
 
+## Leading by Example
+
+I've read [this article][leading-by-example] by Jeff Atwood on how the best leadership comes from doing, rather than telling how to do it. From being a leader rather than being a boss. 
+
+Suggests further reads.
+
+Tags: leadership, team-lead, leading-by-example, jeff-atwood, gerald-weinberg
+
+[leading-by-example]: https://blog.codinghorror.com/leading-by-example/
+
