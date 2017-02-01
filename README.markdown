@@ -185,3 +185,17 @@ Then move the categories after the existing ones
 > make generate
 ```
 
+### Using the TravisCI environment
+
+```bash
+> cd blog_source
+> cd contents/blog 
+> cp $ARTICLE_1 $ARTICLE_2
+> vim $ARTICLE_2
+...
+> f cc "..."
+...
+> f push
+```
+
+
