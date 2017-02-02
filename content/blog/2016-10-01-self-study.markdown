@@ -38,7 +38,6 @@ categories:
 - javascript
 - jeremy-ashkenas
 - john-de-goes
-- john-deo-goes
 - law
 - lessons-learned
 - liskov
@@ -125,7 +124,7 @@ Tags: javascript, destructuring, mdn
 
 I've read [this article][precog-lessons-learned], a post-mortem analysis of his company, precog, with 10 items that he learned from it.
 
-Tags: john-deo-goes, precog, post-mortem, startup, lessons-learned
+Tags: john-de-goes, precog, post-mortem, startup, lessons-learned
 
 [precog-lessons-learned]: http://degoes.net/articles/precog-lessons-learned
 
