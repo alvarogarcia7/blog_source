@@ -180,3 +180,11 @@ Tags: jeremy-ashkenas, compilation, compiled-language, compiled-to-javascript, c
 
 [compile-to-js]: https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS
 
+## Being accountable for delivering value
+
+I've read [this article][accountable-value] by Nik Silver on how the team should be accountable for delivering value, not accountable for delivering artifacts that produce value.
+
+Tags: agile, management, nik-silver, accountability, team, value
+
+[accountable-value]: https://niksilver.com/2017/01/17/accountable-for-value/
+
