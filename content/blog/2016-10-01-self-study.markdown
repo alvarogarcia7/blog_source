@@ -188,3 +188,13 @@ Tags: agile, management, nik-silver, accountability, team, value
 
 [accountable-value]: https://niksilver.com/2017/01/17/accountable-for-value/
 
+## Getting partial value from partial delivery
+
+I've read [this article][partial-value] by Nik Silver on how it is possible to be agile in an environment where the business is not agile.
+
+Also, introduces the concept of 'partial delivery', meaning incomplete delivery from development to business.
+
+Tags: delivery, partial-delivery, management, value, partial-value, change, walkawayability, change, nik-silver
+
+[partial-value]: https://niksilver.com/2015/10/20/partial-value-from-partial-delivery/
+
