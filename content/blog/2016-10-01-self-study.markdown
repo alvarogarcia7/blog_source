@@ -198,3 +198,11 @@ Tags: delivery, partial-delivery, management, value, partial-value, change, walk
 
 [partial-value]: https://niksilver.com/2015/10/20/partial-value-from-partial-delivery/
 
+## Hierarchy of opinion
+
+I've read [this article][hierarchy-opinion] by Mashooq Badar on what are opinions, how important they are and how them impact others.
+
+Tags: mashooq-badar, opinion, critical-thinking
+
+[hierarchy-opinion]: https://codurance.com/2017/01/16/hierarchy-of-opinion/
+
