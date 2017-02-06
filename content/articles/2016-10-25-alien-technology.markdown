@@ -60,7 +60,6 @@ source: talk by [Pedro M. Santos][pedromsantos] at a [Codurance][codurance] catc
 ## TODOs
 
   * Ask him if he wants to be an author on this
-  * Add codurance twitter account
 
 [naur]: http://pages.cs.wisc.edu/~remzi/Naur.pdf
 [pedromsantos]: https://twitter.com/pedromsantos
