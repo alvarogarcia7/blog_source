@@ -53,7 +53,7 @@ You can also unearth this yourself when you code at your cleverness possibilitie
 
 It can also be attributed to Naur's idea.
 
-This could be caused by the different mental theories necessary to build the tool. Especially when the alien tool is not created by the user. This does not explain the creation and use by the same person, some time apart. TODO add reference to Naur - Theory building TODO .
+This could be caused by the different mental theories necessary to build the tool. Especially when the alien tool is not created by the user. This does not explain the creation and use by the same person, some time apart (More on this topic can be found in [P. Naur, Programming as theory building][naur])
 
 source: talk by Pedro M. Santos at a Codurance catch-up
 
@@ -62,4 +62,6 @@ source: talk by Pedro M. Santos at a Codurance catch-up
   * Ask him if he wants to be an author on this
   * Add his twitter account
   * Add codurance twitter account
+
+[naur]: http://pages.cs.wisc.edu/~remzi/Naur.pdf
 
