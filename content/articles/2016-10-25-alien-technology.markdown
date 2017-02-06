@@ -48,6 +48,14 @@ The topic here is the same as before, but can it be attributed to different pool
 
 Can it be attributed to 'debugging code is much more difficult that writing code'? TODO find reference TODO. 
 
+The original is:
+
+> Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?
+>
+> "The Elements of Programming Style", 2nd edition, chapter 2.
+>
+> source: [B. Kernighan at WikiQuote](https://en.wikiquote.org/wiki/Brian_Kernighan)
+
 You can also unearth this yourself when you code at your cleverness possibilities (based on the theory that writing code is easier than reading code)
 
 
