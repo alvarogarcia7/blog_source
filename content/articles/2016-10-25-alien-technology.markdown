@@ -55,7 +55,7 @@ It can also be attributed to Naur's idea.
 
 This could be caused by the different mental theories necessary to build the tool. Especially when the alien tool is not created by the user. This does not explain the creation and use by the same person, some time apart, as the understanding in those two moments are different (more on this topic can be found in [P. Naur, Programming as theory building][naur])
 
-source: talk by Pedro M. Santos at a Codurance catch-up
+source: talk by Pedro M. Santos at a [Codurance][codurance] catch-up
 
 ## TODOs
 
@@ -64,5 +64,5 @@ source: talk by Pedro M. Santos at a Codurance catch-up
 
 [naur]: http://pages.cs.wisc.edu/~remzi/Naur.pdf
 [pedromsantos]: https://twitter.com/pedromsantos
-
+[codurance]: https://twitter.com/codurance
 
