@@ -65,9 +65,6 @@ This could be caused by the different mental theories necessary to build the too
 
 source: talk by [Pedro M. Santos][pedromsantos] at a [Codurance][codurance] catch-up
 
-## TODOs
-
-  * Ask him if he wants to be an author on this
 
 [naur]: http://pages.cs.wisc.edu/~remzi/Naur.pdf
 [pedromsantos]: https://twitter.com/pedromsantos
