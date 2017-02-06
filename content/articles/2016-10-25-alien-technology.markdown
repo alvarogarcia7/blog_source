@@ -46,7 +46,7 @@ Examples (for 2):
 
 The topic here is the same as before, but can it be attributed to different pools of knowledge? Is there some kind of temporary knowledge that plays a part in this? In this case, I do not agree with the argument that you the creator and you the user are two different people based on the time range that has elapsed.
 
-Can it be attributed to 'debugging code is much more difficult that writing code'? TODO find reference TODO. 
+Creating a tool that later you cannot understand can it be equated to 'debugging code is much more difficult that writing code'
 
 The original is:
 
