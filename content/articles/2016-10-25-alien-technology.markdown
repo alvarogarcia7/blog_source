@@ -42,7 +42,7 @@ The common topic here is the information silo between them and you. Between thos
 Examples (for 2):
 
   * You created a tool that you do not understand
-  * You used a tool that you do not understand
+  * You use a tool that you do not understand
 
 The topic here is the same as before, but can it be attributed to different pools of knowledge? Is there some kind of temporary knowledge that plays a part in this? In this case, I do not agree with the argument that you the creator and you the user are two different people based on the time range that has elapsed.
 
