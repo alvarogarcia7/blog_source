@@ -15,7 +15,7 @@ Main concept:
 
 > What the client has but the client team cannot understand / maintain
 > 
-> Pedro M. Santos
+> [Pedro M. Santos][pedromsantos]
 
 but can be rephrased as
 
@@ -60,8 +60,9 @@ source: talk by Pedro M. Santos at a Codurance catch-up
 ## TODOs
 
   * Ask him if he wants to be an author on this
-  * Add his twitter account
   * Add codurance twitter account
 
 [naur]: http://pages.cs.wisc.edu/~remzi/Naur.pdf
+[pedromsantos]: https://twitter.com/pedromsantos
+
 
