@@ -1,8 +1,0 @@
-## Encrypted email service once used by Edward Snowden relaunches
-
-I've read [this article][lavabit-restablishing], by Kim Zetter, on Lavabit restablishing its service. Explains the company's past and the new services they are offering
-
-Tags: lavabit, kim-zetter, privacy, encryption, email, mail
-
-[lavabit-restablishing]: https://theintercept.com/2017/01/20/encrypted-email-service-once-used-by-edward-snowden-to-relaunch/
-
