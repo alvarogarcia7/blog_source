@@ -26,3 +26,11 @@ Tags: lavabit, kim-zetter, privacy, encryption, email, mail
 
 [lavabit-restablishing]: https://theintercept.com/2017/01/20/encrypted-email-service-once-used-by-edward-snowden-to-relaunch/
 
+## What Happens When You Mix Java with a 1960 IBM Mainframe
+
+I've read [this article][api-mainframe] by David Cassel about the legacy infrastructure of hardware that the U.S. government agencies have. How old mainframes are still useful to web applications and how these mainframes can communicate with more modern systems, through APIs
+
+Tags: mainframe, david-cassel, marianne-bellotti, legacy-hardware, legacy-software, legacy-system, legacy, api
+
+[api-mainframe]: http://thenewstack.io/happens-use-java-1960-ibm-mainframe/
+
