@@ -1,0 +1,8 @@
+## What it Means to be a Remote-First Company
+
+I've read [this article][remote-stack] by  Alyssa Mazzina on what Stack Overflow does to keep its remote employees happy, how they are a remote-first company and small practicalities like tools, holiday gifts and stipends.
+
+Tags: alyssa-mazzina, team-management, remote, remote-work, stack-overflow, team
+
+[remote-stack]: http://www.stackoverflow.blog/code-for-a-living/what-it-means-to-be-a-remote-first-company
+
