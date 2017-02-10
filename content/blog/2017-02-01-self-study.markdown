@@ -34,3 +34,11 @@ Tags: mainframe, david-cassel, marianne-bellotti, legacy-hardware, legacy-softwa
 
 [api-mainframe]: http://thenewstack.io/happens-use-java-1960-ibm-mainframe/
 
+## Systems We Love: How the Past Informs Our Present
+
+I've read [this experience report][systems-we-love] by David Cassel about the conference "Systems we love": a mix of papers we love and systems that happened at San Francisco in December 2016
+
+Tags: david-cassel, systems-we-love, papers-we-love, system, conference, experience-report, joyent
+
+[systems-we-love]: http://thenewstack.io/systems-we-love/
+
