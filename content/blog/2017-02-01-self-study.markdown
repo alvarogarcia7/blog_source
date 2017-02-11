@@ -42,3 +42,13 @@ Tags: david-cassel, systems-we-love, papers-we-love, system, conference, experie
 
 [systems-we-love]: http://thenewstack.io/systems-we-love/
 
+## The agonizing death of an astronaut
+
+I've read [this article][monad-maybe-javaslang] by Daniel Dietrich on why the implementation of the ``Option`` in Javaslang seems to be broken but, in fact, follows the rules of the monads.
+
+Explains why ``map`` should be used for non-changing contexts and ``flatmap`` should be used for changing it.
+
+Tags: daniel-dietrich, monad, option, haskell, optional, maybe, scala, javaslang
+
+[monad-maybe-javaslang]: http://blog.javaslang.io/the-agonizing-death-of-an-astronaut/
+
