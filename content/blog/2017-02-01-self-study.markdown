@@ -62,3 +62,11 @@ Tags: analysis, security, app, key, token, api, fallible
 
 [analysis-16k-apps]: https://hackernoon.com/we-reverse-engineered-16k-apps-heres-what-we-found-51bdf3b456bb
 
+## Oh, the emails you’ll get...
+
+I've read [this article][management-performance-consulting] by Joel Spolsky, in which he explains how some companies focus on some metrics for measuring performance, how difficult it is to measure performance.
+
+Tags: joel-spolsky, performance, management, consulting
+
+[management-performance-consulting]: https://www.joelonsoftware.com/2006/11/09/oh-the-emails-youll-get/
+
