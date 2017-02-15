@@ -70,3 +70,11 @@ Tags: joel-spolsky, performance, management, consulting
 
 [management-performance-consulting]: https://www.joelonsoftware.com/2006/11/09/oh-the-emails-youll-get/
 
+## 2002/07/15 - Measurement
+
+I've read [this article][measuring-performance-jos] by Joel Spolsky where he explains how measuring performance is difficult, according to  Robert D. Austin in his book Measuring and Managing Performance in Organizations. He gives some examples of that, mainly about paying out bonuses for performance reasons.
+
+Tags: joel-spolsky, robert-austin, measuring-performance, managing-performance, book, knowledge-worker, bonus, pay, performance, organization
+
+[measuring-performance-jos]: https://www.joelonsoftware.com/2002/07/15/20020715/
+
