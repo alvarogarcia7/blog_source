@@ -78,3 +78,11 @@ Tags: joel-spolsky, robert-austin, measuring-performance, managing-performance, 
 
 [measuring-performance-jos]: https://www.joelonsoftware.com/2002/07/15/20020715/
 
+## The Purpose Of Life Is Not Happiness: It’s Usefulness
+
+I've read [this article][purpose-usefulness] by Darius Foroux on what the purpose of life is about: making a difference (even if small) in what you leave behind.
+
+Tags: psychology, purpose-of-life, usefulness, happiness, darius-foroux
+
+[purpose-usefulness]: http://dariusforoux.com/happiness-usefulness/
+
