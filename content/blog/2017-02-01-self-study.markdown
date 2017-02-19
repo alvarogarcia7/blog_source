@@ -86,3 +86,11 @@ Tags: psychology, purpose-of-life, usefulness, happiness, darius-foroux
 
 [purpose-usefulness]: http://dariusforoux.com/happiness-usefulness/
 
+## The Future of User Interfaces
+
+I've read [this article][brandur-interfaces] by Brandur on how interfaces are becoming more and more bloated, slow and ridden with animations. All of that is targeted to the beginner user, rather than the proficient one. He suggests some ideas on finding inspiration from the terminal applications
+
+Tags: brandur, interface, interface-design, ux, ui
+
+[brandur-interfaces]: https://brandur.org/interfaces
+
