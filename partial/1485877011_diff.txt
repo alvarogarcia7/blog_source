@@ -1,8 +1,0 @@
-## My Increasing Frustration With Clojure
-
-I've read [this article][increasing-frustration-clojure] by Ashton Kemerling on the problems he has found working professionally with Clojure and some possible solutions.
-
-Tags: clojure, language, ashton-kemerling, functional-programming, problem, frustration
-
-[increasing-frustration-clojure]: http://ashtonkemerling.com/blog/2016/06/11/my-increasing-frustration-with-clojure/
-
