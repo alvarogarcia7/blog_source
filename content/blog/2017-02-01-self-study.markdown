@@ -110,3 +110,12 @@ Tags: lambda, library, ashton-kemerling, functional-programming, java, palatable
 
 [java-no-if]: http://ashtonkemerling.com/blog/2017/01/26/java-without-if/
 
+## Top ten pull request review mistakes
+
+I've read [this article][top-10-review-mistakes] by Scott Nonnenberg on the most common mistakes while doing a code review in the context of a pull request. 
+
+Tags: scott-nonnenberg, pull-request, code-review, github, diff, listicle
+
+[top-10-review-mistakes]: https://blog.scottnonnenberg.com/top-ten-pull-request-review-mistakes/
+
+
