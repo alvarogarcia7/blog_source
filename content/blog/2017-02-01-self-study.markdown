@@ -102,3 +102,11 @@ Tags: clojure, language, ashton-kemerling, functional-programming, problem, frus
 
 [increasing-frustration-clojure]: http://ashtonkemerling.com/blog/2016/06/11/my-increasing-frustration-with-clojure/
 
+## Java Without If
+
+I've read [this article][java-no-if] by Ashton Kemerling on how he is using a library called 'lambda', which brings some of the functional programming features to Java.
+
+Tags: lambda, library, ashton-kemerling, functional-programming, java, palatable, john-napier
+
+[java-no-if]: http://ashtonkemerling.com/blog/2017/01/26/java-without-if/
+
