@@ -126,3 +126,11 @@ Tags: david dawson, simplicity itself, shut down, company, consulting, post-mort
 
 [shutting-down-simplicity]: http://daviddawson.me/blog/2017/02/04/simplicity-itself-shutdown.html
 
+## Turn Off Your Cellphone
+
+I've read [this article][turn-off-cellphone] by Brandur on how to get more done by unplugging the notifications
+
+Tags: brandur, time management, interruption, phone, notification
+
+[turn-off-cellphone]: https://brandur.org/fragments/turn-off-your-cellphone
+
