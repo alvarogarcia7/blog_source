@@ -118,4 +118,11 @@ Tags: scott-nonnenberg, pull-request, code-review, github, diff, listicle
 
 [top-10-review-mistakes]: https://blog.scottnonnenberg.com/top-ten-pull-request-review-mistakes/
 
+## Shutting down Simplicity Itself
+
+I've read [this article][shutting-down-simplicity] by David Dawson on why he's shutting down his consultancy company, Simplicity Itself, which was mainly focused on microservices.
+
+Tags: david dawson, simplicity itself, shut down, company, consulting, post-mortem, postmortem
+
+[shutting-down-simplicity]: http://daviddawson.me/blog/2017/02/04/simplicity-itself-shutdown.html
 
