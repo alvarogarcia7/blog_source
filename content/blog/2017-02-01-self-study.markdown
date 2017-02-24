@@ -156,3 +156,11 @@ and what they realized after a two-week experiment:
 Tags: dark-standup, quote, limited-time, overtime, team-management, experiment, question, alan-brouilette
 
 [dark-standup]: https://18f.gsa.gov/2017/01/19/the-dark-standup/
+## What it Means to be a Remote-First Company
+
+I've read [this article][remote-stack] by  Alyssa Mazzina on what Stack Overflow does to keep its remote employees happy, how they are a remote-first company and small practicalities like tools, holiday gifts and stipends.
+
+Tags: alyssa-mazzina, team-management, remote, remote-work, stack-overflow, team
+
+[remote-stack]: http://www.stackoverflow.blog/code-for-a-living/what-it-means-to-be-a-remote-first-company
+
