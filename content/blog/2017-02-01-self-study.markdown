@@ -164,3 +164,11 @@ Tags: alyssa-mazzina, team-management, remote, remote-work, stack-overflow, team
 
 [remote-stack]: http://www.stackoverflow.blog/code-for-a-living/what-it-means-to-be-a-remote-first-company
 
+## Google’s not-so-secret new OS
+
+I've read [this article][andromeda-google] describing the state of Google's new operating system, Fuchsia or Andromeda (the final name is not final yet).
+
+Tags: google, os, operating-system, daniel-matte, fuchsia, andromeda
+
+[andromeda-google]: https://techspecs.blog/blog/2017/2/14/googles-not-so-secret-new-os
+
