@@ -172,3 +172,16 @@ Tags: google, os, operating-system, daniel-matte, fuchsia, andromeda
 
 [andromeda-google]: https://techspecs.blog/blog/2017/2/14/googles-not-so-secret-new-os
 
+## Four Secrets Of People Who Finish Their Workweeks On Thursday
+
+I've read [this article][finish-week-early] by Kat Boogaard that includes four tips to finish your week early:
+
+  1. They Schedule Intentionally
+  1. They Focus On Priorities
+  1. They Tune Out Distractions
+  1. They Find Shortcuts
+
+Tags: kat-boogaard, time-management, eisenhower-productivity-matrix, urgent-vs-important, important-vs-urgent, urgent, important, productivity
+
+[finish-week-early]: https://www.fastcompany.com/3068122/work-smart/four-secrets-of-people-who-finish-their-workweeks-on-thursday
+
