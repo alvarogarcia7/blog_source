@@ -185,3 +185,11 @@ Tags: kat-boogaard, time-management, eisenhower-productivity-matrix, urgent-vs-i
 
 [finish-week-early]: https://www.fastcompany.com/3068122/work-smart/four-secrets-of-people-who-finish-their-workweeks-on-thursday
 
+## Reflecting On One Very, Very Strange Year At Uber
+
+I've read [this article][sexism-at-uber] by Susan J Fowler on some bad HR practices at Uber and how they are part of the reason their low percentage of women (3%) in the engineering team.
+
+Tags: sexism, uber, susan-fowler, hr, human-resources, women, work-environment, review
+
+[sexism-at-uber]: https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber
+
