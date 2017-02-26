@@ -122,7 +122,7 @@ Replace the `Tags`:
 docker run -v $(pwd):/app -it ubuntu /bin/bash
 ```
 
-Or you can also try the debian image (in case you have it already installed)
+Or you can also try the debian image (in case you have it already downloaded)
 
 ```bash
 docker run -v $(pwd):/app -it debian /bin/bash
