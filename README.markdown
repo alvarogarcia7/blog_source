@@ -116,7 +116,9 @@ Replace the `Tags`:
 
 ### Get all the categories from a Self-Study aggregation
 
-(Note: in mac os x, the ``sed`` command works differently. You can start a ubuntu with this:
+#### A warning in MacOsX
+
+Note: in mac os x, the ``sed`` command works differently. You can start a ubuntu with this:
 
 ```bash
 docker run -v $(pwd):/app -it ubuntu /bin/bash
@@ -134,7 +136,8 @@ The usual stacktrace is this:
 sed: 1: "{s/,/\n/g}": bad flag in substitute command: '}'
 sed: 1: "{s/^/  - /}": bad flag in substitute command: '}'
 ```
-)
+
+### Step by step guide
 
 from all the markdown files:
 
