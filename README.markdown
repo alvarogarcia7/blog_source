@@ -137,7 +137,7 @@ sed: 1: "{s/,/\n/g}": bad flag in substitute command: '}'
 sed: 1: "{s/^/  - /}": bad flag in substitute command: '}'
 ```
 
-### Step by step guide
+#### Step by step guide
 
 from all the markdown files:
 
