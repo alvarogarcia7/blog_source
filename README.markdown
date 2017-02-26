@@ -98,7 +98,7 @@ simplified:
 $1-
 ```
 
-Note: the second set of parenthesis can be removed; they are left in-place for easing the copy-paste
+Note: the second set of brackets can be removed; they are left in-place for easing the copy-paste
 
 ##### Using vim
 
