@@ -1,0 +1,8 @@
+## How Can I Become a Champion Programmer?
+
+I've read [this article][java-champion-kabutz] by Heinz M. Kabutz on how to become a java champion
+
+Tags: heinz-kabutz, java-champion
+
+[java-champion-kabutz]: http://www.javaspecialists.eu/archive/Issue227.html
+
