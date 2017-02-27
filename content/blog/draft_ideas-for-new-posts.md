@@ -63,4 +63,13 @@ a new kind of kata. the code is so clean, separated that reaches the overenginee
   another variation would be: from legacy reach a clean state, from overengineered reach a clean state. compare both paths: cost, easiness, ways of working, pleasantness, etc
 
 
+2017-02-27 1132 AGB
+
+The discussion of composition vs inheritance for console commands
+  - by chris j,
+  - reference to the clojure bot, that serves as a platform
+  - combinatorial explosion of commands when inheriting
+  - power to compose commands when composition
+  - example: find-infra folders, then list/check/update -> ...
+
 
