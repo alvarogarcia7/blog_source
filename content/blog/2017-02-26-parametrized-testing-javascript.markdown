@@ -8,6 +8,8 @@ categories:
 - nunit
 - junit
 - comparison
+- etude
+- study
 comments: true
 date: 2017-02-26T15:42:19Z
 title: Comparing options for parametrized testing in javascript
