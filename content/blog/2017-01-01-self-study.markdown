@@ -205,7 +205,7 @@ I've read [this article][monad-11-lippert] by Eric Lippert, in which he describe
 > * There is a way to add two monads with the same underlying type together.
 > * The zero value is the identity of the add operation.
 > * Using bind to apply any function to the zero produces the zero.
-> * Using bind to apply the function a=\>zero to any M<A> produces the zero.
+> * Using bind to apply the function a=\>zero to any M\<A\> produces the zero.
 
 Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming, additive-monad
 
