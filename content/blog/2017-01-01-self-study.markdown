@@ -197,7 +197,7 @@ Tags: eric-lippert, monad, monad-explanation, c-sharp, functional-programming
 
 [monad-10-lippert]: https://ericlippert.com/2013/03/25/monads-part-ten/
 
-## Monads, part elevel
+## Monads, part eleven
 
 I've read [this article][monad-11-lippert] by Eric Lippert, in which he describes the "additive monad":
 
