@@ -319,7 +319,7 @@ Tags: recruitement, interviewing, interview, alvaro-videla
 
 I've read [this essay][recursive-ds] by Reginald “Raganwald” Braithwaite, on which he introduces the relationship between data structures and algorithms. Explains how the algorithm can be split into parts, following the data structure.
 
-Uses a library containing a function called 'multirec' for recursion:
+Uses a library containing a function called `multirec` for recursion:
 
   * [a candidate](https://hackage.haskell.org/package/multirec) library, in haskell
   * [another candidate](http://www.lazutkin.com/blog/2008/06/30/using-recursion-combinators-javascript/) library, in javascript
