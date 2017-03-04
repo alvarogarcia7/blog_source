@@ -1,8 +1,0 @@
-## Donkey code
-
-I've read [this article][donkey-code] by Einar W. Høst in which he introduces the concept of a 'missing domain term' with the example of a donkey being 'closely related to a horse, though not exactly the same'
-
-Tags: einar-host, donkey-code, ddd, domain-driven-development, domain, abstraction, missing-abstraction, business-logic
-
-[donkey-code]: https://einarwh.wordpress.com/2017/01/21/donkey-code/
-
