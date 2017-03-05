@@ -25,3 +25,11 @@ Tags: einar-host, donkey-code, ddd, domain-driven-development, domain, abstracti
 
 [donkey-code]: https://einarwh.wordpress.com/2017/01/21/donkey-code/
 
+## 10 Habits That Change Boys Into Men
+
+I've read [this article][boys-into-men] by Benjamin P. Hardy on why some men are still boys (e.g., expectations from society) and what can boys do to turn into men.
+
+Tags: benjamin-hardy, psychology, learning, evolution
+
+[boys-into-men]: https://medium.com/the-mission/10-habits-that-change-boys-into-men-b103c47d47e0
+
