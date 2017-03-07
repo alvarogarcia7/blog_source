@@ -53,8 +53,6 @@ Tags: sabbatical, ian-malpass, team-management, career
 
 [sabbaticals]: http://indecorous.com/sabbaticals/
 
-
-
 ## My favorite command-line utilities
 
 I've read [this article][command-line-utils] by Vitaly Belman in which he explains his curated list of utilities for the terminal
