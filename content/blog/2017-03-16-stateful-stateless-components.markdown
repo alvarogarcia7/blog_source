@@ -19,6 +19,12 @@ From the [Make, Buy or Rent][] article:
 
 > [...] [T]he three main system options for organizations seeking to upgrade their systems and the pros and cons of each
 
+  * Make
+  * Buy
+  * Rent
+
+IT managers have different criteria for deciding which components to assign in each category.
+
 ## Another criteria for deciding
 
 At a client, they have taken the decision to split their core IT systems in to the three options: make, buy, rent.
