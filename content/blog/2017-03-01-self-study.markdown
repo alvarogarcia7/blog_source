@@ -92,3 +92,11 @@ Tags: interview, arun-gupta, java-champion, devoxx
 
 [become-java-champion]: http//www.youtube.com/watch?v=otMc_3Dz3hU
 
+## How Can I Become a Champion Programmer?
+
+I've read [this article][java-champion-kabutz] by Heinz M. Kabutz on how to become a java champion
+
+Tags: heinz-kabutz, java-champion
+
+[java-champion-kabutz]: http://www.javaspecialists.eu/archive/Issue227.html
+
