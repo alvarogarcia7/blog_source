@@ -1,0 +1,10 @@
+## The key lesson from our serverless migration
+
+I've read [this article][serverless-migration] by Gojko Adzic on serverless, a kind of lessons learned. Explains that their system can take 50% more users at 50% of the original cost.
+
+Also explains three ways of authenticating users: use IAM users, use Cognito, pre-sign URLs
+
+Tags: lessons-learned, gojko-adzic, serverless, paas, platform-as-a-service, retrospective, money, total-cost-of-ownership, tco,
+
+[serverless-migration]: http://us2.campaign-archive1.com/?u=abe09ce689751513abf6f095f&id=6ecb59a937
+
