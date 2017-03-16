@@ -76,4 +76,11 @@ Tags: Patrick Kua, tech lead, leadership, team management, mistake
 
 [mistakes-tech-lead]: https://www.thoughtworks.com/insights/blog/three-common-mistakes-first-time-tech-lead
 
+## Sentimental Versioning
+
+I've read [this article][sentimver] (unknown author) on alternatives to semver (semantic versioning).
+
+Tags: semver, semantic-versioning, sentimental-versioning, humor, parody
+
+[sentimver]: http://sentimentalversioning.org/
 
