@@ -1,0 +1,17 @@
+## When automation goes horribly wrong
+
+I've read this article by Gojko Adzic on a story of a manual process that was automated.
+
+> Because it focused too much on replacing humans instead of assisting them, MiDAS actually made it more difficult for clerks to access the data they needed for review
+
+This reminded me of the framework vs library discussion:
+
+  * in frameworks you relinquish the control, putting your code into the allocated holes.
+  * using the automated system, you can only check the claim at a certain spot, where the system lets you do.
+
+The system and the framework have been designed to take control of the situation. Both successful at what they do
+
+Tags: gojko-adzic, automation, framework, library, framework-vs-library, comparison, analogy
+
+[automation-midas]: http://us2.campaign-archive1.com/?u=abe09ce689751513abf6f095f&id=9be6b87de2&e=0d5bc146fe
+
