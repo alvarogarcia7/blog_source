@@ -15,7 +15,7 @@ date: 2017-03-16T07:39:19Z
 title: "On the Make, Buy or Rent decision: Stateful vs Stateless components"
 ---
 
-From the [Make, Buy or Rent][] article:
+From the [Make, Buy or Rent][mbr] article:
 
 > [...] [T]he three main system options for organizations seeking to upgrade their systems and the pros and cons of each
 
