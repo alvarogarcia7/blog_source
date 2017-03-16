@@ -1,8 +1,0 @@
-## Devoxx 2015: How to Become a Java Champion
-
-I've watched [this interview][become-java-champion] to Arun Gupta in which he explains what is a Java champion and how to become one.
-
-Tags: interview, arun-gupta, java-champion, devoxx
-
-[become-java-champion]: http//www.youtube.com/watch?v=otMc_3Dz3hU
-
