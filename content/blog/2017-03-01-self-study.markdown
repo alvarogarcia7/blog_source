@@ -100,3 +100,11 @@ Tags: heinz-kabutz, java-champion
 
 [java-champion-kabutz]: http://www.javaspecialists.eu/archive/Issue227.html
 
+## The myth of using Scala as a better Java
+
+I've read [this article][scala-as-better-java] by Denis Kalinin disproving 'Java as a better Scala'. He covers dependency injection, database access, serialization.
+
+Tags: scala, java, comparison, orm, denis-kalinin, macwire, dependency-injection, serialization, database, myth
+
+[scala-as-better-java]: http://appliedscala.com/blog/2017/myth-of-scala-as-better-java/
+
