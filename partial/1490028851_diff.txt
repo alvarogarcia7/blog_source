@@ -1,0 +1,9 @@
+
+## Meeting policy
+
+I've read [this article][meeting-policy-ueno] by the Ueno team on how they handle meetings. Interesting that they require manager approval for meetings over a certain threshold (more than four people or more than half an hour).
+
+Tags: ueno, meeting-policy, meeting, approval
+
+[meeting-policy-ueno]: https://medium.com/ueno/meeting-policy-9b04593d1b28
+
