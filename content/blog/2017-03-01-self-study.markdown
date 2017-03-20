@@ -117,3 +117,11 @@ This can help predict which languages will be more prevalent in the future.
 Tags: eigenvector, statistic, erik-bern, language, programming-language, java, c, cplusplus, go, python
 
 [moved-from-x-to-y]: https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html
+## Facebook’s code quality problem
+
+I've read [this article][facebook-code-quality] by Graham King on the problems that Facebook is facing, at the code level, and how they solve some of them
+
+Tags: graham-king, facebook, quality, architecture, code-quality
+
+[facebook-code-quality]: https://www.darkcoding.net/software/facebooks-code-quality-problem/
+
