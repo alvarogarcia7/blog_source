@@ -108,3 +108,12 @@ Tags: scala, java, comparison, orm, denis-kalinin, macwire, dependency-injection
 
 [scala-as-better-java]: http://appliedscala.com/blog/2017/myth-of-scala-as-better-java/
 
+## The eigenvector of "Why we moved from language X to language Y"
+
+I've read [this article][moved-from-x-to-y] by Erik Bern on the statistical analysis (based on people writing blog posts) of moving from language X to language Y.
+
+This can help predict which languages will be more prevalent in the future.
+
+Tags: eigenvector, statistic, erik-bern, language, programming-language, java, c, cplusplus, go, python
+
+[moved-from-x-to-y]: https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html
