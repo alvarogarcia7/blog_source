@@ -152,3 +152,11 @@ Tags: gojko-adzic, automation, framework, library, framework-vs-library, compari
 
 [automation-midas]: http://us2.campaign-archive1.com/?u=abe09ce689751513abf6f095f&id=9be6b87de2&e=0d5bc146fe
 
+## How I Store My 1’s and 0’s: ZFS  Bargain HP Microserver = JOY
+
+I've read [this article][backup-strategy] on how Alex stores his backups, using a microserver
+
+Tags: backup, microserver, raid, zfs, backup-strategy
+
+[backup-strategy]: https://mocko.org.uk/b/2012/06/17/how-i-store-my-1s-and-0s-zfs-bargain-hp-microserver-joy/
+
