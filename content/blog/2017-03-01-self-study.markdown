@@ -160,3 +160,12 @@ Tags: backup, microserver, raid, zfs, backup-strategy
 
 [backup-strategy]: https://mocko.org.uk/b/2012/06/17/how-i-store-my-1s-and-0s-zfs-bargain-hp-microserver-joy/
 
+
+## Meeting policy
+
+I've read [this article][meeting-policy-ueno] by the Ueno team on how they handle meetings. Interesting that they require manager approval for meetings over a certain threshold (more than four people or more than half an hour).
+
+Tags: ueno, meeting-policy, meeting, approval
+
+[meeting-policy-ueno]: https://medium.com/ueno/meeting-policy-9b04593d1b28
+
