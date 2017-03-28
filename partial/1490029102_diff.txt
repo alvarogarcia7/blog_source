@@ -1,8 +1,0 @@
-## A Brief History of Random Numbers
-
-I've read [this article][history-rn] by Carl Tashian on how random numbers have evolved (from dice to pseudo random number generator and random number generators). Explain how some companies that need true randomness (e.g., certificates company) generate them.
-
-Tags: carl-tashian, dice, random-number, randomness, prng, pseudo-random-number-generator, random-number-generator, number-generator, true-random-number-generator
-
-[history-rn]: https://medium.freecodecamp.com/a-brief-history-of-random-numbers-9498737f5b6c
-
