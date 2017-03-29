@@ -177,3 +177,11 @@ Tags: carl-tashian, dice, random-number, randomness, prng, pseudo-random-number-
 
 [history-rn]: https://medium.freecodecamp.com/a-brief-history-of-random-numbers-9498737f5b6c
 
+## Unlock honest feedback with this one word
+
+I've read [this article][honest-feedback-advice] by Claire Lew, in which she suggests to ask for 'advice' instead of asking for 'feedback' as a way of getting more honest and better responses.
+
+Tags: claire-lew, advice, feedback, feedback-process
+
+[honest-feedback-advice]: https://m.signalvnoise.com/unlock-honest-feedback-with-this-one-word-dcaf3839e7ee
+
