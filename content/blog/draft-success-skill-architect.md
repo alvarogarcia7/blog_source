@@ -1,3 +1,9 @@
+---
+published: false
+categories:
+  - podcast
+---
+
 http://www.se-radio.net/2017/04/se-radio-episode-287-success-skills-for-architects-with-neil-ford/
 
 ## Success skills for architects
