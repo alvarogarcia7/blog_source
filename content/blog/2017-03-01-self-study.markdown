@@ -185,3 +185,37 @@ Tags: claire-lew, advice, feedback, feedback-process
 
 [honest-feedback-advice]: https://m.signalvnoise.com/unlock-honest-feedback-with-this-one-word-dcaf3839e7ee
 
+## Gerald Weinberg on Bugs, Errors, and Software Quality
+
+I've listened to this interview with Gerald Weinberg where he first talks about software quality, defining a fault, failure, a boo-boo, a blunder (below). Then, they move on to the cost of quality, experiences in his project 'Mercury' (a man in orbit; his contribution was on the software side). Says it's one of his first projects where a person's life was directly related to a piece of software.
+
+Fault: wrong operation in code
+Failure: user's experience caused by a fault
+Boo-boo: a one-off, small failure. Usually shrugged as a small defect
+Blunder: a one-off, big failure. Can kill a career
+
+
+
+Tags: podcast, gerald-weinberg, quality, interview, manager, software-quality, definition, fault, failure, boo-boo, blunder, project-mercury
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
