@@ -194,7 +194,9 @@ Failure: user's experience caused by a fault
 Boo-boo: a one-off, small failure. Usually shrugged as a small defect
 Blunder: a one-off, big failure. Can kill a career
 
+About the cost of software, he mentions that many managers are not willing to pay the price of almost defect-free software and that this level of quality is not required in every project. This idea is similar to the one 'Testing every part is akin to reading every letter on the newspaper: one parts are more important than other'.
 
+This interview talks about similar topics than 'Why programs fail', especially about the definition.
 
 Tags: podcast, gerald-weinberg, quality, interview, manager, software-quality, definition, fault, failure, boo-boo, blunder, project-mercury
 
