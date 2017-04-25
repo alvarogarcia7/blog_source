@@ -202,12 +202,13 @@ This interview talks about similar topics than 'Why programs fail', especially a
 Tags: podcast, gerald-weinberg, quality, interview, manager, software-quality, definition, fault, failure, boo-boo, blunder, project-mercury
 -->
 
+<!--
 ## Microservice Practitioners with Austin Gunter and Richard Li
 
 I've listened to this podcast at Software Engineering Daily with Austin Gunter and Richard Li. In it, they talk about how they have organized the conference 'Microservice Practicitioners': how to find speakers, the vibes of the conference, etc.
 
 Tags: austin-gunter, richard-li, organize-a-conference, conference, microservice, microservice-practitioners, podcast, software-engineering-daily
-
+-->
 
 
 
