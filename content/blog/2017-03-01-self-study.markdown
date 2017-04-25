@@ -200,6 +200,8 @@ About the cost of software, he mentions that many managers are not willing to pa
 This interview talks about similar topics than 'Why programs fail', especially about the definition.
 
 Tags: podcast, gerald-weinberg, quality, interview, manager, software-quality, definition, fault, failure, boo-boo, blunder, project-mercury
+
+TODO missing link
 -->
 
 <!--
