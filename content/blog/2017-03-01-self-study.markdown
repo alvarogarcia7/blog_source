@@ -199,6 +199,8 @@ About the cost of software, he mentions that many managers are not willing to pa
 
 This interview talks about similar topics than 'Why programs fail', especially about the definition.
 
+At the end of the interview, he talks about team-based software development (~XP) and an anecdote about a company he was consulting with: follow the process or pay the defects out of your own pocket. One of them, accepted paying for defects, until he made a big mistake. Accepted training the rest of the employees into his very precise methods and became very valuable to the company.
+
 Tags: podcast, gerald-weinberg, quality, interview, manager, software-quality, definition, fault, failure, boo-boo, blunder, project-mercury
 
 TODO missing link
