@@ -188,7 +188,7 @@ Tags: claire-lew, advice, feedback, feedback-process
 <!--
 ## Gerald Weinberg on Bugs, Errors, and Software Quality
 
-I've listened to this interview with Gerald Weinberg where he first talks about software quality, defining a fault, failure, a boo-boo, a blunder (below). Then, they move on to the cost of quality, experiences in his project 'Mercury' (a man in orbit; his contribution was on the software side). Says it's one of his first projects where a person's life was directly related to a piece of software.
+I've listened to [this interview][bug-error-weinberg] with Gerald Weinberg where he first talks about software quality, defining a fault, failure, a boo-boo, a blunder (below). Then, they move on to the cost of quality, experiences in his project 'Mercury' (a man in orbit; his contribution was on the software side). Says it's one of his first projects where a person's life was directly related to a piece of software.
 
 Fault: wrong operation in code
 Failure: user's experience caused by a fault
@@ -202,6 +202,7 @@ This interview talks about similar topics than 'Why programs fail', especially a
 Tags: podcast, gerald-weinberg, quality, interview, manager, software-quality, definition, fault, failure, boo-boo, blunder, project-mercury
 
 TODO missing link
+[bug-error-weinberg]: http://... 
 -->
 
 <!--
