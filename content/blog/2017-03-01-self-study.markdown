@@ -219,3 +219,11 @@ TODO missing link
 -->
 
 
+## 10 Myths About Docker That Stop Developers Cold
+
+I've read [this listicle][docker-myths-bailey] of docker myths. By Derick Bailey
+
+Tags: derick-bailey, docker, myth
+
+[docker-myths-bailey]: https://dev.to/derickbailey/10-myths-about-docker-that-stop-developers-cold
+
