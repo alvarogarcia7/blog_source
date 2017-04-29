@@ -227,3 +227,17 @@ Tags: derick-bailey, docker, myth
 
 [docker-myths-bailey]: https://dev.to/derickbailey/10-myths-about-docker-that-stop-developers-cold
 
+## Bored People Quit
+
+I've read [this article][bored-quit] by Michael Lopp on what are some mechanisms why bored people quit.
+
+Some interesting quotes:
+
+> My gig is the care and feeding of engineers, and their productivity is my productivity. If they all leave, I have exactly no job.
+
+> My job isn’t just building product; I also build people.
+
+Tags: michael-lopp, boredness, team-management, people, career, tech-lead, quote
+
+[bored-quit]: http://randsinrepose.com/archives/bored-people-quit/
+
