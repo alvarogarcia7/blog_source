@@ -72,7 +72,7 @@ I especially like a comment:
 >
 > [ravensnowbird](https://disqus.com/by/ravensnowbird/) 
 
-Tags: Patrick Kua, tech lead, leadership, team management, mistake
+Tags: patrick-kua, tech-lead, leadership, team-management, mistake
 
 [mistakes-tech-lead]: https://www.thoughtworks.com/insights/blog/three-common-mistakes-first-time-tech-lead
 
