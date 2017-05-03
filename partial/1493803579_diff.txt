@@ -1,0 +1,10 @@
+## Compilers as Assistants
+
+I've read [this article][compilers-assistant] by Evan Czaplicki on seeing the compiler as an assistant to your work, instead of an adversary. Of how the compiler should give the most useful errors and warnings.
+
+He also explains what features have been removed from the Elm language in 0.16.
+
+Tags: compiler, assistant, adversary, enemy, elm, elm-compiler, evan-czaplicki
+
+[compilers-assistant]: http://elm-lang.org/blog/compilers-as-assistants
+
