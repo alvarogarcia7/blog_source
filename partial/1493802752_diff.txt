@@ -1,0 +1,8 @@
+## Princeton’s Ad-Blocking Superweapon May Put an End to the Ad-Blocking Arms Race
+
+I've read [this article][computer-vision-tool-ads] by Jason Koebler on the tool a university has written and published, that using computer vision, is able to detect sponsored content in native form.
+
+Tags: jason-koebler, computer-vision, ad, advertisement, ublock, adblock
+
+[computer-vision-tool-ads]: https://motherboard.vice.com/en_us/article/princetons-ad-blocking-superweapon-may-put-an-end-to-the-ad-blocking-arms-race
+
