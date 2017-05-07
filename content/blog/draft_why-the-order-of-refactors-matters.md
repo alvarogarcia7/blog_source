@@ -81,6 +81,8 @@ following the refactoring algorithm, it is not possible to navigate the graph in
 
 according to the definition, .....????
 
+> a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior
+
 
 ----
 
