@@ -39,6 +39,8 @@ This does not cover all sessions, including the one I facilitated, but the ones 
 
 ### Teaching from the back of the room
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Super graphic recording de <a href="https://twitter.com/zigiella">@zigiella</a> durante la charla de Training from the BACK of the Room! <a href="https://twitter.com/hashtag/gracias?src=hash">#gracias</a>! <a href="https://twitter.com/hashtag/agilebcnOS?src=hash">#agilebcnOS</a> <a href="https://t.co/5NeiWad9hm">pic.twitter.com/5NeiWad9hm</a></p>&mdash; Miquel Rodríguez (@miquelrodriguez) <a href="https://twitter.com/miquelrodriguez/status/860888995148034048">May 6, 2017</a></blockquote>
+
 
 ## Conclusion
 
