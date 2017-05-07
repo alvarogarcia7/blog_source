@@ -19,7 +19,6 @@ Yesterday I attended an Agile Barcelona open space at Netmind
 On arrival, attendees where welcomed by an Agile Coffee. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="es" dir="ltr">Creo que sobrará alguna cosita del café colaborativo... 😅 <a href="https://twitter.com/hashtag/agilebcnOS?src=hash">#agilebcnOS</a> <a href="https://twitter.com/hashtag/compartir?src=hash">#compartir</a> <a href="https://twitter.com/hashtag/comunidad?src=hash">#comunidad</a> <a href="https://twitter.com/hashtag/gracias?src=hash">#gracias</a> <a href="https://t.co/vvShEZmyfJ">pic.twitter.com/vvShEZmyfJ</a></p>&mdash; Miquel Rodríguez (@miquelrodriguez) <a href="https://twitter.com/miquelrodriguez/status/860792625347137536">May 6, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 At 10:00, the introduction started: a warm welcome to everyone, including first-time attendees to an open space, explaining what it is, the few rules and laws and making sure everyone had fun. Some time later, the marketplace happened and everyone presented their sessions. A curious thing to see was the effect of a session that everyone wanted to attend (dubbed a 'black hole'). Nobody dared to plan another session in parallel to that.
 
@@ -87,3 +86,4 @@ PS: This post is categorized as 'We were there', in reference to the awesome 'Es
 
 Fulgencio Jara as graphic reporter from my session :)
 
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
