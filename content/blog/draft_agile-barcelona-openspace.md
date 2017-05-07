@@ -31,3 +31,5 @@ On the evening, two more slots for sessions, followed by a cross-pollination ses
 
 After that, some left and some went for a closing beer.
 
+PS: This post is categorized as 'We were there', in reference to the awesome 'Estuvimos alli' posts that Carlos Ble (and Codesai) write about events. Also 'Notes' for the ones that Eduardo Ferro writes about events he attends
+
