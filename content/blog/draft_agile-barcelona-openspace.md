@@ -15,7 +15,7 @@ Sessions:
 
 Feeling:
 
-Format:
+## Format
 
 On arrival, attendees where welcomed by an Agile Coffee. TODO pics about that
 
