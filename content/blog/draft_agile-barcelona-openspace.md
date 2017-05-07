@@ -36,7 +36,6 @@ This does not cover all sessions, including the one I facilitated, but the ones 
 ### La formula de la cocacola
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Full attendance at <a href="https://twitter.com/hashtag/laFormulaDeLaCocacola?src=hash">#laFormulaDeLaCocacola</a> at the <a href="https://twitter.com/hashtag/agileBcnOS?src=hash">#agileBcnOS</a>, facilitated by <a href="https://twitter.com/jaumejornet">@jaumejornet</a> and <a href="https://twitter.com/pavleras">@pavleras</a> at <a href="https://twitter.com/netmindIT">@netmindIT</a> <a href="https://t.co/GFHpqTRJrp">pic.twitter.com/GFHpqTRJrp</a></p>&mdash; Alvaro Garcia (@alvarobiz) <a href="https://twitter.com/alvarobiz/status/860800423787204608">May 6, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Teaching from the back of the room
 
@@ -51,7 +50,6 @@ PS: This post is categorized as 'We were there', in reference to the awesome 'Es
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/agilebcnOS?src=hash">#agilebcnOS</a> Session: managing problems with <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> <a href="https://t.co/yIYzOYnpH6">pic.twitter.com/yIYzOYnpH6</a></p>&mdash; Fulgencio Jara (@eltioful) <a href="https://twitter.com/eltioful/status/860791870938599424">May 6, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Fulgencio Jara as graphic reporter from my session :)
 
