@@ -37,6 +37,10 @@ This does not cover all sessions, including the one I facilitated, but the ones 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Full attendance at <a href="https://twitter.com/hashtag/laFormulaDeLaCocacola?src=hash">#laFormulaDeLaCocacola</a> at the <a href="https://twitter.com/hashtag/agileBcnOS?src=hash">#agileBcnOS</a>, facilitated by <a href="https://twitter.com/jaumejornet">@jaumejornet</a> and <a href="https://twitter.com/pavleras">@pavleras</a> at <a href="https://twitter.com/netmindIT">@netmindIT</a> <a href="https://t.co/GFHpqTRJrp">pic.twitter.com/GFHpqTRJrp</a></p>&mdash; Alvaro Garcia (@alvarobiz) <a href="https://twitter.com/alvarobiz/status/860800423787204608">May 6, 2017</a></blockquote>
 
+In this session, Jaume Jornet and Pablo Domingo explained flow efficiency and resource efficiency to us, using simple terms and compelling stories, without using any specific jargon. Explaining the efficiencies using games (with volunteers).
+
+They mention that this format works very well with C-level employees and other executives.
+
 ### Teaching from the back of the room
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Super graphic recording de <a href="https://twitter.com/zigiella">@zigiella</a> durante la charla de Training from the BACK of the Room! <a href="https://twitter.com/hashtag/gracias?src=hash">#gracias</a>! <a href="https://twitter.com/hashtag/agilebcnOS?src=hash">#agilebcnOS</a> <a href="https://t.co/5NeiWad9hm">pic.twitter.com/5NeiWad9hm</a></p>&mdash; Miquel Rodríguez (@miquelrodriguez) <a href="https://twitter.com/miquelrodriguez/status/860888995148034048">May 6, 2017</a></blockquote>
