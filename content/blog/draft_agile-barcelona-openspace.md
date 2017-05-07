@@ -2,6 +2,12 @@
 published: false
 categories:
   - draft
+  - open-space
+  - agile
+  - agile-barcelona
+  - meetup
+  - we-were-there
+  - notes
 ---
 
 2017-05-07 10:01:44 AGB
