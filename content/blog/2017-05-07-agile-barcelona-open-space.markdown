@@ -80,7 +80,7 @@ These open-space events leave me full of energy, after having shared thoughts an
 
 A big thank you to the organizers (the community of Agile Barcelona), the facilitator (Andres Mumenthaler) and Netmind, for hosting the event
 
-PS: This post is categorized as 'We were there', in reference to the awesome 'Estuvimos allí' posts that Carlos Ble (and Codesai) write about events. Also 'Notes' for the ones that Eduardo Ferro writes about events he attends
+PS: This post is categorized as 'We were there', in reference to the awesome 'Estuvimos allí' posts that Carlos Blé (and Codesai) write about events. Also 'Notes' for the ones that Eduardo Ferro writes about events he attends
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/agilebcnOS?src=hash">#agilebcnOS</a> Session: managing problems with <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> <a href="https://t.co/yIYzOYnpH6">pic.twitter.com/yIYzOYnpH6</a></p>&mdash; Fulgencio Jara (@eltioful) <a href="https://twitter.com/eltioful/status/860791870938599424">May 6, 2017</a></blockquote>
