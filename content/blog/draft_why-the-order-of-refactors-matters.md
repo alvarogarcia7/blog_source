@@ -83,6 +83,8 @@ according to the definition, .....????
 
 > a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior
 
+therefore, I'm not so sure if the graph has cycles or not. If it doesn't have cycles, as it originates from the sourcecode in one point in time, it is guaranteed to be a tree, as all nodes are connected (originating from the source)
+
 
 ----
 
