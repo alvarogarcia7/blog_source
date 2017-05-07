@@ -6,6 +6,8 @@ categories:
   - meetup
   - we-were-there
   - notes
+  - black-hole
+  - conclusion
 comments: true
 date: 2017-05-07T18:17:28Z
 title: Notes from the Agile Barcelona Open Space
