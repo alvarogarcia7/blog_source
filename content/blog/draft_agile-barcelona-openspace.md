@@ -34,7 +34,7 @@ This does not cover all sessions, including the one I facilitated, but the ones 
 
 ### Teaching from the back of the room
 
-## Feelings
+## Conclusion
 
 These open-space events leave me full of energy, after having shared thoughts and happiness with the rest of the community.
 
