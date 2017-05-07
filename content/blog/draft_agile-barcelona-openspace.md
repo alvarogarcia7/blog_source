@@ -23,7 +23,7 @@ On arrival, attendees where welcomed by an Agile Coffee.
 
 At 10:00, the introduction started: a warm welcome to everyone, including first-time attendees to an open space, explaining what it is, the few rules and laws and making sure everyone had fun. Some time later, the marketplace happened and everyone presented their sessions. A curious thing to see was the effect of TODO explain black hole
 
-As the day went by, the sessions were happening. By lunch time, everyone self organized to have lunch. I had the opportunity to catch up with Jordi Falguera and Victor, TODO find surname. It was a very enjoyable conversation. It had been a long time since we didn't meet. Hello to both from here :)
+As the day went by, the sessions were happening. By lunch time, everyone self organized to have lunch. I had the opportunity to catch up with [Jordi Falguera](https://twitter.com/Jordi_Falguera) and [Victor Fairén](https://twitter.com/torinoxx). It was a very enjoyable conversation. It had been a long time since we didn't meet. Hello to both from here :)
 
 On the evening, two more slots for sessions, followed by a cross-pollination session.
 
