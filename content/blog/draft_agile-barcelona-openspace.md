@@ -12,7 +12,7 @@ categories:
 
 2017-05-07 10:01:44 AGB
 
-Yesterday I attended an open space
+Yesterday I attended an Agile Barcelona open space at Netmind
 
 ## Sessions
 
