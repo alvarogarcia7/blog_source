@@ -66,9 +66,9 @@ And the four Cs (or phases in a training):
 
 A few pointers for further reading:
 
-  * [Training from the back of the room](https://www.amazon.com/Training-Back-Room-Aside-Learn/dp/0787996629)
-  * Using brain science to make training stick
-  * Neurociencia para educadores, by David Bueno (Spanish)
+  * [Training from the back of the room](https://www.amazon.com/Training-Back-Room-Aside-Learn/dp/0787996629), by Sarah Bowman
+  * [Using brain science to make training stick](https://www.amazon.com/Using-Brain-Science-Training-Stick/dp/096568511X/), by Sarah Bowman
+  * [Neurociencia per educadors](https://www.amazon.com/Neuroci%C3%A8ncia-educadors-David-Bueno-Torrens/dp/8494529013/), by David Bueno (Catalan)
  
 I really liked this session, as it helps us deliver more effective trainings, both in formal session as in more ad-hoc / informal ones.
 
