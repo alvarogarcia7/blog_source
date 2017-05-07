@@ -12,6 +12,8 @@ categories:
 
 2017-05-07 10:01:44 AGB
 
+Yesterday I attended an open space
+
 ## Sessions
 
 This does not cover all sessions, including the one I facilitated, but the ones I liked the most
@@ -30,7 +32,7 @@ A big thank you to the organizers (the community of Agile Barcelona), the facili
 
 On arrival, attendees where welcomed by an Agile Coffee. TODO pics about that
 
-At 10:00, the marketplace happened and everyone presented their sessions. A curious thing to see was the effect of TODO explain black hole
+At 10:00, the introduction started: a warm welcome to everyone, including first-time attendees to an open space, explaining what it is, the few rules and laws and making sure everyone had fun. Some time later, the marketplace happened and everyone presented their sessions. A curious thing to see was the effect of TODO explain black hole
 
 As the day went by, the sessions were happening. By lunch time, everyone self organized to have lunch. I had the opportunity to catch up with Jordi Falguera and Victor, TODO find surname. It was a very enjoyable conversation. It had been a long time since we didn't meet. Hello to both from here :)
 
