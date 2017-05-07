@@ -1,6 +1,5 @@
 ---
 categories:
-  - draft
   - open-space
   - agile
   - agile-barcelona
