@@ -14,6 +14,8 @@ categories:
 
 ## Sessions
 
+This does not cover all sessions, including the one I facilitated, but the ones I liked the most
+
   * La formula de la cocacola
   * Teaching from the back of the room
 
