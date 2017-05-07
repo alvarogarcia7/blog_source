@@ -19,6 +19,10 @@ categories:
 
 ## Feeling
 
+These open-space events leave me full of energy, after having shared thoughts and happiness with the rest of the community.
+
+A big thank you to the organizers (the community of Agile Barcelona), the facilitator (Andres Mumenthaler) and Netmind, for hosting the event
+
 ## Format
 
 On arrival, attendees where welcomed by an Agile Coffee. TODO pics about that
