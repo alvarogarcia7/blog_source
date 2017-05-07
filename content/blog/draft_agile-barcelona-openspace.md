@@ -66,7 +66,7 @@ A few pointers for further reading:
   * Neurociencia para educadores, by David Bueno (Spanish)
   * El humano solo aprende lo que le interesa (??? TODO) (Spanish)
  
-
+I really liked this session, as it helps us deliver more effective trainings, both in formal session as in more ad-hoc / informal ones.
 
 ## Conclusion
 
