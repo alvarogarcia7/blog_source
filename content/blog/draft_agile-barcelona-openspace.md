@@ -69,7 +69,6 @@ A few pointers for further reading:
   * [Training from the back of the room](https://www.amazon.com/Training-Back-Room-Aside-Learn/dp/0787996629)
   * Using brain science to make training stick
   * Neurociencia para educadores, by David Bueno (Spanish)
-  * El humano solo aprende lo que le interesa (??? TODO) (Spanish)
  
 I really liked this session, as it helps us deliver more effective trainings, both in formal session as in more ad-hoc / informal ones.
 
