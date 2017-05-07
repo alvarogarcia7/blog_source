@@ -1,0 +1,15 @@
+## Speak like a leader
+
+I've watched [this TEDx Talk][tedx-speak-leader] by Simon Lancaster in which he explains the importance of rhetoric in our speech. Explains 6 techniques for achieving better communication:
+
+  * Three breathless sentences: "Mangia Bene, Ridi Spesso, ama molto", "Ein Volk, ein Reich, ein Fuhrer"
+  * Three repetitive sentences
+  * Three balancing statements: if we hear the statements as balanced, we imagine that the underlaying thinking is balanced
+  * Metaphor
+  * Exaggeration
+  * Rhyme
+
+Tags: simon-lancaster, tedx, ted, quote, speech, leadership, communication
+
+[tedx-speak-leader]: https://www.youtube.com/watch?v=bGBamfWasNQ
+
