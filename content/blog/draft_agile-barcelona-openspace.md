@@ -41,6 +41,32 @@ This does not cover all sessions, including the one I facilitated, but the ones 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Super graphic recording de <a href="https://twitter.com/zigiella">@zigiella</a> durante la charla de Training from the BACK of the Room! <a href="https://twitter.com/hashtag/gracias?src=hash">#gracias</a>! <a href="https://twitter.com/hashtag/agilebcnOS?src=hash">#agilebcnOS</a> <a href="https://t.co/5NeiWad9hm">pic.twitter.com/5NeiWad9hm</a></p>&mdash; Miquel Rodríguez (@miquelrodriguez) <a href="https://twitter.com/miquelrodriguez/status/860888995148034048">May 6, 2017</a></blockquote>
 
+In this session, Miquel Rodríguez explained a few concepts he learnt in a training by Sarah Bowman "Training from the back of the room".
+
+He explained the six concepts for training to be effective:
+
+  * Movement trumps sitting
+  * Images trumps words
+  * Talking trumps listening
+  * Writing trumps reading
+  * Shorter trumps longer
+  * Different trumps same
+
+And the four Cs (or phases in a training):
+
+  * Connection
+  * Concepts
+  * Concrete practice
+  * Conclusion
+
+A few pointers for further reading:
+
+  * [Training from the back of the room](https://www.amazon.com/Training-Back-Room-Aside-Learn/dp/0787996629)
+  * Using brain science to make training stick
+  * Neurociencia para educadores, by David Bueno (Spanish)
+  * El humano solo aprende lo que le interesa (??? TODO) (Spanish)
+ 
+
 
 ## Conclusion
 
