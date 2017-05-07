@@ -13,8 +13,6 @@ title: Notes from the Agile Barcelona Open Space
 url: /blog/2017/05/07/notes-agile-open-space-barcelona/
 ---
 
-2017-05-07 10:01:44 AGB
-
 Yesterday I attended an Agile Barcelona open space at Netmind
 
 ## Format
