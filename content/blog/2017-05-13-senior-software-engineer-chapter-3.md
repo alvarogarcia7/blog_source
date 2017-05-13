@@ -15,9 +15,13 @@ published: false
 
 In the beginning, you will be given tasks that require no in-depth domain knowledge
 
+### Process
+
 > A process allows you to focus on the right thing at th right time (p. 14)
 >
 > It will make your productivity and quality more predictable, which, in turn, will help you estimate and keep more of your promises about your work (paraphrased from p. 14)
+
+### TDD
 
 Explains some benefits about TDD:
 
