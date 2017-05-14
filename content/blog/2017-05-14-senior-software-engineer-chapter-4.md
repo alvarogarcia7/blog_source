@@ -47,3 +47,10 @@ This reminds me of ['scratch refactoring'](http://xp123.com/articles/scratch-ref
 a concept about refactoring (or pretending to refactor) to get better understanding from the
 code.
 
+### Reporting progress
+
+>  * Understanding the problem
+>  * Coding or In Progress
+>  * In Review
+>
+> (p. 65)
