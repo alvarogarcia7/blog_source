@@ -25,3 +25,7 @@ url: /blog/2017/05/14/senior-software-engineer-chapter-4/
 >
 > (p. 45-46)
 
+> [...] your goal is to fully understand what should be delivered and, more importantly, why.
+>
+> (p. 48)
+
