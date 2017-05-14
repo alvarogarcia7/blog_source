@@ -31,6 +31,8 @@ Books that have entered the queue:
 
 Non-technical that have entered the queue:
 
+  * [La lucha por la desigualdad](https://www.amazon.es/Lucha-Por-Desigualdad-Gonzalo-Pont_n/dp/8494495046), Ponton (Spanish)
+
 <!--
 
 repository for WIP books:
