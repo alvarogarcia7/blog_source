@@ -40,6 +40,8 @@ also the thing right (according to technical requirements).
 > implement the feature. Go quickly, ignoring edge cases, tests, and cleanliness.
 > As you sketch the solution, you’ll develop a better understanding of where in 
 > the code you need to make changes, and what those changes might be.
+>
+> (p. 55)
 
 This reminds me of ['scratch refactoring'](http://xp123.com/articles/scratch-refactoring/),
 a concept about refactoring (or pretending to refactor) to get better understanding from the
