@@ -32,3 +32,14 @@ url: /blog/2017/05/14/senior-software-engineer-chapter-4/
 This is needed both to write to right thing (according to business requirements) but
 also the thing right (according to technical requirements).
 
+### Sketch
+
+> [...] To make a sketch, simply start making disposable changes to the code that 
+> implement the feature. Go quickly, ignoring edge cases, tests, and cleanliness.
+> As you sketch the solution, you’ll develop a better understanding of where in 
+> the code you need to make changes, and what those changes might be.
+
+This reminds me of ['scratch refactoring'](http://xp123.com/articles/scratch-refactoring/),
+a concept about refactoring (or pretending to refactor) to get better understanding from the
+code.
+
