@@ -32,3 +32,5 @@ Explains some benefits about TDD:
 
 The latter can be interpreted as 'building the thing right' vs 'building the right thing': a red test can be seen as question, a green test as an answer. If the question is defined in business terms, you are building the right thing. When refactoring, you are turning the right thing (no matter how it was built) into the thing right
 
+<!-- TODO this will turn into a blog post -->
+
