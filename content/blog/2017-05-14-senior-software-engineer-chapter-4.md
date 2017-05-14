@@ -29,3 +29,6 @@ url: /blog/2017/05/14/senior-software-engineer-chapter-4/
 >
 > (p. 48)
 
+This is needed both to write to right thing (according to business requirements) but
+also the thing right (according to technical requirements).
+
