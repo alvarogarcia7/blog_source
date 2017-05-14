@@ -27,6 +27,8 @@ Books I want to finish. Usually come from another quarter:
 
 Books that have entered the queue:
 
+  * [Software Architecture in Practice](https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734) by Bass, Clements, Kazman
+
 Non-technical that have entered the queue:
 
 <!--
