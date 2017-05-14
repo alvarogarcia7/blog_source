@@ -13,6 +13,8 @@ url: /blog/2017/05/14/senior-software-engineer-chapter-4/
 
 # Chapter 4: Add features with ease 
 
+### The ATDD cycle
+
 > The basic process [...] is:
 >
 >  1. Understand the problem
