@@ -4,6 +4,8 @@ categories:
 - reading
 - quote
 - senior-software-engineer
+- right-thing
+- thing-right
 comments: true
 date: 2017-05-13T13:08:19Z
 title: The Senior Software Engineer, Chapter 3
