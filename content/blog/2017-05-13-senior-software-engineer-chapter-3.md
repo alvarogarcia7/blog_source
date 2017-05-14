@@ -26,10 +26,10 @@ In the beginning, you will be given tasks that require no in-depth domain knowle
 
 Explains some benefits about TDD:
 
-  * Thinking before coding
-  * Separating the 'getting it to work' from 'getting it right'
-
-(p. 15)
+>  * Thinking before coding
+>  * Separating the 'getting it to work' from 'getting it right'
+>
+> (p. 15)
 
 The latter can be interpreted as 'building the thing right' vs 'building the right thing': a red test can be seen as question, a green test as an answer. If the question is defined in business terms, you are building the right thing. When refactoring, you are turning the right thing (no matter how it was built) into the thing right
 
