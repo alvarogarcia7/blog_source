@@ -1,1 +1,0 @@
-add article about computer-vision-based ad blocking
