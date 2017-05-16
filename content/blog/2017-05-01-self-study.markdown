@@ -75,3 +75,12 @@ Tags: sabbatical, ian-malpass, team-management, career
 [sabbaticals]: http://indecorous.com/sabbaticals/
 
 
+## Hasta pronto…
+
+I've read [this article][stop-blogging-garzas] by Javier Garzás, where he explains that he'll stop blogging for a while and why
+
+Tags: javier-garzas, blog, personal
+
+[stop-blogging-garzas]: http://www.javiergarzas.com/2016/07/hasta-pronto.html
+
+
