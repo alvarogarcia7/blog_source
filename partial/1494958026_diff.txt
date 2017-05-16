@@ -1,0 +1,7 @@
+## JavaScript — A First-Class Language At Last
+I've read [this article][js-first-class] by Tom Goldenberg defending javascript, citing sources on why it is a first-class language,
+the amount of job offers, and the state of the art in NodeJS.
+
+Tags: tom-goldenberg, javascript, java, comparison, first-class, language, analysis
+
+[js-first-class]: https://www.linkedin.com/pulse/javascript-first-class-language-atlast-tom-goldenberg
