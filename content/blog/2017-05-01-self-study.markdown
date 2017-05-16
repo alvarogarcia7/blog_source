@@ -54,3 +54,24 @@ Tags: jason-koebler, computer-vision, ad, advertisement, ublock, adblock
 
 [computer-vision-tool-ads]: https://motherboard.vice.com/en_us/article/princetons-ad-blocking-superweapon-may-put-an-end-to-the-ad-blocking-arms-race
 
+## On Sabbaticals
+
+I've read [this article][sabbaticals] about sabbaticals by Ian Malpass. In it, he explains why we need sabbaticals, how to take them, and some details about them.
+
+Some principles:
+
+> 1. If you think you can’t take a sabbatical, you need to take your sabbatical.
+> 1. Day-to-day work pushes us to think tactically; sabbaticals push us to think strategically. Both are valuable.
+> 1. Do the work to gain confidence that you can be away, and then trust that that the mechanisms you put in place are good.
+> 1. Just because your team can function without you, doesn’t mean they want to.
+> 1. There is rarely a good time to leave work for an extended period of time - don’t let this stop you.
+> 1. Allow room for serendipity, the unexpected, and exploration.
+> 1. Plan for your return before you leave, to avoid worry.
+> 1. The sabbatical process doesn’t end after six weeks.
+> 1. You don’t have to be unhappy or frustrated in your work to go on sabbatical.
+
+Tags: sabbatical, ian-malpass, team-management, career
+
+[sabbaticals]: http://indecorous.com/sabbaticals/
+
+
