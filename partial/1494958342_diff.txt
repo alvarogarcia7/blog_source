@@ -1,0 +1,14 @@
+## Why the 8-Hour Workday Doesn't Work
+
+I've read [this article][hour-workday-8] defending the removal of the 8-hour workday, preferring the division of time in slots.
+In the article, 52 minutes of highly focused work then 17 minutes of rest. 
+
+The key idea is the work-rest, no matter how big those slots are.
+
+Gives tips on how to separate both, some other tips for improving your performance.
+
+By Travis Bradberry
+
+Tags: time-management, pomodoro-technique, travis-bradberry, time, workday
+
+[hour-workday-8]: https://www.linkedin.com/pulse/why-8-hour-workday-doesnt-work-dr-travis-bradberry
