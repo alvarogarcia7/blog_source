@@ -1,0 +1,44 @@
+# Avoid these 35 habits that lead to unmaintainable code
+
+I've read [this article][habits-unmaintanable] about habits that make writing software more difficult:
+
+  >  1. Saying “I’ll fix it later”, and never doing it
+  >  2. Insisting on a one-liner solution
+  >  3. Making pointless optimizations
+  >  4. Convincing yourself that styling issues are not that important
+  >  5. Sweeping things under the rug
+  >  6. Using names that don’t add information
+  >  7. Ignoring proven best practices
+  >  8. Abandoning plans too early
+  >  9. Insisting on a plan that has little chance of working
+  >  10. Working on your own all the time
+  >  11. Refusing to write bad code
+  >  12. Blaming others
+  >  13. Not sharing with your team what you’ve learned
+  >  14. Being too slow on giving feedback to managers/clients
+  >  15. Not using Google enough
+  >  16. Overvaluing your personal style
+  >  17. Having a personal attachment to your code
+  >  18. Not knowing how to optimize
+  >  19. Using the wrong tool for the job
+  >  20. Not bothering with mastering your tools and IDE
+  >  21. Ignoring error messages
+  >  22. Romanticizing your developer toolkit
+  >  23. Hardcoding values instead of making them configurable
+  >  24. Reinventing the wheel all the time
+  >  25. Blindly copy/pasting code
+  >  26. Not taking the time to learn how things really work
+  >  27. Having excessive confidence in your own code
+  >  28. Not thinking about the trade-offs of each design, solution, or library
+  >  29. Not getting help when you’re stuck
+  >  30. Writing tests to pass
+  >  31. Disregarding performance testing for critical cases
+  >  32. Not checking that your build works
+  >  33. Pushing large changes late, or leaving after making a large push
+  >  34. Disowning code you wrote
+  >  35. Ignoring the nonfunctional requirements
+
+Tags: christian-maioli-mackeprang, maintanability, code, listicle, habit
+
+[habits-unmaintanable]: https://www.linkedin.com/pulse/avoid-35-habits-lead-unmaintainable-code-christian-maioli-mackeprang
+
