@@ -91,6 +91,8 @@ A quote:
 
 > the plugin is vulnerable to the plugged-in system, at the source code level
 
+> Separate the detail from the general things
+
 Tags: clean-architecture, uncle-bob, robert-martin, video, mvp, model-view-presenter, model-view-controller, mvc, quote, plugin
 
 [clean-architecture]: https://www.youtube.com/watch?v=o_TH-Y78tt4
