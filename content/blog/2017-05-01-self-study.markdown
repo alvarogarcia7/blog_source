@@ -83,4 +83,15 @@ Tags: javier-garzas, blog, personal
 
 [stop-blogging-garzas]: http://www.javiergarzas.com/2016/07/hasta-pronto.html
 
+## The principles of Clean Architecture
+
+I've watched this video about the clean architecture (with a client's lunch and learn initiative). By Uncle Bob (Robert C. Martin)
+
+A quote:
+
+> the plugin is vulnerable to the plugged-in system, at the source code level
+
+Tags: clean-architecture, uncle-bob, robert-martin, video, mvp, model-view-presenter, model-view-controller, mvc, quote, plugin
+
+[clean-architecture]: https://www.youtube.com/watch?v=o_TH-Y78tt4
 
