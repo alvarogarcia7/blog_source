@@ -21,3 +21,10 @@ url: /blog/2017/05/23/senior-software-engineer-chapter-6/
 >
 > (p 77)
 
+## 6.1 Empathize With Your Audience
+
+> these "interested parties" understand the problem more deeply than
+> you, but lack the technical knowledge, skill, or time to solve it directly.
+>
+> (p 78)
+
