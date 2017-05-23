@@ -56,3 +56,8 @@ Some tips:
 
 (p 81)
 
+> need to distill your message to its absolute minimum without giving out
+> false information.
+>
+> (p 82)
+
