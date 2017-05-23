@@ -12,3 +12,12 @@ url: /blog/2017/05/23/senior-software-engineer-chapter-6/
 
 # Chapter 6: Play Well With Others
 
+> challenges you’ll face as a programmer is to explain what you do,
+> or how you’ve done it, to someone who is not a programmer
+> 
+> Translating your work to non-technical people is a skill that 
+> can be more valuable than any specific technical knowledge you have.
+> It’s what makes a senior developer in the eyes of others.
+>
+> (p 77)
+
