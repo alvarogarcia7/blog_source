@@ -61,3 +61,12 @@ Some tips:
 >
 > (p 82)
 
+As a conclusion:
+
+> Being able to "talk the talk" with others can make you more effective 
+> and more valuable to your company. Being able to briefly summarize 
+> technical details even more so.
+> 
+> (p 87)
+
+
