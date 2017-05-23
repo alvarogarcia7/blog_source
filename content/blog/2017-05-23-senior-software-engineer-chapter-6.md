@@ -42,3 +42,17 @@ url: /blog/2017/05/23/senior-software-engineer-chapter-6/
 >
 > (p 80)
 
+> When communicating with others, you need to learn how to speak
+> the language.
+> 
+> (p 80)
+
+Some tips:
+
+  * Avoid technical jargon of your own
+  * Listen carefully and ask questions
+  * Don’t "talk down"
+  * longer descriptive phrases in place of acronyms or other jargon
+
+(p 81)
+
