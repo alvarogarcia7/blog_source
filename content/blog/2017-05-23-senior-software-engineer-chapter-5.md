@@ -16,3 +16,7 @@ url: /blog/2017/05/23/senior-software-engineer-chapter-5/
   * Slop as source for sloppy code
   * Chapter about understanding the difference between slop and technical debt.
 
+> Many developers, if they are feeling pressured to complete their work, would call this an acceptable compromise, promise to fix it later, and ship it
+>
+> (p. 70)
+
