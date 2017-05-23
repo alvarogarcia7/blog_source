@@ -20,3 +20,9 @@ url: /blog/2017/05/23/senior-software-engineer-chapter-5/
 >
 > (p. 70)
 
+> Technical Debt is [...] used to explain compromises in implementation that save cost now,
+> at a larger future cost (just like real debt). [...] technical debt is code written 
+> under certain assumptions that no longer hold.
+>
+> (p. 72)
+
