@@ -28,3 +28,17 @@ url: /blog/2017/05/23/senior-software-engineer-chapter-6/
 >
 > (p 78)
 
+> Instead of thinking of them as "pointy-haired bosses", think of 
+> them as partners. They understand the problem and you know how 
+> to solve it. This "division of labor" is why teams can achieve 
+> greater things than any individual.
+>
+> (p 79)
+
+## 6.2 Adapt and Abstract Information
+
+> We want to adapt our terms to theirs, and we want to abstract 
+> away irrelevant information as much as we can.
+>
+> (p 80)
+
