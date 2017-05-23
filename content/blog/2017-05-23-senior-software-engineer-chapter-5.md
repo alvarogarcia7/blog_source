@@ -30,4 +30,6 @@ url: /blog/2017/05/23/senior-software-engineer-chapter-5/
 >
 > (p. 73)
 
+Uses a marker (`TECHDEBT`) to explain what and why has been introduced. Also
+serves to find this debt later.
 
