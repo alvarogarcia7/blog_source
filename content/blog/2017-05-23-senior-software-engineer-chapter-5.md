@@ -26,3 +26,8 @@ url: /blog/2017/05/23/senior-software-engineer-chapter-5/
 >
 > (p. 72)
 
+> Although you’ll likely need to pay it off someday, you might not necessarily have to.
+>
+> (p. 73)
+
+
