@@ -347,6 +347,7 @@ I've read [this Quora answer][management-and-engineering-overlapping] by Adam D'
 I've read [these slides][evolution-of-twitter-stack] about changing the technology stack in Twitter: from Rails to JVM-based
 
 [evolution-of-twitter-stack]: https://www.slideshare.net/slideshow/embed_code/key/ly83zQkBjCxnIX
+
 ## Compilers as Assistants
 
 I've read [this article][compilers-assistant] by Evan Czaplicki on seeing the compiler as an assistant to your work, instead of an adversary. Of how the compiler should give the most useful errors and warnings.
