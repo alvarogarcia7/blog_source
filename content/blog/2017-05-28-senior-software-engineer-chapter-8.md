@@ -19,3 +19,7 @@ url: /blog/2017/05/28/senior-software-engineer-chapter-8/
 >
 > (p. 101)
 
+> The decisions you make [...] can have a lasting impact
+>
+> (p. 101)
+
