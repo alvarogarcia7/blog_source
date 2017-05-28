@@ -41,3 +41,15 @@ Mention of the iteration Zero, that
 >
 > (p. 102)
 
+> You do your company a disservice to build an application you don’t think needs to exist.
+>
+> To understand why the application should be built, find answers to these questions:
+>
+>   *  What business problems will this application solve?
+>   *  Why is the proposed application the best solutiont o those problems?
+>   *  What other solutions were considered?
+>
+> (p. 104)
+
+Mentioning the importance of asking why about these problems, also, whether this decided solution is good / the best. 
+
