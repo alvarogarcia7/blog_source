@@ -4,6 +4,10 @@ categories:
 - reading
 - quote
 - senior-software-engineer
+- iteration-zero
+- process
+- greenfield-project
+- project-management
 comments: true
 date: 2017-05-28T16:12:19Z
 title: The Senior Software Engineer, Chapter 8
@@ -29,4 +33,11 @@ url: /blog/2017/05/28/senior-software-engineer-chapter-8/
 >  * Establish a location for developers to start contributing code
 >
 > (p. 102) 
+
+Mention of the iteration Zero, that 
+
+> [...] indicates that no direct business value is going 
+> to be delivered initially
+>
+> (p. 102)
 
