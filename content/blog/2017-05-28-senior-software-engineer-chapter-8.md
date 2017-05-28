@@ -114,3 +114,13 @@ Also consider these factors:
 >
 > (p. 114)
 
+### 8.7 Create a Minimum Deployable System
+
+> I like to think of deployment as the physical act of getting the code up in the production environment and launching as the act of allowing users access.
+>
+> (p. 118)
+
+The difference between deploying and launching. This can be enforced 
+with some techniques to block/allow access, such as enabling/disabling 
+these features or controlling access to said features.
+
