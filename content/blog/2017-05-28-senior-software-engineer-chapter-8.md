@@ -93,3 +93,9 @@ Also consider these factors:
 
 (from p. 108)
 
+### 8.5 Outline the Application’s Architecture
+
+> You want your application to ooze consistency
+>
+> (p. 111)
+
