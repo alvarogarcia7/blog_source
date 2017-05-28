@@ -12,3 +12,7 @@ url: /blog/2017/05/24/senior-software-engineer-chapter-7/
 
 # Chapter 7: Make Technical Decisions
 
+> Opinions like this are often indicators of hidden facts that you have yet to identify
+>
+> (p. 90)
+
