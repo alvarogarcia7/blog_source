@@ -99,3 +99,12 @@ Also consider these factors:
 >
 > (p. 111)
 
+> you want to establish a “culture of consistency”
+>
+> (p. 113)
+
+> Each developer should be encouraged to establish a convention when 
+> they first face the need to have one.
+>
+> (p. 113)
+
