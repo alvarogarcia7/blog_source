@@ -43,6 +43,8 @@ Mention of the iteration Zero, that
 >
 > (p. 102)
 
+### 8.2 Understand the problem
+
 > You do your company a disservice to build an application you don’t think needs to exist.
 >
 > To understand why the application should be built, find answers to these questions:
