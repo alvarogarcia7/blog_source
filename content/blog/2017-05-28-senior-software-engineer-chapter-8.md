@@ -8,6 +8,8 @@ categories:
 - process
 - greenfield-project
 - project-management
+- technical-architecture
+- definition
 comments: true
 date: 2017-05-28T16:12:19Z
 title: The Senior Software Engineer, Chapter 8
@@ -52,4 +54,12 @@ Mention of the iteration Zero, that
 > (p. 104)
 
 Mentioning the importance of asking why about these problems, also, whether this decided solution is good / the best. 
+
+### 8.3 Understand the System’s Place in the Technical Architecture
+
+Mention of the 'technical architecture':
+
+>  existing applications and existing infrastructure
+>
+> (p. 105)
 
