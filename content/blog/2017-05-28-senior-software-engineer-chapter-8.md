@@ -67,3 +67,29 @@ Mention of the 'technical architecture':
 >
 > (p. 105)
 
+### 8.4 Choose Technology
+
+#### Using the Blessed Stack
+
+Be prepared to heavily defend your position if you decide to not use
+the blessed stack, both to yourself and others. (paraphrased from p. 107)
+
+### Using a Different Technology
+
+> You must answer the question “Why shouldn’t I use the blessed stack?”
+>
+> [...]
+>
+> [...] your first duty is to deliver results.
+>
+> (p. 108).
+
+Also consider these factors:
+
+  * Fitness for purpose
+  * Performance
+  * Developer productivity
+  * Developer happiness - also called developer experience (DX)
+
+(from p. 108)
+
