@@ -29,6 +29,8 @@ url: /blog/2017/05/28/senior-software-engineer-chapter-8/
 >
 > (p. 101)
 
+### 8.1 Overview
+
 >When given a greenfield project [...] you have two main goals:
 >   
 >  * Make sure everyone involved in the project feels good about the initial direction and decisions being made
