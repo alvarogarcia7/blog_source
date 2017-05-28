@@ -108,3 +108,9 @@ Also consider these factors:
 >
 > (p. 113)
 
+> [...] considering the political impact [...] Since it often doesn’t
+> matter what the decision is, making an unpopular decision can be 
+> little gain for a lot of trouble.
+>
+> (p. 114)
+
