@@ -128,3 +128,11 @@ Tags: matthew-inman, oatmeal, happiness, comic, definition
 
 [comic-happiness]: http://theoatmeal.com/comics/unhappy
 
+## Spotify Engineering Culture - part 1
+
+I've watched [this video][spotify-culture-1] about the Spotify engineering culture: team organization, the terms they introduce and some general culture about them.
+
+Tags: team-management, people, spotify, henrik-kniberg, squad, chapter, guild, tribe
+
+[spotify-culture-1]: https://vimeo.com/85490944
+
