@@ -112,3 +112,11 @@ Tags: css, html, history, zack-bloom, mosaic, violawww
 [almost-became-css]: https://eager.io/blog/the-languages-which-almost-were-css/
 
 
+## You're not going to believe what I'm about to tell you
+
+I've read [this comic][comic-belief] by Matthew Inman about how we process information from outside, especially when it conflicts with our beliefs
+
+Tags: matthew-inman, comic, oatmeal, belief
+
+[comic-belief]: http://theoatmeal.com/comics/believe
+
