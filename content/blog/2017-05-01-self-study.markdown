@@ -120,3 +120,11 @@ Tags: matthew-inman, comic, oatmeal, belief
 
 [comic-belief]: http://theoatmeal.com/comics/believe
 
+## How to be perfectly unhappy
+
+I've read [this comic][comic-happiness] by Matthew Inman about the definition of happiness and how it affects the author
+
+Tags: matthew-inman, oatmeal, happiness, comic, definition
+
+[comic-happiness]: http://theoatmeal.com/comics/unhappy
+
