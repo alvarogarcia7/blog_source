@@ -1,0 +1,7 @@
+## Why I think Elm is the Future of Front End Development
+
+I've read [this article][future-elm-redux] by Rishi Goomar comparing reactredux to elm, comparing javascript to elm.
+
+Tags: rishi-goomar, comparison, elm, javascript, react, redux, javascript-fatigue
+
+[future-elm-redux]: https://medium.com/@rgoomar/why-i-think-elm-is-the-future-of-front-end-development-21e9b091fa05
