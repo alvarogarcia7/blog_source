@@ -32,7 +32,7 @@ if test "$1" = "save"; then
 
 	git add --all partial
 
-	git cc -m "add partial: $2"
+	git cc "add partial: $2"
 
 elif test "$1" = "pop"; then
 
@@ -67,7 +67,7 @@ elif test "$1" = "pop"; then
 	rm -f $message_file
 	git add --all -- partial
 
-	git cc -m "$commit_message" --date="$datestamp"
+	git cc "$commit_message" --date="$datestamp"
 else
     echo "did not understand command $@"
 fi
