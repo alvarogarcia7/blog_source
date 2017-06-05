@@ -17,3 +17,11 @@ Tags: andy-greenberg, 2fa, sms, security, warning
 
 [sms-2fa]: https://www.wired.com/2016/06/hey-stop-using-texts-two-factor-authentication/
 
+## Why I'd never work for Google, Twitter, or Facebook
+
+I've read [this article][no-work-for] by David Bryant Copeland on why he would never work for these three companies: he doesn't share the principles and values from these companies.
+
+Tags: david-copeland, google, twitter, facebook, job-satisfaction, commitment
+
+[no-work-for]: http://naildrivin5.com/blog/2011/08/01/why-i-wont-work-for-google-twitter-facebook.html
+
