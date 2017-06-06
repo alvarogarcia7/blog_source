@@ -25,3 +25,13 @@ Tags: david-copeland, google, twitter, facebook, job-satisfaction, commitment
 
 [no-work-for]: http://naildrivin5.com/blog/2011/08/01/why-i-wont-work-for-google-twitter-facebook.html
 
+## Design Thinking Needs To Think Bigger
+
+I've read [this article][design-thinking] by STEVE VASSALLO on systems thinking and design thinking.
+
+> What makes a system a system rather than just a collection of parts is that the components are interconnected and interdependent
+
+Tags: steve-vassallo, design-thinking, system-thinking, mental-model, emergence-point, leverage-point, iceberg-model
+
+[design-thinking]: https://www.fastcodesign.com/90112320/design-thinking-needs-to-think-bigger
+
