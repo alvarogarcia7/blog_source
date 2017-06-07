@@ -35,3 +35,11 @@ Tags: steve-vassallo, design-thinking, system-thinking, mental-model, emergence-
 
 [design-thinking]: https://www.fastcodesign.com/90112320/design-thinking-needs-to-think-bigger
 
+## COBOL Is Everywhere. Who Will Maintain It?
+
+I've read [this article][cobol-everywhere] by David Cassel explaining the state of the COBOL systems at some banks and the difficulty of finding young COBOL programmers.
+
+Tags: david-cassel, cobol, youth, team-management, hiring, bank, java, mainframe, legacy-system
+
+[cobol-everywhere]: https://thenewstack.io/cobol-everywhere-will-maintain/
+
