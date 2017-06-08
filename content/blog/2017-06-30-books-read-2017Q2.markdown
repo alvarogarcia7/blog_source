@@ -89,8 +89,8 @@ backlog (partially sorted):
 unfinished (unsorted):
 
   * Release It! - Design and Deploy Production-Ready Software
-  * The Leprechauns of Software Engineering (*)
-  * Domain-Driven Design: Tackling Complexity in the Heart of Software (*)
+  * The Leprechauns of Software Engineering; Bossavit (*)
+  * Domain-Driven Design: Tackling Complexity in the Heart of Software; Vernon (*)
   * Pragmatic Thinking and Learning: Refactor Your Wetware
   * Readings in Database Systems, 5th Edition
   * La Sociedad De Coste Marginal Cero (Estado y Sociedad); Rifkin
@@ -111,5 +111,4 @@ done:
 
   * Russell en 90 minutos, Strathern
   * Homenaje a Cataluña, Orwell
-
 
