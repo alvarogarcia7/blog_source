@@ -12,7 +12,14 @@ published: false
 title: Books read in 2017Q2
 ---
 
+[deaprendices]: https://twitter.com/@deaprendices
+[codurance]: https://twitter.com/@codurance
+
 (I've changed how I organize my books. More, here (TODO))
+
+<!--
+You can delete here and below
+-->
 
 backlog (partially sorted):
 
@@ -100,7 +107,4 @@ done:
   * Russell en 90 minutos, Strathern
   * Homenaje a Cataluña, Orwell
 
-
-[deaprendices]: https://twitter.com/@deaprendices
-[codurance]: https://twitter.com/@codurance
 
