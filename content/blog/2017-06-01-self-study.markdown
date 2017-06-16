@@ -122,4 +122,14 @@ Tags: time-management, pomodoro-technique, travis-bradberry, time, workday
 
 [hour-workday-8]: https://www.linkedin.com/pulse/why-8-hour-workday-doesnt-work-dr-travis-bradberry
 
+## [The dark side of extreme productivity, and how to steer back toward the light](https://medium.freecodecamp.com/the-dark-side-of-extreme-productivity-2a31ff7a4cd2)
+
+I've read this article by Beau Carnes on how productivity can have a downside, how it can affect your healthy lifestyle.
+Explains effective vs efficient, productivity, silent retreat, prayer or meditation
+
+> The key is not to prioritize what’s on your schedule, but to schedule your priorities
+>
+> Stephen Covey
+
+Tags: beau-carnes, productivity, quoute, stephen-covey, sustainable-pace
 
