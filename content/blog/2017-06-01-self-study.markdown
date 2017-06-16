@@ -106,6 +106,7 @@ the amount of job offers, and the state of the art in NodeJS.
 Tags: tom-goldenberg, javascript, java, comparison, first-class, language, analysis
 
 [js-first-class]: https://www.linkedin.com/pulse/javascript-first-class-language-atlast-tom-goldenberg
+
 ## Why the 8-Hour Workday Doesn't Work
 
 I've read [this article][hour-workday-8] defending the removal of the 8-hour workday, preferring the division of time in slots.
@@ -120,3 +121,5 @@ By Travis Bradberry
 Tags: time-management, pomodoro-technique, travis-bradberry, time, workday
 
 [hour-workday-8]: https://www.linkedin.com/pulse/why-8-hour-workday-doesnt-work-dr-travis-bradberry
+
+
