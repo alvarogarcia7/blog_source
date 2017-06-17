@@ -133,3 +133,11 @@ Explains effective vs efficient, productivity, silent retreat, prayer or meditat
 
 Tags: beau-carnes, productivity, quoute, stephen-covey, sustainable-pace
 
+## Dejé de leer
+
+I've read [this article][deje-de-leer] by Catalina Bu on the tsundoku and how to read more. (In Spanish)
+
+Tags: catalina-bu, tsundoku, reading, time-management, spanish
+
+[deje-de-leer]: http://culto.latercera.com/2017/03/15/deje-de-leer/
+
