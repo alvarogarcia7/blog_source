@@ -141,3 +141,13 @@ Tags: catalina-bu, tsundoku, reading, time-management, spanish
 
 [deje-de-leer]: http://culto.latercera.com/2017/03/15/deje-de-leer/
 
+
+## Hacked in Translation – from Subtitles to Complete Takeover
+
+I've read [this article][hack-subtitles] about a vector to getting to user's machines through the video player, using subtitle files.
+by Check Point Research Team.
+
+Tags: check-point-research-team, security, vulnerability, vector, attack, subtitle, video-player
+
+[hack-subtitles]: http://blog.checkpoint.com/2017/05/23/hacked-in-translation/
+
