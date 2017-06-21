@@ -151,3 +151,10 @@ Tags: check-point-research-team, security, vulnerability, vector, attack, subtit
 
 [hack-subtitles]: http://blog.checkpoint.com/2017/05/23/hacked-in-translation/
 
+## 8 Teamwork Myths To Tackle At Your Office
+
+I've read [this article][teamwork-8-myth] by Leah Ryder on remote work myths.
+
+Tags: leah-ryder, productivity, myth, remote, remote-work
+
+[teamwork-8-myth]: http://blog.trello.com/8-teamwork-myths-to-tackle-at-your-office
