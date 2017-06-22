@@ -158,3 +158,10 @@ I've read [this article][teamwork-8-myth] by Leah Ryder on remote work myths.
 Tags: leah-ryder, productivity, myth, remote, remote-work
 
 [teamwork-8-myth]: http://blog.trello.com/8-teamwork-myths-to-tackle-at-your-office
+## Why I think Elm is the Future of Front End Development
+
+I've read [this article][future-elm-redux] by Rishi Goomar comparing reactredux to elm, comparing javascript to elm.
+
+Tags: rishi-goomar, comparison, elm, javascript, react, redux, javascript-fatigue
+
+[future-elm-redux]: https://medium.com/@rgoomar/why-i-think-elm-is-the-future-of-front-end-development-21e9b091fa05
