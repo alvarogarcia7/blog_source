@@ -165,3 +165,10 @@ I've read [this article][future-elm-redux] by Rishi Goomar comparing reactredux 
 Tags: rishi-goomar, comparison, elm, javascript, react, redux, javascript-fatigue
 
 [future-elm-redux]: https://medium.com/@rgoomar/why-i-think-elm-is-the-future-of-front-end-development-21e9b091fa05
+## Los viejos programadores nunca mueren, y Silicon Valley se está dando cuenta de ello
+
+I've read [this article][viejos-programadores] by Javier Pastor on the age of the programmers in Silicon Valley. In Spanish.
+
+Tags: spanish, javier-pastor, age, programmer, career-manager, silicon-valley
+
+[viejos-programadores]: https://m.xataka.com/empresas-y-economia/los-viejos-programadores-nunca-mueren-y-silicon-valley-se-esta-dando-cuenta-de-ello
