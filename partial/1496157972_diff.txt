@@ -1,7 +1,0 @@
-## Creating a TensorFlow-powered ING API client
-
-I've read [this article][tensorflow-ing] by Francisco López on how he has implemented a small bot to click the virtual keyboard and connect to the bank website.
-
-Tags: ing-direct, francisco-lopez, bot, opencv, tensorflow, machine-learning, python, banking, open-banking-data
-
-[tensorflow-ing]: https://medium.com/@donflopez/cracking-the-ing-api-with-tensorflow-9681ae7dc249
