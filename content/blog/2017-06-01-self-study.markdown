@@ -179,3 +179,9 @@ I've read [this article][tensorflow-ing] by Francisco López on how he has imple
 Tags: ing-direct, francisco-lopez, bot, opencv, tensorflow, machine-learning, python, banking, open-banking-data
 
 [tensorflow-ing]: https://medium.com/@donflopez/cracking-the-ing-api-with-tensorflow-9681ae7dc249
+## Be a good mentor, not a dickhead
+
+I've read this article by Edaqa Mortoray about traits of a mentor. https://dev.to/mortoray/be-a-good-mentor-not-a-dickhead
+
+Tags: edaqa mortoray, mentor, trait, skill, mentorship, apprentice, apprenticeship
+
