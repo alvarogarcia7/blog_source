@@ -185,3 +185,11 @@ I've read this article by Edaqa Mortoray about traits of a mentor. https://dev.t
 
 Tags: edaqa mortoray, mentor, trait, skill, mentorship, apprentice, apprenticeship
 
+## [The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/)
+
+I've read this article by  Brian Harry on how Microsoft manages one of its big repositories. Explains how they have virtualized the git folder and the git workspace at Microsoft using gvfs. Explains how they have performed the improvements necessary to make it useful and usable to programmers.
+
+They have support for clients, but what about Linux?
+
+Tags:  brian-harry, microsoft, continous-delivery, linux, windows, gvfs, repository, monorepo
+
