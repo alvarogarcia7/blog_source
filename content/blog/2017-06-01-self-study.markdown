@@ -131,7 +131,7 @@ Explains effective vs efficient, productivity, silent retreat, prayer or meditat
 >
 > Stephen Covey
 
-Tags: beau-carnes, productivity, quoute, stephen-covey, sustainable-pace
+Tags: beau-carnes, productivity, quote, stephen-covey, sustainable-pace
 
 ## Dejé de leer
 
@@ -183,7 +183,7 @@ Tags: ing-direct, francisco-lopez, bot, opencv, tensorflow, machine-learning, py
 
 I've read this article by Edaqa Mortoray about traits of a mentor. https://dev.to/mortoray/be-a-good-mentor-not-a-dickhead
 
-Tags: edaqa mortoray, mentor, trait, skill, mentorship, apprentice, apprenticeship
+Tags: edaqa-mortoray, mentor, trait, skill, mentorship, apprentice, apprenticeship
 
 ## [The largest Git repo on the planet](https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/)
 
