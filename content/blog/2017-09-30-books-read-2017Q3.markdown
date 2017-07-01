@@ -1,0 +1,18 @@
+---
+categories:
+- book
+- reading
+- 2017
+- Q3
+- self-study
+- codurance
+comments: true
+date: 2017-06-30T21:00:00Z
+published: false
+title: Books read in 2017Q3
+url: /blog/2017/09/30/books-read-2017q3/
+---
+
+[deaprendices]: https://twitter.com/@deaprendices
+[codurance]: https://twitter.com/@codurance
+
