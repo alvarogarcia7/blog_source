@@ -16,3 +16,97 @@ url: /blog/2017/09/30/books-read-2017q3/
 [deaprendices]: https://twitter.com/@deaprendices
 [codurance]: https://twitter.com/@codurance
 
+<!-- copy-paste the books.md here -->
+
+backlog (partially sorted):
+
+  * unsorted V
+  * The Machine That Changed the World: The Story of Lean Production
+  * Haskell Programming
+  * Software Architecture in Practice
+  * La lucha por la desigualdad; non-technical
+  * La psicología del dinero, Hammond; non-technical
+  * Invirtiendo a largo plazo, García Paramés; non-technical
+  * The Well-Grounded Java Developer; own-it
+  * Quién domina el mundo, Chomsky; non-technical
+  * Learn You a Haskell for Great Good!; own-it
+  * El camino al 18J, Payne; non-technical
+  * Cartas desde la revolución bolchevique, Sadoul; non-technical
+  * Java Performance: The Definitive Guide
+  * Why programmers work at night
+  * Shogun: The Life of Tokugawa Ieyasu, Sadler; non-technical
+  * Scrum and XP from the trenches, 2nd edition
+  * Els jueus i Catalunya, Villatoro; non-technical
+  * El problema de los tres cuerpos, Liu; non-technical
+  * Amazon Web Services in Action; own-it
+  * Clojure Programming - Practical Lisp for the Java World
+  * Mature optimization
+  * XUnit Test Patterns
+  * Let Over Lambda
+  * The Haskell Road to Logic, Math and Programming
+  * Types and Programming Languages
+  * Fundamentals of Object-oriented Design in UML
+  * Clojure for the brave and true
+  * How to Solve It: A New Aspect of Mathematical Method
+  * Conceptual Mathematics: A First Introduction to Categories
+  * Understanding Computation: From Simple Machines to Impossible Programs
+  * Programming in Haskell
+  * Programming Languages: Application and Interpretation
+  * Doing Math with Python
+  * Perfect Software: And Other Illusions about Testing
+  * Computability and Complexity - From a Programming Perspective
+  * Thinking Forth: a language and philosophy for solving problems
+  * Concepts, Techniques, and Models of Computer Programming
+  * Bridging the Communication Gap
+  * Specification by Example
+  * The Cucumber book
+  * Software Architecture for Developers
+  * Object Design: Roles, Responsibilities, and Collaborations
+  * RESTful Web APIs
+  * RESTful Web Services Cookbook
+  * Building Maintainable Software
+  * Serverless - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)
+  * A Pattern Language; Alexander
+  * Types and Programming Languages, TAPL; Pierce; own-it
+  * The Speed Reading Book: Read More, Learn More, Achieve More; Buzan
+  * Cómo crear mapas mentales (Crecimiento personal); Buzan
+  * First things first ; Covey
+  * What's best next ; Perman
+  * The problems of philosophy; Russell (1998)
+  * Rèquiem for the American dream ; Chomsky
+  * The sun also rises; Hemingway
+  * The travels; Polo
+  * Homo Deus: A Brief History of Tomorrow; Harari
+  * Books by Aristotle
+  * Books by Plato
+  * Books by Descartes
+  * The idea of culture; Eagleton
+
+unfinished (unsorted):
+
+  * Release It! - Design and Deploy Production-Ready Software; own-it
+  * The Leprechauns of Software Engineering; Bossavit (*); own-it
+  * Domain-Driven Design: Tackling Complexity in the Heart of Software; Vernon (*); own-it
+  * Pragmatic Thinking and Learning: Refactor Your Wetware; own-it
+  * Functional Programming Patterns in Scala and Clojure; own-it
+  * Readings in Database Systems, 5th Edition; own-it
+  * La Sociedad De Coste Marginal Cero (Estado y Sociedad); Rifkin; non-technical, own-it
+  * Structure and Interpretation of Computer Programs (SICP); Abelson, Sussmann, Sussmann; own-it
+
+next (2):
+
+  * Refactoring (*); Fowler; own-it
+  * Working Effectively with Legacy Code (*); Feathers; own-it
+
+wip (3):
+
+  * Aprendo Yoga; Van Lysebeth; non-technical
+  * Getting things done, ...; Allen (*)
+  * Nature of Software Development, the; Jeffries
+
+done:
+
+  * Russell en 90 minutos, Strathern; non-technical
+  * Homenaje a Cataluña, Orwell; non-technical
+  * the senior software developer; Copeland
+
