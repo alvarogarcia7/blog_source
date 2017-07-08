@@ -30,20 +30,20 @@ backlog (partially sorted):
   * The Machine That Changed the World: The Story of Lean Production
   * Haskell Programming
   * Software Architecture in Practice
-  * La lucha por la desigualdad; non-technical
-  * La psicología del dinero, Hammond; non-technical
-  * Invirtiendo a largo plazo, García Paramés; non-technical
-  * The Well-Grounded Java Developer; own-it
-  * Quién domina el mundo, Chomsky; non-technical
+  * lucha por la desigualdad, la; Pontón; non-technical
+  * psicología del dinero, la; Hammond; non-technical
+  * Invirtiendo a largo plazo; García Paramés; non-technical
+  * Well-Grounded Java Developer, the; own-it
+  * Quién domina el mundo; Chomsky; non-technical
   * Learn You a Haskell for Great Good!; own-it
-  * El camino al 18J, Payne; non-technical
-  * Cartas desde la revolución bolchevique, Sadoul; non-technical
+  * camino al 18J, el; Payne; non-technical
+  * Cartas desde la revolución bolchevique; Sadoul; non-technical
   * Java Performance: The Definitive Guide
   * Why programmers work at night
-  * Shogun: The Life of Tokugawa Ieyasu, Sadler; non-technical
-  * Scrum and XP from the trenches, 2nd edition
-  * Els jueus i Catalunya, Villatoro; non-technical
-  * El problema de los tres cuerpos, Liu; non-technical
+  * Shogun: The Life of Tokugawa Ieyasu; Sadler; non-technical
+  * Scrum and XP from the trenches, 2nd edition;
+  * Els jueus i Catalunya; Villatoro; non-technical
+  * El problema de los tres cuerpos; Liu; non-technical
   * Amazon Web Services in Action; own-it
   * Clojure Programming - Practical Lisp for the Java World
   * Mature optimization
@@ -63,10 +63,10 @@ backlog (partially sorted):
   * Computability and Complexity - From a Programming Perspective
   * Thinking Forth: a language and philosophy for solving problems
   * Concepts, Techniques, and Models of Computer Programming
-  * Bridging the Communication Gap
-  * Specification by Example
-  * The Cucumber book
-  * Software Architecture for Developers
+  * Bridging the Communication Gap; Adzic
+  * Specification by Example; Adzic
+  * Cucumber book, the; Adzic
+  * Software Architecture for Developers; Brown
   * Object Design: Roles, Responsibilities, and Collaborations
   * RESTful Web APIs
   * RESTful Web Services Cookbook
@@ -74,14 +74,14 @@ backlog (partially sorted):
   * Serverless - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)
   * A Pattern Language; Alexander
   * Types and Programming Languages, TAPL; Pierce; own-it
-  * The Speed Reading Book: Read More, Learn More, Achieve More; Buzan
+  * Speed Reading Book: Read More, Learn More, Achieve More, the; Buzan
   * Cómo crear mapas mentales (Crecimiento personal); Buzan
-  * First things first ; Covey
-  * What's best next ; Perman
-  * The problems of philosophy; Russell (1998)
-  * Rèquiem for the American dream ; Chomsky
-  * The sun also rises; Hemingway
-  * The travels; Polo
+  * First things first; Covey
+  * What's best next; Perman
+  * problems of philosophy, the; Russell
+  * Requiem for the American dream; Chomsky
+  * sun also rises, the; Hemingway
+  * travels, the; Polo
   * Homo Deus: A Brief History of Tomorrow; Harari
   * Books by Aristotle
   * Books by Plato
@@ -114,5 +114,5 @@ done:
 
   * Russell en 90 minutos, Strathern; non-technical
   * Homenaje a Cataluña, Orwell; non-technical
-  * the senior software developer; Copeland
+  * Senior software developer, the; Copeland
 
