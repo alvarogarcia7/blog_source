@@ -15,7 +15,6 @@ categories:
 - mmf
 comments: true
 date: 2017-07-09T13:00:00Z
-published: false
 title: "The Nature of Software Development: Part I"
 url: /blog/2017/07/09/nature-software-development-part-1/
 ---
