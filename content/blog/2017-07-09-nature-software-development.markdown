@@ -1,6 +1,18 @@
 ---
 categories:
 - book
+- ron-jeffries
+- quote
+- reading-breadcrumb
+- thought
+- nature-software-development
+- part
+- agile
+- management
+- software-process
+- thinking-process
+- minimum-marketable-feature
+- mmf
 comments: true
 date: 2017-07-09T13:00:00Z
 published: false
