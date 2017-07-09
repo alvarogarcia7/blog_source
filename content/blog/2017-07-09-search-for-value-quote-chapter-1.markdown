@@ -1,6 +1,20 @@
 ---
 categories:
 - book
+- nature-software-development
+- quote
+- ron-jeffries
+- deaprendices
+- value
+- guiding
+- organizing
+- planning
+- building
+- slicing
+- search-for-value
+- natural-way
+- software-development
+- process
 comments: true
 date: 2017-07-09T13:00:00Z
 published: false
