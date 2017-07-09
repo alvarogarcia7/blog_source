@@ -124,8 +124,6 @@ wip (3):
 
 done:
 
-  * Russell en 90 minutos, Strathern; non-technical
-  * Homenaje a Cataluña, Orwell; non-technical
   * Senior software developer, the; Copeland; own-it
   * Scandal in Bohemia, a; Doyle; own-it
 
