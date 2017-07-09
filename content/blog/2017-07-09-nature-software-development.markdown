@@ -65,6 +65,77 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 ## Chapter 3: Guiding Goes Better "Feature by Feature"
 ## Chapter 4: Organizing by Feature
 ## Chapter 5: Planning Feature by Feature
+
+> Vision is about big ideas, not tiny bites.
+>
+> (p. 32)
+
+>General Eisenhower said, "Plans are useless, but planning is indispensable."
+>
+> (p. 33)
+
+>  We do need to plan. We don’t need a detailed list of what will happen and when
+>
+> (p. 33)
+
+> [...] software people are terrible at estimating, because humans are terrible at estimating.
+>
+> (p. 34)
+
+> set a time and money budget; produce the most valuable features first; keep the product ready to ship at any time
+>
+> (p. 34)
+
+> It’s not good enough to plan just at the beginning
+>
+> (p. 36)
+
+> I don’t recommend working with larger stories and breaking them down into technical items, often called tasks
+>
+> (p. 36)
+
+> Stick with stories
+>
+> (p. 36)
+
+> [...] break down stories into smaller stories, each making sense to the business-side people.
+>
+> (p. 36)
+
+> the team itself should decide how much work it can accomplish in the next two-week interval
+> 
+> (p. 37)
+
+> The point isn’t to make good estimates—the point is to do good work at a consistent pace.
+> 
+> (p. 37)
+
+> There are some serious risks to estimates: we have an almost irresistible desire to "improve" them, or to compare them. [...] business and management get the best results by selecting the work to be done and the work to be deferred
+>
+> (p. 38)
+
+> Is prediction better than steering?
+>
+> (p. 38)
+
+> Planning with "stretch goals" is destructive.
+> 
+> [...]
+> 
+> Hurrying, they’ll inject more defects. Since defects take longer to fix than they do to prevent, hurrying will slow you down. [...]
+>
+> [...]
+>
+> Dirty code slows you down as well [...]
+>
+> Pressure is destructive. Avoid it.
+>
+> (p. 39)
+
+>[...] estimates are likely to be wrong, and they focus our attention on the cost of things rather than on value.
+>
+>(p. 40)
+
 ## Chapter 6: Building the Product, Feature by Feature
 
 >We need to sharpen our vision of what the product must do—and what’s just "nice to have."
