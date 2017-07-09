@@ -64,6 +64,33 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 ## Chapter 2: Value is What we Want
 ## Chapter 3: Guiding Goes Better "Feature by Feature"
 ## Chapter 4: Organizing by Feature
+
+> To get the work done, different parts require different skills. The work won’t be done [...] until it has had the attention of people with each needed skill.
+>
+> If we organize teams by skill-set, each piece of work will need to be passed around among teams
+>
+> (p. 26)
+
+> organize into small teams, each of which builds features that the Product Champions can understand. Make sure that each team has all the people and all the skills necessary to build the entire feature, not just part of it
+>
+> (p. 27)
+
+> [...] we can allocate work across teams easily [...]  Responsibility and authority are aligned.
+>
+> (p. 27)
+
+> the people belong to the feature teams.
+>
+> (p. 30)
+
+> You belong to your family; you’re a member of the golf club
+>
+> (p. 30)
+
+> A highly paid expert shouldn’t be highly paid just because she’s an expert. She should be highly paid because she is helping other people become experts.
+>
+> (p. 30)
+
 ## Chapter 5: Planning Feature by Feature
 
 > Vision is about big ideas, not tiny bites.
