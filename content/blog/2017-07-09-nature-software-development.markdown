@@ -63,6 +63,19 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 
 ## Chapter 2: Value is What we Want
 ## Chapter 3: Guiding Goes Better "Feature by Feature"
+
+> With a monolithic project, late in the game we can’t do much to cut costs. We have already written requirements for things we’ll never get
+>
+> (p. 22)
+
+> We laid out this project with an all-or-nothing mentality.
+>
+> (p. 22)
+
+> When our projects grow feature by feature, we can respond to what’s really happening. We can respond to the changing needs and inputs of the business and of management.
+>
+> (p. 24)
+
 ## Chapter 4: Organizing by Feature
 
 > To get the work done, different parts require different skills. The work won’t be done [...] until it has had the attention of people with each needed skill.
