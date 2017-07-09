@@ -19,6 +19,8 @@ url: /blog/2017/09/30/books-read-2017q3/
 Read this quarter:
 
   * the senior software developer; Copeland, with the [aprendices reading club][deaprendices]
+  * Scandal in Bohemia, a; Doyle: a short novel by Sir Arthur Conan Doyle, mentioning Irene Adler and the king of Bohemia
+
 
 <!-- copy-paste the books.md here -->
 
