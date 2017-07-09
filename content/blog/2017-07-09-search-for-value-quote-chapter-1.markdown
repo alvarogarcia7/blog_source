@@ -17,7 +17,6 @@ categories:
 - process
 comments: true
 date: 2017-07-09T13:00:00Z
-published: false
 title: The Search for Value (a quote)
 url: /blog/2017/07/09/search-for-value-quote-chapter-1/ 
 ---
