@@ -33,7 +33,7 @@ url: /blog/2017/07/09/nature-software-development-part-1/
 
 On the building blocks of value or to produce value:
 
-> Guiding. We produce value by creating teams with responsi- bility for creating value.
+> Guiding. We produce value by creating teams with responsibility for creating value.
 >
 > (p. 5)
 
@@ -53,7 +53,7 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 >
 > (p. 5)
 
-> Slicing [...] smallest possible value- bearing size
+> Slicing [...] smallest possible value-bearing size
 >
 > (p. 5)
 
@@ -72,7 +72,7 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 >
 >(p.52)
 
->We need to do as little work as possible to deliver the best pos- sible product by our delivery date...and we need to do that work as soundly as we can afford.
+>We need to do as little work as possible to deliver the best possible product by our delivery date...and we need to do that work as soundly as we can afford.
 >
 >(p. 53)
 
@@ -96,7 +96,7 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 
 > At the end of every iteration, we need to have the software as close to defect-free as possible. The only way to get there is to test it.
 >
-> We test at two levels, with "Business" tests and "Program- mer" tests.
+> We test at two levels, with "Business" tests and "Programmer" tests.
 >
 >(p. 65)
 
@@ -110,12 +110,12 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 
 ## Chapter 9: Full Circle
 
-> 1. Value is what we want. Features deliver value. Deliver- ing features early gives us value sooner.
-> 2. Managing by looking at value works better than manag- ing by dates or artifacts that don’t deliver value.
+> 1. Value is what we want. Features deliver value. Delivering features early gives us value sooner.
+> 2. Managing by looking at value works better than managing by dates or artifacts that don’t deliver value.
 >
 > 3. Planning features is easy enough to do. Estimate if you must. Selecting the work based on Yesterday’s Weather works better.
 >
-> 4. Building by features requires us to build a small, com- plete product, every couple of weeks. That product must always work correctly, and it must always be well designed.
+> 4. Building by features requires us to build a small, complete product, every couple of weeks. That product must always work correctly, and it must always be well designed.
 >
 > 5. Development must deliver real working features. The product must be well tested. Business-side people and developers contribute to testing. The product must be well designed. Developers keep the design alive all the time.
 >
