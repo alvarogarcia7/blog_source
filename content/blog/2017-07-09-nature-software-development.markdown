@@ -62,6 +62,31 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 > (p. 5)
 
 ## Chapter 2: Value is What we Want
+
+> we generally get value by delivering features. Features that have value. Features that we want.
+>
+> (p. 7)
+
+> software can save time or money. Software can help us earn money
+>
+> (p. 7)
+
+> I think of value as simply what we want [...] Each choice gives us something we value
+>
+> (p. 7)
+
+>A project delivers value only when we ship the software and put it to use
+>
+> (p. 8)
+
+> Since most users don’t use all the features, a smaller set of features can provide real value, and provide it sooner.
+>
+> (p. 10)
+
+> pieces that make sense to us, and to our users. [...] minimal marketable features (MMFs)
+>
+> (p. 12)
+
 ## Chapter 3: Guiding Goes Better "Feature by Feature"
 
 > With a monolithic project, late in the game we can’t do much to cut costs. We have already written requirements for things we’ll never get
