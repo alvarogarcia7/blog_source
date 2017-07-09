@@ -66,6 +66,19 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 ## Chapter 4: Organizing by Feature
 ## Chapter 5: Planning Feature by Feature
 ## Chapter 6: Building the Product, Feature by Feature
+
+>We need to sharpen our vision of what the product must do—and what’s just "nice to have."
+>
+>(p. 45)
+
+> To be sure we’re free of defects, we need to check everything, all the time [...] 
+>
+>(p. 48)
+
+>[...] grow the design as we go. If we design too much, we won’t get as many features, and that will show up. If we design too little, features will be hard to do, we’ll slow down
+>
+>(p. 49)
+
 ## Chapter 7: Build Features and Foundation in Parallel
 
 >Each feature needs a solid foundation of design, a solid "infrastructure."
