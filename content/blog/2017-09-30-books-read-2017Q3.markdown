@@ -22,6 +22,12 @@ Read this quarter:
 
 <!-- copy-paste the books.md here -->
 
+lists:
+
+  * https://www.goodreads.com/review/list/246177-rob?shelf=non-fiction-for-humans
+  * https://www.goodreads.com/list/show/451.Best_Philosophy_Book
+  * https://www.goodreads.com/list/show/8379.Software_Craftsmanship
+
 backlog (partially sorted):
 
   * unsorted V
@@ -85,32 +91,41 @@ backlog (partially sorted):
   * Books by Plato
   * Books by Descartes
   * The idea of culture; Eagleton
+  * Hereditary Intelligence; Galton; non-technical
+  * Lean Software Development: An Agile Toolkit; Poppendieck
+  * Peopleware; De Marco
+  * Chaos Monkeys: Obscene Fortune and Random Failure; Garcia Martinez
+  * Implementing Lean Software Development: From Concept to Cash; Poppendieck
+  * Joel on Software; Spolsky
+  * Death March; Yourdon
+  * Psychology of Computer Programming, The; Weinberg
+  * Introduction to General Systems Thinking; Weinberg
+  * Lao Tzu : Tao Te Ching : A Book About the Way and the Power of the Way; Tzu, Le Guin; non-technical
+  * Gay Science, the; Nietzsche; non-technical
 
 unfinished (unsorted):
 
   * Release It! - Design and Deploy Production-Ready Software; own-it
+  * Working Effectively with Legacy Code (*); Feathers; own-it
+  * Refactoring (*); Fowler; own-it
   * The Leprechauns of Software Engineering; Bossavit (*); own-it
   * Domain-Driven Design: Tackling Complexity in the Heart of Software; Vernon (*); own-it
   * Pragmatic Thinking and Learning: Refactor Your Wetware; own-it
   * Functional Programming Patterns in Scala and Clojure; own-it
   * Readings in Database Systems, 5th Edition; own-it
-  * La Sociedad De Coste Marginal Cero (Estado y Sociedad); Rifkin; non-technical, own-it
   * Structure and Interpretation of Computer Programs (SICP); Abelson, Sussmann, Sussmann; own-it
-
-next (2):
-
-  * Refactoring (*); Fowler; own-it
-  * Working Effectively with Legacy Code (*); Feathers; own-it
+  * La Sociedad De Coste Marginal Cero (Estado y Sociedad); Rifkin; non-technical
 
 wip (3):
 
-  * Aprendo Yoga; Van Lysebeth; non-technical
-  * Getting things done, ...; Allen (*)
-  * Nature of Software Development, the; Jeffries
+  * Aprendo Yoga; Van Lysebeth; non-technical, own-it
+  * Getting things done, ...; Allen (*); own-it
+  * Nature of Software Development, the; Jeffries; own-it
 
 done:
 
   * Russell en 90 minutos, Strathern; non-technical
   * Homenaje a Cataluña, Orwell; non-technical
-  * Senior software developer, the; Copeland
+  * Senior software developer, the; Copeland; own-it
+  * Scandal in Bohemia, a; Doyle; own-it
 
