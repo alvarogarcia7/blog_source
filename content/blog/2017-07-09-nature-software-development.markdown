@@ -8,6 +8,10 @@ title: The Nature of Software Development: Part I
 url: /blog/2017/07/09/nature-software-development-part-1/
 ---
 
+# The Nature of Software development: reading breadcrumbs, quotes, thoughts
+
+## Preface
+
 > The Natural Way serves end users well because it delivers value to them sooner.
 >
 > serves the business [...] because it provides important information quickly, and because it provides the ability to adjust direction as needed.
