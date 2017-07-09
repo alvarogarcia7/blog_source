@@ -27,7 +27,7 @@ url: /blog/2017/07/09/nature-software-development-part-1/
 
 ## Chapter 1: The search for value
 
-> Value.  “what you want.”
+> Value.  "what you want."
 >
 > (p. 5)
 
@@ -67,6 +67,19 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 ## Chapter 5: Planning Feature by Feature
 ## Chapter 6: Building the Product, Feature by Feature
 ## Chapter 7: Build Features and Foundation in Parallel
+
+>Each feature needs a solid foundation of design, a solid "infrastructure."
+>
+>(p.52)
+
+>We need to do as little work as possible to deliver the best pos- sible product by our delivery date...and we need to do that work as soundly as we can afford.
+>
+>(p. 53)
+
+>Developers are often trained to try to design a system up front
+>
+>(p. 59)
+
 ## Chapter 8: Bug-Free and Well Designed
 
 > Our product is made up of a growing set of correctly working features, built on a growing, evolving foundation of design.
@@ -83,7 +96,7 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 
 > At the end of every iteration, we need to have the software as close to defect-free as possible. The only way to get there is to test it.
 >
-> We test at two levels, with “Business” tests and “Program- mer” tests.
+> We test at two levels, with "Business" tests and "Program- mer" tests.
 >
 >(p. 65)
 
