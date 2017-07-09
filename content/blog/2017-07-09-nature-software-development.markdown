@@ -68,6 +68,33 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 ## Chapter 6: Building the Product, Feature by Feature
 ## Chapter 7: Build Features and Foundation in Parallel
 ## Chapter 8: Bug-Free and Well Designed
+
+> Our product is made up of a growing set of correctly working features, built on a growing, evolving foundation of design.
+>
+> (p. 61)
+
+> Defects amount to negative features. Progress is uncertain. Eliminate defects to provide clarity on what’s done.
+>
+>We’re trying to plan by features, grow by features, and manage by features
+>
+> We cannot work effectively in a world of defects.
+>
+>(p. 62)
+
+> At the end of every iteration, we need to have the software as close to defect-free as possible. The only way to get there is to test it.
+>
+> We test at two levels, with “Business” tests and “Program- mer” tests.
+>
+>(p. 65)
+
+>If we don’t check something, we don’t know whether it works
+>
+>(p. 66)
+
+> We need to have a good design at all times. A bad design slows us down, because it is hard to change [...] We need a high-quality design at every moment.
+>
+>(p. 71)
+
 ## Chapter 9: Full Circle
 
 > 1. Value is what we want. Features deliver value. Deliver- ing features early gives us value sooner.
