@@ -61,3 +61,12 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 >
 > (p. 5)
 
+## Chapter 2: Value is What we Want
+## Chapter 3: Guiding Goes Better "Feature by Feature"
+## Chapter 4: Organizing by Feature
+## Chapter 5: Planning Feature by Feature
+## Chapter 6: Building the Product, Feature by Feature
+## Chapter 7: Build Features and Foundation in Parallel
+## Chapter 8: Bug-Free and Well Designed
+## Chapter 9: Full Circle
+
