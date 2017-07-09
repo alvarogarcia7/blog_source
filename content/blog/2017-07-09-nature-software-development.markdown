@@ -70,3 +70,17 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 ## Chapter 8: Bug-Free and Well Designed
 ## Chapter 9: Full Circle
 
+> 1. Value is what we want. Features deliver value. Deliver- ing features early gives us value sooner.
+> 2. Managing by looking at value works better than manag- ing by dates or artifacts that don’t deliver value.
+>
+> 3. Planning features is easy enough to do. Estimate if you must. Selecting the work based on Yesterday’s Weather works better.
+>
+> 4. Building by features requires us to build a small, com- plete product, every couple of weeks. That product must always work correctly, and it must always be well designed.
+>
+> 5. Development must deliver real working features. The product must be well tested. Business-side people and developers contribute to testing. The product must be well designed. Developers keep the design alive all the time.
+>
+>[...] A commitment from the top of the business, down to the individual managers and developers [...]
+>
+(p. 77)
+
+
