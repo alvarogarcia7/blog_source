@@ -122,6 +122,7 @@ wip (3):
 
   * Aprendo Yoga; Van Lysebeth; non-technical, own-it
   * Nature of Software Development, the; Jeffries; own-it
+  * Team Geek; Fitzpatrick, Collins-Sussman; own-it
 
 done:
 
