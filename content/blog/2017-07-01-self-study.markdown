@@ -16,3 +16,9 @@ Describes the history of uid, uuid, early computing (both networked and not netw
 
 Tags: uuid, uid, flake, snowflake, ksuid, go, golang, rick-branson, library, implementation-history
 
+## [More data, more data](https://blog.cloudflare.com/more-data-more-data/)
+
+I've read this article about how cloudflare manages its logs. By Hunter Blanks
+
+Tags: log, cloudflare, comparison, what-worked, what-did-not-work, kafka, citusdb, sre, site-reliability-engineering, analytics, hunter-blanks
+
