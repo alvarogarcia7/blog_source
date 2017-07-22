@@ -22,3 +22,10 @@ I've read this article about how cloudflare manages its logs. By Hunter Blanks
 
 Tags: log, cloudflare, comparison, what-worked, what-did-not-work, kafka, citusdb, sre, site-reliability-engineering, analytics, hunter-blanks
 
+## [Help Your Team Stop Overcommitting by Empowering Them to Say No](https://hbr.org/2017/06/help-your-team-stop-overcommitting-by-empowering-them-to-say-no)
+
+I've read this article that describes how important is to say no to some ideas or projects so you can say yes to others.
+In other words, how prioritizing is important as time and energy (i.e., resources) are not infinite and must be allocated accordingly
+
+Tags: diana-kander, hbr, harvard-business-review, priority, energy, resources, time, pet-project, yes-people, no-people, yes-culture, no-culture
+
