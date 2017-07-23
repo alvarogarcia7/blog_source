@@ -29,3 +29,9 @@ In other words, how prioritizing is important as time and energy (i.e., resource
 
 Tags: diana-kander, hbr, harvard-business-review, priority, energy, resources, time, pet-project, yes-people, no-people, yes-culture, no-culture
 
+## [Not even wrong - ways to dismiss technology](http://ben-evans.com/benedictevans/2017/5/24/not-even-wrong-ways-to-dismiss-technology)
+
+I've read this article about how technology can be seen as toys before it is developed to the point where it can be expanded and used for other purposes than the one expected / designed for. By Benedict Evans.
+
+Tags: benedict-evans, technology, prediction, usage, invention, philosophy, wolfgang-pauli
+
