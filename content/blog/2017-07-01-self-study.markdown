@@ -35,3 +35,9 @@ I've read this article about how technology can be seen as toys before it is dev
 
 Tags: benedict-evans, technology, prediction, usage, invention, philosophy, wolfgang-pauli
 
+## [Do we have a better Option here?](https://softwaremill.com/do-we-have-better-option-here/)
+
+I've read this article comparing `Option` and `Optional` as types that can contain a value, but maybe not. By Michał Chmielarz
+
+Tags: michal-chmielarz, option, optional, vavr, javaslang, comparison
+
