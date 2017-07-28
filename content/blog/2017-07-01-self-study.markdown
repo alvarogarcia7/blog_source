@@ -41,3 +41,12 @@ I've read this article comparing `Option` and `Optional` as types that can conta
 
 Tags: michal-chmielarz, option, optional, vavr, javaslang, comparison
 
+## [Is the keyboard faster than the mouse?](http://danluu.com/keyboard-v-mouse/)
+
+I've read this article by Dan Luu comparing the use of the mouse and the use of the keyboard and their speeds. 
+He groups existing literature on the topic plus some experiments he has done himself.
+
+Mentions the amount of myths related to this, based on old and non-accurate research.
+
+Tags: dan-luu, keyboard, comparison, mouse, human-interaction-device, hid, interaction, user-experience, interface
+
