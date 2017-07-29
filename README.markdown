@@ -128,7 +128,7 @@ snake case with dashes: (``a b`` -> ``a-b``)
 lowercase:
 
 ```
-%s/^\(Tags:\)\(.*\)/\1\L\2/g
+%g/^Tags/s/\(\w\) /\1-/g
 ```
 
 ### Get all the categories from a Self-Study aggregation
