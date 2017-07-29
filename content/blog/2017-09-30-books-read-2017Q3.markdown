@@ -124,14 +124,11 @@ unfinished (unsorted):
   * Structure and Interpretation of Computer Programs (SICP); Abelson, Sussmann, Sussmann; own-it
   * La Sociedad De Coste Marginal Cero (Estado y Sociedad); Rifkin; non-technical
 
-next (2):
-
-  * Working Effectively with Legacy Code (*); Feathers; own-it
-
 wip (3):
 
   * Aprendo Yoga; Van Lysebeth; non-technical, own-it
   * Team Geek; Fitzpatrick, Collins-Sussman; own-it
+  * Working Effectively with Legacy Code (*); Feathers; own-it
 
 done:
 
