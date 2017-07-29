@@ -109,10 +109,17 @@ To make it lowercase:
 
 Replace the `Tags`:
 
+for a single line:
+
 ```
 .s/\(\w\) /\1-/g
 ```
 
+for all lines:
+
+```
+%g/^Tags/s/\(\w\) /\1-/g
+```
 
 ### Get all the categories from a Self-Study aggregation
 
