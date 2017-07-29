@@ -1,0 +1,6 @@
+## [Debian 9 Stretch released](https://www.debian.org/News/2017/20170617)
+
+I've read the release notes for Debian 9 "Stretch". By the Debian team
+
+Tags: debian, release-note, stretch, linux, distribution, distro
+
