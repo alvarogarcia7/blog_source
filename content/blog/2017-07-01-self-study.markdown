@@ -50,3 +50,10 @@ Mentions the amount of myths related to this, based on old and non-accurate rese
 
 Tags: dan-luu, keyboard, comparison, mouse, human-interaction-device, hid, interaction, user-experience, interface
 
+## [The Crypto Anarchist Manifesto](http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
+
+I've read this article by Timothy C. May forecasting the development of a new market based on cryptography and secure communications.
+
+The same that barbed wire transformed property in the West, is the analogy he uses
+
+Tags: Timothy-May, anarchy, encryption, market, forecast, crypto-anarchism, public-key-encryption, zero-knowledge-proof, cryptography
