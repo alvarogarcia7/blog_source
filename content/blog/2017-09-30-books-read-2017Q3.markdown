@@ -131,7 +131,6 @@ next (2):
 wip (3):
 
   * Aprendo Yoga; Van Lysebeth; non-technical, own-it
-  * Nature of Software Development, the; Jeffries; own-it
   * Team Geek; Fitzpatrick, Collins-Sussman; own-it
 
 done:
@@ -139,4 +138,5 @@ done:
   * Senior software developer, the; Copeland; own-it
   * Scandal in Bohemia, a; Doyle; own-it
   * Getting things done, ...; Allen (*); own-it
+  * Nature of Software Development, the; Jeffries; own-it
 
