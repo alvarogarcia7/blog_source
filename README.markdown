@@ -125,6 +125,12 @@ snake case with dashes: (``a b`` -> ``a-b``)
 %g/^Tags/s/\(\w\) /\1-/g
 ```
 
+lowercase:
+
+```
+%s/^\(Tags:\)\(.*\)/\1\L\2/g
+```
+
 ### Get all the categories from a Self-Study aggregation
 
 #### A warning in MacOsX
