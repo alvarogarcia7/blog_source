@@ -1,0 +1,8 @@
+## [Why we’re betting against real-time team messaging ](https://blog.doist.com/why-were-betting-against-real-time-team-messaging-521804a3da09)
+
+I've read this article by Amir Salihefendic on why they have created a tool for online async communication, where the online presence icon is disabled and communications happen around threads.
+
+Trying to transform the online (from real-time to async) communications to leave spaces for deep work.
+
+Tags: amir-salihefendic, deep-work, todoist, doist, twist, app, slack, online-communication, communication, productivity, async, real-time, work, chat
+
