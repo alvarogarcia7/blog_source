@@ -57,3 +57,4 @@ I've read this article by Timothy C. May forecasting the development of a new ma
 The same that barbed wire transformed property in the West, is the analogy he uses
 
 Tags: timothy-may, anarchy, encryption, market, forecast, crypto-anarchism, public-key-encryption, zero-knowledge-proof, cryptography
+
