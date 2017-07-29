@@ -102,6 +102,8 @@ Note: the second set of brackets can be removed; they are left in-place for easi
 
 ##### Using vim
 
+###### manual
+
 To make it lowercase:
 
   * Select in visual mode
@@ -114,6 +116,8 @@ for a single line:
 ```
 .s/\(\w\) /\1-/g
 ```
+
+###### automated
 
 for all lines:
 
