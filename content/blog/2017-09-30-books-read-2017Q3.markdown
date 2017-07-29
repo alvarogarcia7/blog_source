@@ -21,6 +21,8 @@ Read this quarter:
   * the senior software developer; Copeland, with the [aprendices reading club][deaprendices]
   * Scandal in Bohemia, a; Doyle: a short novel by Sir Arthur Conan Doyle, mentioning Irene Adler and the king of Bohemia
 
+Note: re+read means I'm re-reading this book. The (+) stands for one-or-more times, as in the regexes.
+
 
 <!-- copy-paste the books.md here -->
 
