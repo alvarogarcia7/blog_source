@@ -115,9 +115,9 @@ backlog (partially sorted):
 unfinished (unsorted):
 
   * Release It! - Design and Deploy Production-Ready Software; own-it
-  * Refactoring (*); Fowler; own-it
-  * The Leprechauns of Software Engineering; Bossavit (*); own-it
-  * Domain-Driven Design: Tackling Complexity in the Heart of Software; Vernon (*); own-it
+  * Refactoring (+); Fowler; own-it
+  * The Leprechauns of Software Engineering; Bossavit (+); own-it
+  * Domain-Driven Design: Tackling Complexity in the Heart of Software; Vernon (+); own-it
   * Pragmatic Thinking and Learning: Refactor Your Wetware; own-it
   * Functional Programming Patterns in Scala and Clojure; own-it
   * Readings in Database Systems, 5th Edition; own-it
@@ -128,12 +128,12 @@ wip (3):
 
   * Aprendo Yoga; Van Lysebeth; non-technical, own-it
   * Team Geek; Fitzpatrick, Collins-Sussman; own-it
-  * Working Effectively with Legacy Code (*); Feathers; own-it
+  * Working Effectively with Legacy Code (+); Feathers; own-it
 
 done:
 
   * Senior software developer, the; Copeland; own-it
   * Scandal in Bohemia, a; Doyle; own-it
-  * Getting things done, ...; Allen (*); own-it
+  * Getting things done, ...; Allen (+); own-it
   * Nature of Software Development, the; Jeffries; own-it
 
