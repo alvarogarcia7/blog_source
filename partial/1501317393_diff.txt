@@ -1,0 +1,10 @@
+## [How I ended up paying $150 for a single 60GB download from Amazon Glacier](https://medium.com/@karppinen/how-i-ended-up-paying-150-for-a-single-60gb-download-from-amazon-glacier-6cb77b288c3e)
+
+I've read this article by Marko Karppinen that explains how a mistake in understanding the pricing model of AWS Glacier cost 150$ instead of the expected 0.86$
+
+> When cloud providers use uncommon and/or unpredictable pricing models, even your informed hunch about the cost can be off by several orders of magnitude, like the price differential between an iPad and a Ferrari.
+>
+> The only way to avoid this is by reading, very carefully, through the laughably long passages of meandering technical trivia that constitute the Glacier FAQ or, indeed, this Medium post.
+
+Tags: quote, glacier, amazon, aws, amazon-web-service, marko-karppinen
+
