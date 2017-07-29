@@ -119,7 +119,7 @@ for a single line:
 
 ###### automated
 
-for all lines:
+snake case with dashes: (``a b`` -> ``a-b``)
 
 ```
 %g/^Tags/s/\(\w\) /\1-/g
