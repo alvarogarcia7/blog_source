@@ -87,15 +87,15 @@ backlog (partially sorted):
   * problems of philosophy, the; Russell
   * Requiem for the American dream; Chomsky
   * sun also rises, the; Hemingway
-  * travels, the; Polo
-  * Homo Deus: A Brief History of Tomorrow; Harari
-  * Books by Aristotle
+  * travels, the; Polo; non-technical
+  * Homo Deus: A Brief History of Tomorrow; Harari; non-technical
+  * Books by Aristotle; non-technical
   * Books by Plato
   * Books by Descartes
   * The idea of culture; Eagleton
   * Hereditary Intelligence; Galton; non-technical
   * Lean Software Development: An Agile Toolkit; Poppendieck
-  * Peopleware; De Marco
+  * Peopleware*; De Marco
   * Chaos Monkeys: Obscene Fortune and Random Failure; Garcia Martinez
   * Implementing Lean Software Development: From Concept to Cash; Poppendieck
   * Joel on Software; Spolsky
@@ -104,11 +104,17 @@ backlog (partially sorted):
   * Introduction to General Systems Thinking; Weinberg
   * Lao Tzu : Tao Te Ching : A Book About the Way and the Power of the Way; Tzu, Le Guin; non-technical
   * Gay Science, the; Nietzsche; non-technical
+  * Being Geek; Lopp
+  * Finance for Freelancers; Retallick
+  * Object-oriented software engineering: a use case driven approach; Jacobson
+  * Patterns of Enterprise Application Architecture; Fowler; own-it
+  * Thinking fast and slow
+  * Emotional intelligence; Goleman
+  * Ética a Nicómaco; Aristotle; own-it, non-technical
 
 unfinished (unsorted):
 
   * Release It! - Design and Deploy Production-Ready Software; own-it
-  * Working Effectively with Legacy Code (*); Feathers; own-it
   * Refactoring (*); Fowler; own-it
   * The Leprechauns of Software Engineering; Bossavit (*); own-it
   * Domain-Driven Design: Tackling Complexity in the Heart of Software; Vernon (*); own-it
@@ -117,6 +123,10 @@ unfinished (unsorted):
   * Readings in Database Systems, 5th Edition; own-it
   * Structure and Interpretation of Computer Programs (SICP); Abelson, Sussmann, Sussmann; own-it
   * La Sociedad De Coste Marginal Cero (Estado y Sociedad); Rifkin; non-technical
+
+next (2):
+
+  * Working Effectively with Legacy Code (*); Feathers; own-it
 
 wip (3):
 
