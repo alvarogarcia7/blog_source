@@ -191,8 +191,16 @@ Then move the categories after the existing ones
 
 #### Create a new Self-study guide
 
+Tip: the command line will expand the contents of the command when pressing <TAB>:
+
 ```bash
-cp {$(./last_self-study.sh),_}
+cp $(./last_self-study.sh)<TAB>
+```
+
+will become
+
+```bash
+cp content/blog/2017-08-01-self-study.markdown
 ```
 
 ## Workflow
