@@ -164,7 +164,7 @@ find -iname "*markdown"|xargs grep Tags|cut -d":" -f3 > tags.txt
 
 from a single file:
 ```bash
-export TAGS_file=2017.....
+export TAGS_file=$(./last_self-study.sh)
 cat $TAGS_file |grep Tags|cut -d":" -f2 > tags.txt
 cat tags.txt |tr -d " " | sed '{s/,/\n/g}'|sort|uniq| sed '{s/^/- /}' >> $TAGS_file
 rm -f tags.txt
