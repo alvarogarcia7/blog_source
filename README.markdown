@@ -189,6 +189,12 @@ e.g.:
 
 Then move the categories after the existing ones
 
+#### Create a new Self-study guide
+
+```bash
+cp {$(./last_self-study.sh),_}
+```
+
 ## Workflow
 
 ### Using the local environment
