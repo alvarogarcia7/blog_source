@@ -169,6 +169,8 @@ cat $TAGS_file |grep Tags|cut -d":" -f2 > tags.txt
 cat tags.txt |tr -d " " | sed '{s/,/\n/g}'|sort|uniq| sed '{s/^/- /}' >> $TAGS_file
 rm -f tags.txt
 unset TAGS_file
+echo "Now move the tags up"
+./vim_last_self-study.sh
 ```
 
 e.g.:
