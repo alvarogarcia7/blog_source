@@ -166,10 +166,6 @@ from a single file:
 ```bash
 export TAGS_file=2017.....
 cat $TAGS_file |grep Tags|cut -d":" -f2 > tags.txt
-```
-
-then process tags and delete the temporary file(s):
-```bash
 cat tags.txt |tr -d " " | sed '{s/,/\n/g}'|sort|uniq| sed '{s/^/- /}' >> $TAGS_file
 rm -f tags.txt
 unset TAGS_file
