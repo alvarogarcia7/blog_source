@@ -203,6 +203,12 @@ will become
 cp content/blog/2017-08-01-self-study.markdown
 ```
 
+Then, use the `{}` syntax to copy the file:
+
+```bash
+cp content/blog/2017-{08,09}-01-self-study.markdown
+```
+
 ## Workflow
 
 ### Using the local environment
