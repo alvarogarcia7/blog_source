@@ -25,7 +25,9 @@ You can even do it more often: for example before going to lunch, before a meeti
 
 Working with many repositories (e.g. a microservices environment/architecture), it is often the case where you will have multiple folders with work, possibly work in progress (WIP).
 
-This is why we have created a small tool to detect git repositories that have local changes that haven't been pushed yet.
+This is why we have created a small tool to detect git repositories that have local changes that haven't been pushed yet: [Find WIP][repo]
 
 Feedback is more than welcome.
+
+[repo]: https://github.com/alvarogarcia7/find-wip
 
