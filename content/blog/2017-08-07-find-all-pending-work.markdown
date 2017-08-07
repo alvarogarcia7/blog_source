@@ -11,3 +11,6 @@ It is a good practice to push your local work at the end of the day. Be it for i
 
 You can even do it more often: for example before going to lunch, before a meeting, before a demo, etc.
 
+Working with many repositories (e.g. a microservices environment/architecture), it is often the case where you will have multiple folders with work, possibly work in progress (WIP).
+
+This is why we have created a small tool to detect git repositories that have local changes that haven't been pushed yet.
