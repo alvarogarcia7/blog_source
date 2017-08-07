@@ -1,6 +1,18 @@
 ---
 categories:
 - bash
+- tool
+- open-source
+- microservice
+- pending-work
+- wip
+- work-in-progress
+- lean
+- value
+- practice
+- continuous-delivery
+- continuous-integration
+- workspace
 comments: true
 date: 2017-08-07T06:32:19Z
 title: Finding all pending work in progress (WIP) in your workspace
