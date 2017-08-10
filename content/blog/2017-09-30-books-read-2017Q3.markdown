@@ -28,12 +28,6 @@ Note: re+read means I'm re-reading this book. The (+) stands for one-or-more tim
 
 <!-- copy-paste the books.md here -->
 
-lists:
-
-  * https://www.goodreads.com/review/list/246177-rob?shelf=non-fiction-for-humans
-  * https://www.goodreads.com/list/show/451.Best_Philosophy_Book
-  * https://www.goodreads.com/list/show/8379.Software_Craftsmanship
-
 backlog (partially sorted):
 
   * unsorted V
@@ -140,4 +134,10 @@ done:
   * Scandal in Bohemia, a; Doyle; own-it
   * Getting things done, ...; Allen (+); own-it
   * Nature of Software Development, the; Jeffries; own-it
+
+lists:
+
+  * https://www.goodreads.com/review/list/246177-rob?shelf=non-fiction-for-humans
+  * https://www.goodreads.com/list/show/451.Best_Philosophy_Book
+  * https://www.goodreads.com/list/show/8379.Software_Craftsmanship
 
