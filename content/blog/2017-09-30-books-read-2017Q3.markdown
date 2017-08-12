@@ -124,7 +124,6 @@ unfinished (unsorted):
 
 wip (3):
 
-  * Aprendo Yoga; Van Lysebeth; non-technical, own-it
   * Team Geek; Fitzpatrick, Collins-Sussman; own-it
   * Working Effectively with Legacy Code (+); Feathers; own-it
 
@@ -134,6 +133,7 @@ done:
   * Scandal in Bohemia, a; Doyle; own-it
   * Getting things done, ...; Allen (+); own-it
   * Nature of Software Development, the; Jeffries; own-it
+  * Aprendo Yoga; Van Lysebeth; non-technical, own-it
 
 lists:
 
