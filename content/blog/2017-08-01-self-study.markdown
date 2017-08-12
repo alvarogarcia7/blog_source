@@ -19,3 +19,9 @@ I've read this article by Marko Karppinen that explains how a mistake in underst
 
 Tags: quote, glacier, amazon, aws, amazon-web-service, marko-karppinen
 
+## [Debian 9 Stretch released](https://www.debian.org/News/2017/20170617)
+
+I've read the release notes for Debian 9 "Stretch". By the Debian team
+
+Tags: debian, release-note, stretch, linux, distribution, distro
+
