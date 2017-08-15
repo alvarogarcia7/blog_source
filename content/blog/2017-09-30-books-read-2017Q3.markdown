@@ -109,6 +109,7 @@ backlog (partially sorted):
   * Thinking fast and slow
   * Emotional intelligence; Goleman
   * Ética a Nicómaco; Aristotle; own-it, non-technical
+  * Effective Java; Bloch; own-it
 
 unfinished (unsorted):
 
