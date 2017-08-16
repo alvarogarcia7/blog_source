@@ -34,6 +34,8 @@ backlog (partially sorted):
   * The Machine That Changed the World: The Story of Lean Production
   * Haskell Programming
   * Software Architecture in Practice
+  * The five disfunctions of a team: a leadership fable; Lencioni
+  * Phoenix project, the ; Kim, Behr, Spafford
   * lucha por la desigualdad, la; Pontón; non-technical
   * psicología del dinero, la; Hammond; non-technical
   * Invirtiendo a largo plazo; García Paramés; non-technical
