@@ -109,7 +109,6 @@ backlog (partially sorted):
   * Thinking fast and slow
   * Emotional intelligence; Goleman
   * Ética a Nicómaco; Aristotle; own-it, non-technical
-  * Effective Java; Bloch; own-it
 
 unfinished (unsorted):
 
@@ -127,6 +126,7 @@ wip (3):
 
   * Team Geek; Fitzpatrick, Collins-Sussman; own-it
   * Working Effectively with Legacy Code (+); Feathers; own-it
+  * Effective Java; Bloch; own-it
 
 done:
 
