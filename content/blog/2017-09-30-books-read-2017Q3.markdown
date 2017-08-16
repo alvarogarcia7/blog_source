@@ -167,4 +167,5 @@ lists:
   * https://www.goodreads.com/review/list/246177-rob?shelf=non-fiction-for-humans
   * https://www.goodreads.com/list/show/451.Best_Philosophy_Book
   * https://www.goodreads.com/list/show/8379.Software_Craftsmanship
+  * https://blog.ycombinator.com/ycs-2017-summer-reading-list/
 
