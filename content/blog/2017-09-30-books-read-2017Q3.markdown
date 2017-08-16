@@ -108,7 +108,7 @@ backlog (partially sorted):
   * Finance for Freelancers; Retallick
   * Object-oriented software engineering: a use case driven approach; Jacobson
   * Patterns of Enterprise Application Architecture; Fowler; own-it
-  * Thinking fast and slow
+  * Thinking fast and slow; Kahneman
   * Emotional intelligence; Goleman
   * Ética a Nicómaco; Aristotle; own-it, non-technical
 
