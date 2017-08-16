@@ -111,6 +111,30 @@ backlog (partially sorted):
   * Thinking fast and slow; Kahneman
   * Emotional intelligence; Goleman
   * Ética a Nicómaco; Aristotle; own-it, non-technical
+  * Romeo y Julieta; Shakespeare; non-technical
+  * Computer Systems: A Programmer’s Perspective; Bryant, O'Hallaron
+  * My Journey to Lhasa: The Classic Story of the Only Western Woman Who Succeeded in Entering the Forbidden City; David-Néel; non-technical
+  * Cathedral and the bazaar, the ; Raymond
+  * Coding dojo handbook, the; Bache; own-it
+  * Making software; Oram and Wilson; own-it
+  * Code complete; McConnell
+  * Soft skills; Sonmez; own-it
+  * DSLs in action; Ghosh; own-it
+  * purely functional data structures; Okasaki; own-it
+  * Working effectively with unit tests; Fields (+); own-it
+  * First Nazi, the; Ludendorff
+  * Greatest story ever told ... so far; Krauss; non-technical
+  * Master algorithm, the; Domingos; non-technical
+  * Invention of Science, the; Wootton; non-technical
+  * Tesla: Inventor of the electrical age; Bernard Carlson; non-technical
+  * Psychology in minutes; Weeks; non-technical
+  * Alan Turing: The Enigma; Hodges; non-technical
+  * How to think more about sex; de Botton; non-technical
+  * Piccolo manuale di persuasione; Taylor; non-technical
+  * arte de la guerra, el; Sun Tzu; non-technical
+  * Piccolo manuale di leadership Confuciana; Adair; non-technical
+  * How to Stop Worrying and Start Living; Carnegie; non-technical
+  * Uomo - Guida allo stile; Roetzel; non-technical
 
 unfinished (unsorted):
 
