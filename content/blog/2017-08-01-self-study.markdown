@@ -33,3 +33,11 @@ Trying to transform the online (from real-time to async) communications to leave
 
 Tags: amir-salihefendic, deep-work, todoist, doist, twist, app, slack, online-communication, communication, productivity, async, real-time, work, chat
 
+## [Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
+
+I've read this article by Chris Dixon that explains what is a crypto currency, what is a smart contract and how this can revolutionize the market.
+
+Also explains public vs private networks and tokens
+
+Tags: chris-dixon, public-network, private-network, token, ethereum, bitcoin, cryptocurrency, contract, smart-contract, miner, mining, comparison
+
