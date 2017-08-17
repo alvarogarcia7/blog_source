@@ -1,0 +1,10 @@
+## [Political Bots with Samuel Woolley](https://softwareengineeringdaily.com/2017/04/17/political-bots-with-samuel-woolley/)
+
+I've listened to this podcast in which Samuel Woolley explains the current situation with bots, how they try to influence the decisions.
+
+Not only by suggesting new products and services to buy, but also creating a void that can be filled by a person or group.
+
+He explains some strategies to decide whether some social media activity is real or augmented.
+
+Tags: samuel-woolley, podcast, political-bot, bot, ai, artificial-intelligence, se-daily
+
