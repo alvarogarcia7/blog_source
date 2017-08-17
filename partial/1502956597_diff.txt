@@ -1,0 +1,10 @@
+## [Facebook Open Source with Tom Occhino](https://softwareengineeringdaily.com/2017/04/14/facebook-open-source-with-tom-occhino/)
+
+I've listened to this podcast in which Tom Occhino speaks about his experience as manager for a team that produces open source.
+
+He mentions the two basic roles in such a team: the speaker, that represents the product itself and the maintainer, that caters to the community maintaining the software alive
+
+He mentions that Facebook only releases open source that they use internally and that has solved a problem for them. Describes how the adoption should be: with a single client at first, then go for early adopters and then the masses
+
+Tags: open-source, tom-occhino, facebook, react, podcast, react-native, internal-open-source, management, branding, hiring
+
