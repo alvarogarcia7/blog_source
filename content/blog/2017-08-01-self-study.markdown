@@ -41,3 +41,24 @@ Also explains public vs private networks and tokens
 
 Tags: chris-dixon, public-network, private-network, token, ethereum, bitcoin, cryptocurrency, contract, smart-contract, miner, mining, comparison
 
+## [JSX vs Clojurescript: the showdown](http://ingesolvoll.github.io/2017/06/22/plain-react-vs-reagent.html)
+
+I've read this article comparing the Reagent vs React (clojurescript vs javascript), going into details for both technologies. By Inge Solvoll
+
+> Conclusion: Code vs Data
+
+> Hopefully I managed to show you a few things that Reagent brings to the table:
+>
+>  * Concise and compact
+>  * Creating functional style components is super easy
+>  * Immutable data is the default
+>  * But the thing that fundamentally separates it from React/JSX is the data focus.
+
+>JSX creates instructions: React.createElement('div').
+>Reagent creates data structures: [:div].
+>The former is opaque, hard to inspect at runtime. The latter is highly transparent, and easily inspectable in more than one way.
+
+>Your app is declared using nothing but pure data, using nothing but plain functions to manipulate the data. The very rich Clojure standard library with functions like map, filter and reduce at your disposal, without any funky new syntax to learn.
+
+Tags: clojurescript, comparison, javascript, react, reagent, om, cljs, js, inge-solvoll
+
