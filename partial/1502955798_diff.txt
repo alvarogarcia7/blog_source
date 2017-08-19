@@ -1,6 +1,0 @@
-## [IoT goes nuclear: creating a ZigBee chain reaction](https://blog.acolyer.org/2017/06/22/iot-goes-nuclear-creating-a-zigbee-chain-reaction/)
-
-I've read this article by on the security of Philips Hue lightbulbs, a kind of IoT device that has been hacked using a defect in their protocols
-
-Tags: adrian-colyer, zigbee, philips, hue, philips-hue, iot, defect, hack, security
- 
