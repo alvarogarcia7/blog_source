@@ -68,3 +68,9 @@ I've read this article by on the security of Philips Hue lightbulbs, a kind of I
 
 Tags: adrian-colyer, zigbee, philips, hue, philips-hue, iot, defect, hack, security
  
+## [Breaking the Chain](https://googleprojectzero.blogspot.com.es/2016/11/breaking-chain.html)
+
+I've read this article by James Forshaw, in which they explain how the Chrome browser does not use the Win32k system calls (under certain conditions), to reduce the attack surface
+
+Tags: attack-surface, rasq, security, chrome, chromium, project-zero, win32k, win32, windows, google, flash, ppapi, james-forshaw
+

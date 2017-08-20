@@ -1,1 +1,0 @@
-add article on chrome blocking win32 syscalls
