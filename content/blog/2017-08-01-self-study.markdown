@@ -74,3 +74,11 @@ I've read this article by James Forshaw, in which they explain how the Chrome br
 
 Tags: attack-surface, rasq, security, chrome, chromium, project-zero, win32k, win32, windows, google, flash, ppapi, james-forshaw
 
+## [Language Server Protocol (lsp), rust and Emacs](https://christian.kellner.me/2017/05/31/language-server-protocol-lsp-rust-and-emacs/)
+
+I've read this article by Christian Kellner about a common way of operating with a program's Language Server Protocol (LSP) so all languages could benefit from standard tools. Then, a new editor would just have to implement the bindings to LSP to support those.
+
+Similar to what LLVM is to some languages: once you specify your syntax in terms of LLVM, you can benefit from the improvements that LLVM provides.
+
+Tags: christian-kellner, lsp, emacs, rust, ast, analogy
+
