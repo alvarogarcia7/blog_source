@@ -82,3 +82,9 @@ Similar to what LLVM is to some languages: once you specify your syntax in terms
 
 Tags: christian-kellner, lsp, emacs, rust, ast, analogy
 
+## [How to Create a MOOC in 28 Days](https://www.indiehackers.com/@sknthla/how-to-create-a-mooc-in-28-days)
+
+I've read this article by Saku Panditharatne on how she has created a massively open online course (MOOC).
+
+Tags: saku-panditharatne, mooc, passive-income, business, side-project, side-business
+
