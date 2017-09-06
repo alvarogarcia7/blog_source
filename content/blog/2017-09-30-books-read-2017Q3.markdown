@@ -137,6 +137,11 @@ backlog (partially sorted):
   * Piccolo manuale di leadership Confuciana; Adair; non-technical
   * How to Stop Worrying and Start Living; Carnegie; non-technical
   * Uomo - Guida allo stile; Roetzel; non-technical
+  * Unwritten Laws of Engineering: Revised and Updated Edition; King
+  * Test-Driven JavaScript Development (Developer's Library); Johansen
+  * Test Driven Development: By Example; Beck
+  * Arquitectura Java JPA Domain Driven Design; Alvárez, Peláez
+  * End of loyalty, the; Wartzman; non-technical
 
 unfinished (unsorted):
 
