@@ -154,6 +154,7 @@ unfinished (unsorted):
   * Readings in Database Systems, 5th Edition; own-it
   * Structure and Interpretation of Computer Programs (SICP); Abelson, Sussmann, Sussmann; own-it
   * La Sociedad De Coste Marginal Cero (Estado y Sociedad); Rifkin; non-technical
+  * Odisea; Homero; non-technical
 
 wip (3):
 
