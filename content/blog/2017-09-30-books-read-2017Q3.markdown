@@ -161,6 +161,7 @@ wip (3):
   * Team Geek; Fitzpatrick, Collins-Sussman; own-it
   * Working Effectively with Legacy Code (+); Feathers; own-it
   * Effective Java; Bloch; own-it
+  * Nonviolent communication; Rosenberg; own-it, non-technical
 
 done:
 
