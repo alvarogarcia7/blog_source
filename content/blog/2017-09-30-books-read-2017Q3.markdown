@@ -177,4 +177,6 @@ lists:
   * https://www.goodreads.com/list/show/451.Best_Philosophy_Book
   * https://www.goodreads.com/list/show/8379.Software_Craftsmanship
   * https://blog.ycombinator.com/ycs-2017-summer-reading-list/
+  * https://www.goodreads.com/list/show/107321.TI2011_Course
+  * https://www.goodreads.com/list/show/12287.Fog_Creek_Software_Management_Training_Program
 
