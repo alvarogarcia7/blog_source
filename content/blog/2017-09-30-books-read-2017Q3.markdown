@@ -158,7 +158,6 @@ unfinished (unsorted):
 
 wip (3):
 
-  * Team Geek; Fitzpatrick, Collins-Sussman; own-it
   * Working Effectively with Legacy Code (+); Feathers; own-it
   * Effective Java; Bloch; own-it
   * Nonviolent communication; Rosenberg; own-it, non-technical
@@ -169,6 +168,7 @@ done:
   * Scandal in Bohemia, a; Doyle; own-it
   * Getting things done, ...; Allen (+); own-it
   * Nature of Software Development, the; Jeffries; own-it
+  * Team Geek; Fitzpatrick, Collins-Sussman; own-it
   * Aprendo Yoga; Van Lysebeth; non-technical, own-it
 
 lists:
