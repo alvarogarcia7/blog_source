@@ -161,6 +161,7 @@ wip (3):
   * Working Effectively with Legacy Code (+); Feathers; own-it
   * Effective Java; Bloch; own-it
   * Nonviolent communication; Rosenberg; own-it, non-technical
+  * Clean coder; Martin
 
 done:
 
