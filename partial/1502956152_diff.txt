@@ -1,8 +1,0 @@
-## [Your phone is your most vulnerable gadget. protect it now](https://www.wired.com/story/your-phone-is-your-most-vulnerable-gadget-protect-it-now/)
-
-I've read this article by David Pierce on how the phone device is vulnerable and what options we have available to make it a secure computing device.
-
-Either switch to a branded-as-secure phone or stick to the main options (Android, iPhone) plus activate some options (updates to the apps and operating system), stay away from public hotspots, don't lend it to strangers and use some apps to monitor what resources apps are using
-
-Tags: david-pierce, security, phone, mobile-device, hotspot, iphone, android, ios
-
