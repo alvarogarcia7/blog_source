@@ -32,3 +32,11 @@ Either switch to a branded-as-secure phone or stick to the main options (Android
 
 Tags: david-pierce, security, phone, mobile-device, hotspot, iphone, android, ios
 
+## [Living in Switzerland ruined me for America and its lousy work culture](https://getpocket.com/explore/item/living-in-switzerland-ruined-me-for-america-and-its-lousy-work-culture-987981365)
+
+I've read this article by Chantal Panozzo comparing the way of living and the economic standards in Switzerland and the US.
+
+Mainly about the topics of the social security network, provided by the state, taxes and owning a car
+
+Tags: chantal-panozzo, comparison, way-of-living, living-standard, car, social-security, usa, us, switzerland, economy
+
