@@ -40,3 +40,9 @@ Mainly about the topics of the social security network, provided by the state, t
 
 Tags: chantal-panozzo, comparison, way-of-living, living-standard, car, social-security, usa, us, switzerland, economy
 
+## [The 10/10/10 Rule For Tough Decisions](https://getpocket.com/explore/item/the-10-10-10-rule-for-tough-decisions-327321877)
+
+I've read this article by Chip Heath on a technique to make hard decisions: the 10/10/10 rule; How would you feel 10 minutes, 10 months and 10 years after having applied the actions from that decisions?
+
+Tags: decision, decision-making, rule, ten-ten-ten-rule, chip-heath
+
