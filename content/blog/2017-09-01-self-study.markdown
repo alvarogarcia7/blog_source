@@ -46,3 +46,9 @@ I've read this article by Chip Heath on a technique to make hard decisions: the 
 
 Tags: decision, decision-making, rule, ten-ten-ten-rule, chip-heath
 
+## [How to retire in your 30s: save most of your money and rethink your core values](https://getpocket.com/explore/item/how-to-retire-in-your-30s-save-most-of-your-money-and-rethink-your-core-values-912524855)
+
+I've read this article by Danielle Kurtzleben on how to retire early or achieve financial independence early in your career: save a big percentage of your salary, invest wisely and reduce costs.
+
+Tags: danielle-kurtzleben, investment, frugality, early-retirement, retirement, financial-independence, independence, finance, value, core-value
+
