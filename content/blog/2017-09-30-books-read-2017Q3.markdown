@@ -10,7 +10,6 @@ categories:
 - reading-club
 comments: true
 date: 2017-09-30T21:00:00Z
-published: false
 title: Books read in 2017Q3
 url: /blog/2017/09/30/books-read-2017q3/
 ---
