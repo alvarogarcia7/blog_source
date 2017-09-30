@@ -141,6 +141,12 @@ backlog (partially sorted):
   * Test Driven Development: By Example; Beck
   * Arquitectura Java JPA Domain Driven Design; Alvárez, Peláez
   * End of loyalty, the; Wartzman; non-technical
+  * Basic Economics; Sowell; non-technical
+  * Introduction to Economic Analysis; McAfee; non-technical
+  * Patterns of Software; Gabriel
+  * Coders at work; Seibel
+  * Clean architecture; Martin
+  * How to Be a Stoic: Using Ancient Philosophy to Live a Modern Life; Pigliucci; non-technical
 
 unfinished (unsorted):
 
