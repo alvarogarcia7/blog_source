@@ -166,7 +166,6 @@ wip (3):
   * Working Effectively with Legacy Code (+); Feathers; own-it
   * Effective Java; Bloch; own-it
   * Nonviolent communication; Rosenberg; own-it, non-technical
-  * Clean coder; Martin
 
 done:
 
@@ -176,6 +175,8 @@ done:
   * Nature of Software Development, the; Jeffries; own-it
   * Team Geek; Fitzpatrick, Collins-Sussman; own-it
   * Aprendo Yoga; Van Lysebeth; non-technical, own-it
+  * Clean Coder: A Code of Conduct for Professional Programmers, the; Martin; own-it
+  * ML for the working programmer, 2nd edition [5th chapter only]; Paulson; own-it
 
 lists:
 
