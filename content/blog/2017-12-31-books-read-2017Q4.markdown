@@ -1,0 +1,185 @@
+---
+categories:
+- book
+- reading
+- 2017
+- Q4
+- self-study
+- codurance
+- aprendices
+- reading-club
+comments: true
+date: 2017-12-31T21:00:00Z
+published: false
+title: Books read in 2017Q4
+url: /blog/2017/12/31/books-read-2017q4/
+---
+
+[deaprendices]: https://twitter.com/@deaprendices
+[codurance]: https://twitter.com/@codurance
+
+Read this quarter:
+
+Note: re+read means I'm re-reading this book. The (+) stands for one-or-more times, as in the regexes.
+
+
+<!-- copy-paste the books.md here -->
+
+backlog (partially sorted):
+
+  * unsorted V
+  * The Machine That Changed the World: The Story of Lean Production
+  * Haskell Programming
+  * Software Architecture in Practice
+  * The five disfunctions of a team: a leadership fable; Lencioni
+  * Phoenix project, the ; Kim, Behr, Spafford
+  * lucha por la desigualdad, la; Pontón; non-technical
+  * psicología del dinero, la; Hammond; non-technical
+  * Invirtiendo a largo plazo; García Paramés; non-technical
+  * Well-Grounded Java Developer, the; own-it
+  * Quién domina el mundo; Chomsky; non-technical
+  * Learn You a Haskell for Great Good!; own-it
+  * camino al 18J, el; Payne; non-technical
+  * Cartas desde la revolución bolchevique; Sadoul; non-technical
+  * Java Performance: The Definitive Guide
+  * Why programmers work at night
+  * Shogun: The Life of Tokugawa Ieyasu; Sadler; non-technical
+  * Scrum and XP from the trenches, 2nd edition;
+  * Els jueus i Catalunya; Villatoro; non-technical
+  * El problema de los tres cuerpos; Liu; non-technical
+  * Amazon Web Services in Action; own-it
+  * Clojure Programming - Practical Lisp for the Java World
+  * Mature optimization
+  * XUnit Test Patterns
+  * Let Over Lambda
+  * The Haskell Road to Logic, Math and Programming
+  * Types and Programming Languages
+  * Fundamentals of Object-oriented Design in UML
+  * Clojure for the brave and true
+  * How to Solve It: A New Aspect of Mathematical Method
+  * Conceptual Mathematics: A First Introduction to Categories
+  * Understanding Computation: From Simple Machines to Impossible Programs
+  * Programming in Haskell
+  * Programming Languages: Application and Interpretation
+  * Doing Math with Python
+  * Perfect Software: And Other Illusions about Testing
+  * Computability and Complexity - From a Programming Perspective
+  * Thinking Forth: a language and philosophy for solving problems
+  * Concepts, Techniques, and Models of Computer Programming
+  * Bridging the Communication Gap; Adzic
+  * Specification by Example; Adzic
+  * Cucumber book, the; Adzic
+  * Software Architecture for Developers; Brown
+  * Object Design: Roles, Responsibilities, and Collaborations
+  * RESTful Web APIs
+  * RESTful Web Services Cookbook
+  * Building Maintainable Software
+  * Serverless - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)
+  * A Pattern Language; Alexander
+  * Types and Programming Languages, TAPL; Pierce; own-it
+  * Speed Reading Book: Read More, Learn More, Achieve More, the; Buzan
+  * Cómo crear mapas mentales (Crecimiento personal); Buzan
+  * First things first; Covey
+  * What's best next; Perman
+  * problems of philosophy, the; Russell
+  * Requiem for the American dream; Chomsky
+  * sun also rises, the; Hemingway
+  * travels, the; Polo; non-technical
+  * Homo Deus: A Brief History of Tomorrow; Harari; non-technical
+  * Books by Aristotle; non-technical
+  * Books by Plato
+  * Books by Descartes
+  * The idea of culture; Eagleton
+  * Hereditary Intelligence; Galton; non-technical
+  * Lean Software Development: An Agile Toolkit; Poppendieck
+  * Peopleware*; De Marco
+  * Chaos Monkeys: Obscene Fortune and Random Failure; Garcia Martinez
+  * Implementing Lean Software Development: From Concept to Cash; Poppendieck
+  * Joel on Software; Spolsky
+  * Death March; Yourdon
+  * Psychology of Computer Programming, The; Weinberg
+  * Introduction to General Systems Thinking; Weinberg
+  * Lao Tzu : Tao Te Ching : A Book About the Way and the Power of the Way; Tzu, Le Guin; non-technical
+  * Gay Science, the; Nietzsche; non-technical
+  * Being Geek; Lopp
+  * Finance for Freelancers; Retallick
+  * Object-oriented software engineering: a use case driven approach; Jacobson
+  * Patterns of Enterprise Application Architecture; Fowler; own-it
+  * Thinking fast and slow; Kahneman
+  * Emotional intelligence; Goleman
+  * Ética a Nicómaco; Aristotle; own-it, non-technical
+  * Romeo y Julieta; Shakespeare; non-technical
+  * Computer Systems: A Programmer’s Perspective; Bryant, O'Hallaron
+  * My Journey to Lhasa: The Classic Story of the Only Western Woman Who Succeeded in Entering the Forbidden City; David-Néel; non-technical
+  * Cathedral and the bazaar, the ; Raymond
+  * Coding dojo handbook, the; Bache; own-it
+  * Making software; Oram and Wilson; own-it
+  * Code complete; McConnell
+  * Soft skills; Sonmez; own-it
+  * DSLs in action; Ghosh; own-it
+  * purely functional data structures; Okasaki; own-it
+  * Working effectively with unit tests; Fields (+); own-it
+  * First Nazi, the; Ludendorff
+  * Greatest story ever told ... so far; Krauss; non-technical
+  * Master algorithm, the; Domingos; non-technical
+  * Invention of Science, the; Wootton; non-technical
+  * Tesla: Inventor of the electrical age; Bernard Carlson; non-technical
+  * Psychology in minutes; Weeks; non-technical
+  * Alan Turing: The Enigma; Hodges; non-technical
+  * How to think more about sex; de Botton; non-technical
+  * Piccolo manuale di persuasione; Taylor; non-technical
+  * arte de la guerra, el; Sun Tzu; non-technical
+  * Piccolo manuale di leadership Confuciana; Adair; non-technical
+  * How to Stop Worrying and Start Living; Carnegie; non-technical
+  * Uomo - Guida allo stile; Roetzel; non-technical
+  * Unwritten Laws of Engineering: Revised and Updated Edition; King
+  * Test-Driven JavaScript Development (Developer's Library); Johansen
+  * Test Driven Development: By Example; Beck
+  * Arquitectura Java JPA Domain Driven Design; Alvárez, Peláez
+  * End of loyalty, the; Wartzman; non-technical
+  * Basic Economics; Sowell; non-technical
+  * Introduction to Economic Analysis; McAfee; non-technical
+  * Patterns of Software; Gabriel
+  * Coders at work; Seibel
+  * Clean architecture; Martin
+  * How to Be a Stoic: Using Ancient Philosophy to Live a Modern Life; Pigliucci; non-technical
+
+unfinished (unsorted):
+
+  * Release It! - Design and Deploy Production-Ready Software; own-it
+  * Refactoring (+); Fowler; own-it
+  * The Leprechauns of Software Engineering; Bossavit (+); own-it
+  * Domain-Driven Design: Tackling Complexity in the Heart of Software; Vernon (+); own-it
+  * Pragmatic Thinking and Learning: Refactor Your Wetware; own-it
+  * Functional Programming Patterns in Scala and Clojure; own-it
+  * Readings in Database Systems, 5th Edition; own-it
+  * Structure and Interpretation of Computer Programs (SICP); Abelson, Sussmann, Sussmann; own-it
+  * La Sociedad De Coste Marginal Cero (Estado y Sociedad); Rifkin; non-technical
+  * Odisea; Homero; non-technical
+
+wip (3):
+
+  * Working Effectively with Legacy Code (+); Feathers; own-it
+  * Effective Java; Bloch; own-it
+  * Nonviolent communication; Rosenberg; own-it, non-technical
+
+done:
+
+  * Senior software developer, the; Copeland; own-it
+  * Scandal in Bohemia, a; Doyle; own-it
+  * Getting things done, ...; Allen (+); own-it
+  * Nature of Software Development, the; Jeffries; own-it
+  * Team Geek; Fitzpatrick, Collins-Sussman; own-it
+  * Aprendo Yoga; Van Lysebeth; non-technical, own-it
+  * Clean Coder: A Code of Conduct for Professional Programmers, the; Martin; own-it
+  * ML for the working programmer, 2nd edition [5th chapter only]; Paulson; own-it
+
+lists:
+
+  * https://www.goodreads.com/review/list/246177-rob?shelf=non-fiction-for-humans
+  * https://www.goodreads.com/list/show/451.Best_Philosophy_Book
+  * https://www.goodreads.com/list/show/8379.Software_Craftsmanship
+  * https://blog.ycombinator.com/ycs-2017-summer-reading-list/
+  * https://www.goodreads.com/list/show/107321.TI2011_Course
+  * https://www.goodreads.com/list/show/12287.Fog_Creek_Software_Management_Training_Program
+
