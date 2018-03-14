@@ -1,3 +1,8 @@
 public
 alvarogarcia7.github.io
 *.sw*
+
+## Idea
+*.iml
+.idea/
+
