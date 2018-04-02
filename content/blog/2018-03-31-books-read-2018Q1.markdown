@@ -1,0 +1,313 @@
+---
+categories:
+- book
+- reading
+- 2018
+- Q1
+- self-study
+- codurance
+- aprendices
+- reading-club
+comments: true
+date: 2018-03-31T21:00:00Z
+published: false
+title: Books read in 2018Q1
+url: /blog/2018/03/31/books-read-2018q1/
+---
+
+[deaprendices]: https://twitter.com/@deaprendices
+[codurance]: https://twitter.com/@codurance
+
+Read this quarter:
+
+Note: re+read means I'm re-reading this book. The (+) stands for one-or-more times, as in the regexes.
+
+  * Odessa; Forsyth; non-technical, own-it
+  * Bogle on mutual funds: new perspectives for the intelligent investor; Bogle; own-it, non-technical, finance
+  * Perros de la guerra, los; Forsyth; own-it, non-technical
+  * avaro y el oro, el; Esopo; non-technical
+  * Aulularia; Plauto; own-it, non-technical
+  * Tus zonas erróneas; Dyer; non-technical, own-it
+  * Alternativa del Diablo, la; Forsyth; own-it, non-technical
+  * Guía, el; Forsyth; own-it, non-technical
+  * Pied piper; Forsyth; own-it, non-technical
+  * Hunt for the Red October, the; Clancy; own-it, non-technical
+  * Peopleware; DeMarco, Lister (+); own-it
+  * Time to kill, a; Grisham; own-it, non-technical
+  * Ética promiscua; Easton, Hardy; own-it, non-technical
+  * Checklist manifesto, the; Gawande; own-it, non-technical, guillem. How complexity can be managed by the lowest-rung workers by using a simple process: a checklist.  The checklist is not a how-to list, but a list of well-known terms in the user jargon to remind them about actions to be performed.  These recipes are a source of knowledge, therefore can be shared among users
+  * Team geek (+); guillem, own-it
+  * Kata de la voluntad; guillem, non-technical
+  * Phoenix project, the ; Kim, Behr, Spafford; own-it
+  * Obstacle is the way, the; guillem, non-technical
+  * Guide to stoicism, a; Stock; own-it, non-technical
+
+<!-- copy-paste the books.md here -->
+
+backlog (partially sorted):
+
+  * unsorted V
+  * The Machine That Changed the World: The Story of Lean Production
+  * Haskell Programming
+  * Software Architecture in Practice
+  * The five disfunctions of a team: a leadership fable; Lencioni
+  * lucha por la desigualdad, la; Pontón; non-technical
+  * psicología del dinero, la; Hammond; non-technical
+  * Invirtiendo a largo plazo; García Paramés; non-technical
+  * Well-Grounded Java Developer, the; own-it
+  * Learn You a Haskell for Great Good!; own-it
+  * camino al 18J, el; Payne; non-technical
+  * Cartas desde la revolución bolchevique; Sadoul; non-technical
+  * Java Performance: The Definitive Guide
+  * Why programmers work at night
+  * Shogun: The Life of Tokugawa Ieyasu; Sadler; non-technical
+  * Scrum and XP from the trenches, 2nd edition;
+  * Els jueus i Catalunya; Villatoro; non-technical
+  * El problema de los tres cuerpos; Liu; non-technical
+  * Amazon Web Services in Action; own-it
+  * Clojure Programming - Practical Lisp for the Java World
+  * Mature optimization
+  * XUnit Test Patterns
+  * Let Over Lambda
+  * The Haskell Road to Logic, Math and Programming
+  * Types and Programming Languages
+  * Fundamentals of Object-oriented Design in UML
+  * Clojure for the brave and true
+  * How to Solve It: A New Aspect of Mathematical Method
+  * Conceptual Mathematics: A First Introduction to Categories
+  * Understanding Computation: From Simple Machines to Impossible Programs
+  * Programming in Haskell
+  * Programming Languages: Application and Interpretation
+  * Doing Math with Python
+  * Perfect Software: And Other Illusions about Testing
+  * Computability and Complexity - From a Programming Perspective
+  * Thinking Forth: a language and philosophy for solving problems
+  * Concepts, Techniques, and Models of Computer Programming
+  * Bridging the Communication Gap; Adzic
+  * Specification by Example; Adzic
+  * Cucumber book, the; Adzic
+  * Software Architecture for Developers; Brown
+  * Object Design: Roles, Responsibilities, and Collaborations
+  * RESTful Web APIs
+  * RESTful Web Services Cookbook
+  * Building Maintainable Software
+  * Serverless - Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition)
+  * A Pattern Language; Alexander
+  * Types and Programming Languages, TAPL; Pierce; own-it
+  * Speed Reading Book: Read More, Learn More, Achieve More, the; Buzan
+  * Cómo crear mapas mentales (Crecimiento personal); Buzan
+  * First things first; Covey
+  * What's best next; Perman
+  * problems of philosophy, the; Russell
+  * Requiem for the American dream; Chomsky
+  * sun also rises, the; Hemingway
+  * travels, the; Polo; non-technical
+  * Homo Deus: A Brief History of Tomorrow; Harari; non-technical
+  * Books by Aristotle; non-technical
+  * Books by Plato
+  * Books by Descartes
+  * The idea of culture; Eagleton
+  * Hereditary Intelligence; Galton; non-technical
+  * Lean Software Development: An Agile Toolkit; Poppendieck
+  * Chaos Monkeys: Obscene Fortune and Random Failure; Garcia Martinez
+  * Implementing Lean Software Development: From Concept to Cash; Poppendieck
+  * Joel on Software; Spolsky
+  * Death March; Yourdon
+  * Psychology of Computer Programming, The; Weinberg
+  * Introduction to General Systems Thinking; Weinberg
+  * En defensa de los ociosos; Stevenson; non-technical, own-it
+  * Lao Tzu : Tao Te Ching : A Book About the Way and the Power of the Way; Tzu, Le Guin; non-technical
+  * Gay Science, the; Nietzsche; non-technical
+  * Being Geek; Lopp
+  * Finance for Freelancers; Retallick
+  * Object-oriented software engineering: a use case driven approach; Jacobson
+  * Patterns of Enterprise Application Architecture; Fowler; own-it
+  * Thinking fast and slow; Kahneman; non-technical
+  * Emotional intelligence; Goleman; non-technical
+  * Ética a Nicómaco; Aristotle; own-it, non-technical
+  * Romeo y Julieta; Shakespeare; non-technical
+  * Computer Systems: A Programmer’s Perspective; Bryant, O'Hallaron
+  * My Journey to Lhasa: The Classic Story of the Only Western Woman Who Succeeded in Entering the Forbidden City; David-Néel; non-technical
+  * Cathedral and the bazaar, the ; Raymond
+  * Coding dojo handbook, the; Bache; own-it
+  * Making software; Oram and Wilson; own-it
+  * Code complete; McConnell; own-it
+  * Soft skills; Sonmez; own-it
+  * DSLs in action; Ghosh; own-it
+  * Purely functional data structures; Okasaki; own-it
+  * Working effectively with unit tests; Fields (+); own-it
+  * First Nazi, the; Ludendorff; non-technical
+  * Greatest story ever told ... so far; Krauss; non-technical
+  * Master algorithm, the; Domingos; non-technical
+  * Invention of Science, the; Wootton; non-technical
+  * Tesla: Inventor of the electrical age; Bernard Carlson; non-technical
+  * Psychology in minutes; Weeks; non-technical
+  * Alan Turing: The Enigma; Hodges; non-technical
+  * How to think more about sex; de Botton; non-technical
+  * Piccolo manuale di persuasione; Taylor; non-technical
+  * arte de la guerra, el; Sun Tzu; non-technical, own-it
+  * Piccolo manuale di leadership Confuciana; Adair; non-technical
+  * How to Stop Worrying and Start Living; Carnegie; non-technical
+  * Uomo - Guida allo stile; Roetzel; non-technical
+  * Unwritten Laws of Engineering: Revised and Updated Edition; King
+  * Test-Driven JavaScript Development (Developer's Library); Johansen
+  * Test Driven Development: By Example; Beck
+  * Arquitectura Java JPA Domain Driven Design; Alvárez, Peláez
+  * End of loyalty, the; Wartzman; non-technical
+  * Basic Economics; Sowell; non-technical
+  * Introduction to Economic Analysis; McAfee; non-technical
+  * Patterns of Software; Gabriel
+  * Coders at work; Seibel
+  * Clean architecture; Martin
+  * How to Be a Stoic: Using Ancient Philosophy to Live a Modern Life; Pigliucci; non-technical
+  * Introduction to Object-Oriented Programming, an; Budd
+  * Gafas de la felicidad, las; Santandreu; non-technical
+  * Ser feliz en Alaska; Santandreu; own-it, non-technical
+  * Mochila para el universo, una; Punset; non-technical
+  * Gods themselves, the; Asimov; non-technical
+  * Panamá papers, the; Obermayer, Obermaier; non-technical
+  * Originals; Grant; non-technical
+  * Optimism over despair; Chomsky; non-technical
+  * SCIENCE OF BREATH: A Practical Guide; Ballentine, Hymes; non-technical
+  * Yoga Explained: A New Step-by-step Approach to Understanding and Practising Yoga; Mehta,‎ Arjunwadkar; non-technical
+  * Wanderlust: A Modern Yogi's Guide to Discovering Your Best Self; Krasno; non-technical
+  * How to Think About Money; Clements; non-technical, finance
+  * By Way of Deception; Ostrovsky; non-technical
+  * Printemps des sayanim, le; Cohen; own-it, non-technical
+  * Deep work; Newport; non-technical, own-it
+  * Hooked: How to Build Habit-Forming Products; Eyal, Hoover; non-technical
+  * Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked; Alter; non-technical
+  * The Attention Merchants: The Epic Scramble to Get Inside Our Heads; Wu; non-technical
+  * Willpower: Why Self-Control is The Secret to Success; Baumeister, Tierney; non-technical
+  * Principles of Psychology, the; James; own-it, non-technical
+  * Our mutual friend; Dickens; non-technical
+  * Crucial Conversations: Tools for Talking When Stakes Are High, Second Edition; Patterson, Grenny, McMillan, Switzler; non-technical
+  * Amusing Ourselves to Death - Public Discourse in the Age of Show Business; Postman; non-technical
+  * Mastery; Greene; non-technical, own-it
+  * Silence in the age of noise; Kagge; non-technical
+  * Functional programming simplified; Alexander; own-it
+  * Your money or your life; Dominguez, Robin; non-technical, finance
+  * Batalla del Ebro, la; Reverte; non-technical
+  * Historia de la guerra civil española; Rojo; non-technical
+  * Lucha por el poder, la; Evans; non-technical
+  * Revolución rusa, la; Pipes; non-technical
+  * Holocausto, el; Rees; non-technical
+  * Martín Lutero, renegado y Profeta; Roper; non-technical
+  * Siglo de la revolución, el ; Fontana; non-technical
+  * Història de la revolución rusa; Trotsky; non-technical
+  * Dispossessed, the; Le Guin; non-technical
+  * Left hand of darkness; Le Guin; non-technical
+  * Lathe of heaven; Le Guin; non-technical
+  * https://www.amazon.com/Schopenhauer-Cure-Novel-Irvin-Yalom/dp/0060938102/
+  * https://www.amazon.com/How-Schopenhauer-Through-Mid-Life-Crisis-ebook/dp/B00QXNB5PC/
+  * Books in general -- Epstein
+  * Affluent society, the; Galbraith; non-technical, finance
+  * Philosophy of the Buddha; Bahm; non-technical
+  * Tribe of mentors; guillem, non-technical, own-it
+  * 5 dysfunctions of a team; non-technical
+  * Ziglar's Top Performance; non-technical
+  * Pragmatic Programmer (+)
+  * High Output Management; Grove; non-technical
+  * First Break All the Rules; non-technical
+  * Managing for happiness; Appelo; non-technical
+  * How to be a stoic - Pugliucci; non-technical
+  * Why budism is true; Wright; non-technical
+
+unfinished (unsorted):
+
+  * Effective Java; Bloch; own-it
+  * Functional Programming Patterns in Scala and Clojure; own-it
+  * Release It! - Design and Deploy Production-Ready Software; own-it
+  * Refactoring (+); Fowler; own-it
+  * Leprechauns of Software Engineering (+), the; Bossavit; own-it
+  * Domain-Driven Design: Tackling Complexity in the Heart of Software; Vernon (+); own-it
+  * Pragmatic Thinking and Learning: Refactor Your Wetware; own-it
+  * Readings in Database Systems, 5th Edition; own-it
+  * Structure and Interpretation of Computer Programs (SICP); Abelson, Sussmann, Sussmann; own-it
+  * La Sociedad De Coste Marginal Cero (Estado y Sociedad); Rifkin; non-technical
+  * Odisea; Homero; non-technical
+  * Switch: How to Change Things When Change Is Hard; Heath, Heath; own-it, non-technical
+  * Como leer un libro; Adler, van Doren; non-technical, own-it
+
+next (2):
+
+  * Who rules the world?; Chomsky; non-technical
+  * Working Effectively with Legacy Code (+); Feathers; own-it
+  * Nonviolent communication (+); Rosenberg; own-it, non-technical
+  * Introduction to Buddhism: Teachings, History and Practices, an; Harvey; non-technical, own-it
+  * Meditations; Marcus Aurelius; non-technical, own-it
+
+wip (2):
+
+  * Continuous Delivery; Humble, Farley; own-it
+  * Prince, the; Macchiavello; non-technical, own-it
+
+done:
+
+  * Senior software developer, the; Copeland; own-it
+  * Scandal in Bohemia, a; Doyle; own-it
+  * Getting things done, ...; Allen (+); own-it, non-technical
+  * Nature of Software Development, the; Jeffries; own-it
+  * Team Geek; Fitzpatrick, Collins-Sussman; own-it
+  * Aprendo Yoga; Van Lysebeth; non-technical, own-it
+  * Clean Coder: A Code of Conduct for Professional Programmers, the; Martin; own-it
+  * ML for the working programmer, 2nd edition [5th chapter only]; Paulson; own-it
+  * Lazarillo de Tormes, el; anónimo; non-technical
+  * Tom Clancy's power plays - Politika; Preisler; own-it, non-technical
+  * Moon is a harsh mistress, the; Heinlein; own-it, non-technical
+  * Old man's war; Scalzi; non-technical, own-it
+  * Nightfall; Asimov, Silverberg; own-it, non-technical
+  * Interface; Stephenson, George; non-technical, own-it
+  * Man who sold the moon, the; Heinlein; own-it, non-technical
+  * Agents of innocence; Ignatius; own-it, non-technical
+  * Fist of god, the; Forsyth; own-it, non-technical
+  * Avaro, el; Molière; own-it, non-technical
+  * Bogleheads’ Guide to Investing, the; Larimore, Lindauer, LeBoeuf; own-it, non-technical, finance
+  * Lazyperson's guide to investment; Farrell; own-it, non-technical, finance
+  * Millionaire next door, the; Stanley, Danko; own-it, non-technical, finance
+  * Little Book of Common Sense Investing; Bogle; own-it, non-technical, finance
+  * Monje que vendió su Ferrari, el; Sharma; own-it, non-technical
+  * Siddhartha; Hesse; non-technical, own-it
+  * If you can: how millenials can get rich slowly; Bernstein; own-it, non-technical, finance
+  * Odessa; Forsyth; non-technical, own-it
+  * Bogle on mutual funds: new perspectives for the intelligent investor; Bogle; own-it, non-technical, finance
+  * Perros de la guerra, los; Forsyth; own-it, non-technical
+  * avaro y el oro, el; Esopo; non-technical
+  * Aulularia; Plauto; own-it, non-technical
+  * Tus zonas erróneas; Dyer; non-technical, own-it
+  * Alternativa del Diablo, la; Forsyth; own-it, non-technical
+  * Guía, el; Forsyth; own-it, non-technical
+  * Pied piper; Forsyth; own-it, non-technical
+  * Hunt for the Red October, the; Clancy; own-it, non-technical
+  * Peopleware; DeMarco, Lister (+); own-it
+  * Time to kill, a; Grisham; own-it, non-technical
+  * Ética promiscua; Easton, Hardy; own-it, non-technical
+  * Checklist manifesto, the; Gawande; own-it, non-technical, guillem
+  * Team geek (+); guillem, own-it
+  * Kata de la voluntad; guillem, non-technical
+  * Phoenix project, the ; Kim, Behr, Spafford; own-it
+  * Obstacle is the way, the; guillem, non-technical
+  * Guide to stoicism, a; Stock; own-it, non-technical
+
+rejected:
+
+  * Stanger in a strange land; Heinlein; own-it, non-technical
+
+lists:
+
+  * https://www.goodreads.com/review/list/246177-rob?shelf=non-fiction-for-humans
+  * https://www.goodreads.com/list/show/451.Best_Philosophy_Book
+  * https://www.goodreads.com/list/show/8379.Software_Craftsmanship
+  * https://blog.ycombinator.com/ycs-2017-summer-reading-list/
+  * https://www.goodreads.com/list/show/107321.TI2011_Course
+  * https://www.goodreads.com/list/show/12287.Fog_Creek_Software_Management_Training_Program
+  * https://www.goodreads.com/list/show/12351.Books_on_Stoic_Philosophy; non-technical
+  * Tom clancy's power plays
+  * https://www.thriveglobal.com/stories/17969-11-top-positive-psychology-books-that-will-improve-your-work-and-life
+  * Investing: http://efficientfrontier.com/reading.htm
+  * Investing, personal finance: https://www.goodreads.com/review/list/5876938-tyler?shelf=personal-finance
+  * Investing: http://lemkingroup.com/ListOfPersonalFinanceBooks.html#SelectedWebSites
+  * High performance organizations: https://github.com/pdfernhout/High-Performance-Organizations-Reading-List
+  * For becoming a manager / team management: https://news.ycombinator.com/item?id=16151067
+
+
