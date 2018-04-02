@@ -1,5 +1,7 @@
 ----
 published: false
+categories:
+  - draft
 ----
 
 curiosities - so early, they talk:
