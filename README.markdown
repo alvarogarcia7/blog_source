@@ -219,6 +219,7 @@ The books are now stored in a [trello board](https://trello.com/b/LPT145PW/books
   * Use the [trello-board-converter] project to turn the JSON into a markdown (md) format.
   * Copy-paste the list below the marker
   * Archive the cards in the 'done' column
+  * Commit the file. Usually a "[books]" tag in the commit message
   * [Undecided] Delete the cards in that column
 
 [trello-board-converter]: https://github.com/alvarogarcia7/trello-board-converter
