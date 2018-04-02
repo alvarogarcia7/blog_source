@@ -21,6 +21,8 @@ Read this quarter:
 
 Note: re+read means I'm re-reading this book. The (+) stands for one-or-more times, as in the regexes.
 
+Note: the tag "guillem" is for books suggested by [Guillem Fernandez](https://twitter.com/guillemfg)
+
   * Odessa; Forsyth; non-technical, own-it
   * Bogle on mutual funds: new perspectives for the intelligent investor; Bogle; own-it, non-technical, finance
   * Perros de la guerra, los; Forsyth; own-it, non-technical
@@ -39,7 +41,7 @@ Note: re+read means I'm re-reading this book. The (+) stands for one-or-more tim
   * Kata de la voluntad; guillem, non-technical
   * Phoenix project, the ; Kim, Behr, Spafford; own-it
   * Obstacle is the way, the; guillem, non-technical
-  * Guide to stoicism, a; Stock; own-it, non-technical
+  * Guide to stoicism, a; Stock; own-it, non-technical. A quick guide into the Stoic philosophy. Interest in the authors, the way they structure knowledge.
 
 <!-- copy-paste the books.md here -->
 
@@ -286,7 +288,7 @@ done:
   * Kata de la voluntad; guillem, non-technical
   * Phoenix project, the ; Kim, Behr, Spafford; own-it
   * Obstacle is the way, the; guillem, non-technical
-  * Guide to stoicism, a; Stock; own-it, non-technical
+  * Guide to stoicism, a; Stock; own-it, non-technical. A 
 
 rejected:
 
