@@ -209,6 +209,21 @@ Then, use the `{}` syntax to copy the file:
 cp content/blog/2017-{08,09}-01-self-study.markdown
 ```
 
+### Generate a list of read books
+
+The books are now stored in a [trello board](https://trello.com/b/LPT145PW/books).
+
+#### Update them
+
+  * Go to the trello board, export to JSON.
+  * Use the [trello-board-converter] project to turn the JSON into a markdown (md) format.
+  * Copy-paste the list below the marker
+  * Archive the cards in the 'done' column
+  * [Undecided] Delete the cards in that column
+
+[trello-board-converter]: https://github.com/alvarogarcia7/trello-board-converter
+
+
 ## Workflow
 
 ### Using the local environment
