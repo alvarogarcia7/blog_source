@@ -22,3 +22,15 @@ They suggest contingent planning for the days with high expected interruptions, 
 
 Tags: engagement, work, productivity, michael-parke, justin-weinhardt
 
+## [You May Hate Planning, But You Should Do It Anyway](https://hbr.org/2016/09/you-may-hate-planning-but-you-should-do-it-anyway)
+
+I've read this article by Elizabeth Grace Saunders. In it, she points that:
+
+> * Planning will trigger pain — at least initially
+> * Things tend to go better when you plan
+> * Planning becomes the canary
+
+She suggests that planning can help you become more productive, even considering the sunk cost of planning itself.
+
+Tags: elizabeth-saunders, planning, hbr, management, time-management, plan
+
