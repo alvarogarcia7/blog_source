@@ -93,9 +93,9 @@ public class PinCodeFactory {
 }
 ```
 
-But, if you execute these tests long enough, it will fail. Because of the underlaying randomness of the code. We don't want to modify the design of this class, as we started with "wishful programming", specifying the desired public API, to later fill the implementation details.
+But, if you execute these tests long enough, they will fail. Because of the underlaying randomness of the code. We don't want to modify the design of this class, as we started with "wishful programming" ([reference](http://blog.adrianbolboaca.ro/2016/04/programming-by-wishful-thinking/), [reference](https://dsoguy.blogspot.com/2007/01/programming-by-wishful-thinking.html)), specifying the desired public API, to later fill the implementation details.
 
-A possible solution to this randomness is to consider the random a 'setting' [aka policy](http://www.mockobjects.com/2006/10/different-kinds-of-collaborators.html) that I can later override. But only for the test. We don't want to make the API more complicated, so we will offer a protected method for 'friends' to use:
+A possible solution to this randomness is to consider the random a 'setting' [aka policy](http://www.mockobjects.com/2006/10/different-kinds-of-collaborators.html) that I can later override. But only for the test. We don't want to make the API more complicated, so we will offer a `protected` method for 'friends' to use, but not for everyone:
 
 ```java
 package com.example;
@@ -136,7 +136,7 @@ This is just one way how you can test components that have randomness: eliminati
 
 ### Second requirement: the pin codes don't repeat
 
-Even if this requirement cannot be met with enough requests (because with enough requests, you will repeat a six-digits code), finding no repeated codes in 100 consecutive pin codes is enough. The user has to input the exact code they received, so the chance of repetition is quite low.
+Even if this requirement cannot be met with enough requests (because with enough requests, you will repeat a six-digit code), finding no repeated codes in 100 consecutive pin codes is enough. The user has to input the exact code they received, so the chance of repetition is quite low.
 
 ```java
 @Test
