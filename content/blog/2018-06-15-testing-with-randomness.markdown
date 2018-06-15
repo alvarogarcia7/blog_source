@@ -237,8 +237,10 @@ package com.example;
 import org.junit.Before;
 import org.junit.Test;
 
+import java.util.Collection;
 import java.util.HashSet;
 import java.util.Random;
+import java.util.function.Consumer;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
@@ -256,34 +258,34 @@ public class PinCodeFactoryTest {
     @Test
     public void there_are_no_repeated_with_the_given_seed () {
         final int desiredProofSize = 100;
-        final HashSet<String> pincodes = generatePinCodes(desiredProofSize);
-        assertThat(pincodes.size(), is(desiredProofSize));
+        verifyAll(pinCodes(desiredProofSize), pinCodes -> assertThat(pinCodes.size(), is(desiredProofSize)));
     }
 
     @Test
     public void the_numbers_are_left_padded_with_zeros () {
-        final HashSet<String> pincodes = generatePinCodes(100);
-        for (final String pincode : pincodes) {
-            assertThat(pincode.length(), is(6));
-        }
+        verifyEachOf(pinCodes(100), pincode -> assertThat(pincode.length(), is(6)));
     }
 
     @Test
     public void the_numbers_do_not_contain_spaces () {
-        final HashSet<String> pincodes = generatePinCodes(100);
+        verifyEachOf(pinCodes(100), pincode -> assertThat(pincode.contains(" "), is(false)));
+    }
+
+    public void verifyEachOf (final Collection<String> pincodes, final Consumer<String> assertion) {
         for (final String pincode : pincodes) {
-            assertThat(pincode.contains(" "), is(false));
+            assertion.accept(pincode);
         }
     }
 
+    public void verifyAll (final Collection<String> pincodes, final Consumer<Collection<String>> assertion) {
+        assertion.accept(pincodes);
+    }
 
-    private HashSet<String> generatePinCodes (final int desiredProofSize) {
-        final HashSet<String> pincodes = new HashSet<>();
-        for (int i = 0; i < desiredProofSize; i++) {
-            final String pincode = pinCodeFactory.aNewPinCode().value;
-            pincodes.add(pincode);
-        }
-        return pincodes;
+
+    private Set<String> pinCodes (final int desiredProofSize) {
+        return Stream.generate(() -> pinCodeFactory.aNewPinCode().value)
+                .limit(desiredProofSize)
+                .collect(Collectors.toSet());
     }
 }
 ```
