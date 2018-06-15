@@ -73,3 +73,24 @@ public void the_numbers_do_not_contain_spaces () {
 
 Now that these tests are failing, I can focus on finding a simple implementation that satisfies them.
 
+A passing solution:
+
+```java
+package com.example;
+
+import com.example.Pincode;
+
+import java.net.URI;
+import java.security.SecureRandom;
+import java.util.Random;
+
+public class PinCodeFactory {
+    private Random secureRandom = new SecureRandom();
+
+    public PinCode aNewPinCode () {
+        return new PinCode(String.format("%06d", random.nextInt(1_000_000)));
+    }
+}
+```
+
+But, if you execute these tests long enough, it will fail. Because of the underlaying randomness of the code. We don't want to modify the design of this class, as we started with "wishful programming", specifying the desired public API, to later fill the implementation details.
