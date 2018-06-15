@@ -40,5 +40,36 @@ public class PinCode {
 
 Note: this is not the final solution; it does not include package, imports; might not even compile. Take it as pseudo-code.
 
+Now that we this "obvious implementation" in mind, how can we test drive it?
 
+Let's start with the requirements:
+
+  * the numbers are always six digits
+  * they should be pseudo-random
+
+We can test the first by taking one of them and verifying that it has six digits.
+
+The problem with that is that the SecureRandom gives random data. Now, the test will be passing, but later in the future, the build will break as this implementation has (some) defects. If you keep generating pin codes, you will get one as "123", as per the definition of the `nextInt` method.
+
+Easy. You add a base amount to always make it in the six digits. But, are you affecting the distribution of the pseudo-random generator? I'm not even sure. To make it easier, let's pad the numbers with zeros on the left:
+
+```java
+@Test
+public void the_numbers_are_left_padded_with_zeros () {
+    final HashSet<String> pincodes = generatePinCodes(100);
+    for (final String pincode : pincodes) {
+        assertThat(pincode.length(), is(6));
+    }
+}
+
+@Test
+public void the_numbers_do_not_contain_spaces () {
+    final HashSet<String> pincodes = generatePinCodes(100);
+    for (final String pincode : pincodes) {
+        assertThat(pincode.contains(" "), is(false));
+    }
+}
+```
+
+Now that these tests are failing, I can focus on finding a simple implementation that satisfies them.
 
