@@ -20,4 +20,25 @@ A first solution that he have implemented is to provide a 6-digit pin code.
 
 The solution (in java) is straightforward: get a `Random` to generate `int`s for you.
 
+```java
+public class PinCodeFactory {
+    private Random secureRandom = new SecureRandom();
+
+    public PinCode aNewPinCode () {
+        return new PinCode(secureRandom.nextInt(1_000_000));
+    }
+}
+
+public class PinCode {
+    public final String value;
+
+    public PinCode (final String value) {
+        this.value = value;
+    }
+}
+```
+
+Note: this is not the final solution; it does not include package, imports; might not even compile. Take it as pseudo-code.
+
+
 
