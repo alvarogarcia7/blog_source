@@ -12,9 +12,13 @@ title: Testing a component that includes randomness
 url: /blog/2018/06/15/testing-component-randomness/
 ---
 
+## Context
+
 We have been tasked with designing a component to generate secrets for two-factor authentication (2FA), to ensure that the you also own that other 'channel'.
 
 It has to be secure enough to pass to verify a user, meaning no other user should be able to impersonating another one by guessing the secret.
+
+## Solution
 
 A first solution that he have implemented is to provide a 6-digit pin code.
 
@@ -40,7 +44,7 @@ public class PinCode {
 
 Note: this is not the final solution; it does not include package, imports; might not even compile. Take it as pseudo-code.
 
-Now that we this "obvious implementation" in mind, how can we test drive it?
+Now that we this "[obvious implementation](https://rubyplus.com/articles/521-TDD-Basics-Obvious-Implementation)" in mind, how can we test drive it?
 
 Let's start with the requirements:
 
