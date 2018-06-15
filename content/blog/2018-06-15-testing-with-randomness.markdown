@@ -62,18 +62,12 @@ Easy. You add a base amount to always make it in the six digits. But, are you af
 ```java
 @Test
 public void the_numbers_are_left_padded_with_zeros () {
-    final HashSet<String> pincodes = generatePinCodes(100);
-    for (final String pincode : pincodes) {
-        assertThat(pincode.length(), is(6));
-    }
+    verifyEachOf(pinCodes(100), pincode -> assertThat(pincode.length(), is(6)));
 }
 
 @Test
 public void the_numbers_do_not_contain_spaces () {
-    final HashSet<String> pincodes = generatePinCodes(100);
-    for (final String pincode : pincodes) {
-        assertThat(pincode.contains(" "), is(false));
-    }
+    verifyEachOf(pinCodes(100), pincode -> assertThat(pincode.contains(" "), is(false)));
 }
 ```
 
@@ -148,8 +142,7 @@ Even if this requirement cannot be met with enough requests (because with enough
 @Test
 public void there_are_no_repeated_with_the_given_seed () {
     final int desiredProofSize = 100;
-    final HashSet<String> pincodes = generatePinCodes(desiredProofSize);
-    assertThat(pincodes.size(), is(desiredProofSize));
+    verifyAll(pinCodes(desiredProofSize), pinCodes -> assertThat(pinCodes.size(), is(desiredProofSize)));
 }
 ```
 
