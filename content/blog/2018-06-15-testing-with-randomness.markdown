@@ -160,3 +160,133 @@ We did not get much value of test-driving (TDD) this code, as the knew the desir
 One way how you can test components that have randomness: eliminating it.
 
 Do not use TDD (or any other tool) as an end in itself. Use it as a tool.
+
+## Appendix
+
+All code can be found [here](https://gist.github.com/alvarogarcia7/46917d8d160d46b145de8262e3965670)
+
+As a local copy:
+
+```java
+//File PinCode.java
+package com.example;
+
+import java.util.Objects;
+
+public class PinCode {
+    public final String value;
+
+    public PinCode (final String value) {
+        this.value = value;
+    }
+
+    @Override
+    public boolean equals (final Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        final PinCode pinCode = (PinCode) o;
+        return Objects.equals(value, pinCode.value);
+    }
+
+    @Override
+    public int hashCode () {
+        return Objects.hash(value);
+    }
+
+    @Override
+    public String toString () {
+        final StringBuffer sb = new StringBuffer("PinCode{");
+        sb.append("value='").append(value).append('\'');
+        sb.append('}');
+        return sb.toString();
+    }
+}
+```
+
+```java
+//File PinCodeFactory.java
+package com.example;
+
+import com.example.Pincode;
+
+import java.net.URI;
+import java.security.SecureRandom;
+import java.util.Random;
+
+public class PinCodeFactory {
+
+    private Random random;
+
+    public PinCodeFactory () {
+        random = new SecureRandom();
+    }
+
+    public PinCode aNewPinCode () {
+        final String payload = String.format("%06d", random.nextInt(1_000_000));
+        final PinCode pinCode = new PinCode(payload);
+        return pinCode;
+    }
+
+    protected void setGenerator (final Random generator) {
+        this.random = generator;
+    }
+}
+```
+
+```java
+//File PinCodeFactoryTest.java
+package com.example;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import java.util.HashSet;
+import java.util.Random;
+
+import static org.hamcrest.core.Is.is;
+import static org.junit.Assert.assertThat;
+
+public class PinCodeFactoryTest {
+
+    private PinCodeFactory pinCodeFactory;
+
+    @Before
+    public void setUp () {
+        pinCodeFactory = new PinCodeFactory();
+        pinCodeFactory.setGenerator(new Random(1L));
+    }
+
+    @Test
+    public void there_are_no_repeated_with_the_given_seed () {
+        final int desiredProofSize = 100;
+        final HashSet<String> pincodes = generatePinCodes(desiredProofSize);
+        assertThat(pincodes.size(), is(desiredProofSize));
+    }
+
+    @Test
+    public void the_numbers_are_left_padded_with_zeros () {
+        final HashSet<String> pincodes = generatePinCodes(100);
+        for (final String pincode : pincodes) {
+            assertThat(pincode.length(), is(6));
+        }
+    }
+
+    @Test
+    public void the_numbers_do_not_contain_spaces () {
+        final HashSet<String> pincodes = generatePinCodes(100);
+        for (final String pincode : pincodes) {
+            assertThat(pincode.contains(" "), is(false));
+        }
+    }
+
+
+    private HashSet<String> generatePinCodes (final int desiredProofSize) {
+        final HashSet<String> pincodes = new HashSet<>();
+        for (int i = 0; i < desiredProofSize; i++) {
+            final String pincode = pinCodeFactory.aNewPinCode().value;
+            pincodes.add(pincode);
+        }
+        return pincodes;
+    }
+}
+```
