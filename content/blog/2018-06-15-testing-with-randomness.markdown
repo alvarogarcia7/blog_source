@@ -57,7 +57,7 @@ We can test the first by taking one of them and verifying that it has six digits
 
 The problem with that is that the SecureRandom gives random data. Now, the test will be passing, but later in the future, the build will break as this implementation has (some) defects. If you keep generating pin codes, you will get one as "123", as per the definition of the `nextInt` method.
 
-Easy. You add a base amount to always make it in the six digits. But, are you affecting the distribution of the pseudo-random generator? I'm not even sure. To make it easier, let's pad the numbers with zeros on the left:
+Easy. You add a base amount to always make it in the six digits. But, are you affecting the distribution of the pseudo-random generator? At this time, I'm not even sure. [Don't make me think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) too much. To make it easier, let's pad the numbers with zeros on the left:
 
 ```java
 @Test
