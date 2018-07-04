@@ -3,8 +3,8 @@ categories:
 - sample
 date: 2018-07-04T07:03:19Z
 published: false
-title: The dangers of the 'business as usual'
-url: /blog/2018/07/04/danger-business-as-usual/
+title: Questioning the existing choices
+url: /blog/2018/07/04/questioning-existing-choices/
 ---
 
 ## Context
