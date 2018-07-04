@@ -9,7 +9,6 @@ categories:
 - solution
 - if-it-aint-broke-dont-fix-it
 date: 2018-07-04T07:03:19Z
-published: false
 title: Questioning the existing choices
 url: /blog/2018/07/04/questioning-existing-choices/
 ---
