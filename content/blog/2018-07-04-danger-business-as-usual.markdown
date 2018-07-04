@@ -42,5 +42,5 @@ The git repository solves both:
 
 This client was using "if ain't broken, don't touch it", with a good-enough solution.
 
-Not questioning the existing choice leaves the client in a worse place that they could be. Questioning all the existing choices is expensive, and time-consuming. Finding the sweet spot for questioning depends heavily on the context.
+Not questioning the existing choice is expensive, putting you in a worse place that they could be. Questioning all the existing choices is expensive, and time-consuming. Finding the sweet spot (whether to question or not), depends heavily on the context.
 
