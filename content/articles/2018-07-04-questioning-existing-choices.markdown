@@ -48,4 +48,4 @@ The git repository solves both:
 
 This client was using ["if ain't broke, don't fix it"](https://en.wiktionary.org/wiki/if_it_ain%27t_broke,_don%27t_fix_it), with a good-enough solution.
 
-Not questioning the existing choice is expensive, putting you in a worse place that they could be. Questioning all the existing choices is expensive, and time-consuming. Finding the sweet spot (whether to question or not), depends heavily on the context.
+Not questioning the existing choice is expensive, putting you in a worse place that you could be. Questioning all the existing choices is expensive, and time-consuming (might lead to [analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis)). Finding the sweet spot (whether to question or not), depends heavily on the context.
