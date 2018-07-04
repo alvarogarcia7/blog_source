@@ -224,6 +224,9 @@ The books are now stored in a [trello board](https://trello.com/b/LPT145PW/books
 
 [trello-board-converter]: https://github.com/alvarogarcia7/trello-board-converter
 
+### Extraneous files
+
+Adding file (such as a mindmap `.mm` file) to the `content` folder, makes it available at the `blog` folder, but does not crash the CI
 
 ## Workflow
 
