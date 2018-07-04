@@ -1,6 +1,13 @@
 ---
 categories:
-- sample
+- client
+- questioning
+- choice
+- pragmatism
+- versioning
+- git
+- solution
+- if-it-aint-broke-dont-fix-it
 date: 2018-07-04T07:03:19Z
 published: false
 title: Questioning the existing choices
