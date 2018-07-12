@@ -142,7 +142,30 @@ $COMMAND
 ```
 
 
-Quiet ('-q') / Force ('-f')
+### Verbosity levels
+
+When some scripts grow in size and are not a script but an application, being more or less verbose is useful.
+
+See `curl` as an example:
+
+```
+$ curl localhost:8080
+curl: (7) Failed to connect to localhost port 8080: Connection refused
+$ curl -vvv localhost:8080
+* Rebuilt URL to: localhost:8080/
+*   Trying ::1...
+* connect to ::1 port 8080 failed: Connection refused
+*   Trying fe80::1...
+* connect to fe80::1 port 8080 failed: Connection refused
+*   Trying 127.0.0.1...
+* connect to 127.0.0.1 port 8080 failed: Connection refused
+* Failed to connect to localhost port 8080: Connection refused
+* Closing connection 0
+```
+
+Same with quiet mode, a mode to reduce verbosity.
+
+Same with 'raw' mode, a mode to only print the raw output, maybe for consumption from another script. 
 
 ### Using quotes
 
