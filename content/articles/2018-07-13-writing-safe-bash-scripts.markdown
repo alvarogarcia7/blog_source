@@ -77,9 +77,70 @@ set -e # 3
 
 ### Debugging
 
-bash -x
+#### Enable tracing / debugging mode
 
-Dry run
+I usually make my bash scripts as simple as possible (see Limitations), but even then, they fail often while building them.
+
+For that reason, you can enable the 'debug' option permanently:
+
+```
+# Inside the script
+set -x
+```
+
+Or just for one invocation:
+
+```
+# When invoking the script
+bash -x myscript.sh
+```
+
+Note: your script will get the parameters in the same fashion as if executing `./myscript.sh`:
+
+```
+$ cat myscript.sh
+echo $1
+$ ./myscript.sh 1
+1
+$ bash -x myscript.sh 1
++ echo 1
+1
+```
+
+#### Dry-run while building the script
+
+A common pattern I use while building scripts is to prepare the command but do not execute it yet:
+
+```
+...
+# prepare options, decide what to do
+echo COMMAND_WITH_SIDE_EFFECTS
+```
+
+When I am sure that this is the desired command, usually after trying it manually on the console, I can remove the `echo`:
+
+```
+...
+# prepare options, decide what to do
+COMMAND_WITH_SIDE_EFFECTS
+```
+
+#### Dry-run as another switch
+
+You can use the previous pattern but as a feature of your script:
+
+  * Accept '-n / --dry-run' (or similar)
+  * When the switch is enabled, prepend `echo ` to your final command
+
+```
+COMMAND="rm -rf ./.git"
+if [ $DRY_RUN ]; then
+  COMMAND="echo $COMMAND"
+fi
+
+$COMMAND
+```
+
 
 Quiet ('-q') / Force ('-f')
 
@@ -90,6 +151,8 @@ Quiet ('-q') / Force ('-f')
 ### Single Responsibility Principle (SRP)
 
 ### Hot-swap / reload
+
+### Be extra careful with `rm`
 
 ## Limitations
 
