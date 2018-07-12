@@ -34,7 +34,8 @@ This is more common with perl than with bash, as most bash installs are placed a
 
 You can use `/usr/bin/env bash` / `/usr/bin/env sh` to spawn a shell.
 
-Usage
+Usage:
+
 ```
 #!/usr/bin/env bash
 
@@ -43,7 +44,36 @@ Usage
 
 ### Options for executing / Header
 
+add these options:
+
+```
 set -euxo pipefail
+```
+
+These can be added anywhere, but I usually add them after the shebang (the beginning of the script)
+
+<!--TODO add link to options-->
+
+a brief note:
+
+  * `set -e` stops the execution if a command fails (this is the default behavior in `make`)
+  * `set -u`: do not allow unglobbing (expansion of regexes) or unbound variables. <!--TODO find the exact thing-->
+  * `set -x`: debug. Trace the commands on the console
+  * `set -o pipefail`: make the pipe command fail if any of the commands in the pipe fail. 
+    * Example: with this option disabled, `a|b|c` when `a` fails, b will execute, the return value will be the one of `b`
+    * Example: with this option enabled, `a|b|c` when `a` fails, `b` will not execute, the return value will be the one of `a`
+
+If you want to use a try...catch pattern, disable `-e` temporarily:
+
+```
+set +e # 1
+ls NON_EXISTING_FILE #2
+set -e # 3
+```
+
+  * 1: Disable error-checking
+  * 2: a command that could fail. As the error checking is disabled, the execution continues even if 2 throws an error. Therefore, the exception is swallowed.
+  * 3: Enable error-checking again
 
 ### Debugging
 
