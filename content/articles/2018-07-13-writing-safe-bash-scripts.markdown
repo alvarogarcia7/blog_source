@@ -142,7 +142,7 @@ $COMMAND
 ```
 
 
-### Verbosity levels
+### Verbosity levels and other modes
 
 When some scripts grow in size and are not a script but an application, being more or less verbose is useful.
 
@@ -168,6 +168,80 @@ Same with quiet mode, a mode to reduce verbosity.
 Same with 'raw' mode, a mode to only print the raw output, maybe for consumption from another script. 
 
 ### Using quotes
+
+Imagine a script that prints the first, second, and third receveived parameter, then all of them:
+
+```
+$ cat myscript.sh
+echo "first=$1 second=$2 third=$3; all=$@"
+```
+
+The normal invocation:
+
+```
+$ ./myscript.sh 1 2 3
+first=1 second=2 third=3; all=1 2 3
+```
+
+(everything works as expected)
+
+now let's try strings (with spaces)
+
+```
+$ ./myscript.sh hello world
+first=hello second=world third=; all=hello world
+```
+
+Ok, bash uses spaces to delimit words. Now that we know this, lets be careful.
+
+We want to process some files (with spaces):
+
+```
+$ ls file*
+file 1.txt file 2.txt
+$ ./myscript.sh $(ls file*)
+first=file second=1.txt third=file; all=file 1.txt file 2.txt
+```
+
+A defect appeared: I want "file 1.txt" to be a parameter, not two. 
+
+Let's imagine a script checking whether a file exists:
+
+```
+$ cat file_exists.sh
+if [ -e $1 ]; then # -e is for file exists; see `man test`
+  echo "file $1 exists"
+else
+  echo "file $1 does not exist"
+fi
+```
+
+```
+$ ls file*
+file 1.txt     file 2.txt     file_exists.sh
+$ ./file_exists.sh "file 1.txt"
+./file_exists.sh: line 1: [: file: binary operator expected
+file file 1.txt does not exist
+```
+
+Let's add quotes to the test to make it work with spaces:
+
+```
+$ cat file_exists.sh
+if [ -e "$1" ]; then # note the quotes
+  echo "file $1 exists"
+else
+  echo "file $1 does not exist"
+fi
+$ ./file_exists.sh "file 1.txt"
+file file 1.txt exists
+```
+
+In general, be careful with spaces, as they mark the end of the string / parameter. Be proactive with quoting.
+
+Single quote does not interpolate: `'$PATH' is literally $PATH`
+
+Double quotes interpolate: `"$PATH" is the contents of the variable $PATH`
 
 ### SOLID
 
