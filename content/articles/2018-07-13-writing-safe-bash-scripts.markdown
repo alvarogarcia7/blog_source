@@ -98,7 +98,7 @@ set -euxo pipefail
 
 These can be added anywhere, but I usually add them after the shebang (the beginning of the script)
 
-<!--TODO add link to options-->
+[The set builtin reference](https://www.gnu.org/software/bash/manual/bash.html#The-Set-Builtin)
 
 a brief note:
 
@@ -215,7 +215,7 @@ Same with 'raw' mode, a mode to only print the raw output, maybe for consumption
 
 ### Using quotes
 
-Imagine a script that prints the first, second, and third receveived parameter, then all of them:
+Imagine a script that prints the first, second, and third received parameter, then all of them:
 
 ```
 $ cat myscript.sh
@@ -283,13 +283,19 @@ $ ./file_exists.sh "file 1.txt"
 file file 1.txt exists
 ```
 
-In general, be careful with spaces, as they mark the end of the string / parameter. Be proactive with quoting.
+In general, be careful with spaces, as they mark the end of the string / parameter. Be proactive with quoting. From the [google bash guide][google-bash-reference-guide]:
 
-Single quote does not interpolate: `'$PATH' is literally $PATH`
+  * Always quote strings containing variables, command substitutions, spaces or shell meta characters, unless careful unquoted expansion is required.
+  * Prefer quoting strings that are "words" (as opposed to command options or path names).
+  * Never quote literal integers.
+  * Be aware of the quoting rules for pattern matches in [[.
+  * Use "$@" unless you have a specific reason to use $*.
 
-Double quotes interpolate: `"$PATH" is the contents of the variable $PATH`
+Also: 
 
-If possible, try having spaces in the files you produce. It makes life much simpler.
+  * Single quote does not interpolate: `'$PATH' is literally $PATH`
+  * Double quotes interpolate: `"$PATH" is the contents of the variable $PATH`
+  * If possible, try having spaces in the files you produce. It makes life much simpler.
 
 ### SOLID
 
@@ -536,3 +542,6 @@ Now, I can `make b<TAB>` and it will suggest `make build`
 
   * [ShellCheck](https://www.shellcheck.net/) helps you check your shell scripts, using static analysis tools: ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts.
   * [Bash reference manual](https://www.gnu.org/software/bash/manual/bash.html)
+  * [Google Bash reference guide][google-bash-reference-guide]
+
+[google-bash-reference-guide]: https://google.github.io/styleguide/shell.xml
