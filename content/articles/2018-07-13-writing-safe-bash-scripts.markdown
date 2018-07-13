@@ -379,12 +379,12 @@ This will only delete files from the current directory down (`./`), yet another 
 
 Usually, I design my scripts:
 
-  * the function `process_file` to receive a single element (i.e., the function passed to `map` / iterate).
-  * Manually, I will list all files / candidates to a temporary file
-  * Review the candidates
-  * (with vim) turn the selected candidates into invocations.
+  * the function `process_file` to receive a single element (i.e., the function passed to `map` / iterate). This is the hard part
+  * Create plumbing (either code or manual invocations), putting together the candidates with the other function.
 
 ### Example 1: a long-lived script
+
+This is a full example with code to plumb the candidate to the function.
 
 I want to remove all the existing files in a directory that are greater in size than 30 KB. (I know this can be done with `find -exec` or `ls | xargs rm`, this is just an example for arbitrary logic).
 
@@ -453,6 +453,13 @@ main
 ```
 
 ### Example 2: a one-off script
+
+This is a full example with a manual invocation to plumb the candidate to the function.:
+
+  * the function `process_file` to receive a single element (i.e., the function passed to `map` / iterate).
+  * Manually, I will list all files / candidates to a temporary file
+  * Review the candidates
+  * (with vim) turn the selected candidates into invocations.
 
 First, on the REPL, find all the files:
 
