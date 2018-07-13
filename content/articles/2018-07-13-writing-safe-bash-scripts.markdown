@@ -1,6 +1,17 @@
 ---
 categories:
 - bash
+- sh
+- guide
+- script
+- one-off
+- maintenance
+- solid
+- single-responsibility-principle
+- perl
+- ruby
+- make
+- tip
 date: 2018-07-13T07:03:19Z
 published: false
 title: Writing safe bash scripts
