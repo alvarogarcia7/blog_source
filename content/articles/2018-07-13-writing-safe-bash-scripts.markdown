@@ -369,9 +369,10 @@ To avoid the above mistake,
 set -euxo pipefail
 cd $VARIABLE #this will fail if $VARIABLE is unbound
 rm -rf ./* # notice the dot (.) before the star
+cd - #go back to the previous folder
 ```
 
-This will only delete files from the current directory down, yet another protection. 
+This will only delete files from the current directory down (`./`), yet another level of protection. 
 
 
 ## How I write my scripts
