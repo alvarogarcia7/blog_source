@@ -243,13 +243,66 @@ Single quote does not interpolate: `'$PATH' is literally $PATH`
 
 Double quotes interpolate: `"$PATH" is the contents of the variable $PATH`
 
+If possible, try having spaces in the files you produce. It makes life much simpler.
+
 ### SOLID
 
+If your script is a one-off thing, or will not suffer churn/modification, then feel free to discard this tip. On the other hand, if this script will be part of a critical path (e.g., deploying) or will be modified in the future, try to apply the SOLID principles that we apply for other pieces of software.
+
+Especially the SRP (below)
+
 ### Single Responsibility Principle (SRP)
+
+I like to design my scripts by separating concerns or responsibilities.
+
+One typical example: process many files at once:
+
+```
+$ cat s1.sh
+#!/usr/bin/env bash
+
+function find_files {
+   while IFS= read -r -d '' file; do
+       files+=( "$file" )
+   done < <(find . -maxdepth 1 -type f -iname "file*.txt" -print0)
+}
+
+function process_file {
+  file="$1"
+  echo "Will write to file $file"
+}
+
+function main {
+  declare -a files # this is a global variable inside the script
+  find_files
+  for file in "${files[@]}"; do
+    process_file "$file"
+  done
+}
+
+main
+```
+
+The main benefit is that iterating the files is something that usually does not fail (just copy paste the script), while the main work is done in `process_file`. The two functions have different pace of change, therefore two responsibilities. The latter, I can test manually (on the REPL) until it works, then copy-paste the script (see 'How I write my scripts').
+
+Its execution:
+
+```
+$ ls file*
+file1.txt file2.txt
+$ ./s1.sh
+Will write to file ./file1.txt
+Will write to file ./file2.txt
+```
+
+For more information on return values and functions in bash, see [this article](https://www.linuxjournal.com/content/return-values-bash-functions)
+
 
 ### Hot-swap / reload
 
 ### Be extra careful with `rm`
+
+## How I write my scripts
 
 ## Limitations
 
