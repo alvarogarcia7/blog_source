@@ -98,7 +98,7 @@ set -euxo pipefail
 
 These can be added anywhere, but I usually add them after the shebang (the beginning of the script)
 
-[The set builtin reference](https://www.gnu.org/software/bash/manual/bash.html#The-Set-Builtin)
+Reference: [The set builtin](https://www.gnu.org/software/bash/manual/bash.html#The-Set-Builtin)
 
 a brief note:
 
