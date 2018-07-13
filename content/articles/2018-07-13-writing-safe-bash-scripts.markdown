@@ -435,4 +435,26 @@ And your files are processed. Gone, in this case.
 
 ### When it is too much for bash
 
+#### Parameter autocompletion
+
+For my build scripts, I enjoy hitting `<tab>` for autocompletion of the goals. Bash does not offer that out of the box (but can be performed using [programmable completion](https://www.gnu.org/software/bash/manual/bash.html#Programmable-Completion)). Make, on the other hand, offers goal autocompletion out of the box:
+
+```
+.PHONY: build
+build:
+    ./gradlew build
+```
+
+Now, I can `make b<TAB>` and it will suggest `make build`
+
+#### Complex/multi-stage scripts
+
+With my current knowledge of bash, I feel that some jobs are not appropriate for bash. For example, when dealing with spaces in strings, arrays, complex functions, etc.
+
+For that, I prefer a more powerful language, ideally scripting (so I can get a quick feedback cycle.) I've been playing with Perl lately (works very well), Ruby in the past. I've heard good things about typescript and go as well.
+
+Perl works well for powerful scripts that don't need to be tested.
+
+Ruby works well for programs (no longer scripts) that need to be tested.
+
 ## Other resources
