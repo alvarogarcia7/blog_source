@@ -304,6 +304,131 @@ For more information on return values and functions in bash, see [this article](
 
 ## How I write my scripts
 
+Usually, I design my scripts:
+
+  * the function `process_file` to receive a single element (i.e., the function passed to `map` / iterate).
+  * Manually, I will list all files / candidates to a temporary file
+  * Review the candidates
+  * (with vim) turn the selected candidates into invocations.
+
+### Example 1: a long-lived script
+
+I want to remove all the existing files in a directory that are greater in size than 30 KB. (I know this can be done with `find -exec` or `ls | xargs rm`, this is just an example for arbitrary logic).
+
+First, on the REPL, find all the files:
+
+```
+$ ls -lh file*
+-rw-r--r--  1 user  group     0B Jul 13 00:50 file1.txt
+-rw-r--r--  1 user  group     0B Jul 13 00:50 file2.txt
+-rw-r--r--  1 user  group   531K Jul 13 00:07 file3.txt
+```
+
+Find files greater than the desired size:
+
+```
+$ find . -maxdepth 1 -type f -iname "file*.txt" -size +30k -print0
+./file3.txt%
+```
+
+now, only need to delete the file:
+
+```
+function process_file {
+  file="$1"
+  echo "rm $file"
+}
+```
+
+First, I make sure that the plumbing code is all correct before executing commands with side effects (e.g., rm). If you are working with delicate data, you can consider working in a docker container.
+
+Then, remove the "temporary dry-run mode":
+
+```
+function process_file {
+  file="$1"
+  rm $file
+}
+```
+
+
+The full script:
+```
+$ cat s2.sh
+#!/usr/bin/env bash
+
+function find_files {
+   while IFS= read -r -d '' file; do
+       files+=( "$file" )
+   done < <(find . -maxdepth 1 -type f -iname "file*.txt" -size +30k -print0)
+}
+
+function process_file {
+  file="$1"
+  rm $file
+}
+
+function main {
+  declare -a files
+  find_files
+  for file in "${files[@]}"; do
+    process_file "$file"
+  done
+}
+
+main
+```
+
+### Example 2: a one-off script
+
+First, on the REPL, find all the files:
+
+```
+$ ls -lh file*
+-rw-r--r--  1 user  group     0B Jul 13 00:50 file1.txt
+-rw-r--r--  1 user  group     0B Jul 13 00:50 file2.txt
+-rw-r--r--  1 user  group   531K Jul 13 00:07 file3.txt
+-rw-r--r--  1 user  group   531K Jul 13 00:07 file_SUPER_IMPORTANT_DO_NOT_DELETE.txt
+```
+
+Find files greater than the desired size:
+
+```
+$ find . -maxdepth 1 -type f -iname "file*.txt" -size +30k > candidates.txt
+$ cat candidates.txt
+./file3.txt
+./file_SUPER_IMPORTANT_DO_NOT_DELETE.txt
+```
+
+Then, open vim to review, as a way of checking the valid candidates. This is the same process that `git rebase --interactive` offers: a CLI command to rebase based on your editor.
+
+I realize that the file `file_SUPER_IMPORTANT_DO_NOT_DELETE.txt` should not be deleted. So I remove that, manually.
+
+Now,
+
+```
+$ cat candidates.txt
+./file3.txt
+```
+
+then I prefer to edit the file manually than to create a script. Remember, this is a one-off effort. And programs need to be maintained. One-off scripts are to be thrown away, so no maintenance effort.
+
+Hint: the vim command `%s/^/rm /` will insert at the beginning of the line the command `rm ` that we need. The command `%s/$/;/` will append a semicolon at the end of the line. It's not needed for this example, but as a reminder. This replacement can also be done with `sed`/`awk`.
+
+```
+$ cat candidates.txt
+rm ./file3.txt;
+```
+
+Now, just execute this file:
+
+```
+bash candidates.txt
+```
+
+And your files are processed. Gone, in this case.
+
+
 ## Limitations
 
 ### When is bash enough
