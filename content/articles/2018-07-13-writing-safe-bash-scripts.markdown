@@ -98,7 +98,7 @@ set -euxo pipefail
 
 These can be added anywhere, but I usually add them after the shebang (the beginning of the script)
 
-Reference: [The set builtin](https://www.gnu.org/software/bash/manual/bash.html#The-Set-Builtin)
+Reference: [The set built-in](https://www.gnu.org/software/bash/manual/bash.html#The-Set-Builtin)
 
 a brief note:
 
@@ -176,7 +176,7 @@ COMMAND_WITH_SIDE_EFFECTS
 You can use the previous pattern but as a feature of your script:
 
   * Accept '-n / --dry-run' (or similar)
-  * When the switch is enabled, prepend `echo ` to your final command
+  * When the switch is enabled, it prepends `echo ` to your final command
 
 ```
 COMMAND="rm -rf ./.git"
@@ -535,7 +535,7 @@ Ruby works well for programs (no longer scripts) that need to be tested.
 
 #### Parameter autocompletion
 
-For my build scripts, I enjoy hitting `<tab>` for autocompletion of the goals. Bash does not offer that out of the box (but can be performed using [programmable completion](https://www.gnu.org/software/bash/manual/bash.html#Programmable-Completion)). Make, on the other hand, offers goal autocompletion out of the box:
+For my build scripts, I enjoy hitting `<tab>` for auto-completion of the goals. Bash does not offer that out of the box (but can be performed using [programmable completion](https://www.gnu.org/software/bash/manual/bash.html#Programmable-Completion)). Make, on the other hand, offers goal autocompletion out of the box:
 
 ```
 .PHONY: build
