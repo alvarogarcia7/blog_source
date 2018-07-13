@@ -117,7 +117,7 @@ ls NON_EXISTING_FILE #2
 set -e # 3
 ```
 
-  * 1: Disable error-checking
+  * 1: Disable error-checking. Note this is a plus (+) sign
   * 2: a command that could fail. As the error checking is disabled, the execution continues even if 2 throws an error. Therefore, the exception is swallowed.
   * 3: Enable error-checking again
 
