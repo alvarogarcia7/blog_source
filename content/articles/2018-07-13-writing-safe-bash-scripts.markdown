@@ -28,6 +28,52 @@ The more general you need your script to be, the more you should prefer sh rathe
 
 ## Tips
 
+### Temporary files
+
+Do not assume that the current directory is the place for writing temporary files (or any file, for that matter).
+
+For temporary files, use `mktemp`, and for directories `mktemp -d`
+
+```
+$ man mktemp
+MKTEMP(1)                 BSD General Commands Manual                MKTEMP(1)
+
+NAME
+     mktemp -- make temporary file name (unique)
+
+DESCRIPTION
+     The mktemp utility takes each of the given file name templates and over-
+     writes a portion of it to create a file name.  This file name is unique
+     and suitable for use by the application.
+```
+
+(remember to cleanup resources when your script exists - maybe use exit traps)
+
+### (Exit) Traps
+
+There are some resources that you need to remove / cleanup / close at the end of your script. Both when things go well as when they don't. Think of it as a (java) try-with-resources or try..catch..finally.
+
+Bash offers [`trap`](https://www.gnu.org/software/bash/manual/bash.html#Bourne-Shell-Builtins) to perform this task:
+
+```
+trap arg signal
+trap command signal
+```
+
+Taken from [here](https://bash.cyberciti.biz/guide/Trap_statement)
+
+An example:
+
+```
+function finish {
+  # Your cleanup code here
+}
+trap finish EXIT
+trap finish SIGQUIT
+```
+
+More information, and this example from [here](http://redsymbol.net/articles/bash-exit-traps/)
+
 ### Do not hardcode the shell location
 
 This is more common with perl than with bash, as most bash installs are placed at `/bin/bash`.
@@ -57,7 +103,7 @@ These can be added anywhere, but I usually add them after the shebang (the begin
 a brief note:
 
   * `set -e` stops the execution if a command fails (this is the default behavior in `make`)
-  * `set -u`: do not allow unglobbing (expansion of regexes) or unbound variables. <!--TODO find the exact thing-->
+  * `set -u`: Treat unset variables and parameters other than the special parameters ‘@’ or ‘*’ as an error when performing parameter expansion. An error message will be written to the standard error, and a non-interactive shell will exit.
   * `set -x`: debug. Trace the commands on the console
   * `set -o pipefail`: make the pipe command fail if any of the commands in the pipe fail. 
     * Example: with this option disabled, `a|b|c` when `a` fails, b will execute, the return value will be the one of `b`
@@ -300,7 +346,27 @@ For more information on return values and functions in bash, see [this article](
 
 ### Hot-swap / reload
 
+Files in bash are read every time you invoke them. So if you separate the `process_file` function to another file, you can change the contents of it while the long-running main script is working.
+
 ### Be extra careful with `rm`
+
+This is common knowledge, but it can happen to any of us.
+
+Removing files is a sharp-edged tool, such as `DELETE` in SQL. This is why we `SELECT` the same data set before deleting. Why we `ls` files before `rm`ing them.
+
+Some operating systems now protect `#rm -rf /` with another flag, but the mistake of `#rm -rf $VARIABLE/*` where `$VARIABLE` is empty is common enough.
+
+To avoid the above mistake,
+
+```
+#!/usr/env/bin bash
+set -euxo pipefail
+cd $VARIABLE #this will fail if $VARIABLE is unbound
+rm -rf ./* # notice the dot (.) before the star
+```
+
+This will only delete files from the current directory down, yet another protection. 
+
 
 ## How I write my scripts
 
@@ -467,3 +533,6 @@ Now, I can `make b<TAB>` and it will suggest `make build`
 
 
 ## Other resources
+
+  * [ShellCheck](https://www.shellcheck.net/) helps you check your shell scripts, using static analysis tools: ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts.
+  * [Bash reference manual](https://www.gnu.org/software/bash/manual/bash.html)
