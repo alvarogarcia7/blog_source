@@ -431,7 +431,15 @@ And your files are processed. Gone, in this case.
 
 ## Limitations
 
+Every tool (and metaphor) has its limits. Know when to use a tool and when to change tools.
+
 ### When is bash enough
+
+Small scripts, simple invocations, etc.
+
+One-off tasks are perfect for bash: write code, review effects, throw it away. Don't plan on reusing it. Although you can keep a collection of snippets for iterating, dealing with spaces, etc. 
+
+More than 50-100 bash lines (a rough approximation), I consider a small program already. Maybe start thinking on building a better foundation around it.
 
 ### When it is too much for bash
 
