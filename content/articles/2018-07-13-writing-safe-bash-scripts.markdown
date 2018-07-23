@@ -110,6 +110,8 @@ These can be added anywhere, but I usually add them after the shebang (the begin
 
 Reference: [The set built-in](https://www.gnu.org/software/bash/manual/bash.html#The-Set-Builtin)
 
+Another reference: the inspiration for these options comes from [here](https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/)
+
 a brief note:
 
   * `set -e` stops the execution if a command fails (this is the default behavior in `make`)
