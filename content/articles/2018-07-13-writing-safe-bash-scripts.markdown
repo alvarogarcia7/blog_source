@@ -394,6 +394,8 @@ Shellcheck helps you locate possible errors, bugs, stylistic errors and suspicio
 
 As the tool is large enough, using the tool is left for another article.
 
+<!--TODO link to new article when it is written -->
+
 
 ## How I write my scripts
 
