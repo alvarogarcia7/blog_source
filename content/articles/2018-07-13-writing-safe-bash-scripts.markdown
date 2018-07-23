@@ -419,9 +419,11 @@ now, only need to delete the file:
 ```
 function process_file {
   file="$1"
-  echo "rm $file"
+  echo "rm $file" # 1
 }
 ```
+
+Note: #1 - Notice the `echo` command to protect the real execution
 
 First, I make sure that the plumbing code is all correct before executing commands with side effects (e.g., rm). If you are working with delicate data, you can consider working in a docker container.
 
