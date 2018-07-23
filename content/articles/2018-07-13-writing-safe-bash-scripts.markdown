@@ -392,9 +392,27 @@ Shell files can also be analyzed statically, (i.e., [lint](https://en.wikipedia.
 
 Shellcheck helps you locate possible errors, bugs, stylistic errors and suspicious constructs in your scripts.
 
-As the tool is large enough, using the tool is left for another article.
+The tool is large enough to warrant another article, but the basic usage is straightforward: run the linter with the shell script as input.
 
-<!--TODO link to new article when it is written -->
+Some example run:
+
+```
+$ shellcheck sh1.sh
+In sh1.sh line 22:
+  destination=${date}-$(basename $file)
+                                 ^-- SC2086: Double quote to prevent globbing and word splitting.
+
+In sh1.sh line 25:
+  git add $file
+          ^-- SC2086: Double quote to prevent globbing and word splitting.
+
+
+In sh1.sh line 34:
+  if [[ -z $(which imagemagick) ]]; then
+             ^-- SC2230: which is non-standard. Use builtin 'command -v' instead.
+```
+
+Note: I use the tool with docker (see [here](https://github.com/alvarogarcia7/shellcheck-docker), [official docker image](https://github.com/koalaman/shellcheck#installing))
 
 
 ## How I write my scripts
