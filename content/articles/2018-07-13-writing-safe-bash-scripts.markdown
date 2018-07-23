@@ -386,6 +386,14 @@ cd - #go back to the previous folder
 
 This will only delete files from the current directory down (`./`), yet another level of protection. 
 
+### Static code analysis
+
+Shell files can also be analyzed statically, (i.e., [lint](https://en.wikipedia.org/wiki/Lint_(software))). A tool for that is [ShellCheck][shellcheck].
+
+Shellcheck helps you locate possible errors, bugs, stylistic errors and suspicious constructs in your scripts.
+
+As the tool is large enough, using the tool is left for another article.
+
 
 ## How I write my scripts
 
@@ -562,8 +570,9 @@ Now, I can `make b<TAB>` and it will suggest `make build`
 
 ## Other resources
 
-  * [ShellCheck](https://www.shellcheck.net/) helps you check your shell scripts, using static analysis tools: ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts.
+  * [ShellCheck][shellcheck] helps you check your shell scripts, using static analysis tools: ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts.
   * [Bash reference manual](https://www.gnu.org/software/bash/manual/bash.html)
   * [Google Bash reference guide][google-bash-reference-guide]
 
 [google-bash-reference-guide]: https://google.github.io/styleguide/shell.xml
+[shellcheck]: https://www.shellcheck.net/
