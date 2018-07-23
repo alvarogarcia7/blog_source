@@ -125,7 +125,7 @@ If you want to use a try...catch pattern, disable `-e` temporarily:
 
 ```
 set +e # 1
-ls NON_EXISTING_FILE #2
+ls NON_EXISTING_FILE # 2
 set -e # 3
 ```
 
