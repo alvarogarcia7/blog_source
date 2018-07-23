@@ -13,7 +13,6 @@ categories:
 - make
 - tip
 date: 2018-07-13T07:03:19Z
-published: false
 title: Writing safe(r) bash scripts
 url: /blog/2018/07/13/writing-safe-bash-scripts/
 ---
