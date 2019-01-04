@@ -1,0 +1,49 @@
+---
+categories:
+- book
+- reading
+- 2018
+- Q3
+- self-study
+- codurance
+- aprendices
+- reading-club
+comments: true
+date: 2018-09-30T21:00:00Z
+title: Books read in 2018Q3
+url: /blog/2018/09/30/books-read-2018q3/
+---
+
+[deaprendices]: https://twitter.com/@deaprendices
+[codurance]: https://twitter.com/@codurance
+
+Read this quarter:
+
+Note: re+read means I'm re-reading this book. The (+) stands for one-or-more times, as in the regexes.
+
+  - Ética a Nicómaco; Aristóteles
+  - Book of Transformation; Dalai Lama
+
+## Ética a Nicómaco; Aristóteles
+
+I've read this book on philosophy and ethics. This book contains an analysis of the relationship between the personality, intelligence and happiness.
+
+Tries to describe what 'virtues' are, that they belong in a continuum of acts, aand the good term is always in the middle. Example: between cowardliness and temerity, there is braveness. The two extremes, and the middle or virtue, respectively.
+
+This book describes the meaning of life, according to Aristotle; how to lead your life, as well.
+
+Note: this book was a gift from some friends. To people from Payments, thank you so much
+
+## Book of transformation; Dalai Lama
+
+I've read this book based on teaching from the Dalai Lama, on the importance of love, compassion, balanced attitudes, and positive thinking.
+
+Contains the eight verses on transforming the mind, a lo-jong text, written in the 11th century by Langri Thangpa.
+
+Contains four parts:
+
+  - The basis of transformation
+  - Transforming though altruism
+  - Transformation through insight
+  - The eight verses of transforming the mind
+
