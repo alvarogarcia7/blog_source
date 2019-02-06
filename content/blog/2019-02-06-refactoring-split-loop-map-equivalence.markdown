@@ -116,7 +116,9 @@ fun printAllSubstrings(string: String) {
   }
 }
 
-private fun allSubstrings(string: String) = 0.rangeTo(string.length).map { string.substring(it) }
+private fun allSubstrings(string: String) = 
+  0.rangeTo(string.length)
+    .map { string.substring(it) }
 ```
 
 Alternatively, use the method, with a map:
@@ -129,7 +131,9 @@ fun printAllSubstrings(string: String) {
     .map { println(it) }
 }
 
-private fun allSubstrings(string: String) = 0.rangeTo(string.length).map { string.substring(it) }
+private fun allSubstrings(string: String) = 
+  0.rangeTo(string.length)
+    .map { string.substring(it) }
 ```
 
 Alternatively, from State3, we can also replace the loop for two `map`s:
