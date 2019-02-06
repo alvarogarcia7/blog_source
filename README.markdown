@@ -20,18 +20,18 @@ See an example in "Your first language":
 [here](../../../../2015/04/25/how-i-read-apprenticeship-patterns/) 
 ````
 
-### Upload
+### Upload / Images
 
 the "uploads" folder is at 
 
 ```
-{{< upload "file.pdf" >} 
+{{< upload "file.pdf" >}}
 ```
 
 The file ``source/blog/uploads/commit-with-two-persons.png`` is uploaded to:
 
 ```
-{{< upload "commit-with-two-persons.png" >} 
+{{< upload "commit-with-two-persons.png" >}}
 ```
 
 See an example at 2016-02-14-two-persons-involved-in-a-git-commit.markdown
