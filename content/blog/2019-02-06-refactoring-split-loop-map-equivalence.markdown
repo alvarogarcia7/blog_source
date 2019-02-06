@@ -45,7 +45,7 @@ Take a map doing two things. From there:
 see the 2019-02-06-refactoring-split-loop-map-equivalence.snippet.txt file for the code to generate this state diagram UML
 -->
 
-{{< upload "state-diagram-loop-map-split-map-equivalence.png" >}}
+![State diagram of the operations]({{< upload "state-diagram-loop-map-split-map-equivalence.png" >}})
 
 ## Example
 
