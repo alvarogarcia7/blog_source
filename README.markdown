@@ -20,7 +20,7 @@ See an example in "Your first language":
 [here](../../../../2015/04/25/how-i-read-apprenticeship-patterns/) 
 ````
 
-### Upload / Images
+### Upload
 
 the "uploads" folder is at 
 
@@ -33,6 +33,12 @@ The file ``source/blog/uploads/commit-with-two-persons.png`` is uploaded to:
 ```
 {{< upload "commit-with-two-persons.png" >}}
 ```
+
+See an example at 2016-02-14-two-persons-involved-in-a-git-commit.markdown
+
+### Inlining Images
+
+![State diagram of the operations]({{< upload "state-diagram-loop-map-split-map-equivalence.png" >}})
 
 See an example at 2016-02-14-two-persons-involved-in-a-git-commit.markdown
 
