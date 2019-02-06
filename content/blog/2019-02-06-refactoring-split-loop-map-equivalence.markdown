@@ -15,7 +15,7 @@ categories:
 - oop
 comments: true
 date: 2019-02-06T20:44:59Z
-title: Refactoring: split loop + loop/map equivalence
+title: "Refactoring: split loop + loop/map equivalence"
 url: /blog/2019/02/06/refactoring-split-loop-map-equivalence/
 ---
 
