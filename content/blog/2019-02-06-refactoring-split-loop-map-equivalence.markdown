@@ -1,6 +1,18 @@
 ---
 categories:
 - refactoring
+- split-loop
+- split-loop-refactoring
+- loop-map-equivalence
+- code
+- kotlin
+- multiparadigm
+- functional-programming
+- fp
+- object-oriented-programming
+- object-oriented
+- oo
+- oop
 comments: true
 date: 2019-02-06T20:44:59Z
 title: Refactoring: split loop + loop/map equivalence
