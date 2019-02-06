@@ -148,6 +148,6 @@ fun printAllSubstrings(string: String){
  
   - [Split Loop refactoring][refactoring], by Martin Fowler
 
-[refactoring](https://refactoring.com/catalog/splitLoop.html)
+[refactoring]: https://refactoring.com/catalog/splitLoop.html
 
 
