@@ -20,7 +20,7 @@ categories:
 - time-management
 - work-cycle
 date: 2019-01-01T10:32:19Z
-title: Self-Study in January 2018
+title: Self-Study in January 2019
 url: /blog/2019/01/01/self-study-january-2019/
 ---
 
