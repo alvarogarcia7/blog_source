@@ -185,13 +185,16 @@ Read: Wed, 27 Feb 2019 13:26:16 +0000
 
 ## [Makefiles como dejar de memorizar comandos en docker – Developer Vago](https://jesuslc.com/2018/04/21/makefiles-como-dejar-de-memorizar-comandos-en-docker-developer-vago/)
 
-I've discovered a new technique for Makefiles:\n\nUsing a common format (a DSL, in fact) to document the goal, then a new goal 'help' to print that documentation.\n\n```bash
+I've discovered a new technique for Makefiles:\n\nUsing a common format (a DSL, in fact) to document the goal, then a new goal 'help' to print that documentation.
+
+```bash
 .PHONY: help
 help: ## Print this help.
   @grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = \":.*?## \"}; {printf \"\033[36m%-20s\033[0m %s\n\", $$1, $$2}'
 ```
 
 when you run `make help`, then
+
 ```
 Print this help.
 ```
