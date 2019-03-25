@@ -14,11 +14,15 @@ A tool to store all of your knowledge, for easy future retrieval.
 
 TODO Add definition by wikipedia.
 
+## History of a PKB
+
 This is nothing new, as Leonardo da Vinci already had [hundreds of pages of notebooks](http://www.openculture.com/2017/07/leonardo-da-vincis-visionary-notebooks-now-online-browse-570-digitized-pages.html) in the 15th century, now named "The Codex of Arundel".
 
 More recently, Niklas Luhmann (1927–1998), Professor of Sociology at the Bielefeld University, generated his own "Filing system" as a "Thinking tool": storing the knowledge in a card-base filing system. Part of the magic of this system is the a) numbering, b) linking, c) indexing.
 
 Nowadays, we have much more powerful tools at our disposal, such as Wiki Technology. In a wiki, you can full-text search (find matches in indexed/non-indexed content), link cards (hyperlink), index, number (i.d., give them an ID).
+
+## Why are we not using PKBs?
 
 Even if the technical tools are so advanced, why are we not creating, retaining, indexing, and remembering more knowledge? 
 
