@@ -12,7 +12,11 @@ We tend to forget what we learn, along our continuous learning process. Where do
 
 A tool to store all of your knowledge, for easy future retrieval. 
 
-TODO Add definition by wikipedia.
+> A personal knowledge base (PKB) is an electronic tool used to express, capture, and later retrieve the personal knowledge of an individual.
+>
+> It differs from a traditional database in that it contains subjective material particular to the owner, that others may not agree with nor care about. Importantly, a PKB consists primarily of knowledge, rather than information; in other words, it is not a collection of documents or other sources an individual has encountered, but rather an expression of the distilled knowledge the owner has extracted from those sources.
+>
+> [Wikipedia: Personal Knowledge Base](https://en.wikipedia.org/wiki/Personal_knowledge_base)
 
 ## History of a PKB
 
@@ -32,7 +36,6 @@ Some answers to that:
   1. Information is not the same as knowledge (TODO find quote.) You cannot digest as much knowledge as you can for information. E.g., you can read hundreds of memes on the internet, and enjoy them, but the knowledge that you get out of that is not as much as the information. You need to adhere the new knowledge to your existing knowledge, to make something coherent out of it.
   1. As a society, we have not been (at least, me) told how to store our knowledge for long term preservation, consumption, and storage. Nor how to properly study topics that are not guided by short-term need. TODO add link to 3-buckets of knowledge/study
   1. Technically, it is difficult for a laymen to install, and maintain a PKB in a fashion that is secure, affordable, confidential, available. The easier solution for this is paper notebooks, but these suffer from low reuse (given how difficult it is to search in them, without an index). Also, regarding paper, it is out of fashion to suggest going "back" to paper tools when we have computers.
-
 
 
 
