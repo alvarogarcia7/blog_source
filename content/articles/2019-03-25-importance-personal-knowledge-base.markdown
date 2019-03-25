@@ -104,5 +104,13 @@ Some answers to that:
  - Tweet about it
  - Create a talk?
 
+## Resources / Links
+
+ - file:///Users/alvaro/Downloads/8350-26621-1-PB.pdf, Niklas Luhmann’s Card Index: The Fabrication of Serendipity*, from https://sociologica.unibo.it/article/view/8350/8272
+ - https://en.wikipedia.org/wiki/Niklas_Luhmann
+ - http://www.zettelkasten.danielluedecke.de/en/download.php
+ - http://www.bl.uk/ttp2/pdf/leonardopedretti1.pdf
+  - http://www.openculture.com/2017/07/leonardo-da-vincis-visionary-notebooks-now-online-browse-570-digitized-pages.html
+
 
 
