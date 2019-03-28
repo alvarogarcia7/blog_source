@@ -26,7 +26,11 @@ url: /blog/2019/01/01/self-study-january-2019/
 
 ## [Work cycles](https://docs.google.com/document/d/1DKLDpCwvzn_z2tokwC80yOmidueO6x58dt4DEbkc84Q/edit#)
 
-I've read this Work Cycle framework to be more productive with your daily routine.\nSuggests an alternative to Pomodoro technique, in which you are to write down the contents of the goal, then split in small chunks (periods) of time to complete the individual tasks, then debrief at the end of the period and at the end of the cycle.\nAn analogy could be a double-loop Pomodoro technique for tasks.
+I've read this Work Cycle framework to be more productive with your daily routine.
+
+Suggests an alternative to Pomodoro technique, in which you are to write down the contents of the goal, then split in small chunks (periods) of time to complete the individual tasks, then debrief at the end of the period and at the end of the cycle.
+
+An analogy could be a double-loop Pomodoro technique for tasks.
 
 Tags: pomodoro, pomodoro-technique, framework, management, productivity, personal-productivity, gtd, getting-things-done, work-cycle, cycle, time-management, mental-framework
 
