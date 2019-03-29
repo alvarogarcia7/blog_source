@@ -5,7 +5,6 @@ categories:
 - 2019
 - Q1
 - self-study
-- codurance
 - aprendices
 - reading-club
 comments: true
@@ -15,9 +14,14 @@ url: /blog/2019/03/31/books-read-2018q1/
 ---
 
 [deaprendices]: https://twitter.com/@deaprendices
-[codurance]: https://twitter.com/@codurance
 
-This quarter I've focused my efforts on business books (Traction, The Goal), philosophy (Stoicism and personal philosophy), and some finance (classic: Malkiel, personal finance: Robin,). I've also added some classic psychology (Frankl) and a classic novel: The Metamorphosis (Kafka).
+This quarter I've focused my efforts on a mix of everything:
+
+  - business books: Traction, The Goal
+  - philosophy: Stoicism and personal philosophy
+  - some finance: classic: Malkiel, personal finance: Robin
+  - some classic psychology: Frankl
+  - a classic novel: The Metamorphosis (Kafka)
 
 Read this quarter:
 
@@ -124,6 +128,8 @@ Also provides a practical guide for the investor, mostly targeted at the US inve
 
 Spoiler: a random walk is defined as a path in which the next step (to be taken) bears no relationship to the past. This is what the author suggests in relation to the stock prices.
 
+
+## Export from my backlog
 
 <!-- copy-paste the books.md here -->
 
