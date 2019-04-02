@@ -36,6 +36,8 @@ Read this quarter:
 
 Note: re+read means I'm re-reading this book. The (+) stands for one-or-more times, as in the regexes.
 
+Note: As a curiosity, I've added 30 books to the queue in this quarter, while only reading 8. So the list will naturally grow over time.
+
 ## El hombre en busca del sentido; Frankl (Man's Search for Meaning)
 
 In this book, Viktor Frankl relates his experiences and learning at the concentration camp.
