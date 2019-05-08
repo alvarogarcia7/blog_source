@@ -263,6 +263,7 @@ The remote manifesto by gitlab.
   > * Formal communication channels over informal communication channels.
 
 Some tools to make this happen:
+
   * Faster internet everywhere - 100Mb/s+ cable, 5GHz Wifi, 4G cellular
   * Video call software - Google Hangouts, Zoom
   * Mobile technology - Everyone has a computer in their pocket
