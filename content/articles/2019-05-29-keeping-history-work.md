@@ -21,7 +21,7 @@ This is another tool for your toolbox: using git to automatically document your 
 
 When I'm spiking a feature, I usually get in the zone (e.g., Csikszentmihalyi's Flow), and I can forget my good engineering practices, searching for that desired answer. After a few of those bouts of coding, you realize you're wandering. You circle around, get lost, get back on track, then get lost again. You might or might not reach your goal.
 
-I sometimes lose the process / path that took me to the solution. This is helpful when you want to get back on your tracks (e.g., you broke something along the way). But I forget to commit as often as I should.
+I sometimes lose the path that took me to the solution. This is helpful when you want to get back on your tracks (e.g., you broke something along the way). But I forget to commit as often as I should.
 
 ## Solution
 
