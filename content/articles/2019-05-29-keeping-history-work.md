@@ -38,7 +38,7 @@ done
 
 This will create automatic (i.e., meaningless) commits every 10 seconds. It covers the need of "not forgetting to save the progress". This script is so small, that there is no point in creating a tool around it. Type it as a one-liner when you need it.
 
-When you create meaningful increments (e.g., a milestone), when you decide that you should save your progress, you can commit as well. The downside is that the automatic commits will pollute your log, and the diff will not represent the full delta. For that, you can create a marker (i.e., one that does not have any diff - use the `allow-empty` parameter). That kind of commit is like a Marker Interface in java, to pinpoint a specific delta:
+When you create meaningful increments (e.g., a milestone), when you decide that you should save your progress, you can commit as well. The downside is that the automatic commits will pollute your log, and the diff will not represent the full delta. For that, you can create a marker (i.e., one that does not have any diff - use the `allow-empty` parameter). That kind of commit is like a [Marker Interface Pattern](https://en.wikipedia.org/wiki/Marker_interface_pattern), to pinpoint a specific delta:
 
 ```bash
 git commit -am "Marker: Completed the ...." --allow-empty
