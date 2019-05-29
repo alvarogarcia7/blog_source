@@ -9,8 +9,8 @@ categories:
 - marker
 - flow
 date: 2019-05-29T22:32:19Z
-title: Automatically keeping history of your work using git
-url: /blog/2019/05/29/keeping-history-work-git/
+title: Automatically keeping the intermediate history of your work using git
+url: /blog/2019/05/29/keeping-intermediate-history-work-git/
 ---
 
 This is another tool for your toolbox: using git to automatically document your development process (special cases only.)
