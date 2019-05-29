@@ -50,7 +50,7 @@ When you want to see all the changes, `git diff` between two commits (e.g., Mark
 
 Summary:
 
-  * Automatic commits to save your progress. To document
-  * Manual commits to pinpoint milestones
+  * Automatic commits to save your progress. To keep progress.
+  * Manual commits to pinpoint milestones. To document.
   * Tools help you be more productive
 
