@@ -8,6 +8,8 @@ categories:
 - automation
 - marker
 - flow
+- problem
+- solution
 date: 2019-05-29T22:32:19Z
 title: Automatically keeping the intermediate history of your work using git
 url: /blog/2019/05/29/keeping-intermediate-history-work-git/
