@@ -27,3 +27,5 @@ A quote (on a curriculum vitae) that I've enjoyed:
 > [Dave Dunfield](http://dunfield.maknonsolutions.com/dave.htm)
 
 In a way, it reminds me of how Steve Freeman and Nat Pryce try to remove as much uncertainty from a software project in the beginning of the project, not at the end.
+
+Tooling is very important for everyday efficiency.
