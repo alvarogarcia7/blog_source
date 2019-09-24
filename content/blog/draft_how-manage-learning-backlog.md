@@ -32,13 +32,21 @@ Given that we have finite resources to infinite desires, we must allocate our re
 
 ## The learning backlog
 
+### What's a backlog?
+
 > What is a backlog?
 >
 > A backlog is a buildup of work that needs to be completed
 >
 > From [Investopedia, Backlog entry](https://www.investopedia.com/terms/b/backlog.asp)
 
-In this particular case, not all work will be completed in finite time, which is equivalent to saying that not all work will be completed. Some of it will be unfinished, go stale (or not), and be removed from the backlog. I have no definitive answer on how to clean your backlog, but you can get inspiration based on the 'weekly review' practice from Getting Things Done (GTD) TODO add link.
+In this particular case, not all work will be completed in finite time, which is equivalent to saying that not all work will be completed. Some of it will be unfinished, go stale (or not), and be removed from the backlog. 
+
+### Adding items
+
+### Expiring items
+
+I have no definitive answer on how to clean your backlog, but you can get inspiration based on the 'weekly review' practice from Getting Things Done (GTD) TODO add link.
 
 There should be one and only one 'next task' in your backlog. Always have that clear, to remove the uncertainty of 'which is the next task'. That uncertainty can lead to analysis-paralisis.
 
@@ -57,12 +65,11 @@ Let's see an example (top to bottom):
 At the top, the Epics are better defined, more thorough. The more you descend on the backlog, the epics are less defined, more nebulous. At the end, they might become mere ideas to investigate later on. I do that investigation in 'refinement' sessions, based on knowledge I gather along the way, asking people around, etc.
 
 
-
 ## On buying books (and other resources)
 
 I postpone buying the book (and other resources) until the moment I really need it. This helps preventing tsundoku (TODO add link). This is related to the 'delaying gratification' / 'cold list' (TODO Add link).
 
-## On keeping it at hand
+## On keeping your learning at hand
 
 I find it fundamental to lowering the barriers to helpful habits: it's much more cumbersome to have to go to the library if I have time to study now, rather than getting the ebook from my bag.
 
