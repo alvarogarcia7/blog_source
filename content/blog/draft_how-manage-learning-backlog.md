@@ -40,11 +40,39 @@ Given that we have finite resources to infinite desires, we must allocate our re
 >
 > From [Investopedia, Backlog entry](https://www.investopedia.com/terms/b/backlog.asp)
 
-In this particular case, not all work will be completed in finite time, which is equivalent to saying that not all work will be completed. Some of it will be unfinished, go stale (or not), and be removed from the backlog. 
+In this particular case, not all work will be completed in finite time, which is equivalent to saying that not all work will be completed
+
+### Inspiration
+
+I use a mix of Getting Things Done (GTD) and Kanban for managing my backlog. You can get inspiration from those, for your daily practice. See below for further reading on these topics. TODO make sure this is OK.
 
 ### Adding items
 
+Anything that is interesting, and cannot be completed in 2 minutes[^1], will go to the backlog. The item should be actionable (e.g., not 'deploy faster' but 'find a faster tool to deploy my code').
+
+[^1]: this is not applicable for things that I need to do now. Example: should I read an article before implementing an algorithm, I will read the article immediately, to implement the algorithm afterwards. It des not make sense to postpone a step in my critical path. Now, finish reading all the notes in that same paper, to deeply understand the implications of what has been chosen? That is more than 2 minutes, no longer in the critical path, and optional work. That will go in the backlog.
+
+Items should be 'one step': meaning one thing to be completed. If they contain more than one step, they become a project (GTD naming) or an epic (Kanban naming).
+
+### Prioritising the work
+
+I usually try to work on things that are at or close to the top.
+
+There is some opportunistic learning: two birds with one stone --useful for something at work and something outside of work--. This is common while making analogies: you learn about something in one field, then try to apply that same pattern or behaviour in another field. Another source of this opportunistic learning is finding a very promising article mentioned by a teammate at the office: you can read the article, then discuss the contents at lunchtime or within a watercooler conversation. Helps seeing the point of view of your teammates, compare it with yours, and learn. Also, you understand what they got from the article, and share what you learned as well.
+
+Example: I have in my list something about devops. At the office, I need to learn an article about devops as well, so why not go a bit further on my work-time learning, also covering topics that are useful for my backlog? I'm adding value to my profile as professional, investing my client's money wisely into something that benefits them.
+
+There is some mandated learning: I need to study about this before the deadline. Said deadline can be an exam, a publishing (e.g., blog post, meetup, talk), a delivery (e.g., client's milestone). Given that you this step is present in the critical path to delivering a project, you can benefit from doing it as soon as possible.
+
+There is some curated learning: learning resources that will be referred to you. Either from someone else, from a community, by a tool, etc. An example is Pocket's 'Best Of / Trending' tag. If you find a peer that shares some interests with you, you both can benefit from sharing both knowledge and information alike. They can provide guidance on what to learn, what not to learn, based on their path (and yours), knowing their needs (and yours too).
+
+### Limiting the Work In Progress (WIP)
+
+Following the Kanban methodology, I try to limit my work in progress items,
+
 ### Expiring items
+
+Given some of it will be unfinished, go stale (or not), the items should be removed from the backlog. This helps with increasing the signal to noise ratio. I find that keeping a clean backlog helps me move faster, completing things in time.
 
 I have no definitive answer on how to clean your backlog, but you can get inspiration based on the 'weekly review' practice from Getting Things Done (GTD) TODO add link.
 
@@ -64,6 +92,10 @@ Let's see an example (top to bottom):
 
 At the top, the Epics are better defined, more thorough. The more you descend on the backlog, the epics are less defined, more nebulous. At the end, they might become mere ideas to investigate later on. I do that investigation in 'refinement' sessions, based on knowledge I gather along the way, asking people around, etc.
 
+## Tools
+
+### Pocket
+
 
 ## On buying books (and other resources)
 
@@ -76,3 +108,10 @@ I find it fundamental to lowering the barriers to helpful habits: it's much more
 I keep with me a couple of books to be read at all times, and usually carry my e-reader with me. When I'm not carrying it, I can read (a book/an article) from the phone.
 
 There are times when you are in the mood for discovering resources, and others in which you are more for studying those resources. Use that inclination accordingly, to make the most of your time.
+
+## To Do
+
+  * Complete all ToDos in the text
+  * Add more references:
+  	* to GTD: Allen's book
+  	* to Kanban
