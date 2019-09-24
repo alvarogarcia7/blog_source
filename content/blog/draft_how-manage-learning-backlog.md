@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Programming as theory building"
+title: "How I manage my learning backlog"
 published: false
-categories:
-  - sample
 ---
 
 ## Introduction
@@ -19,6 +17,19 @@ I value simplicity, over perfection in choosing the right learning bit.
 I value learning something, rather than over-analyzing what to study.
 
 My time for study is limited, therefore I prefer to invest it in studying rather than managing my studies.
+
+## On managing your learning
+
+TODO add link to 'Buckets of learning'.
+
+Learning can be about a specific topic, general area. You will spend more time learning about these topics and areas, than learning about a specific resource. This is based on the definition: an area includes several topics, a topic includes several resources.
+
+To see how topics relate to each other, we can draw a mind map (TODO add link to mind map) including them.
+
+Given that we have finite resources to infinite desires, we must allocate our resources effectively. This is where keeping a learning backlog can be useful.
+
+Some
+
 
 ## On buying books (and other resources)
 
