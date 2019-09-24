@@ -2,6 +2,8 @@
 layout: post
 title: "How I manage my learning backlog"
 published: false
+visibility: do not redistribute
+copyright: Alvaro Garcia, 2019
 ---
 
 ## Introduction
