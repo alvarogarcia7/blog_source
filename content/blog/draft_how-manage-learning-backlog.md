@@ -28,7 +28,19 @@ To see how topics relate to each other, we can draw a mind map (TODO add link to
 
 Given that we have finite resources to infinite desires, we must allocate our resources effectively. This is where keeping a learning backlog can be useful.
 
-Some
+## The learning backlog
+
+> What is a backlog?
+>
+> A backlog is a buildup of work that needs to be completed
+>
+> From [Investopedia, Backlog entry](https://www.investopedia.com/terms/b/backlog.asp)
+
+In this particular case, not all work will be completed in finite time, which is equivalent to saying that not all work will be completed. Some of it will be unfinished, go stale (or not), and be removed from the backlog.
+
+There should be one and only one 'next task' in your backlog. Always have that clear, to remove the uncertainty of 'which is the next task'. That uncertainty can lead to analysis-paralisis.
+
+The closer to the top, the more refined your items are. Conversely, the closer to the bottom, more uncertain, more foggy items become.
 
 
 ## On buying books (and other resources)
