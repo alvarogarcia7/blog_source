@@ -38,11 +38,24 @@ Given that we have finite resources to infinite desires, we must allocate our re
 >
 > From [Investopedia, Backlog entry](https://www.investopedia.com/terms/b/backlog.asp)
 
-In this particular case, not all work will be completed in finite time, which is equivalent to saying that not all work will be completed. Some of it will be unfinished, go stale (or not), and be removed from the backlog.
+In this particular case, not all work will be completed in finite time, which is equivalent to saying that not all work will be completed. Some of it will be unfinished, go stale (or not), and be removed from the backlog. I have no definitive answer on how to clean your backlog, but you can get inspiration based on the 'weekly review' practice from Getting Things Done (GTD) TODO add link.
 
 There should be one and only one 'next task' in your backlog. Always have that clear, to remove the uncertainty of 'which is the next task'. That uncertainty can lead to analysis-paralisis.
 
 The closer to the top, the more refined your items are. Conversely, the closer to the bottom, more uncertain, more foggy items become.
+
+Let's see an example (top to bottom):
+
+  * LEA-1: Epic: Learn about operations. Goal: deploy my code more often, fluently, better, using everyday tools
+  * LEA-2: Item: [LEA-1] Investigate deployment tools (e.g., AWS, GCP, Azure)
+  * LEA-6: Item: [LEA-1] Investigate AWS deployment tools
+  * LEA-7: Item: [LEA-1] Investigate git hooks
+  * ...
+  * LEA-4: Epic: Learn about REST API design's HATEOAS
+  * LEA-9: Epic: Learn about serverless
+
+At the top, the Epics are better defined, more thorough. The more you descend on the backlog, the epics are less defined, more nebulous. At the end, they might become mere ideas to investigate later on. I do that investigation in 'refinement' sessions, based on knowledge I gather along the way, asking people around, etc.
+
 
 
 ## On buying books (and other resources)
