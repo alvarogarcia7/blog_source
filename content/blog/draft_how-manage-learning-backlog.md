@@ -8,7 +8,7 @@ copyright: Alvaro Garcia, 2019
 
 ## Introduction
 
-Given that learning is also an economic art --described as having unlimited topics to learn, while having limited resouces for learning TODO add source--, we must find a way to manage that study time accordingly.
+Given that learning is also an economic art --described as having unlimited topics to learn, while having limited resources for learning TODO add source--, we must find a way to manage that study time accordingly.
 
 I believe we already have a way of managing it, whether you know it or not: the way you currently do it. Even not doing it, this is a policy as well. This article tries to explain which is my policy for studying and learning.
 
@@ -58,7 +58,7 @@ Items should be 'one step': meaning one thing to be completed. If they contain m
 
 I usually try to work on things that are at or close to the top.
 
-There is some opportunistic learning: two birds with one stone --useful for something at work and something outside of work--. This is common while making analogies: you learn about something in one field, then try to apply that same pattern or behaviour in another field. Another source of this opportunistic learning is finding a very promising article mentioned by a teammate at the office: you can read the article, then discuss the contents at lunchtime or within a watercooler conversation. Helps seeing the point of view of your teammates, compare it with yours, and learn. Also, you understand what they got from the article, and share what you learned as well.
+There is some opportunistic learning: two birds with one stone --useful for something at work and something outside of work--. This is common while making analogies: you learn about something in one field, then try to apply that same pattern or behaviour in another field. Another source of this opportunistic learning is finding a very promising article mentioned by a teammate at the office: you can read the article, then discuss the contents at lunchtime or within a water-cooler conversation. Helps seeing the point of view of your teammates, compare it with yours, and learn. Also, you understand what they got from the article, and share what you learned as well.
 
 Example: I have in my list something about devops. At the office, I need to learn an article about devops as well, so why not go a bit further on my work-time learning, also covering topics that are useful for my backlog? I'm adding value to my profile as professional, investing my client's money wisely into something that benefits them.
 
