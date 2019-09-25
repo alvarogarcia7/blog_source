@@ -87,15 +87,32 @@ Let's see an example (top to bottom):
   * LEA-6: Item: [LEA-1] Investigate AWS deployment tools
   * LEA-7: Item: [LEA-1] Investigate git hooks
   * ...
-  * LEA-4: Epic: Learn about REST API design's HATEOAS
+  * LEA-4: Epic: Learn about REST API design: HATEOAS
   * LEA-9: Epic: Learn about serverless
 
 At the top, the Epics are better defined, more thorough. The more you descend on the backlog, the epics are less defined, more nebulous. At the end, they might become mere ideas to investigate later on. I do that investigation in 'refinement' sessions, based on knowledge I gather along the way, asking people around, etc.
 
 ## Tools
 
+This is the section of the article that might get outdated more quickly.
+
+Below are some tools that I currently use for managing my learning. In general, I'm not strongly committed to any tool myself, I use whatever I get more value from.
+
 ### Pocket
 
+I have installed the Pocket extension (both on my browser, on my phone), to keep items for later reading.
+
+There are some articles that I read immediately. For the rest (that are to be read later), I prioritize them based on the 'Best Of' / 'Trending' tag. TODO add link on how this is curated.
+
+This tag indicates that the resource has been read, favorited, commented by other people, by more eyeballs. This curation is helpful on mainstream topics. For niche ones, very rarely some articles (that I would consider high quality) are rated with these tags.
+
+## My Link Index
+
+I keep an index[^2] of resources that have piqued my interest, which I believe I can use in the future. Those resources that were interesting, but only for amusement purposes (e.g., a novel) are not included in the index. Those resources that I haven't read, are not either. I prefer to keep my index small and focused, rather than a big subset of Google. In the world we live in, it's not about accessing information, but finding the needle in the haystack (related to signal over noise ratio).
+
+[^2]: An index in the sense of a [bibliographic index](https://en.wikipedia.org/wiki/Bibliographic_index)
+
+Based on the above considerations, I keep a small description: mainly, what the article is about. Sometimes, my impressions (free text). I always add 'tags', in excessive amount (e.g., using synonyms). In this index, I optimize the information for later retrieval of the resource, not for efficiency in storing or inserting the information. Therefore, I don't really mind the You Are Not Going to Need It (YAGNI) violation, because I believe that the ease of accessing the information is better than the DRYness (Don't Repeat Yourself).
 
 ## On buying books (and other resources)
 
