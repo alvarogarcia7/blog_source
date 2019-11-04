@@ -46,7 +46,7 @@ This is one reason why, in the past, projects are designed to use a [codename](h
 We can use --at least-- two techniques for uncorrelating private information from public information:
 
   - Alias: choose a catchy name as a codename. Such as Utopia for Microsoft Bob, Longhorn for Windows Vista
-  - Random data: choose a randomly-generated id (e.g., UUID), that is sufficiently random not to be guessed by chance, that does not relate in any way to the project. The downside to this is that it actually bears no relation to the thing, therefore difficult to remember.
+  - Random data: choose a randomly-generated id (e.g., UUID), that is sufficiently random not to be guessed by chance, that does not relate in any way to the project. The downside to this is that it actually bears no relation to the thing, therefore making it more difficult to remember.
 
 Note: *nix-like systems can generate uuid with `uuidgen` ([man page](http://man7.org/linux/man-pages/man1/uuidgen.1.html))
 
