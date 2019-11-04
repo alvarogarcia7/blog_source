@@ -19,7 +19,7 @@ This is another tool for your toolbox: how to uncorrelate public and private inf
 
 ## Context
 
-Context: there are clients who have sensitive information. Some is just 'companies being stealth' (e.g., don't want to make public until launching), some is just protected by a Non-Disclosure Agreement (NDA), some are protected by security clearance. The more sensitive, the greater protection needed. This applies to all sensitive information.
+Context: there are clients who have sensitive information. Some is just 'companies being stealth' (e.g., don't want to make public until launching), some is just protected by a Non-Disclosure Agreement (NDA), some are protected by security clearance. The more sensitive, the greater protection needed. This tool applies to all sensitive information, regardless of where it's stored or how it is used.
 
 More context: there are applications (i.e., SaaS) better installed in the cloud (e.g., expensive or impossible to install on-premise).
 
