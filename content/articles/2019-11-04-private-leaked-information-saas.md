@@ -15,7 +15,7 @@ title: On private but leaked information in SaaS
 url: /blog/2019/11/04/private-leaked-information-saas/
 ---
 
-Yet another tool for your toolbox. How to uncorrelate public and private information
+This is another tool for your toolbox: how to uncorrelate public and private information.
 
 ## Context
 
