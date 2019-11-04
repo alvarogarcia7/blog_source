@@ -23,6 +23,8 @@ Context: there are clients who have sensitive information. Some is just 'compani
 
 More context: there are applications (i.e., SaaS) better installed in the cloud (e.g., expensive or impossible to install on-premise).
 
+## Solution
+
 Having sensitive information on the cloud is delicate. There is a fine balance needed to achieve the perfect equilibrium between security, confort, data privacy, cost (among others). Even when using private resources, there is information leaking to the public (i.e., people not included in the designated circle). 
 
 Let's take an example: we create a git repository in an organization, on an online git vendor. For that, we choose the strictest security measures available (e.g. private repositories; private organization details [^1]). Even then, there's an overlooked piece of information that many times cannot be hidden: the URL.
