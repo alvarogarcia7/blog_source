@@ -11,7 +11,7 @@ categories:
 - non-disclosure-agreement
 - security-clearance
 date: 2019-11-04T10:22:19Z
-title: On private but leaked information in SaaS
+title: On private but leaked information in a SaaS
 url: /blog/2019/11/04/private-leaked-information-saas/
 ---
 
