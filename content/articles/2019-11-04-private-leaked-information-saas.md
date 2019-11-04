@@ -48,7 +48,7 @@ We can use --at least-- two techniques for uncorrelating private information fro
   - Alias: choose a catchy name as a codename. Such as Utopia for Microsoft Bob, Longhorn for Windows Vista
   - Random data: choose a randomly-generated id (e.g., UUID), that is sufficiently random not to be guessed by chance, that does not relate in any way to the project. The downside to this is that it actually bears no relation to the thing, therefore making it more difficult to remember.
 
-Note: *nix-like systems can generate uuid with `uuidgen` ([man page](http://man7.org/linux/man-pages/man1/uuidgen.1.html))
+Note: *nix-like systems can generate uuid with `uuidgen` ([man page](http://man7.org/linux/man-pages/man1/uuidgen.1.html)). Also, you can generate it online.
 
 ## Conclusion
 
