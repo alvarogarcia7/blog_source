@@ -39,11 +39,11 @@ https://gitvendor.com/organization/repository
 
 Both `organization` and `repository` can be leaked to the public. Even if they're not published (i.e., only available with a link), you can check whether this has been registered or not. Should you have a exposed-enough profile, when there are rumours that your company will launch a new product, people can investigate whether this domain/repo/organization has been registered.
 
-This is one reason why, in the past, projects are designed to use a codename[^2]. 
+This is one reason why, in the past, projects are designed to use a [codename](https://en.wikipedia.org/wiki/List_of_Microsoft_codenames)[^2]. 
 
 [^2]: Also, because the final project name has not been decided yet (e.g., removes choosing the project name from the critical path to start a project).
 
-We can use --at least-- two techniques for using project [codenames](https://en.wikipedia.org/wiki/List_of_Microsoft_codenames):
+We can use --at least-- two techniques for uncorrelating private information from public information:
 
   - Alias: choose a catchy name as a codename. Such as Utopia for Microsoft Bob, Longhorn for Windows Vista
   - Random data: choose a randomly-generated id (e.g., UUID), that is sufficiently random not to be guessed by chance, that does not relate in any way to the project. The downside to this is that it actually bears no relation to the thing, therefore difficult to remember.
