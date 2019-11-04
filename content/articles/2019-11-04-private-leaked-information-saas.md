@@ -29,6 +29,8 @@ Having sensitive information on the cloud is delicate. There is a fine balance n
 
 Let's take an example: we create a git repository in an organization, on an online git vendor. For that, we choose the strictest security measures available (e.g. private repositories; private organization details [^1]). Even then, there's an overlooked piece of information that many times cannot be hidden: the URL.
 
+[^1]: This is not available in all git vendors that I've reviewed.
+
 See:
 
 ```
@@ -37,7 +39,9 @@ https://gitvendor.com/organization/repository
 
 Both `organization` and `repository` can be leaked to the public. Even if they're not published (i.e., only available with a link), you can check whether this has been registered or not. Should you have a exposed-enough profile, when there are rumours that your company will launch a new product, people can investigate whether this domain/repo/organization has been registered.
 
-This is one reason why, in the past, project are using a codename. Also, because the final project name has not been decided (e.g., removes choosing the project name from the critical path to start a project).
+This is one reason why, in the past, projects are designed to use a codename[^2]. 
+
+[^2]: Also, because the final project name has not been decided yet (e.g., removes choosing the project name from the critical path to start a project).
 
 We can use --at least-- two techniques for using project [codenames](https://en.wikipedia.org/wiki/List_of_Microsoft_codenames):
 
@@ -53,4 +57,3 @@ Make a wise choice of where to put your sensitive information.
 When you can choose a SaaS solution, keep information private as needed. Be careful with the information you leak. When you are forced to use something public, you can use a codename or random data.
 
 
-[^1]: This is not available in all git vendors that I've reviewed.
