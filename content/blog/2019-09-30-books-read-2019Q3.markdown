@@ -1,0 +1,27 @@
+---
+categories:
+- book
+- reading
+- 2019
+- Q3
+- self-study
+comments: true
+date: 2019-09-30T21:00:00Z
+title: Books read in 2019Q3
+url: /blog/2019/09/30/books-read-2019q3/
+---
+
+Read this quarter:
+
+  * Tao of Séneca (vol 1); edited by Ferriss; own-it, non-technical, philoshopy
+  * My Story, Al Maktoum; non-technical
+
+## My Story, Al Maktoum
+
+> This important collection of anecdotes and reminiscences from Sheikh Mohammed bin Rashid Al Maktoum is published to mark the occasion of his fifty years in public service, which began with his appointment as Dubai’s Minister of Defence in 1968.
+>
+> These stories tell of the vision behind Dubai’s meteoric growth from a small and bustling trading port to an international metropolis at the heart of global business. They record the evolution of the United Arab Emirates from a shared ideal to a nation where more than 195 nationalities live and work in peace, harmony and prosperity. And they reveal insights from a man whose drive, determination and will to succeed have become legendary.
+>
+> Within these stories lies the heart of Sheikh Mohammed the statesman, the equestrian, the poet and the leader. They are written with the intent to inspire and inform new generations of readers, and to celebrate the achievements of this young and vibrant nation and the people who shaped it. [...]
+>
+> From: https://www.goodreads.com/book/show/44012512-my-story

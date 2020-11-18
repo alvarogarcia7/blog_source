@@ -1,0 +1,51 @@
+---
+categories:
+- book
+- reading
+- 2020
+- Q1
+- self-study
+- reading-club
+comments: true
+date: 2020-03-31T21:00:00Z
+title: Books read in 2020Q1
+url: /blog/2020/03/31/books-read-2020q1/
+---
+
+Read this quarter:
+
+  * Tao of Séneca (vol 3); edited by Ferriss; own-it, non-technical, philoshopy
+  * Confidence Hacks: 99 small actions to massively boost your confidence; Davenport; own-it, non-technical
+  * Tots estimem l'Emma; Burgas; non-technical
+
+
+## Confidence Hacks
+
+This is a self help book to boost your confidence.
+
+It covers several areas of your life, that could erode your confidence:
+
+  * Relationships
+  * Social Life
+  * Career
+  * Appearance
+  * Self-Improvement
+  * Body Language
+  * Thinking
+  * Fun and Adventure
+  * Finances
+
+How to read and apply it:
+
+> As a review, here's how I suggest you use this book to help boost your confidence:
+> * Read through the entire book once, making notes about any the life areas where you need to work on your confidence.
+> * Go back through the book again to review those specific life areas you want to work on and the ideas and Action Steps suggested.
+> * Select the most troublesome area of low confidence to work on first, and determine very specific actions based on the suggestions outlined in the book to work on over the next four to six weeks.
+> * Determine the time of day you'll work on those actions and a specific trigger or cue to remind yourself to perform the action.
+> * Expect to feel uncomfortable and resistant for the first few weeks. Try to manage your discomfort by reminding yourself it will diminish over time.
+> * Seek out accountability and support from a friend or family member by telling them about your confidence work.
+> * Acknowledge your small daily actions and reward yourself immediately after you take the action with something that makes you feel good.
+> * Track your feelings of confidence weekly as you work on these actions by scoring yourself from one being very low confidence. Give yourself a baseline score before you begin taking the actions.
+> * Repeat this process for any additional areas of low confidence.”
+
+Excerpt From: Barrie Davenport. “Confidence Hacks: 99 Small Actions to Massively Boost Your Confidence.” iBooks. 

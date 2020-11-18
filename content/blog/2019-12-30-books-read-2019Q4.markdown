@@ -1,0 +1,17 @@
+---
+categories:
+- book
+- reading
+- 2019
+- Q4
+- self-study
+- reading-club
+comments: true
+date: 2019-12-30T21:00:00Z
+title: Books read in 2019Q4
+url: /blog/2019/12/30/books-read-2019q4/
+---
+
+Read this quarter:
+
+  * Tao of Séneca (vol 2); edited by Ferriss; own-it, non-technical, philoshopy

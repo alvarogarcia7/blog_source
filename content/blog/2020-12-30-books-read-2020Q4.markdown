@@ -1,0 +1,47 @@
+---
+categories:
+- book
+- reading
+- 2020
+- Q4
+- self-study
+- reading-club
+comments: true
+date: 2020-12-30T21:00:00Z
+title: Books read in 2020Q4
+url: /blog/2020/12/30/books-read-2020q4/
+---
+
+Read this quarter:
+
+  * 12 rules for life; Peterson; own-it, non-technical, philosophy
+
+
+## 12 rules for life
+
+The book contains some rules, some principles to remove doubt and uncertainty from life.
+
+There are plenty of mentions to the Bible, although I consider the book to the secular in its contents.
+
+There are few personal stories on the book (e.g., about his daughter Mikhaila Peterson), which makes it readable and enjoyable. The philosophy behind it is sometimes not-politically-correct. 
+
+For each of the rules, he has a setup of "introduction - main - conclusion".
+
+From wikipedia [0]:
+
+> The book is divided into chapters with each title representing one of the following twelve specific rules for life as explained through an essay.
+> 
+> "Stand up straight with your shoulders back"
+> "Treat yourself like you are someone you are responsible for helping"
+> "Make friends with people who want the best for you"
+> "Compare yourself with who you were yesterday, not with who someone else is today"
+> "Do not let your children do anything that makes you dislike them"
+> "Set your house in perfect order before you criticize the world"
+> "Pursue what is meaningful (not what is expedient)"
+> "Tell the truth — or, at least, don’t lie"
+> "Assume that the person you are listening to might know something you don’t"
+> "Be precise in your speech"
+> "Do not bother children when they are skate-boarding"
+> "Pet a cat when you encounter one on the street"
+
+[0]: https://en.wikipedia.org/wiki/12_Rules_for_Life
