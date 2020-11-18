@@ -6,3 +6,7 @@ alvarogarcia7.github.io
 *.iml
 .idea/
 
+## Mac
+
+.DS_Store
+
