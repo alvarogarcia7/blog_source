@@ -30,6 +30,7 @@ jobs:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: alvarogarcia7/alvarogarcia7.github.io
           publish_dir: ./alvarogarcia7.github.io
+          keep_files: true
           user_name: "alvarogarcia7 (via Github Actions)"
           user_email: alvarogarcia7@users.noreply.github.com
           publish_branch: master
