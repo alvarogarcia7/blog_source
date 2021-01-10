@@ -29,7 +29,7 @@ jobs:
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: alvarogarcia7/alvarogarcia7.github.io
-          publish_dir: ./public
+          publish_dir: ./public # the default folder that hugo publishes to
           keep_files: true
           user_name: "alvarogarcia7 (via Github Actions)"
           user_email: alvarogarcia7@users.noreply.github.com
