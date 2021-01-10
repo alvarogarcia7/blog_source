@@ -17,7 +17,7 @@ jobs:
       - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.76"
+          hugo-version: "0.76.5"
 
       - name: Build
         # remove --minify tag if you do not need it
@@ -30,6 +30,6 @@ jobs:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: alvarogarcia7/alvarogarcia7.github.io
           publish_dir: ./alvarogarcia7.github.io
-          user_name: alvarogarcia7
+          user_name: "alvarogarcia7 (via Github Actions)"
           user_email: alvarogarcia7@users.noreply.github.com
           publish_branch: master
