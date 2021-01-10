@@ -1,6 +1,6 @@
 .PHONY: run generate generate-ci
 
-IP := $(shell ifconfig enp0s3|grep "inet addr"|cut -d: -f2 | cut -d" " -f1)
+IP := $(shell ifconfig en0|grep "inet addr"|cut -d: -f2 | cut -d" " -f1)
 
 run:
 	hugo serve --bind "${IP}" --baseURL="${IP}"
