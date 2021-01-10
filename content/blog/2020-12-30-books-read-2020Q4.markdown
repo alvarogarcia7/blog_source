@@ -31,17 +31,28 @@ From wikipedia [0]:
 
 > The book is divided into chapters with each title representing one of the following twelve specific rules for life as explained through an essay.
 > 
-> "Stand up straight with your shoulders back"
-> "Treat yourself like you are someone you are responsible for helping"
-> "Make friends with people who want the best for you"
-> "Compare yourself with who you were yesterday, not with who someone else is today"
-> "Do not let your children do anything that makes you dislike them"
-> "Set your house in perfect order before you criticize the world"
-> "Pursue what is meaningful (not what is expedient)"
-> "Tell the truth — or, at least, don’t lie"
-> "Assume that the person you are listening to might know something you don’t"
-> "Be precise in your speech"
-> "Do not bother children when they are skate-boarding"
-> "Pet a cat when you encounter one on the street"
+> 1. "Stand up straight with your shoulders back"
+>
+> 1. "Treat yourself like you are someone you are responsible for helping"
+>
+> 1. "Make friends with people who want the best for you"
+>
+> 1. "Compare yourself with who you were yesterday, not with who someone else is today"
+>
+> 1. "Do not let your children do anything that makes you dislike them"
+>
+> 1. "Set your house in perfect order before you criticize the world"
+>
+> 1. "Pursue what is meaningful (not what is expedient)"
+>
+> 1. "Tell the truth — or, at least, don’t lie"
+>
+> 1. "Assume that the person you are listening to might know something you don’t"
+>
+> 1. "Be precise in your speech"
+>
+> 1. "Do not bother children when they are skate-boarding"
+>
+> 1. "Pet a cat when you encounter one on the street"
 
 [0]: https://en.wikipedia.org/wiki/12_Rules_for_Life
