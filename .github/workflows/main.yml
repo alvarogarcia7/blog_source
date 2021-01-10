@@ -7,6 +7,9 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v2
 
+      - name: change submodule from git to https
+        run: sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
+
       - name: Update theme
         # As the theme is added as submodule, pull to init
         run: git submodule update --init --recursive
