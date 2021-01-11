@@ -236,19 +236,9 @@ Adding file (such as a mindmap `.mm` file) to the `content` folder, makes it ava
 
 ## Workflow
 
-### Using the local environment
+The blog is easily published using the CI hook.
 
-```bash
-> cd blog_source
-> hugo new post/name
-> make run
-...
-> f cc "..."
-...
-> make generate
-```
-
-### Using the TravisCI environment
+### Using the CI environment
 
 ```bash
 > cd blog_source
@@ -261,4 +251,16 @@ Adding file (such as a mindmap `.mm` file) to the `content` folder, makes it ava
 > f push
 ```
 
+### Local preview of changes
 
+
+```bash
+> cd blog_source
+> cp $ARTICLE_1 $ARTICLE_2
+> make run-server-in-docker
+# Navigate to localhost:8090 for checking results
+...
+> f cc "..."
+...
+> f push
+```
