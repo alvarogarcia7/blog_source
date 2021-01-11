@@ -70,61 +70,8 @@ Warning: these comments are available in the generated html page
 
 ### Get all the categories from a Self-Study aggregation
 
-#### A warning in MacOsX
+This unit of work has been moved to the [link-collection](https://github.com/alvarogarcia7/link-collection#exporting-eg-for-markdown)
 
-Note: in mac os x, the ``sed`` command works differently. You can start a ubuntu with this:
-
-```bash
-docker run -v $(pwd):/app -it ubuntu /bin/bash
-```
-
-Or you can also try the debian image (in case you have it already downloaded)
-
-```bash
-docker run -v $(pwd):/app -it debian /bin/bash
-```
-
-The usual stacktrace is this:
-
-```bash
-sed: 1: "{s/,/\n/g}": bad flag in substitute command: '}'
-sed: 1: "{s/^/  - /}": bad flag in substitute command: '}'
-```
-
-#### Step by step guide
-
-from all the markdown files:
-
-```bash
-find -iname "*markdown"|xargs grep Tags|cut -d":" -f3 > tags.txt
-```
-
-from a single file:
-```bash
-export TAGS_file=$(./last_self-study.sh) # or another file
-cat $TAGS_file |grep Tags|cut -d":" -f2 > tags.txt
-cat tags.txt |tr -d " " | sed '{s/,/\n/g}'|sort|uniq| sed '{s/^/- /}' >> $TAGS_file
-rm -f tags.txt
-echo "Now move the tags up"
-vim $TAGS_file # or vim_last_self-study.sh
-unset TAGS_file
-```
-
-e.g.:
-
-```
-  - stack-builders
-  - strange-loop
-  - talk
-  - technical-debt
-  - test
-  - testing
-  - thoreau
-  - thoughtworks
-  - time-lapse
-```
-
-Then move the categories after the existing ones
 
 #### Create a new Self-study guide
 
