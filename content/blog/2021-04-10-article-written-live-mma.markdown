@@ -1,5 +1,4 @@
 ---
-published: true
 categories:
 - mma
 - 2021
