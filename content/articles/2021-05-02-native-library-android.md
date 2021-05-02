@@ -1,5 +1,8 @@
 ---
 title: "Using a Native Library in Android"
+categories:
+- android
+- native-library
 date: 2021-05-02T03:35:28Z
 url: /blog/2021/05/02/native-library-android/
 draft: true
