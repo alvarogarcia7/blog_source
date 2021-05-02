@@ -45,6 +45,9 @@ generate-ci:
 generateonly:
 	hugo --destination alvarogarcia7.github.io
 
+docker-bash:
+	docker run -p 8090:8090 -it -v ${PWD}:/src jojomi/hugo:0.76 sh
+
 run-server-in-docker:
 	docker run -p 8090:8090 -v ${PWD}:/src jojomi/hugo:0.76 hugo server --port 8090 --bind 0.0.0.0 --baseURL="http://localhost"
 
