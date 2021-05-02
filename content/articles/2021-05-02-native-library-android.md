@@ -47,6 +47,8 @@ $ find . | grep "\\.a"
 
 ### Native Library Configuration
 
+Configure `Android.mk`:
+
 ```
 ## From https://gist.github.com/Nimrodda/c9bdb9217dffe577af79
 LOCAL_PATH := $(call my-dir)
@@ -65,6 +67,8 @@ LOCAL_SRC_FILES := native-lib.c
 include $(BUILD_SHARED_LIBRARY)
 ```
 
+Place the includes:
+
 ```bash
 $ find . | grep "\\.h"
 ./main/c/jni/include/sodium.h
@@ -72,9 +76,13 @@ $ find . | grep "\\.h"
 # Continues ...
 ```
 
+Declare an external function (same API as the native library):
+
 ```kotlin
 external fun main_test(): Int
 ```
+
+Load the `bridge` library:
 
 ```kotlin
 companion object {
@@ -82,12 +90,16 @@ companion object {
       System.loadLibrary("bridge")
 ```
 
+Configure the build to use JNI libraries:
+
 ```groovy
 android {
   ndkVersion "22.1.7171670" // Major.Minor.Patch
   sourceSets.main {
       jniLibs.srcDir 'src/main/c/libs' //set .so files location to libs instead of jniLibs
 ```
+
+Configure the build to depend on the NDK build:
 
 ```groovy
 android {
