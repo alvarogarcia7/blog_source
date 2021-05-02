@@ -20,6 +20,24 @@ I'm using:
   * NDK <!-- TODO Version -->
   * Mac OS Catalina, 10.15. Intel architecture.
 
+### NDK-Buildw
+
+This wrapper is a tool to isolate access to `ndk-build`.
+
+It's the same pattern as `gradlew` / `gradlew.bat`: executes the command against the desired `ndk-build`, from the local directory.
+
+I have seen the configuration of `ndk.dir` in file `local.properties` in [Install NDK and CMake](https://developer.android.com/studio/projects/install-ndk)
+
+My `ndk-buildw` contains:
+
+```bash
+#!/bin/bash
+
+set -euxo pipefail
+
+/Users/user/Library/Android/sdk/ndk/22.1.7171670/ndk-build "$@"
+```
+
 <!--
 
  Things to explain:
