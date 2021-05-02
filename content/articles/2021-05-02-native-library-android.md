@@ -108,6 +108,48 @@ android {
   }
 ```
 
+## Useful links:
+
+  * [https://developer.android.com/ndk/guides/prebuilts](https://developer.android.com/ndk/guides/prebuilts): Explains how to use prebuilt native libraries
+  * [https://dawnarc.com/2016/10/android-ndk-link-static-library-to-your-jni-library/](https://dawnarc.com/2016/10/android-ndk-link-static-library-to-your-jni-library/): explains how to link a static library to your JNI library. I like this one because explains the folder structure.
+
+
+## Whole folder structure
+
+```
+GIT_REPO
+`-- project
+    |-- Makefile
+    |-- app
+    |   |-- build.gradle
+    |   |-- ndk-buildw
+    |   `-- src
+    |       |-- main
+    |       |   |-- AndroidManifest.xml
+    |       |   |-- c
+    |       |   |   |-- jni
+    |       |   |   |   |-- Android.mk
+    |       |   |   |   |-- Application.mk
+    |       |   |   |   `-- include
+    |       |   |   |       |-- sodium
+    |       |   |   |       |   |-- core.h
+    |       |   |   |       |   |-- crypto_aead_aes256gcm.h
+    |       |   |   |       |   |-- # More...
+    |       |   |   |       |   `-- version.h
+    |       |   |   |       `-- sodium.h
+    |       |   |   |   |-- native-lib.c
+    |       |   |   |   `-- x86_64
+    |       |   |   |       `-- libsodium.a
+    |       |   |-- java
+    |       |   |   `-- com
+    |       |   |       `-- example
+    |       |   |           `-- nativelib
+    |       |   |               `-- MainActivity.kt
+    |       |   `-- res
+    |-- build.gradle
+    `-- local.properties
+```
+
 <!--
 
  Things to explain:
