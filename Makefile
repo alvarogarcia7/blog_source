@@ -46,10 +46,10 @@ generateonly:
 	hugo --destination alvarogarcia7.github.io
 
 docker-bash:
-	docker run -p 8090:8090 -it -v ${PWD}:/src jojomi/hugo:0.76 sh
+	docker run -p 8090:8090 -it -v ${PWD}:/src jojomi/hugo:0.82 sh
 
 run-server-in-docker:
-	docker run -p 8090:8090 -v ${PWD}:/src jojomi/hugo:0.76 hugo server --buildDrafts --port 8090 --bind 0.0.0.0 --baseURL="http://localhost"
+	docker run -p 8090:8090 -v ${PWD}:/src jojomi/hugo:0.82 hugo server --buildDrafts --port 8090 --bind 0.0.0.0 --baseURL="http://localhost"
 
 run-in-docker:
-	docker run -p 8090:8090 -v ${PWD}:/src -v ${PWD}/alvarogarcia7.github.io:/alvarogarcia7.github.io jojomi/hugo:0.76 hugo --destination /alvarogarcia7.github.io
+	docker run -p 8090:8090 -v ${PWD}:/src -v ${PWD}/alvarogarcia7.github.io:/alvarogarcia7.github.io jojomi/hugo:0.82 hugo --destination /alvarogarcia7.github.io
