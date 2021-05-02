@@ -12,7 +12,6 @@ categories:
 - jni
 date: 2021-05-02T03:35:28Z
 url: /blog/2021/05/02/native-c-library-android/
-draft: true
 ---
 
 For a client, we needed to integrate a pure C library into an android application.
