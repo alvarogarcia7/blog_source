@@ -58,11 +58,19 @@
   <!-- only display this section if sideBarRecentLimit is not zero -->
   {{ if not (eq .Site.Params.sidebarRecentLimit 0) }}
     <section class="even">
-      <h1>Recent Posts</h1>
-      <ul id="recent_posts">
-        {{ range first .Site.Params.sidebarRecentLimit .Site.Pages }}
+      <h1>Recent Articles</h1>
+      <ul id="recent_articles">
+        {{ range first .Site.Params.sidebarRecentLimit (where .Site.RegularPages "Type" "articles")  }}
           <li class="post">
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </li>
+        {{ end }}
+      </ul>
+      <h1>Recent Blogs</h1>
+      <ul id="recent_posts">
+        {{ range first .Site.Params.sidebarRecentLimit (where .Site.RegularPages "Type" "blog")  }}
+          <li class="post">
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
           </li>
         {{ end }}
       </ul>
