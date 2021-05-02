@@ -16,7 +16,7 @@
           </h2>
           <article>
             <h1>
-              <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
+              <a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Type | humanize }}: {{ .Title }}</a>
             </h1>
             <time>
               <span class="month">{{ .Date | dateFormat "Jan" }}</span> <!-- print publish month -->
