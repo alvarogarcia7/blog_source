@@ -47,6 +47,12 @@ git commit -am "Marker: Completed the ...." --allow-empty
 
 When you want to see all the changes, `git diff` between two commits (e.g., Markers) or you can rebase with squash (`git rebase --interactive`) into another branch (so you keep this history).
 
+## Alternative
+
+(Updated 2022-07-27) Another alternative for this kind of work is to rely on JetBrains' 'Local History' feature. This is some kind of internal backlog of changes, that keeps what has changed, when. Imagine a git repo, in which you can select changes in a specific folder, file, etc. The system also registers when you executed the tests (red or green), as noted [here](https://www.jetbrains.com/help/idea/local-history.html#label-local-history-revisions).
+
+JetBrains publishes a site for Local History [here](https://www.jetbrains.com/help/idea/local-history.html).
+
 ## Summary
 
 Summary:
