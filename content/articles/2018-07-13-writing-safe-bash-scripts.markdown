@@ -413,6 +413,19 @@ In sh1.sh line 34:
 
 Note: I use the tool with docker (see [here](https://github.com/alvarogarcia7/shellcheck-docker), [official docker image](https://github.com/koalaman/shellcheck#installing))
 
+### Overriding functions / Inheritance
+
+The bash functions can override existing bash functions.
+
+This means that you can achieve some kind of inheritance (without Object-Oriented Programming) in bash.
+
+I use this pattern by:
+
+* Having a file that contains the functions but no main (such as a library)
+* Having another file that contains the main plus any specialization of the functions
+
+This allows to use the 'Template Method' pattern.
+
 
 ## How I write my scripts
 
