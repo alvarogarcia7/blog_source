@@ -96,6 +96,18 @@ Be careful when modifying the data in the C function. If you need to change the 
 
 To remove defects in the `*.pyx` files, convert once ("cythonize").
 
+
+```python
+from setuptools import setup
+from Cython.Build import cythonize
+
+setup(
+    ext_modules = cythonize("helloworld.pyx")
+)
+```
+
+(From [Cython: Basic Tutorial](https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html))
+
 ## Links
 
 Look around [here](https://github.com/alvarogarcia7/link-collection/blob/master/data/links.rec#L2545), with the tag
