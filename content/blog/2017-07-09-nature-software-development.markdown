@@ -281,6 +281,6 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 >
 >[...] A commitment from the top of the business, down to the individual managers and developers [...]
 >
-(p. 77)
+> (p. 77)
 
 
