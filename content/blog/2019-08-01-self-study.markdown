@@ -241,7 +241,7 @@ Read: Tue, 27 Aug 2019 05:02:06 +0000
 
 ## [Why You Should Have (at Least) Two Careers](https://getpocket.com/explore/item/why-you-should-have-at-least-two-careers)
 
-having two professions will: first will subsidise the seconone , you will intermingle ideas (creating knowledge, not information), make connections outside of your business area
+having two professions will: first will subsidise the second one, you will intermingle ideas (creating knowledge, not information), make connections outside your business area
 
 Tags: career, career-management, knowledge, information, profession, connection, business, external-influence
 
