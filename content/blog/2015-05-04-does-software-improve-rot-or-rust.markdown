@@ -23,7 +23,7 @@ What effects does time produce on software, without any external interaction?
   * Does it rot, as food?
   * Does it rust, as (some) metal?
 
-## Bettering
+##  Bettering
 
 While the first option should be the most usual case, as 
 
@@ -61,7 +61,7 @@ Before a carrot starts rotting, it goes through a phase of decreasing quality: i
 
 Think of it as a broken window: when several carrots are together and one of them starts rotting, the rest will accelerate in the same process. Even though it is a process that runs out of your control, you have to be actively looking for rotten carrots. Removing them on time is more beneficial than keeping them in the basket for the rest of the vegetables.
 
-## Rusting
+##  Rusting
 
 Let's take as an example a metal that actually rusts, like steel. Not stainless steel, though. The rusty layer is only on the outside, where the exposure to external elements happen. Below the rusty layer, there is the rest of the metal, not rusted (as still hasn't interacted with oxygen). So, in fact, the rust layer protects the rest of the metal. It is like someone "taking one for the team".
 

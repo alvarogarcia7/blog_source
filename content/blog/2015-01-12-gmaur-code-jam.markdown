@@ -12,7 +12,7 @@ url: /blog/2015/01/12/gmaur-code-jam/
 
 Last year we started the program 12 months, 12 katas (as inspired by this [repository](https://github.com/12meses12katas)). This year we want to propose something different: an asynchronous code jam
 
-##New problem: Mini-Power Swapper
+## New problem: Mini-Power Swapper
 
 This post belongs to a series: [code-jam](/{{< category "code-jam" >}}/)
 

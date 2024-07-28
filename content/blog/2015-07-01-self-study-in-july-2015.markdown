@@ -281,7 +281,7 @@ I've read the article by Martin Fowler [Reducing Coupling][reducing-coupling] in
 
 [comparing-java-mock-frameworks]: https://softwareinabottle.wordpress.com/2010/10/06/comparing-java-mock-frameworks-part-2-creating-mock-objects/
 
-## Software Craftsmanship book review
+## Software Craftsmanship book review
 
 I've read [this review][software-craftsmanship-book-review] for a book that is already pending in my book list: Software Craftsmanship by Pete McBreen.
 

@@ -13,7 +13,7 @@ url: /blog/2014/12/29/should-we-start-the-tdd-cycle-on-refactor/
 
 In this lexical scope, TDD by example is referring to this book[^tddbyexample], available [on Amazon][amazontddbyexample]
 
-###The TDD cycle
+### The TDD cycle
 
 Altough [Kent Beck][kentbeck] in his book Test-Driven Development by example explains in "Part I: the money example"[^tddbyexampleparti] that one should 
 
@@ -28,7 +28,7 @@ Implying that the TDD cycle starts with the red. Later on he explains that the c
 But I've been hearing for a while that there're some useful refactors to be done before introducing new code. Rings in my head but the only example I have is Xavi Gost's "La economía del refactoring[^refactoringeconomy]"
 
 
-###Refactoring 
+### Refactoring 
 Let's take a look at the definition of refactor (found [here](http://www.refactoring.com/)):
 
 > [Refactoring] is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
@@ -50,14 +50,14 @@ The last point is the one that interests me the most:
 
 Roughly translated to "It's not justified to change outside the bread slice", as Xavi was referring to software as sliced bread instead of layers, vertical rather than horizontal
 
-###Should you do it?
+### Should you do it?
 
  - Doing it would be a good thing, as long as you know in advance what will be affected by the next feature.
  - It can allow for less refactoring at the end of the cycle. This is not about duplication but refactoring to patterns. There might be a gain in refactoring to a pattern before introducing another feature. An example might be adding a new strategy when it's currently coded as if-then-else
 - The last responsible moment might be before or after introducing the feature. You decide.
 - Work less as there's no need for adding new cases to old structures and then simplifying
 
-###Should you not do it?
+### Should you not do it?
 
 - Foreseeing the future is difficult, therefore you might end with unused development, as it is speculating
 - Related to the last point, you might end refactoring in the wrong places. There's no current business value to it.
@@ -77,7 +77,7 @@ Long answer: Yes, as long as:
  1. You know your domain, pitfalls and team well
  1. You want to test this hypothesis and post an answer
 
-###Sources
+### Sources
 
  - [La economía del refactoring][laeconomiadelrefactoring], [Xavi Gost][xavigost]
  - [Test-Driven Development by example][amazontddbyexample], [Kent Beck][kentbeck]
