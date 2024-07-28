@@ -36,9 +36,9 @@ Let ``T`` be a sequence of tests: ``i1, i2, ..., in, F, j1, j2, ..., jm``
 where:
 
   * ``i`` are green tests
-  *  ``F`` is first failing test
-    * when executed in isolation, is green
-    * when executed in the sequence, is red
+  *  ``F`` is first failing test:
+     * when executed in isolation, is green
+     * when executed in the sequence, is red
   *  ``j`` are tests after the failed test.
 
 In this case, the order is important, as the failed test suite (presumably) comes from a shared state set by a previous test.
