@@ -40,7 +40,7 @@ A quote from the book [The Nature of Software Development][nature-sw-dev] by Ron
 >
 > Quality. We apply the necessary practices to ensure that our product always has a good design and that it is as nearly defect-free as possible. We’re able to build value continuously, sustainably, indefinitely.
 >
->(p. 5)
+> (p. 5)
 
 [nature-sw-dev]: https://pragprog.com/book/rjnsd/the-nature-of-software-development
 

@@ -210,35 +210,35 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 
 >[...] estimates are likely to be wrong, and they focus our attention on the cost of things rather than on value.
 >
->(p. 40)
+> (p. 40)
 
 ## Chapter 6: Building the Product, Feature by Feature
 
 >We need to sharpen our vision of what the product must do—and what’s just "nice to have."
 >
->(p. 45)
+> (p. 45)
 
 > To be sure we’re free of defects, we need to check everything, all the time [...] 
 >
->(p. 48)
+> (p. 48)
 
 >[...] grow the design as we go. If we design too much, we won’t get as many features, and that will show up. If we design too little, features will be hard to do, we’ll slow down
 >
->(p. 49)
+> (p. 49)
 
 ## Chapter 7: Build Features and Foundation in Parallel
 
 >Each feature needs a solid foundation of design, a solid "infrastructure."
 >
->(p.52)
+> (p.52)
 
 >We need to do as little work as possible to deliver the best possible product by our delivery date...and we need to do that work as soundly as we can afford.
 >
->(p. 53)
+> (p. 53)
 
 >Developers are often trained to try to design a system up front
 >
->(p. 59)
+> (p. 59)
 
 ## Chapter 8: Bug-Free and Well Designed
 
@@ -252,21 +252,21 @@ Therefore, the value of guiding depends on the value of the value-producing peop
 >
 > We cannot work effectively in a world of defects.
 >
->(p. 62)
+> (p. 62)
 
 > At the end of every iteration, we need to have the software as close to defect-free as possible. The only way to get there is to test it.
 >
 > We test at two levels, with "Business" tests and "Programmer" tests.
 >
->(p. 65)
+> (p. 65)
 
 >If we don’t check something, we don’t know whether it works
 >
->(p. 66)
+> (p. 66)
 
 > We need to have a good design at all times. A bad design slows us down, because it is hard to change [...] We need a high-quality design at every moment.
 >
->(p. 71)
+> (p. 71)
 
 ## Chapter 9: Full Circle
 
