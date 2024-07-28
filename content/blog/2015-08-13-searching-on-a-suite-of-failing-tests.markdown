@@ -5,6 +5,7 @@ categories:
 - naive-search
 - binary-search
 - dichotomous-search
+- dichotomic-search
 - comparison
 - spring
 - context
@@ -68,7 +69,7 @@ For the third step, ``O(n * n-1 * n-2 * 4)``. Reduces to ``O(n^3)``
 
 For the nth step, it costs ``O(n * n-1 * n-2 * ... * n-(n-1) * (n+1))``. Reduces to ``O(n^n)``. Which is polynomical but not feasible for medium-sized ``n`` (in an automatic fashion) or small ``n`` (in a manual fashion)
 
-## Dichotomous search
+## Dichotomic search
 
 (This is also known as [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm))
 
@@ -98,7 +99,7 @@ After finding the minimum sequence and solving the issue, this support branch wa
 
 In the real scenario, with around 100 tests, searching manually in the naïve way would not have been possible. It would have cost 100 steps, as the minimum set that produces ``F`` had size 2 (so only one step was necessary).
 
-Applying the dichotomous search, in 8-10 steps I had finished, with the guarantee that no matter how many tests produced the ``F`` I would have found it in a reasonable amount of time.
+Applying the dichotomic search, in 8-10 steps I had finished, with the guarantee that no matter how many tests produced the ``F`` I would have found it in a reasonable amount of time.
 
 ## Comments
 
