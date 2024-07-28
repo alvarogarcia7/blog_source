@@ -2,9 +2,9 @@
 categories:
 - self-study-aggregation
 - september
-- 2015
+- '2015'
 - read
-- 1958
+- '1958'
 - 30-second
 - algebraic-data-type
 - alonzo-church

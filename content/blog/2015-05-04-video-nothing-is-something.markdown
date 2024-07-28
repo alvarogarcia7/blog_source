@@ -4,7 +4,7 @@ categories:
 - video
 - sandy-metz
 - bathruby
-- 2015
+- '2015'
 - composition-vs-inheritance
 - ruby
 comments: true

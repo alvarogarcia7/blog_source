@@ -2,10 +2,10 @@
 categories:
 - self-study-aggregation
 - December
-- 2015
+- '2015'
 - read
 - 10x-engineer
-- 2015
+- '2015'
 - abstract-syntax-tree
 - acceptance-test
 - active-passive

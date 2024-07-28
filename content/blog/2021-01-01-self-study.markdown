@@ -2,8 +2,8 @@
 categories:
 - self-study-aggregation
 - january
-- 2021
-- 2020
+- '2021'
+- '2020'
 - acquisition-of-skill
 - analogy
 - andre-schweighofer

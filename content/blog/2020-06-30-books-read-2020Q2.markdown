@@ -2,7 +2,7 @@
 categories:
 - book
 - reading
-- 2020
+- '2020'
 - Q2
 - self-study
 - reading-club

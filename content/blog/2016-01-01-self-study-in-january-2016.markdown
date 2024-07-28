@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - January
-- 2016
+- '2016'
 - read
 - academia
 - accessibility

@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - july
-- 2016
+- '2016'
 - read
 - 10x
 - 2fa

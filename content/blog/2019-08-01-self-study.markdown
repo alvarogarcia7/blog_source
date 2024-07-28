@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - august
-- 2019
+- '2019'
 - alan-kay
 - answer
 - api

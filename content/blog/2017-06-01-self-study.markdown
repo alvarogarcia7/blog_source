@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - june
-- 2017
+- '2017'
 - read
 - 2fa
 - age

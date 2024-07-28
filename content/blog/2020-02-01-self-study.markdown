@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - february
-- 2020
+- '2020'
 - caddy
 - cc0
 - certificate

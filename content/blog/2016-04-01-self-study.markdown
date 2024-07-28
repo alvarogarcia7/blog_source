@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - april
-- 2016
+- '2016'
 - read
 - action
 - agile

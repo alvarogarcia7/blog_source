@@ -1,7 +1,7 @@
 ---
 categories:
 - mma
-- 2023
+- '2023'
 - live-article
 comments: true
 date: 2023-04-15T08:50:52Z

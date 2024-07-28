@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - july
-- 2017
+- '2017'
 - analytics
 - anarchy
 - benedict-evans

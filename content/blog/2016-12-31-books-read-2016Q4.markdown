@@ -2,7 +2,7 @@
 categories:
 - book
 - reading
-- 2016
+- '2016'
 - Q4
 - self-study
 - codurance

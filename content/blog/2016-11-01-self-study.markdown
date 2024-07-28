@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - november
-- 2016
+- '2016'
 - read
 - advice
 - bartosz-milewski

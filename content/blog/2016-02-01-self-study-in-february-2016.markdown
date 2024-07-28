@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - February
-- 2016
+- '2016'
 - read
 - 60fps
 - ability

@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - march
-- 2019
+- '2019'
 - abstraction
 - advice
 - agile

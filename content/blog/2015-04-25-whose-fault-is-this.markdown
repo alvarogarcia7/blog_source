@@ -4,7 +4,7 @@ categories:
 - book
 - quote
 - craft-conf
-- 2015
+- '2015'
 - flow
 - mihaly-csikszentmihalyi
 comments: true

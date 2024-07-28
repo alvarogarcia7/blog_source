@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - january 
-- 2017
+- '2017'
 - read
 - additive-monad
 - advice

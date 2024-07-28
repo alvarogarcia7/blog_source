@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - october
-- 2016
+- '2016'
 - read
 - .net
 - agile

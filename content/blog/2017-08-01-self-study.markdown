@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - august
-- 2017
+- '2017'
 - adrian-colyer
 - amazon
 - amazon-web-service

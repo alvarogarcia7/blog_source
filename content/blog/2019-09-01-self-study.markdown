@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - september
-- 2019
+- '2019'
 - alvaro-videla
 - analogy
 - ios

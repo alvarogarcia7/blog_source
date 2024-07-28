@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - june
-- 2015
+- '2015'
 - monitoring
 - cqrs
 - by-example

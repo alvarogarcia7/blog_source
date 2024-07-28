@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - may
-- 2019
+- '2019'
 - archive
 - ashley-madison
 - barry-mazur

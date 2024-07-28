@@ -2,9 +2,9 @@
 categories:
 - self-study-aggregation
 - october
-- 2015
+- '2015'
 - read
-- 1986
+- '1986'
 - abstract-syntax-tree
 - acid
 - agile

@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - march
-- 2016
+- '2016'
 - read
 - abstract-data-structure
 - adoption

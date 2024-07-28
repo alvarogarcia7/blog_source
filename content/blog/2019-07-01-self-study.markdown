@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - july
-- 2019
+- '2019'
 - api
 - assembler
 - backup

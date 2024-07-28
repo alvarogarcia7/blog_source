@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - july
-- 2015
+- '2015'
 - rich-hickey
 - clojure
 - java-one
@@ -44,7 +44,7 @@ categories:
 - christopher-strachey
 - programming-language
 - theory
-- 1967
+- '1967'
 - course
 - fundamental-concepts
 - reification

@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - may
-- 2017
+- '2017'
 - read
 - ad
 - adblock

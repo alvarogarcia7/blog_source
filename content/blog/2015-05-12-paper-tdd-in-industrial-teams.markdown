@@ -8,7 +8,7 @@ categories:
 - michael-maximilien
 - thirumalesh-bhat
 - laurie-williams
-- 2008
+- '2008'
 - quote
 comments: true
 date: 2015-05-12T00:02:44Z

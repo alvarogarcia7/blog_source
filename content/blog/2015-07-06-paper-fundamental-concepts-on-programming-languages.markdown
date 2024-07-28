@@ -3,7 +3,7 @@ categories:
 - christopher-strachey
 - programming-language
 - theory
-- 1967
+- '1967'
 - course
 - fundamental-concepts
 - paper

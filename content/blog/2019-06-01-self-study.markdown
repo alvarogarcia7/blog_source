@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - june
-- 2019
+- '2019'
 - bash
 - borrowing-rules
 - c

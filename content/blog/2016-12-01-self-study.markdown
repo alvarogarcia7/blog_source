@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - december
-- 2016
+- '2016'
 - read
 - alex-williams
 - analogy

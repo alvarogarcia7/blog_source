@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - september
-- 2017
+- '2017'
 - android
 - belen-albeza
 - car

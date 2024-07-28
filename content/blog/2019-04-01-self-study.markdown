@@ -2,8 +2,8 @@
 categories:
 - self-study-aggregation
 - april
-- 2019
-- 1973
+- '2019'
+- '1973'
 - actor
 - actor-model
 - ad

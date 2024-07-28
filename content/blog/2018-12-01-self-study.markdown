@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - december
-- 2018
+- '2018'
 - bot
 - digital-nomad
 - documentation

@@ -1,7 +1,7 @@
 ---
 categories:
 - craft-conf
-- 2015
+- '2015'
 - attended-talks
 - budapest
 comments: true

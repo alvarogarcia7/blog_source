@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - september
-- 2016
+- '2016'
 - read
 - burnout
 comments: true

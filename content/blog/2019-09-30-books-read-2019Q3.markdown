@@ -2,7 +2,7 @@
 categories:
 - book
 - reading
-- 2019
+- '2019'
 - Q3
 - self-study
 comments: true

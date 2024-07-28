@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - february 
-- 2017
+- '2017'
 - read
 - alan-brouilette
 - alyssa-mazzina

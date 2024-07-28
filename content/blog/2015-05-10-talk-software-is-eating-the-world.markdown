@@ -5,7 +5,7 @@ categories:
 - agile
 - tdd
 - reaktor-dev-day
-- 2014
+- '2014'
 - analogy
 comments: true
 date: 2015-05-10T21:00:52Z

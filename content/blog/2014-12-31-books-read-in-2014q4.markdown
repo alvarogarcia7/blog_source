@@ -2,7 +2,7 @@
 categories:
 - book
 - reading
-- 2014
+- '2014'
 - Q4
 - self-study
 comments: true

@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - january
-- 2019
+- '2019'
 - book
 - cycle
 - ebook

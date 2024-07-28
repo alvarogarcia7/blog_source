@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - November
-- 2015
+- '2015'
 - read
 - ==
 - ===

@@ -1,8 +1,8 @@
 ---
 categories:
-- 2007
-- 2014
-- 2015
+- '2007'
+- '2014'
+- '2015'
 - absence-of-bugs
 - advice
 - alejandro-marcu

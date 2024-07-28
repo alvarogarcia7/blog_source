@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - august
-- 2016
+- '2016'
 - read
 - 2fa
 - aaron-krauss

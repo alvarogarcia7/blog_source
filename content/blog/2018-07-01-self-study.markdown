@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - july
-- 2018
+- '2018'
 - analogy
 - aws
 - bar

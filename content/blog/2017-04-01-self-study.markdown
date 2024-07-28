@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - april
-- 2017
+- '2017'
 - read
 - austin-gunter
 - blunder

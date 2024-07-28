@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - may
-- 2016
+- '2016'
 - read
 - 1u-server
 - adrian-kosmaczewski

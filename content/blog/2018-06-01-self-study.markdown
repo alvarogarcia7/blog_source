@@ -2,9 +2,9 @@
 categories:
 - self-study-aggregation
 - june
-- 2018
+- '2018'
 - 10x
-- 2017
+- '2017'
 - 2fa
 - acceptance-testing
 - accesibility

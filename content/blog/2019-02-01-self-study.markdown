@@ -2,7 +2,7 @@
 categories:
 - self-study-aggregation
 - february
-- 2019
+- '2019'
 - acid
 - aerospike
 - agile

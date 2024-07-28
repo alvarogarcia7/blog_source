@@ -1,6 +1,6 @@
 ---
 categories:
-- 2010
+- '2010'
 - article
 - passion
 - craftsmanship
@@ -21,7 +21,7 @@ categories:
 - guide
 - oopsla
 - scrum
-- 2004
+- '2004'
 - jmock
 - goos
 - nat-pryce
