@@ -28,7 +28,7 @@ This purple-wire the author talks about is extremely important even in the curre
 
 What I usually do is a commit containing a quick fix (purple-wire, scaffold, hackish if, etc) on a bugfix branch, push the changes so jenkins can verify that this purple-wire didn't break any other case. Then integrate this bugfix into master if required[^1]. If this affects ``develop`` branch of other developers, also merge into develop and or feature branches.
 
-On the other hand, in my opinion, fixing the defect should include an unit test so the defect does not reproduce again. If this is not reproducible through an unit one, escalate test levels (unit, integration, end to end, etc) until a suitable one is found.
+On the other hand, in my opinion, fixing the defect should include a unit test so the defect does not reproduce again. If this is not reproducible through an unit one, escalate test levels (unit, integration, end to end, etc) until a suitable one is found.
 
 Once that applying the purple-wire is done, I ``checkout`` the last version where the defect is to be found (usually right before the bugfix branch) and create this test necessary to reproduce behavior. Only after this defect is found I fix it. Otherwise, I think the root cause might be in a different place and, therefore, fix a non-existing defect, effectively introducing a regression.
 
