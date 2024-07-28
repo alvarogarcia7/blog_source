@@ -125,7 +125,7 @@ Tags: chris-dixon, public-network, private-network, token, ethereum, bitcoin, cr
 I've read this article comparing the Reagent vs React (clojurescript vs javascript), going into details for both technologies. By Inge Solvoll
 
 > Conclusion: Code vs Data
-
+>
 > Hopefully I managed to show you a few things that Reagent brings to the table:
 >
 >  * Concise and compact

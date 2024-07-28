@@ -18,9 +18,9 @@ In this lexical scope, TDD by example is referring to this book[^tddbyexample], 
 Altough [Kent Beck][kentbeck] in his book Test-Driven Development by example explains in "Part I: the money example"[^tddbyexampleparti] that one should 
 
 > quickly add a test;
-
+> 
 > run all the tests and see the new one fail [...]
-
+> 
 > <cite>Kent Beck </cite>
 
 Implying that the TDD cycle starts with the red. Later on he explains that the cycle continues with green and refactor and back to red.
@@ -32,7 +32,7 @@ But I've been hearing for a while that there're some useful refactors to be done
 Let's take a look at the definition of refactor (found [here](http://www.refactoring.com/)):
 
 > [Refactoring] is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
-
+>
 >  <cite>Martin Fowler</cite>
 
 I've found some info on [stackoverflow](http://stackoverflow.com/questions/1355101/test-code-refactor-when-should-we-start-a-refactoring) about the subject. The currently [accepted answer](http://stackoverflow.com/a/1355782) points out some interesting comments:

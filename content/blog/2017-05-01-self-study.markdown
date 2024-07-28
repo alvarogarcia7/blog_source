@@ -83,9 +83,9 @@ I've read this email that John Sonmez sends, about being a programmer vs a langu
 >Someone who could tear apart complex, confusing puzzles and engineer elegant, reliable solutions... whether those challenges were software, hardware or "wetware."
 >
 > In other words, they wanted a professional problem solver who could jump in and deliver what the company needed, to meet THEIR customers' demands.
-
+>
 > I started looking for ways that I could add value to my employer outside of the code I wrote.
-
+>
 > I developed my "soft skills"—my ability to communicate, learn quickly, and pass my knowledge on to others.
 
 Tags: john-sonmez, programmer, language-programmer, quote
@@ -149,7 +149,7 @@ I've watched this video about the clean architecture (with a client's lunch and 
 A quote:
 
 > the plugin is vulnerable to the plugged-in system, at the source code level
-
+>
 > Separate the detail from the general things
 
 Tags: clean-architecture, uncle-bob, robert-martin, video, mvp, model-view-presenter, model-view-controller, mvc, quote, plugin

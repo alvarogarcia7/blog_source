@@ -87,7 +87,7 @@ I've read [this article][bored-quit] by Michael Lopp on what are some mechanisms
 Some interesting quotes:
 
 > My gig is the care and feeding of engineers, and their productivity is my productivity. If they all leave, I have exactly no job.
-
+>
 > My job isn’t just building product; I also build people.
 
 Tags: michael-lopp, boredness, team-management, people, career, tech-lead, quote

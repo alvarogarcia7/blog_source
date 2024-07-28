@@ -144,7 +144,7 @@ Read: Tue, 05 Mar 2019 15:28:42 +0000
 
 ## [Web Design 3.0: When Your Web Design Really Matters](https://nicepage.com/doc/article/20348/web-design-3-0-when-your-web-design-really-matters)
 
-In Chapter 1, we will find out how Web Design is changing. Also, you will learn about the birth of the new generation of web designers, who are designing web pages in Web Design 3.0.
+> In Chapter 1, we will find out how Web Design is changing. Also, you will learn about the birth of the new generation of web designers, who are designing web pages in Web Design 3.0.
 
 > In Chapter 2, we will talk about website builders that are lagging behind the trends and slowing down the Web Design evolution.
 
@@ -247,13 +247,13 @@ Read: Thu, 28 Mar 2019 10:19:16 +0000
 This is a paraphrasing of some advice for healthy eating: 'Eat food, not too much, mostly plants.' (Pollan)
 
 > Write tests.
-
+>
 > Often I find myself saving time when I put time in to write tests
-
+>
 > Not too many: you get diminishing returns on your tests as the coverage increases [...]
-
+>
 > Mostly integration: as you move up the pyramid, the confidence quotient of each form of testing increases
-
+>
 > Integration tests strike a great balance on the trade-offs between confidence and speed/expense
 
 Tags: unit-test, testing, test-pyramid, healthy-testing, advice, integration-test, quote, kent-c-dodds, analogy
@@ -299,9 +299,9 @@ Creates a testing trophy, a figure to explain the best testing pattern, replacin
 Explains return on investment (ROI) on tests
 
 > integration tests provide the best balance of cost, speed and confidence
-
+>
 > Integration tests lie somewhere between unit tests and end-to-end tests so they provide the best balance. Therefore, they have the highest ROI.
-
+>
 > The main idea is to just not mock so much
 
 

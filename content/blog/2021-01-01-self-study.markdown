@@ -135,7 +135,7 @@ Read: Sun, 10 Jan 2021 13:42:34 +0000
 > Fake activity is great for making yourself feel better, but lousy for actual results.
 
 > Rules for Doing the Real Thing
-
+>
 > 1. Nothing is often better than something.
 > 1. The hard way is the easy way.
 > 1. If you’re not sure what the real thing is, just ask.
