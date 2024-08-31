@@ -22,6 +22,13 @@ We have been developing tools like this. It works well, you just have to be care
 #### Same repository to access both data
 ### Behavior
 #### common interface to access both
+
+```python
+# file ./private/data.py
+def data() -> list[dict[str, str]]:
+    return []
+```
+
 #### Import by name (from CLI)
 
 
