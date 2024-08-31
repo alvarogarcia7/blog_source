@@ -1,6 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1725621267723" ID="ID_1589599453" MODIFIED="1725621976188" TEXT="New Mindmap">
+<node CREATED="1725622618856" ID="ID_617813795" MODIFIED="1725622629827" POSITION="right" TEXT="Introduction"/>
+<node CREATED="1725622634964" ID="ID_936148723" MODIFIED="1725622645051" POSITION="right" TEXT="Context and Applicability"/>
 <node CREATED="1725621532076" ID="ID_1314307046" MODIFIED="1725621534966" POSITION="right" TEXT="How to">
 <node CREATED="1725621400027" ID="ID_1648780728" MODIFIED="1725621402545" TEXT="Data">
 <node CREATED="1725621463776" ID="ID_479728968" MODIFIED="1725621489889" TEXT="Repository pattern to access data"/>
