@@ -9,3 +9,29 @@ published: false
 url: /articles/2024/08/31/building-private-tools-open/
 ---
 
+## How to
+### Data
+#### Repository pattern to access data
+#### Same repository to access both data
+### Behavior
+#### common interface to access both
+#### Import by name (from CLI)
+## Tips and tricks
+### Keep the tool in one folder
+### Keep the data in another folder
+### Each folder is a different repo
+## Pros and Cons
+### Advantages
+#### Take advantage of develiping in the open, while keeping your information private
+#### Testing in the open
+#### Collaboration
+#### Open source
+### Downsides
+#### Leaking about having such a tool
+#### Leaking about using that technology
+#### Risk of committing private data to a public repository
+## Examples
+### tariochtools
+## Conclusion
+### Separate the public and private information
+### Take advantage of develiping in the open, while keeping your information private
