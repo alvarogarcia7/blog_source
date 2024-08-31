@@ -10,7 +10,12 @@ url: /articles/2024/08/31/building-private-tools-open/
 ---
 
 ## Introduction
+It is very common to develop private tools in private: private git repositories, private servers, private data, private everything.
+
+But what if you want to obtain the benefits of developing in the open while keeping your privacy?
+
 ## Context and Applicability
+We have been developing tools like this. It works well, you just have to be careful on what gets committed where.
 ## How to
 ### Data
 #### Repository pattern to access data
