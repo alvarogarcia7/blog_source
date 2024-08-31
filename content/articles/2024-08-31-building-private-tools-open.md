@@ -23,6 +23,45 @@ We have been developing tools like this. It works well, you just have to be care
 ### Behavior
 #### common interface to access both
 #### Import by name (from CLI)
+
+
+```python
+from __future__ import annotations
+
+import importlib.util
+import sys
+from pathlib import Path
+from types import ModuleType
+
+
+def import_module_by_name(file_path: str) -> ModuleType:
+    module_name = Path(file_path).stem
+    spec = importlib.util.spec_from_file_location(module_name, file_path)
+    if spec is None:
+        raise ImportError(f"Cannot find module named {module_name}")
+    module = importlib.util.module_from_spec(spec)
+    sys.modules[module_name] = module
+    spec.loader.exec_module(module)  # type: ignore
+    return module
+
+
+def main(path_to_validation_data: str) -> int:
+    module = import_module_by_name(path_to_validation_data)
+    if module is None:
+        raise ImportError(f"Cannot find module named {path_to_validation_data}")
+
+    return 0
+
+if __name__ == '__main__':
+    sys.exit(main(sys.argv[1]))
+```
+
+and you can execute it:
+
+```bash
+python3 main.py ./private/data.py  
+```
+
 ## Tips and tricks
 ### Keep the tool in one folder
 ### Keep the data in another folder
