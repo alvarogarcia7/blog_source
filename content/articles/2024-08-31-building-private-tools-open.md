@@ -9,6 +9,8 @@ published: false
 url: /articles/2024/08/31/building-private-tools-open/
 ---
 
+## Introduction
+## Context and Applicability
 ## How to
 ### Data
 #### Repository pattern to access data
