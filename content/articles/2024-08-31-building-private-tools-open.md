@@ -113,7 +113,7 @@ and you can execute it:
 python3 main.py ./private/data.py  
 ```
 
-Another example can be seen [here](https://github.com/alvarogarcia7/freemind-exporter-formatter/blob/master/main.py#L26) 
+Another example can be seen [here](https://github.com/alvarogarcia7/freemind-exporter-formatter/blob/master/main.py#L26)
 
 ## Tips and tricks
 
@@ -145,7 +145,12 @@ Another example can be seen [here](https://github.com/alvarogarcia7/freemind-exp
 
 ## Examples
 
-### tariochtools
+### tariochbctools
+
+> Honestly I keep the tests a bit limited in here (I have some real data based tests for some of the importers in my
+> personal repo).
+>
+> [TarioCH](https://github.com/tarioch/beancounttools/pull/115#issuecomment-2263858194)
 
 ## Conclusion
 
