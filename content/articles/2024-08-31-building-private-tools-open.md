@@ -36,18 +36,27 @@ Use the repository pattern to access data. This is the same as for Production/Pr
 Each has a different database, but the code is the same.
 
 A small explanation of the Repository pattern:
-> * The Repository Design Pattern is a software design pattern that acts as an intermediary layer between an application’s
-> business logic and data storage.
+> * The Repository Design Pattern is a software design pattern that acts as an intermediary layer between an
+    application’s
+    > business logic and data storage.
 > * Its primary purpose is to provide a structured and standardized way to access, manage, and manipulate data while
-> abstracting the underlying details of data storage technologies.
+    > abstracting the underlying details of data storage technologies.
 > * This pattern promotes a clear separation of concerns, making software more maintainable, testable, and adaptable to
-> changes in data sources, without entangling the core application logic with data access intricacies.
+    > changes in data sources, without entangling the core application logic with data access intricacies.
 > * In essence, the Repository Design Pattern is a blueprint for organizing and simplifying data access, enhancing the
-> efficiency and flexibility of software systems.
+    > efficiency and flexibility of software systems.
 >
 > https://www.geeksforgeeks.org/repository-design-pattern/
 
-#### Same repository to access both data
+#### Same repository to access both versions of data
+
+Given that the shape of the data is the same, you can use the same repository to access both versions of the data.
+
+The only difference is the data itself. Hence, you cannot reference titles, ids, categories, or any other information
+that is private.
+
+A suggestion is to come up with a washed version of the data, where you replace the private information with a
+placeholder. Keep the same shape (e.g., `int`s are still `int`s, `str`s are still `str`s; length of data is similar).
 
 ### Behavior
 
