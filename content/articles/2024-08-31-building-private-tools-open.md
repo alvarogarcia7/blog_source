@@ -147,7 +147,9 @@ Take advantage of developing in the open, while keeping your information private
 ### Downsides
 
 1. Leaking about having such a tool
+    1. By posting the link above, you are leaking that you have a tool to work with such information.
 2. Leaking about using that technology
+   1. By posting the link above, you are leaking that you are using Python to work with such information.
 3. Risk of committing private data to a public repository
    1. As an example, we can see an export of private data in a public repository [here](https://github.com/tarioch/beancounttools/issues/83#issue-1562630990).
    2. The user is saying their balance is 7881.98 CHF. This is private information.
