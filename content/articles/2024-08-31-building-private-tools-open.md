@@ -127,7 +127,7 @@ Another example can be seen [here](https://github.com/alvarogarcia7/freemind-exp
 
 ### Advantages
 
-#### Take advantage of develiping in the open, while keeping your information private
+#### Take advantage of developing in the open, while keeping your information private
 
 #### Testing in the open
 
@@ -156,4 +156,4 @@ Another example can be seen [here](https://github.com/alvarogarcia7/freemind-exp
 
 ### Separate the public and private information
 
-### Take advantage of develiping in the open, while keeping your information private
+### Take advantage of developing in the open, while keeping your information private
