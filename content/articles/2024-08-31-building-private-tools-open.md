@@ -117,6 +117,21 @@ Another example can be seen [here](https://github.com/alvarogarcia7/freemind-exp
 
 ## Tips and tricks
 
+1. Do not push the open version to a public repository until you're ready. Once published, you cannot take it back [^1].
+2. If you commit private information by mistake, rewrite the git history so that it never shows up in the history (
+   e.g., `git rebase`)
+3. Create a script that checks for private information in the code and data. Run it before committing (e.g. git hook).
+   You can store it in the private repository (because it has access to the private data). [^2]
+
+[^1]: There are scanners that look for secrets in public repositories. Once they find it, they notify the owner of the
+repository ([example](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning)).
+If you have secret information in a public repository, you have to assume that it has been compromised. In the case of
+keys, you have to revoke them.
+In the case of sensitive information, you have to assume that it has been leaked.
+
+[^2]: A good tip here is this one: execute the checker only if the file is present.
+e.g., `[ -f ./private/checker.sh ] && ./private/checker.sh`
+
 ### Keep the tool in one folder
 
 ### Keep the data in another folder
