@@ -146,11 +146,9 @@ Take advantage of developing in the open, while keeping your information private
 
 ### Downsides
 
-#### Leaking about having such a tool
-
-#### Leaking about using that technology
-
-#### Risk of committing private data to a public repository
+1. Leaking about having such a tool
+2. Leaking about using that technology
+3. Risk of committing private data to a public repository
 
 ## Examples
 
