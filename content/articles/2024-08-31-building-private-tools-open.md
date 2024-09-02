@@ -75,7 +75,7 @@ placeholder. Keep the same shape:
 
 ### Behavior
 
-#### common interface to access both
+#### Keep a common interface to access both
 
 ```python
 # file ./private/data.py
