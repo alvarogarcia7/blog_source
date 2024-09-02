@@ -26,7 +26,7 @@ We have been developing tools like this. It works well, you just have to be care
 
 Alternatives:
 
-1. Keep all development hidden
+1. Keep all development hidden (e.g., private repositories, private cloud)
 2. Hide the data using git-crypt in the public version
 3. Merge the public and private versions into one using submodules
 
