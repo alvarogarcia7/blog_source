@@ -73,7 +73,7 @@ Taken from [here](https://bash.cyberciti.biz/guide/Trap_statement)
 
 An example:
 
-```
+```bash
 function finish {
   # Your cleanup code here
 }
@@ -91,7 +91,7 @@ You can use `/usr/bin/env bash` / `/usr/bin/env sh` to spawn a shell.
 
 Usage:
 
-```
+```bash
 #!/usr/bin/env bash
 
 #rest of commands
@@ -101,7 +101,7 @@ Usage:
 
 add these options:
 
-```
+```bash
 set -euxo pipefail
 ```
 
@@ -122,7 +122,7 @@ a brief note:
 
 If you want to use a try...catch pattern, disable `-e` temporarily:
 
-```
+```bash
 set +e # 1
 ls NON_EXISTING_FILE # 2
 set -e # 3
@@ -140,21 +140,21 @@ I usually make my bash scripts as simple as possible (see Limitations), but even
 
 For that reason, you can enable the 'debug' option permanently:
 
-```
+```bash
 # Inside the script
 set -x
 ```
 
 Or just for one invocation:
 
-```
+```bash
 # When invoking the script
 bash -x myscript.sh
 ```
 
 Note: your script will get the parameters in the same fashion as if executing `./myscript.sh`:
 
-```
+```bash
 $ cat myscript.sh
 echo $1
 $ ./myscript.sh 1
@@ -168,7 +168,7 @@ $ bash -x myscript.sh 1
 
 A common pattern I use while building scripts is to prepare the command but do not execute it yet:
 
-```
+```bash
 ...
 # prepare options, decide what to do
 echo COMMAND_WITH_SIDE_EFFECTS
@@ -176,7 +176,7 @@ echo COMMAND_WITH_SIDE_EFFECTS
 
 When I am sure that this is the desired command, usually after trying it manually on the console, I can remove the `echo`:
 
-```
+```bash
 ...
 # prepare options, decide what to do
 COMMAND_WITH_SIDE_EFFECTS
@@ -189,7 +189,7 @@ You can use the previous pattern but as a feature of your script:
   * Accept '-n / --dry-run' (or similar)
   * When the switch is enabled, it prepends `echo ` to your final command
 
-```
+```bash
 COMMAND="rm -rf ./.git"
 if [ $DRY_RUN ]; then
   COMMAND="echo $COMMAND"
@@ -205,7 +205,7 @@ When some scripts grow in size and are not a script but an application, being mo
 
 See `curl` as an example:
 
-```
+```bash
 $ curl localhost:8080
 curl: (7) Failed to connect to localhost port 8080: Connection refused
 $ curl -vvv localhost:8080
@@ -228,14 +228,14 @@ Same with 'raw' mode, a mode to only print the raw output, maybe for consumption
 
 Imagine a script that prints the first, second, and third received parameter, then all of them:
 
-```
+```bash
 $ cat myscript.sh
 echo "first=$1 second=$2 third=$3; all=$@"
 ```
 
 The normal invocation:
 
-```
+```bash
 $ ./myscript.sh 1 2 3
 first=1 second=2 third=3; all=1 2 3
 ```
@@ -244,7 +244,7 @@ first=1 second=2 third=3; all=1 2 3
 
 now let's try strings (with spaces)
 
-```
+```bash
 $ ./myscript.sh hello world
 first=hello second=world third=; all=hello world
 ```
@@ -253,7 +253,7 @@ Ok, bash uses spaces to delimit words. Now that we know this, lets be careful.
 
 We want to process some files (with spaces):
 
-```
+```bash
 $ ls file*
 file 1.txt file 2.txt
 $ ./myscript.sh $(ls file*)
@@ -264,7 +264,7 @@ A defect appeared: I want "file 1.txt" to be a parameter, not two.
 
 Let's imagine a script checking whether a file exists:
 
-```
+```bash
 $ cat file_exists.sh
 if [ -e $1 ]; then # -e is for file exists; see `man test`
   echo "file $1 exists"
@@ -273,7 +273,7 @@ else
 fi
 ```
 
-```
+```bash
 $ ls file*
 file 1.txt     file 2.txt     file_exists.sh
 $ ./file_exists.sh "file 1.txt"
@@ -283,7 +283,7 @@ file file 1.txt does not exist
 
 Let's add quotes to the test to make it work with spaces:
 
-```
+```bash
 $ cat file_exists.sh
 if [ -e "$1" ]; then # note the quotes
   echo "file $1 exists"
@@ -320,7 +320,7 @@ I like to design my scripts by separating concerns or responsibilities.
 
 One typical example: process many files at once:
 
-```
+```bash
 $ cat s1.sh
 #!/usr/bin/env bash
 
@@ -350,7 +350,7 @@ The main benefit is that iterating the files is something that usually does not 
 
 Its execution:
 
-```
+```bash
 $ ls file*
 file1.txt file2.txt
 $ ./s1.sh
@@ -375,7 +375,7 @@ Some operating systems now protect `#rm -rf /` with another flag, but the mistak
 
 To avoid the above mistake,
 
-```
+```bash
 #!/usr/env/bin bash
 set -euxo pipefail
 cd $VARIABLE #this will fail if $VARIABLE is unbound
@@ -395,7 +395,7 @@ The tool is large enough to warrant another article, but the basic usage is stra
 
 Some example run:
 
-```
+```bash
 $ shellcheck sh1.sh
 In sh1.sh line 22:
   destination=${date}-$(basename $file)
@@ -442,7 +442,7 @@ I want to remove all the existing files in a directory that are greater in size 
 
 First, on the REPL, find all the files:
 
-```
+```bash
 $ ls -lh file*
 -rw-r--r--  1 user  group     0B Jul 13 00:50 file1.txt
 -rw-r--r--  1 user  group     0B Jul 13 00:50 file2.txt
@@ -451,14 +451,14 @@ $ ls -lh file*
 
 Find files greater than the desired size:
 
-```
+```bash
 $ find . -maxdepth 1 -type f -iname "file*.txt" -size +30k -print0
 ./file3.txt%
 ```
 
 now, only need to delete the file:
 
-```
+```bash
 function process_file {
   file="$1"
   echo "rm $file" # 1
@@ -471,7 +471,7 @@ First, I make sure that the plumbing code is all correct before executing comman
 
 Then, remove the "temporary dry-run mode":
 
-```
+```bash
 function process_file {
   file="$1"
   rm $file
@@ -517,7 +517,7 @@ This is a full example with a manual invocation to plumb the candidate to the fu
 
 First, on the REPL, find all the files:
 
-```
+```bash
 $ ls -lh file*
 -rw-r--r--  1 user  group     0B Jul 13 00:50 file1.txt
 -rw-r--r--  1 user  group     0B Jul 13 00:50 file2.txt
@@ -527,7 +527,7 @@ $ ls -lh file*
 
 Find files greater than the desired size:
 
-```
+```bash
 $ find . -maxdepth 1 -type f -iname "file*.txt" -size +30k > candidates.txt
 $ cat candidates.txt
 ./file3.txt
@@ -540,7 +540,7 @@ I realize that the file `file_SUPER_IMPORTANT_DO_NOT_DELETE.txt` should not be d
 
 Now,
 
-```
+```bash
 $ cat candidates.txt
 ./file3.txt
 ```
@@ -549,14 +549,14 @@ then I prefer to edit the file manually than to create a script. Remember, this 
 
 Hint: the vim command `%s/^/rm /` will insert at the beginning of the line the command `rm ` that we need. The command `%s/$/;/` will append a semicolon at the end of the line. It's not needed for this example, but as a reminder. This replacement can also be done with `sed`/`awk`.
 
-```
+```bash
 $ cat candidates.txt
 rm ./file3.txt;
 ```
 
 Now, just execute this file:
 
-```
+```bash
 bash candidates.txt
 ```
 
@@ -591,10 +591,10 @@ Ruby works well for programs (no longer scripts) that need to be tested.
 
 For my build scripts, I enjoy hitting `<tab>` for auto-completion of the goals. Bash does not offer that out of the box (but can be performed using [programmable completion](https://www.gnu.org/software/bash/manual/bash.html#Programmable-Completion)). Make, on the other hand, offers goal autocompletion out of the box:
 
-```
+```makefile
 .PHONY: build
 build:
-    ./gradlew build
+	./gradlew build
 ```
 
 Now, I can `make b<TAB>` and it will suggest `make build`
