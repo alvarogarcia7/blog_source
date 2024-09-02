@@ -60,6 +60,8 @@ placeholder. Keep the same shape:
 
 * `int`s are still `int`s, `str`s are still `str`s
 * length of data is similar
+* no need to keep the same volume of data. It can get expensive to keep all that test data. A representative sample is
+  enough.
 
 ### Behavior
 
