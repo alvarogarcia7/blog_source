@@ -4,6 +4,10 @@ categories:
   - tool
   - private-tool
   - separation
+  - version
+  - rebase
+  - repository-pattern
+  - rewrite-history
 date: 2024-08-31T18:04:28+0400
 published: false
 url: /articles/2024/08/31/building-private-tools-open/
