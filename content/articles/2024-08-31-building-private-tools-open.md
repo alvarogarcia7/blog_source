@@ -137,13 +137,12 @@ e.g., `[ -f ./private/checker.sh ] && ./private/checker.sh`
 
 ### Advantages
 
-#### Take advantage of developing in the open, while keeping your information private
+Take advantage of developing in the open, while keeping your information private:
 
-#### Testing in the open
-
-#### Collaboration
-
-#### Open source
+1. Free resources in the public repository: CI/CD, code reviews, etc.
+2. Testing in the open: let other people test your project, get early feedback on the project
+3. Collaboration: let other people contribute to your project
+4. Open source: let other people see how you work, how you solve problems; contribute to the community
 
 ### Downsides
 
