@@ -10,24 +10,35 @@ url: /articles/2024/08/31/building-private-tools-open/
 ---
 
 ## Introduction
-It is very common to develop private tools in private: private git repositories, private servers, private data, private everything.
+
+It is very common to develop private tools in private: private git repositories, private servers, private data, private
+everything.
 
 But what if you want to obtain the benefits of developing in the open while keeping your privacy?
 
 ## Context and Applicability
+
 We have been developing tools like this. It works well, you just have to be careful on what gets committed where.
+
 ## How to
+
 Split the tool in two parts: the public part and the private part. This refers both to data and behavior (code).
 
 Each one is called a version: public version and private version.
 
 ### Data
+
 If the data has the same shape (between public and private versions), you can use the same repository to access it.
+
 #### Repository pattern to access data
-Use the repository pattern to access data. This is the same as for Production/Preproduction/Development environments. Each has a different database, but the code is the same.
+
+Use the repository pattern to access data. This is the same as for Production/Preproduction/Development environments.
+Each has a different database, but the code is the same.
 
 #### Same repository to access both data
+
 ### Behavior
+
 #### common interface to access both
 
 ```python
@@ -37,7 +48,6 @@ def data() -> list[dict[str, str]]:
 ```
 
 #### Import by name (from CLI)
-
 
 ```python
 from __future__ import annotations
@@ -66,6 +76,7 @@ def main(path_to_validation_data: str) -> int:
 
     return 0
 
+
 if __name__ == '__main__':
     sys.exit(main(sys.argv[1]))
 ```
@@ -77,21 +88,39 @@ python3 main.py ./private/data.py
 ```
 
 ## Tips and tricks
+
 ### Keep the tool in one folder
+
 ### Keep the data in another folder
+
 ### Each folder is a different repo
+
 ## Pros and Cons
+
 ### Advantages
+
 #### Take advantage of develiping in the open, while keeping your information private
+
 #### Testing in the open
+
 #### Collaboration
+
 #### Open source
+
 ### Downsides
+
 #### Leaking about having such a tool
+
 #### Leaking about using that technology
+
 #### Risk of committing private data to a public repository
+
 ## Examples
+
 ### tariochtools
+
 ## Conclusion
+
 ### Separate the public and private information
+
 ### Take advantage of develiping in the open, while keeping your information private
