@@ -165,5 +165,5 @@ Take advantage of developing in the open, while keeping your information private
 
 ## Conclusion
 
-1. Separate the public and private information
+1. Separate the public and private information in two different versions
 2. Take advantage of developing in the open, while keeping your information private
