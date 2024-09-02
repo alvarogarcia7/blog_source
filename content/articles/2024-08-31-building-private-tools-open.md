@@ -9,7 +9,7 @@ categories:
   - repository-pattern
   - rewrite-history
 date: 2024-08-31T18:04:28+0400
-published: false
+published: true
 url: /articles/2024/08/31/building-private-tools-open/
 ---
 
