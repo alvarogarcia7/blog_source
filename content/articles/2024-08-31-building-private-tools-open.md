@@ -24,6 +24,11 @@ But what if you want to obtain the benefits of developing in the open while keep
 
 We have been developing tools like this. It works well, you just have to be careful on what gets committed where.
 
+Alternatives:
+
+1. Keep all development hidden
+2. Hide the data using git-crypt
+
 ## How to
 
 Split the tool in two parts: the public part and the private part. This refers both to data and behavior (code).
