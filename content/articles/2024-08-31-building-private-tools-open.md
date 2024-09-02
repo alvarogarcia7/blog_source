@@ -35,6 +35,18 @@ If the data has the same shape (between public and private versions), you can us
 Use the repository pattern to access data. This is the same as for Production/Preproduction/Development environments.
 Each has a different database, but the code is the same.
 
+A small explanation of the Repository pattern:
+> The Repository Design Pattern is a software design pattern that acts as an intermediary layer between an application’s
+> business logic and data storage.
+> Its primary purpose is to provide a structured and standardized way to access, manage, and manipulate data while
+> abstracting the underlying details of data storage technologies.
+> This pattern promotes a clear separation of concerns, making software more maintainable, testable, and adaptable to
+> changes in data sources, without entangling the core application logic with data access intricacies.
+> In essence, the Repository Design Pattern is a blueprint for organizing and simplifying data access, enhancing the
+> efficiency and flexibility of software systems.
+>
+> https://www.geeksforgeeks.org/repository-design-pattern/
+
 #### Same repository to access both data
 
 ### Behavior
