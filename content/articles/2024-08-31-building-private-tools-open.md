@@ -17,8 +17,15 @@ But what if you want to obtain the benefits of developing in the open while keep
 ## Context and Applicability
 We have been developing tools like this. It works well, you just have to be careful on what gets committed where.
 ## How to
+Split the tool in two parts: the public part and the private part. This refers both to data and behavior (code).
+
+Each one is called a version: public version and private version.
+
 ### Data
+If the data has the same shape (between public and private versions), you can use the same repository to access it.
 #### Repository pattern to access data
+Use the repository pattern to access data. This is the same as for Production/Preproduction/Development environments. Each has a different database, but the code is the same.
+
 #### Same repository to access both data
 ### Behavior
 #### common interface to access both
