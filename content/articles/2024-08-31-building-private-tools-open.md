@@ -113,6 +113,8 @@ and you can execute it:
 python3 main.py ./private/data.py  
 ```
 
+Here, `./private/data.py` is the private version of the data. You can have a public version of the data, as well.
+
 Another example can be seen [here](https://github.com/alvarogarcia7/freemind-exporter-formatter/blob/master/main.py#L26)
 
 ## Tips and tricks
