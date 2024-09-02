@@ -56,7 +56,10 @@ The only difference is the data itself. Hence, you cannot reference titles, ids,
 that is private.
 
 A suggestion is to come up with a washed version of the data, where you replace the private information with a
-placeholder. Keep the same shape (e.g., `int`s are still `int`s, `str`s are still `str`s; length of data is similar).
+placeholder. Keep the same shape:
+
+* `int`s are still `int`s, `str`s are still `str`s
+* length of data is similar
 
 ### Behavior
 
