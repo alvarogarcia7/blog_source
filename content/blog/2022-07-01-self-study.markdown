@@ -24,6 +24,17 @@ title: Self-Study in July 2022
 url: /blog/2022/07/01/self-study-july-2022/
 ---
 
+## [Zetk: CLI utilities, fzf-based scripts, C++ lib for managing your Zettelkasten]()
+
+Zettelkasten notes implemented as a library with a set of CLI utils
+
+https://news.ycombinator.com/item?id=31969931
+
+Tags: zettelkasten, software, personal-knowledge, application, tool, cli, fzf, search, wiki, imported, hacker-news
+
+Id: 5017abd4-fb79-11ec-ad8c-0242ac110003
+Read: Sun Jul  3 18:38:57 2022
+
 ## [Show HN: C3 – A C alternative that looks like C]()
 
 
