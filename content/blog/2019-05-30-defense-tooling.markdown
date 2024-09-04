@@ -15,7 +15,7 @@ A quote (on a curriculum vitae) that I've enjoyed:
 > I am a firm believer in the value of tools, and often spend significant time at the beginning of a project developing tools specific to the needs of the project. This always pays off in the long run. I use tools to:
 > 
 > * Perform tasks not otherwise achievable
-> * Automate tedious/repetative processes
+> * Automate tedious/repetitive processes
 > * Simplify steps in the build/debug cycle
 > * Eliminate "human error" in scanning, translation etc.
 > * Access internal information easily and efficiently
