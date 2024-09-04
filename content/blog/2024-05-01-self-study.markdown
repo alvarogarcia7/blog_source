@@ -26,6 +26,17 @@ title: Self-Study in May 2024
 url: /blog/2024/05/01/self-study-may-2024/
 ---
 
+## [Should I use JWTs for authentication tokens?]()
+
+Do not use JWT (json Web Tokens) for authentication unless you are a Google/FAANG scale company
+
+https://news.ycombinator.com/item?id=40491694
+
+Tags: imported, hacker-news, json-web-token, jwt, faang, google, authentication, authentication-token, refresh-token, session-token, session-management
+
+Id: 38e9c55c-1cea-11ef-b78f-0242ac110003
+Read: Mon May 27 15:31:24 2024
+
 ## [How some good corporate engineering blogs are written (2020)](https://danluu.com/corp-eng-blogs/)
 
 
