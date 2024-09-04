@@ -19,6 +19,17 @@ https://news.ycombinator.com/item?id=30529727
 
 Tags: imported, hacker-news
 
+Id: 4ca532b2-c1a0-11ed-8343-0242ac110004
+Read: Wed Mar  2 17:10:32 2022
+
+## [Show HN: My Book Bulletproof TLS and PKI (Second Edition) Is Out]()
+
+
+
+https://news.ycombinator.com/item?id=30529727
+
+Tags: imported, hacker-news
+
 Id: 759a178c-c1a0-11ed-be9f-0242ac110004
 Read: Wed Mar  2 17:10:32 2022
 
