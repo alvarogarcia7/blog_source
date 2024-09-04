@@ -1,14 +1,15 @@
 ---
 categories:
 - self-study-aggregation
-- june
 - '2024'
+- june
 - advice
 - alawamiaz
 - amazon
 - anniversary
 - anti-pattern
 - aranchelk
+- architecture
 - arm
 - austen-allred
 - author
@@ -25,14 +26,20 @@ categories:
 - c
 - c-programming-language
 - cli
+- code-golf
+- community
+- company-culture
 - compiler
+- complexity
 - copy-paste-manager
 - crenshaw
 - cryptography
 - deception
 - deconstruction
 - dredmorbius
+- eaton-phil
 - efficiency
+- engagement
 - entropy
 - event
 - event-driven-architecture
@@ -55,6 +62,7 @@ categories:
 - guilherme-puida
 - gumroad
 - hackernews
+- handover
 - hardware
 - haskell
 - ikryanov
@@ -62,12 +70,14 @@ categories:
 - income
 - indentit
 - instruction-set
+- ioccc
 - isa
 - keyboard
 - killbuffer
 - lambda-school
 - lanfeust
 - lawsuit
+- lcamtuf
 - leak
 - leanpub
 - library
@@ -79,14 +89,19 @@ categories:
 - marcusbuffett
 - matt_d
 - mattrighetti
+- meetup
+- meetup-organization
 - memory-management
 - message-queue
 - metro
 - mtmk
 - mynameistrez
 - neon
+- nothacking_
 - one-time-use
 - optimization
+- organizing
+- organizing-meetup
 - passive-income
 - pattern
 - paulhoule
@@ -107,6 +122,8 @@ categories:
 - reflect-as-you-go
 - reflect-as-you-work
 - render
+- risk
+- risk-management
 - rob-pike
 - royalties
 - rust
@@ -119,13 +136,18 @@ categories:
 - sql
 - sriram-krishnan
 - static-array
+- sustained-effort
+- switch
 - synack
+- tech-meetup
 - technical-book
 - technical-debt
+- teleforce
 - todsacerdoti
 - token
 - tool
 - topic
+- tradeoff
 - trick
 - ui
 - university
@@ -144,6 +166,17 @@ title: Self-Study in June 2024
 url: /blog/2024/06/01/self-study-june-2024/
 ---
 
+## [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
+
+Crenshaw's tutorial on building a compiler
+
+https://news.ycombinator.com/item?id=36054416
+
+Tags: hackernews, imported, synack, compiler, crenshaw, brian-kernighan, rob-pike, programming, programming-language
+
+Id: 3b2e9382-1144-4cfe-bdaf-72b30e8c3712
+Read: Sat, 1 Jun 2024 09:14:25 +0000
+
 ## [Scientific glassblower continues century-old campus tradition (2021)](https://chemistry.berkeley.edu/news/scientific-glassblower-continues-century-old-campus-tradition)
 
 the story of a glassblower dedicated to producing specialized hardware for a university
@@ -154,6 +187,17 @@ Tags: hackernews, imported, dredmorbius, glassblower, university, hardware, prof
 
 Id: e07b0ed2-185b-4cf7-bdbe-a134c555d797
 Read: Sat, 01 Jun 2024 21:26:29 +0000
+
+## [Eight years of organizing tech meetups (2023)](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
+
+Discusses learnings after organizing tech meetups
+
+https://news.ycombinator.com/item?id=40557969
+
+Tags: hackernews, imported, luu, tech-meetup, meetup, organizing, organizing-meetup, meetup-organization, sustained-effort, community, engagement, eaton-phil
+
+Id: 12b95b34-da42-442b-b2d1-cd0039cc75c0
+Read: Sun, 02 Jun 2024 23:31:00 +0000
 
 ## [Half a century of SQL](https://www.theregister.com/2024/05/31/fifty_years_of_sql/)
 
@@ -242,6 +286,19 @@ Tags: vitalik-buterin, sriram-krishnan, group-chat, pattern, hackernews
 
 Id: 5e42cb33-8b5c-4f6a-973e-028b08c943a9
 Read: Fri Jun 14 06:18:05 2024
+
+## [Just Enough Software Architecture (2010)](https://www.georgefairbanks.com/book/)
+
+> project management risks: “Lead developer hit by bus”
+> software engineering risks: “The server may not scale to 1000 users”
+> You should distinguish them because engineering techniques rarely solve management risks, and vice versa.
+
+https://news.ycombinator.com/item?id=40691929
+
+Tags: hackernews, imported, teleforce, architecture, risk, risk-management, handover, company-culture, complexity, tradeoff
+
+Id: 63422b05-404c-4eae-89e3-ab50463c1a30
+Read: Sat, 15 Jun 2024 19:02:38 +0000
 
 ## [Static arrays are the best vectors](https://mynameistrez.github.io/2024/04/09/static-arrays-are-the-best-vectors.html)
 
@@ -375,5 +432,15 @@ Tags: hackernews, imported, raju, technical-book, publishing, writing, author, a
 Id: 2cba60b9-f190-4941-93c7-fdd805075601
 Read: Sat, 29 Jun 2024 13:26:46 +0000
 
+## [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
+
+How to use the goto, switch statements to modify the structure of a C program
+
+
+
+Tags: hackernews, imported, nothacking_, c-programming-language, c, switch, goto, code-golf, ioccc, lcamtuf
+
+Id: aa970bde-192c-485e-8a41-2022f69609ee
+Read: Sun, 30 Jun 2024 05:07:53 +0000
 
 
