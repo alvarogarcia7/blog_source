@@ -252,6 +252,17 @@ title: Self-Study in August 2024
 url: /blog/2024/08/01/self-study-august-2024/
 ---
 
+## [Breakthrough a step toward revealing hidden structure of prime numbers](https://www.science.org/content/article/sensational-breakthrough-marks-step-toward-revealing-hidden-structure-prime-numbers)
+
+
+
+https://news.ycombinator.com/item?id=41126944
+
+Tags: hackernews, imported, igitur, mathematics, math, prime-number, prime
+
+Id: 88d89b5c-5d23-4d59-84aa-1d612b111e6d
+Read: Thu, 01 Aug 2024 07:34:30 +0000
+
 ## [How I got my laser eye injury](https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/)
 
 
