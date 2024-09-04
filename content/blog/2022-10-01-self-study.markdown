@@ -106,6 +106,17 @@ title: Self-Study in October 2022
 url: /blog/2022/10/01/self-study-october-2022/
 ---
 
+## [The Art of Logging]()
+
+
+
+https://news.ycombinator.com/item?id=33054741
+
+Tags: imported, hacker-news
+
+Id: 02a22390-c1a1-11ed-b61a-0242ac110004
+Read: Sun Oct  2 10:42:15 2022
+
 ## [“Rust is safe” is not some kind of absolute guarantee of code safety]()
 
 
