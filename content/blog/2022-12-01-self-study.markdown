@@ -78,6 +78,17 @@ title: Self-Study in December 2022
 url: /blog/2022/12/01/self-study-december-2022/
 ---
 
+## [CCache: a fast c/c++ compiler cache](https://ccache.dev/)
+
+Related to 027d6f8a-714e-11ed-869a-0242ac110003
+
+
+
+Tags: tool, cache, compilation-cache, optimization, speedup, c, cpp, c++, gcc, clang
+
+Id: f2423a38-714d-11ed-92b4-0242ac110003
+Read: Thu, 01 Dec 2022 07:58:30 +0000
+
 ## [CATS: OpenAPI fuzzing and test generation tool](https://github.com/Endava/cats)
 
 
