@@ -5,6 +5,7 @@ categories:
 - dave-dunfield
 - quote
 - curriculum
+- efficiency
 date: 2019-05-30T00:32:19Z
 title: In Defense of Tooling
 url: /blog/2019/05/30/defense-tooling/
