@@ -36,6 +36,17 @@ title: Self-Study in March 2023
 url: /blog/2023/03/01/self-study-march-2023/
 ---
 
+## [Emacs is not just an editor (2015)]()
+
+An overview of Emacs as compared to vim (just an editor).
+
+https://news.ycombinator.com/item?id=35107806
+
+Tags: emacs, vim, editor, operating-system, platform, lisp, ide, macro, doom-emacs, doom, imported, hacker-news
+
+Id: 03d88f06-c197-11ed-a96e-0242ac110004
+Read: Sat Mar 11 12:37:03 2023
+
 ## [CS 6120: Advanced Compilers: The Self-Guided Online Course]()
 
 An interesting course from Cornell about Compilers. Self-paced.
