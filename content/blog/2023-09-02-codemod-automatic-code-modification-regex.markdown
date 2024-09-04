@@ -10,6 +10,7 @@ comments: true
 date: 2023-09-02T11:31:52+04:00
 title: 'Codemod: Helps you with large-scale rewrites that require human oversight.'
 url: /blog/2023/09/02/codemod-automatic-code-modification-regex/
+published: false
 ---
 
 ## Introduction
