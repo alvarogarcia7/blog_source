@@ -55,6 +55,17 @@ title: Self-Study in January 2023
 url: /blog/2023/01/01/self-study-january-2023/
 ---
 
+## [Show HN: I built Haystack – your own google for scattered workplace knowledge]()
+
+
+
+https://news.ycombinator.com/item?id=34218724
+
+Tags: tool, index, note, knowledge-base, haystack, privacy, neural-network, imported, hacker-news
+
+Id: 0fb5be84-8b37-11ed-b09f-0242ac110003
+Read: Mon Jan  2 15:14:13 2023
+
 ## [Extending Python with Rust](https://maxwellrules.com/programming/rusty-python.html)
 
 
