@@ -81,6 +81,17 @@ title: Self-Study in August 2022
 url: /blog/2022/08/01/self-study-august-2022/
 ---
 
+## [A Tutorial on Portable Makefiles (2017)]()
+
+
+
+https://news.ycombinator.com/item?id=32303193
+
+Tags: imported, hacker-news
+
+Id: a4860376-c1a0-11ed-ae57-0242ac110004
+Read: Mon Aug  1 07:43:01 2022
+
 ## [Software engineering books]()
 
 
