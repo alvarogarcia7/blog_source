@@ -307,6 +307,17 @@ title: Self-Study in July 2024
 url: /blog/2024/07/01/self-study-july-2024/
 ---
 
+## [Managing projects with GNU Make, Third Edition](http://uploads.mitechie.com/books/Managing_Projects_with_GNU_Make_Third_Edition.pdf )
+
+book about GNU Make, with recipes and going into detail about how to use it
+
+
+
+Tags: book, make, gnu-make, project, skeleton, ci, continuous-integration
+
+Id: 028b0e1f-a181-4469-8789-900ce6641d97
+Read: Sun, 01 Jul 2024 17:22:52 +0000
+
 ## [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
 
 a tool to diff pdfs visually
