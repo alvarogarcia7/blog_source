@@ -14,7 +14,7 @@ title: Python 3 Boilerplate for Non-Productive environments (e.g., Kata, Study)
 url: /blog/2024/07/28/python-3-boilerplate/
 ---
 
-I have created a Python 3 boilerplate for non-productive environments. It can be found here: [https://github.com/alvarogarcia7/python-boilerplate]() 
+I have created a Python 3 boilerplate for non-productive environments. It can be found here: <https://github.com/alvarogarcia7/python-boilerplate>
 
 ## Main features
 Its main features are:
