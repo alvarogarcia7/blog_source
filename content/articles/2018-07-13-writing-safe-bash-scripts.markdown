@@ -99,10 +99,14 @@ Usage:
 
 ### Options for executing / Header
 
+#### Basic options
+
 add these options:
 
 ```bash
-set -euxo pipefail
+set -ufeo pipefail
+set -x
+# Normally, x is removed once the script is finished
 ```
 
 These can be added anywhere, but I usually add them after the shebang (the beginning of the script)
@@ -115,6 +119,7 @@ a brief note:
 
   * `set -e` stops the execution if a command fails (this is the default behavior in `make`)
   * `set -u`: Treat unset variables and parameters other than the special parameters ‘@’ or ‘*’ as an error when performing parameter expansion. An error message will be written to the standard error, and a non-interactive shell will exit.
+  * `set -f`: disable globbing. Disable file name generation (globbing) [source](https://linuxcommand.org/lc3_man_pages/seth.html).
   * `set -x`: debug. Trace the commands on the console
   * `set -o pipefail`: make the pipe command fail if any of the commands in the pipe fail. 
     * Example: with this option disabled, `a|b|c` when `a` fails, b will execute, the return value will be the one of `b`
@@ -125,12 +130,51 @@ If you want to use a try...catch pattern, disable `-e` temporarily:
 ```bash
 set +e # 1
 ls NON_EXISTING_FILE # 2
-set -e # 3
+error_code=$? # 3
+set -e # 4
 ```
 
   * 1: Disable error-checking. Note this is a plus (+) sign
   * 2: a command that could fail. As the error checking is disabled, the execution continues even if 2 throws an error. Therefore, the exception is swallowed.
-  * 3: Enable error-checking again
+  * 3: capture the previous return code. This must be done immediately after the previous execution. Cannot perform `set -e` before, as that would override the return code.
+  * 4: Enable error-checking again
+
+#### Advanced Options
+
+```bash
+set -ufeo pipefail # 0
+
+OLD_IFS="$IFS" # 1
+IFS=$'\n\t'
+function finish { # 2
+  IFS="$OLD_IFS"
+}
+trap finish EXIT # 3
+
+function error_ { # 4
+  local program_name="$1"
+  local error_code="$2"
+  local line_no="$3"
+  local bash_command="$4"
+
+  echo "$program_name: Error on line "$line_no": $bash_command"
+  echo "Return code: $error_code"
+  echo "Full line: '$(sed -n "${line_no}p" $program_name)'"
+  exit $error_code
+}
+
+trap 's=$?; error_ $0 $s $LINENO $BASH_COMMAND' ERR # 5
+
+shopt -s globstar # 6
+```
+
+  * 0: Same as the basic options
+  * 1: Keep a copy of IFS, for replacing it later
+  * 2: Function to revert IFS
+  * 3: `trap` (hook) this behavior on `EXIT` (source)[https://man7.org/linux/man-pages/man1/trap.1p.html]
+  * 4: function to debug the failing bash script
+  * 5: `trap` on `ERR`: inject return code (`s=$?`), line number, bash command.
+  * 6: set option globstar (source)[https://linuxcommand.org/lc3_man_pages/shopth.html]
 
 ### Debugging
 
