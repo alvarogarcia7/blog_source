@@ -22,7 +22,8 @@ Its main features are:
 2. It has a [Makefile](https://github.com/alvarogarcia7/python-boilerplate/blob/master/Makefile) with the most common commands to drive the project. Also, other makefiles in [this folder](https://github.com/alvarogarcia7/python-boilerplate/tree/master/makefiles)
 3. Batteries included: mypy, pytest, pre-commit.
 4. Permissive license: MIT. The updated version is [here](https://github.com/alvarogarcia7/python-boilerplate/blob/master/LICENSE)
-5. Currently, it is using python 3.12
+5. Currently, it is using python 3.13
+6. Uses [`uv`](https://docs.astral.sh/uv/) to manage dependencies and project
 
 ## Usage
 
