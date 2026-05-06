@@ -57,6 +57,11 @@ articles = "/:section/:year/:month/:day/:title/"
 	weight = 30
 
 [[menu.main]]
+	Name = "GenAI Policy"
+	URL = "/blog/genai-policy/"
+	weight = 35
+
+[[menu.main]]
 	Name = "About"
 	URL = "/blog/about/"
 	weight = 40
